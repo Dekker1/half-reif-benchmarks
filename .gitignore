@@ -1,0 +1,16 @@
+# MiniZinc
+
+*.fzn
+*.ozn
+*.mzp
+
+# Python
+
+venv/
+__pycache__
+*.py[cod]
+*$py.class
+
+# Software
+
+software/install
