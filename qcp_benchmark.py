@@ -3,7 +3,7 @@ from pathlib import Path
 
 import minizinc
 
-from minizinc_slurm import Configuration, schedule
+from mzn_bench import Configuration, schedule
 
 schedule(
     instances=Path("./qcp_max.csv"),

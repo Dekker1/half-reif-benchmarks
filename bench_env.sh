@@ -9,7 +9,7 @@ if [ -d venv ]; then
 else
     python3 -m venv venv
     source venv/bin/activate
-    python3 -m pip install git+https://github.com/Dekker1/minizinc-slurm
+    python3 -m pip install mzn-bench
 fi
 
 # Set other environment variables and load cluster modules
