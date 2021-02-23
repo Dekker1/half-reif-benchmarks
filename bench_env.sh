@@ -13,6 +13,13 @@ else
 fi
 
 # Set other environment variables and load cluster modules
+module load Bison
+module load CMake
+module load Cbc/2.10.5-foss-2020a
+module load flex
+module load Gecode/431520083a51fc2f31c22fbc7b0378e7a1588e42-GCCcore-9.3.0
+module load Gurobi/9.1.0
+
 cmake -S software/minizinc -B software/minizinc/build -DCMAKE_INSTALL_PREFIX=`pwd`/software/install/
 cmake --build software/minizinc/build --config Release --target install
 cmake -S software/chuffed -B software/chuffed/build -DCMAKE_INSTALL_PREFIX=`pwd`/software/install/
