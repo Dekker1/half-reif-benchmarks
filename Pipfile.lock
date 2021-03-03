@@ -1,0 +1,51 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "ffdf6e44ee3ff9d9441b7615df72290cfdfec7277ccd294c2af6bec35609aa42"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "click": {
+            "hashes": [
+                "sha256:d2b5255c7c6349bc1bd1e59e08cd12acbbd63ce649f2588755783aa94dfb6b1a",
+                "sha256:dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
+            "version": "==7.1.2"
+        },
+        "minizinc": {
+            "hashes": [
+                "sha256:c0e5fae557df0b757bbe4dbec70f7b033b2acc0acabea213e3bbcb0b41d8efeb",
+                "sha256:d4327468b7cdc1b1379c6fa50350393d2d0903ac1be55235f534992b4f7b2538"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==0.4.2"
+        },
+        "mzn-bench": {
+            "extras": [
+                "scripts"
+            ],
+            "git": "https://github.com/MiniZinc/mzn-bench",
+            "ref": "8b6ffa69aa6f8a21a68865975832d9994a49579a"
+        },
+        "ruamel.yaml": {
+            "hashes": [
+                "sha256:012b9470a0ea06e4e44e99e7920277edf6b46eee0232a04487ea73a7386340a5",
+                "sha256:076cc0bc34f1966d920a49f18b52b6ad559fbe656a0748e3535cf7b3f29ebf9e"
+            ],
+            "version": "==0.16.12"
+        }
+    },
+    "develop": {}
+}

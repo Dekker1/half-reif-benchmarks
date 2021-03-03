@@ -9,7 +9,7 @@ if [ -d venv ]; then
 else
     python3 -m venv venv
     source venv/bin/activate
-    python3 -m pip install mzn-bench
+    python3 -m pip install git+https://github.com/Dekker1/mzn-bench.git@fix/env_size
 fi
 
 # Set other environment variables and load cluster modules
@@ -26,4 +26,4 @@ cmake -S software/chuffed -B software/chuffed/build -DCMAKE_INSTALL_PREFIX=`pwd`
 cmake --build software/chuffed/build --config Release --target install
 
 export PATH=`pwd`/software/install/bin:$PATH
-export LD_LIBRARY_PATH=`pwd`/software/install/bin:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=`pwd`/software/install/lib:$LD_LIBRARY_PATH

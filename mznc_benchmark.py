@@ -9,13 +9,26 @@ schedule(
     instances=Path("./mznc_instances.csv"),
     timeout=timedelta(minutes=20),
     configurations=[
-        Configuration("Gecode", solver=minizinc.Solver.lookup("gecode"), other_flags={"no-half-reifications": True, "no-chain-compression": True}),
+        Configuration(
+            "Gecode",
+            solver=minizinc.Solver.lookup("gecode"),
+            other_flags={"no-half-reifications": True, "no-chain-compression": True},
+        ),
         Configuration("Gecode HR", solver=minizinc.Solver.lookup("gecode")),
-        Configuration("Gurobi", solver=minizinc.Solver.lookup("gecode"), other_flags={"no-half-reifications": True, "no-chain-compression": True}),
+        Configuration(
+            "Gurobi",
+            solver=minizinc.Solver.lookup("gurobi"),
+            other_flags={"no-half-reifications": True, "no-chain-compression": True},
+        ),
         Configuration("Gurobi HR", solver=minizinc.Solver.lookup("gurobi")),
-        Configuration("CBC", solver=minizinc.Solver.lookup("cbc"), other_flags={"no-half-reifications": True, "no-chain-compression": True}),
+        Configuration(
+            "CBC",
+            solver=minizinc.Solver.lookup("cbc"),
+            other_flags={"no-half-reifications": True, "no-chain-compression": True},
+        ),
         Configuration("CBC HR", solver=minizinc.Solver.lookup("cbc")),
     ],
+    memory=16384,
     nodelist=["critical001"],
     output_dir=Path("./output/mznc/"),
 )
