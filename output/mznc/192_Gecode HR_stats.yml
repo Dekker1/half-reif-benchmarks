@@ -1,0 +1,16 @@
+configuration: Gecode HR
+data_file: data/mznc2020/code-generator/mips_pgp.crypto.encryptfile.dzn
+eliminatedImplications: 6440
+evaluatedHalfReifiedConstraints: 202360
+evaluatedReifiedConstraints: 36136
+flatBoolConstraints: 72095
+flatBoolVars: 230244
+flatIntConstraints: 271786
+flatIntVars: 39717
+flatTime: 70.101
+method: minimize
+model: data/mznc2020/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1201.602616660297

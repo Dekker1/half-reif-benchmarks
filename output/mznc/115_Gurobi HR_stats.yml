@@ -1,0 +1,19 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/stable-goods/s-d8.dzn
+evaluatedHalfReifiedConstraints: 4069
+evaluatedReifiedConstraints: 543
+flatIntConstraints: 13554
+flatIntVars: 13146
+flatTime: 4.35311
+method: maximize
+model: data/mznc2020/stable-goods/stable-goods-solution.mzn
+nSolutions: 1
+nodes: 25580
+objective: 11777
+objectiveBound: 12417.1032264
+openNodes: 7499
+paths: 0
+problem: stable-goods
+solveTime: 1195.6437
+status: SATISFIED
+time: 1200.792572259903

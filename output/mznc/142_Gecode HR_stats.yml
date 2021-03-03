@@ -1,0 +1,27 @@
+configuration: Gecode HR
+data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+evaluatedHalfReifiedConstraints: 12
+evaluatedReifiedConstraints: 597
+failures: 26467026
+flatBoolConstraints: 294
+flatBoolVars: 897
+flatIntConstraints: 1006
+flatIntVars: 397
+flatTime: 0.114521
+initTime: 0.009073
+method: minimize
+model: data/mznc2020/cable_tree_wiring/ctw.mzn
+nSolutions: 98
+nodes: 52935389
+objective: 24104
+paths: 0
+peakDepth: 50
+problem: cable_tree_wiring
+propagations: 13107661898
+propagators: 1300
+restarts: 0
+solutions: 98
+solveTime: 1199.88
+status: SATISFIED
+time: 1200.0797828398645
+variables: 1294

@@ -1,0 +1,15 @@
+configuration: Gecode HR
+data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_3m_3.dzn
+evaluatedHalfReifiedConstraints: 5989
+evaluatedReifiedConstraints: 68705
+flatBoolConstraints: 103359
+flatBoolVars: 177264
+flatIntConstraints: 143530
+flatIntVars: 69891
+flatTime: 7.62764
+method: minimize
+model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
+paths: 0
+problem: skill-allocation
+status: UNKNOWN
+time: 1201.2728059198707

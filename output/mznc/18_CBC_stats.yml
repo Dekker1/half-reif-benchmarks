@@ -1,0 +1,17 @@
+configuration: CBC
+data_file: data/mznc2019/triangular/n10.dzn
+flatIntConstraints: 496
+flatIntVars: 56
+flatTime: 0.080471
+method: maximize
+model: data/mznc2019/triangular/triangular.mzn
+nSolutions: 1
+nodes: 74504
+objective: 20
+objectiveBound: 20
+openNodes: -1
+paths: 0
+problem: triangular
+solveTime: 180.6613
+status: OPTIMAL_SOLUTION
+time: 180.80682181566954

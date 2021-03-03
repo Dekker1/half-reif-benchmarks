@@ -1,0 +1,14 @@
+configuration: CBC HR
+data_file: data/mznc2019/lot-sizing/pigment15d.psp.dzn
+evaluatedHalfReifiedConstraints: 168
+evaluatedReifiedConstraints: 639
+flatBoolVars: 180
+flatIntConstraints: 1193
+flatIntVars: 3395
+flatTime: 0.366021
+method: minimize
+model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+paths: 0
+problem: lot-sizing
+status: UNKNOWN
+time: 1201.1425662450492

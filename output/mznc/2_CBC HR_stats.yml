@@ -1,0 +1,19 @@
+configuration: CBC HR
+data_file: data/mznc2019/amaze/2012-07-13.dzn
+evaluatedHalfReifiedConstraints: 585
+evaluatedReifiedConstraints: 1632
+flatIntConstraints: 3506
+flatIntVars: 2703
+flatTime: 0.608288
+method: satisfy
+model: data/mznc2019/amaze/amaze3.mzn
+nSolutions: 0
+nodes: 11899
+objective: 1e+308
+objectiveBound: 0
+openNodes: -1
+paths: 0
+problem: amaze
+solveTime: 1196.9424
+status: UNKNOWN
+time: 1197.7366027813405

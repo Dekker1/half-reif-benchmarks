@@ -1,0 +1,21 @@
+configuration: CBC HR
+data_file: data/mznc2020/collaborative-construction/46.dzn
+eliminatedLinearConstraints: 5
+evaluatedHalfReifiedConstraints: 3534
+evaluatedReifiedConstraints: 14766
+flatBoolVars: 4892
+flatIntConstraints: 84494
+flatIntVars: 34435
+flatTime: 14.1563
+method: minimize
+model: data/mznc2020/collaborative-construction/macc.mzn
+nSolutions: 0
+nodes: 447
+objective: 1e+308
+objectiveBound: 5.9997545128
+openNodes: -1
+paths: 0
+problem: collaborative-construction
+solveTime: 894.5623
+status: UNKNOWN
+time: 911.9368104282767

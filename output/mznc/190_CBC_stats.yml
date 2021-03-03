@@ -1,0 +1,12 @@
+configuration: CBC
+data_file: data/mznc2020/whirlpool/d12.dzn
+evaluatedReifiedConstraints: 624
+flatIntConstraints: 2060
+flatIntVars: 21882
+flatTime: 1.63625
+method: satisfy
+model: data/mznc2020/whirlpool/whirlpool-x.mzn
+paths: 0
+problem: whirlpool
+status: UNKNOWN
+time: 1201.0784486923367

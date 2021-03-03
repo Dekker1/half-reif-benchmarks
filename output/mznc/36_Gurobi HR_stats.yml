@@ -1,0 +1,19 @@
+configuration: Gurobi HR
+data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+evaluatedHalfReifiedConstraints: 196
+evaluatedReifiedConstraints: 729
+flatBoolVars: 210
+flatIntConstraints: 1294
+flatIntVars: 4265
+flatTime: 0.453376
+method: minimize
+model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+nSolutions: 1
+nodes: 16084
+objective: 1195
+objectiveBound: 1195
+paths: 0
+problem: lot-sizing
+solveTime: 467.7379
+status: OPTIMAL_SOLUTION
+time: 468.3796690739691

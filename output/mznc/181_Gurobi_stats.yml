@@ -1,0 +1,12 @@
+configuration: Gurobi
+data_file: data/mznc2020/racp/j60_48_9_1.0.dzn
+evaluatedReifiedConstraints: 36248
+flatIntConstraints: 119254
+flatIntVars: 50513
+flatTime: 20.0024
+method: minimize
+model: data/mznc2020/racp/racp.mzn
+paths: 0
+problem: racp
+status: UNKNOWN
+time: 1201.2461769934744

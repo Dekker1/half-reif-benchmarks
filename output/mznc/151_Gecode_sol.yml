@@ -1,0 +1,2 @@
+- {configuration: Gecode, data_file: data/mznc2020/p1f-pjs/17.dzn, model: data/mznc2020/p1f-pjs/p1f-pjs.mzn,
+  problem: p1f-pjs, status: UNSATISFIABLE, time: 558.16}

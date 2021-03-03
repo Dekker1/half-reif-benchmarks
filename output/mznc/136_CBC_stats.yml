@@ -1,0 +1,13 @@
+configuration: CBC
+data_file: data/mznc2020/pillars-and-planks/p-d12.dzn
+evaluatedReifiedConstraints: 994
+flatBoolVars: 14
+flatIntConstraints: 3626
+flatIntVars: 1487
+flatTime: 0.563102
+method: minimize
+model: data/mznc2020/pillars-and-planks/pillars-planks-solution.mzn
+paths: 0
+problem: pillars-and-planks
+status: UNKNOWN
+time: 1201.1212144829333

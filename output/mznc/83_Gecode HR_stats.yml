@@ -1,0 +1,25 @@
+configuration: Gecode HR
+data_file: data/mznc2019/rotating-workforce/Example1370.dzn
+evaluatedReifiedConstraints: 327
+failures: 15670638
+flatBoolConstraints: 118
+flatBoolVars: 445
+flatIntConstraints: 1048
+flatIntVars: 864
+flatTime: 0.055032
+initTime: 0.007672
+method: satisfy
+model: data/mznc2019/rotating-workforce/rotating-workforce.mzn
+nSolutions: 0
+nodes: 31341342
+paths: 0
+peakDepth: 104
+problem: rotating-workforce
+propagations: 6756115986
+propagators: 1090
+restarts: 0
+solutions: 0
+solveTime: 1199.94
+status: UNKNOWN
+time: 1200.0723004955798
+variables: 1312

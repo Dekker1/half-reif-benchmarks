@@ -1,0 +1,4556 @@
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 463, 4475, 191683, 9043, 443068]
+    objective: 847063
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 0
+    poAct1: 0
+    poAct2: 8
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.14
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 463, 4338, 191683, 9043, 443068]
+    objective: 842900
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 0
+    poAct1: 0
+    poAct2: 10
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.14
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 463, 4545, 191683, 9043, 443068]
+    objective: 835187
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 0
+    poAct1: 0
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 85, 4545, 191683, 9043, 443068]
+    objective: 832697
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 0
+    poAct1: 2
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 873, 4545, 191683, 9043, 443068]
+    objective: 829657
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 0
+    poAct1: 4
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 695, 4545, 191683, 9043, 443068]
+    objective: 827763
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 0
+    poAct1: 6
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [85, 873, 4545, 191683, 9043, 443068]
+    objective: 827167
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 2
+    poAct1: 4
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [85, 695, 4545, 191683, 9043, 443068]
+    objective: 825273
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 2
+    poAct1: 6
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 873, 4545, 191683, 9043, 443068]
+    objective: 824127
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 4
+    poAct1: 4
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 695, 4545, 191683, 9043, 443068]
+    objective: 822233
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 4
+    poAct1: 6
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 695, 4545, 191683, 9043, 443068]
+    objective: 820339
+    piPort: 1
+    piWeek: [2, 4, 6, 3, 7, 5]
+    poAct0: 6
+    poAct1: 6
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2359, 2359, 590, 191683, 9043, 443068]
+    objective: 816808
+    piPort: 1
+    piWeek: [4, 6, 8, 3, 7, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 18
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2359, 2359, 506, 191683, 9043, 443068]
+    objective: 814018
+    piPort: 1
+    piWeek: [4, 6, 8, 3, 7, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 19
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 463, 4475, 4670, 9043, 443068]
+    objective: 660050
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 0
+    poAct1: 0
+    poAct2: 8
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 463, 4338, 4670, 9043, 443068]
+    objective: 655887
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 0
+    poAct1: 0
+    poAct2: 10
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 463, 4545, 4670, 9043, 443068]
+    objective: 648174
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 0
+    poAct1: 0
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 85, 4545, 4670, 9043, 443068]
+    objective: 645684
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 0
+    poAct1: 2
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 873, 4545, 4670, 9043, 443068]
+    objective: 642644
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 0
+    poAct1: 4
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [463, 695, 4545, 4670, 9043, 443068]
+    objective: 640750
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 0
+    poAct1: 6
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [85, 873, 4545, 4670, 9043, 443068]
+    objective: 640154
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 2
+    poAct1: 4
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [85, 695, 4545, 4670, 9043, 443068]
+    objective: 638260
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 2
+    poAct1: 6
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 873, 4545, 4670, 9043, 443068]
+    objective: 637114
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 4
+    poAct1: 4
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 695, 4545, 4670, 9043, 443068]
+    objective: 635220
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 4
+    poAct1: 6
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 695, 4545, 4670, 9043, 443068]
+    objective: 633326
+    piPort: 1
+    piWeek: [2, 3, 6, 4, 7, 5]
+    poAct0: 6
+    poAct1: 6
+    poAct2: 12
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 695, 506, 4670, 9043, 443068]
+    objective: 632389
+    piPort: 1
+    piWeek: [9, 6, 8, 4, 7, 5]
+    poAct0: 7
+    poAct1: 6
+    poAct2: 19
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [85, 2359, 590, 4670, 9043, 443068]
+    objective: 631877
+    piPort: 1
+    piWeek: [9, 6, 8, 4, 7, 5]
+    poAct0: 3
+    poAct1: 8
+    poAct2: 18
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 2359, 590, 4670, 9043, 443068]
+    objective: 628837
+    piPort: 1
+    piWeek: [9, 6, 8, 4, 7, 5]
+    poAct0: 5
+    poAct1: 8
+    poAct2: 18
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 2359, 590, 4670, 9043, 443068]
+    objective: 626943
+    piPort: 1
+    piWeek: [9, 6, 8, 4, 7, 5]
+    poAct0: 7
+    poAct1: 8
+    poAct2: 18
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 2359, 506, 4670, 9043, 443068]
+    objective: 626047
+    piPort: 1
+    piWeek: [9, 6, 8, 4, 7, 5]
+    poAct0: 5
+    poAct1: 8
+    poAct2: 19
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 2359, 506, 4670, 9043, 443068]
+    objective: 624153
+    piPort: 1
+    piWeek: [9, 6, 8, 4, 7, 5]
+    poAct0: 7
+    poAct1: 8
+    poAct2: 19
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 695, 506, 4338, 9043, 443068]
+    objective: 623147
+    piPort: 1
+    piWeek: [3, 4, 8, 6, 7, 5]
+    poAct0: 6
+    poAct1: 6
+    poAct2: 19
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2359, 695, 590, 4475, 9043, 443068]
+    objective: 621864
+    piPort: 1
+    piWeek: [4, 3, 8, 6, 7, 5]
+    poAct0: 8
+    poAct1: 6
+    poAct2: 18
+    poAct3: 6
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2359, 873, 590, 4338, 9043, 443068]
+    objective: 619595
+    piPort: 1
+    piWeek: [4, 3, 8, 6, 7, 5]
+    poAct0: 8
+    poAct1: 4
+    poAct2: 18
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2359, 695, 590, 4338, 9043, 443068]
+    objective: 617701
+    piPort: 1
+    piWeek: [4, 3, 8, 6, 7, 5]
+    poAct0: 8
+    poAct1: 6
+    poAct2: 18
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2359, 873, 506, 4338, 9043, 443068]
+    objective: 616805
+    piPort: 1
+    piWeek: [4, 3, 8, 6, 7, 5]
+    poAct0: 8
+    poAct1: 4
+    poAct2: 19
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2359, 695, 506, 4338, 9043, 443068]
+    objective: 614911
+    piPort: 1
+    piWeek: [4, 3, 8, 6, 7, 5]
+    poAct0: 8
+    poAct1: 6
+    poAct2: 19
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 695, 506, 4338, 9043, 443068]
+    objective: 613953
+    piPort: 1
+    piWeek: [9, 4, 8, 6, 7, 5]
+    poAct0: 5
+    poAct1: 6
+    poAct2: 19
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 695, 506, 4338, 9043, 443068]
+    objective: 612059
+    piPort: 1
+    piWeek: [9, 4, 8, 6, 7, 5]
+    poAct0: 7
+    poAct1: 6
+    poAct2: 19
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 873, 590, 4475, 9043, 443068]
+    objective: 611712
+    piPort: 1
+    piWeek: [9, 10, 8, 6, 7, 5]
+    poAct0: 5
+    poAct1: 5
+    poAct2: 18
+    poAct3: 6
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 695, 590, 4475, 9043, 443068]
+    objective: 609818
+    piPort: 1
+    piWeek: [9, 10, 8, 6, 7, 5]
+    poAct0: 5
+    poAct1: 7
+    poAct2: 18
+    poAct3: 6
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 695, 590, 4475, 9043, 443068]
+    objective: 607924
+    piPort: 1
+    piWeek: [9, 10, 8, 6, 7, 5]
+    poAct0: 7
+    poAct1: 7
+    poAct2: 18
+    poAct3: 6
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 873, 590, 4338, 9043, 443068]
+    objective: 607549
+    piPort: 1
+    piWeek: [9, 10, 8, 6, 7, 5]
+    poAct0: 5
+    poAct1: 5
+    poAct2: 18
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 695, 590, 4338, 9043, 443068]
+    objective: 605655
+    piPort: 1
+    piWeek: [9, 10, 8, 6, 7, 5]
+    poAct0: 5
+    poAct1: 7
+    poAct2: 18
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 695, 590, 4338, 9043, 443068]
+    objective: 603761
+    piPort: 1
+    piWeek: [9, 10, 8, 6, 7, 5]
+    poAct0: 7
+    poAct1: 7
+    poAct2: 18
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 695, 506, 4338, 9043, 443068]
+    objective: 602865
+    piPort: 1
+    piWeek: [9, 10, 8, 6, 7, 5]
+    poAct0: 5
+    poAct1: 7
+    poAct2: 19
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 695, 506, 4338, 9043, 443068]
+    objective: 600971
+    piPort: 1
+    piWeek: [9, 10, 8, 6, 7, 5]
+    poAct0: 7
+    poAct1: 7
+    poAct2: 19
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 2359, 590, 392, 9043, 443068]
+    objective: 600073
+    piPort: 1
+    piWeek: [9, 6, 8, 10, 7, 5]
+    poAct0: 5
+    poAct1: 8
+    poAct2: 18
+    poAct3: 20
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 2359, 590, 392, 9043, 443068]
+    objective: 598179
+    piPort: 1
+    piWeek: [9, 6, 8, 10, 7, 5]
+    poAct0: 7
+    poAct1: 8
+    poAct2: 18
+    poAct3: 20
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 2359, 506, 392, 9043, 443068]
+    objective: 597283
+    piPort: 1
+    piWeek: [9, 6, 8, 10, 7, 5]
+    poAct0: 5
+    poAct1: 8
+    poAct2: 19
+    poAct3: 20
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 2359, 506, 392, 9043, 443068]
+    objective: 595389
+    piPort: 1
+    piWeek: [9, 6, 8, 10, 7, 5]
+    poAct0: 7
+    poAct1: 8
+    poAct2: 19
+    poAct3: 20
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 35, 35, 6562, 317094]
+    objective: 593572
+    piPort: 6
+    piWeek: [6, 7, 8, 9, 10, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 13
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 35, 4, 6562, 317094]
+    objective: 591759
+    piPort: 6
+    piWeek: [6, 7, 8, 9, 10, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 13
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 35, 0, 6562, 317094]
+    objective: 590831
+    piPort: 6
+    piWeek: [6, 7, 8, 9, 10, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 13
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 4, 4, 6562, 317094]
+    objective: 589946
+    piPort: 6
+    piWeek: [6, 7, 8, 9, 10, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 14
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 4, 0, 6562, 317094]
+    objective: 589018
+    piPort: 6
+    piWeek: [6, 7, 8, 9, 10, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 14
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 0, 0, 6562, 317094]
+    objective: 588090
+    piPort: 6
+    piWeek: [6, 7, 8, 9, 10, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 15
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 4639, 4469, 4, 6562, 317094]
+    objective: 586433
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 0
+    poAct1: 8
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 4639, 4469, 0, 6562, 317094]
+    objective: 585505
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 0
+    poAct1: 8
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4714, 4639, 4469, 4, 6562, 317094]
+    objective: 584322
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 2
+    poAct1: 8
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4714, 4639, 4469, 0, 6562, 317094]
+    objective: 583394
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 2
+    poAct1: 8
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 4639, 4469, 35, 6562, 317094]
+    objective: 582149
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 4
+    poAct1: 8
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 4639, 4469, 4, 6562, 317094]
+    objective: 580336
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 4
+    poAct1: 8
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 4639, 4469, 0, 6562, 317094]
+    objective: 579408
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 4
+    poAct1: 8
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4514, 4639, 4469, 4, 6562, 317094]
+    objective: 578578
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 6
+    poAct1: 8
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4514, 4639, 4469, 0, 6562, 317094]
+    objective: 577650
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 6
+    poAct1: 8
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 4469, 647, 6562, 317094]
+    objective: 577036
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 16
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 4469, 35, 6562, 317094]
+    objective: 570616
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 4469, 4, 6562, 317094]
+    objective: 568803
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 4469, 0, 6562, 317094]
+    objective: 567875
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 4639, 4, 6562, 317094]
+    objective: 566729
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4639, 4639, 0, 6562, 317094]
+    objective: 565801
+    piPort: 6
+    piWeek: [6, 7, 10, 8, 9, 5]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4204, 4, 4, 6562, 317094]
+    objective: 565223
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 8
+    poAct1: 10
+    poAct2: 14
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4204, 4, 0, 6562, 317094]
+    objective: 564295
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 8
+    poAct1: 10
+    poAct2: 14
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4204, 0, 0, 6562, 317094]
+    objective: 563367
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 8
+    poAct1: 10
+    poAct2: 15
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4, 4, 6562, 317094]
+    objective: 563123
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 14
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4, 0, 6562, 317094]
+    objective: 562195
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 14
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 0, 0, 6562, 317094]
+    objective: 561267
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 15
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4514, 2121, 4, 0, 6562, 317094]
+    objective: 560437
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 6
+    poAct1: 11
+    poAct2: 14
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4514, 2121, 0, 0, 6562, 317094]
+    objective: 559509
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 6
+    poAct1: 11
+    poAct2: 15
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 647, 0, 6562, 317094]
+    objective: 558895
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 12
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 35, 35, 6562, 317094]
+    objective: 555216
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 13
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 35, 4, 6562, 317094]
+    objective: 553403
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 13
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 35, 0, 6562, 317094]
+    objective: 552475
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 13
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4, 4, 6562, 317094]
+    objective: 551590
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 14
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4, 0, 6562, 317094]
+    objective: 550662
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 14
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 0, 0, 6562, 317094]
+    objective: 549734
+    piPort: 6
+    piWeek: [6, 9, 7, 8, 10, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 15
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4204, 4469, 35, 6562, 317094]
+    objective: 545893
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 10
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4204, 4469, 4, 6562, 317094]
+    objective: 544080
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 10
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4204, 4469, 0, 6562, 317094]
+    objective: 543152
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 10
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4204, 4639, 4, 6562, 317094]
+    objective: 542006
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 10
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 4204, 4639, 0, 6562, 317094]
+    objective: 541078
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 10
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4469, 0, 6562, 317094]
+    objective: 541052
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4514, 2121, 4469, 4, 6562, 317094]
+    objective: 540222
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 6
+    poAct1: 11
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4514, 2121, 4469, 0, 6562, 317094]
+    objective: 539294
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 6
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4469, 647, 6562, 317094]
+    objective: 538680
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 16
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4469, 35, 6562, 317094]
+    objective: 532260
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4469, 4, 6562, 317094]
+    objective: 530447
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4469, 0, 6562, 317094]
+    objective: 529519
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4639, 4, 6562, 317094]
+    objective: 528373
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4639, 0, 6562, 317094]
+    objective: 527445
+    piPort: 6
+    piWeek: [6, 9, 10, 7, 8, 5]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4, 4, 6562, 317094]
+    objective: 526867
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 14
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4, 0, 6562, 317094]
+    objective: 525939
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 14
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 0, 0, 6562, 317094]
+    objective: 525011
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 15
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 972, 4, 6562, 317094]
+    objective: 524630
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 11
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 972, 0, 6562, 317094]
+    objective: 523702
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 11
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 647, 35, 6562, 317094]
+    objective: 523280
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 12
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 647, 4, 6562, 317094]
+    objective: 521467
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 12
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 647, 0, 6562, 317094]
+    objective: 520539
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 12
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 35, 35, 6562, 317094]
+    objective: 516860
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 13
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 35, 4, 6562, 317094]
+    objective: 515047
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 13
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 35, 0, 6562, 317094]
+    objective: 514119
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 13
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4, 4, 6562, 317094]
+    objective: 513234
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 14
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4, 0, 6562, 317094]
+    objective: 512306
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 14
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 0, 0, 6562, 317094]
+    objective: 511378
+    piPort: 6
+    piWeek: [8, 9, 6, 7, 10, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 15
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 35, 6562, 317094]
+    objective: 507537
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 4, 6562, 317094]
+    objective: 505724
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 0, 6562, 317094]
+    objective: 504796
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4639, 4, 6562, 317094]
+    objective: 503650
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4639, 0, 6562, 317094]
+    objective: 502722
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 647, 6562, 317094]
+    objective: 500324
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 35, 6562, 317094]
+    objective: 493904
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 4, 6562, 317094]
+    objective: 492091
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 0, 6562, 317094]
+    objective: 491163
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4639, 4, 6562, 317094]
+    objective: 490017
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4639, 0, 6562, 317094]
+    objective: 489089
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 7, 5]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 4204, 4469, 0, 125864, 125864]
+    objective: 488854
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 0
+    poAct1: 10
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4714, 4204, 4469, 4, 125864, 125864]
+    objective: 487671
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 2
+    poAct1: 10
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4714, 4204, 4469, 0, 125864, 125864]
+    objective: 486743
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 2
+    poAct1: 10
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 4204, 4469, 35, 125864, 125864]
+    objective: 485498
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 4
+    poAct1: 10
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 4204, 4469, 4, 125864, 125864]
+    objective: 483685
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 4
+    poAct1: 10
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 4204, 4469, 0, 125864, 125864]
+    objective: 482757
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 4
+    poAct1: 10
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 4204, 4639, 4, 125864, 125864]
+    objective: 481611
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 4
+    poAct1: 10
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 4204, 4639, 0, 125864, 125864]
+    objective: 480683
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 4
+    poAct1: 10
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 2121, 4469, 35, 125864, 125864]
+    objective: 477962
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 0
+    poAct1: 11
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 2121, 4469, 4, 125864, 125864]
+    objective: 476149
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 0
+    poAct1: 11
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 2121, 4469, 0, 125864, 125864]
+    objective: 475221
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 0
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4714, 2121, 4469, 4, 125864, 125864]
+    objective: 474038
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 2
+    poAct1: 11
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4714, 2121, 4469, 0, 125864, 125864]
+    objective: 473110
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 2
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4469, 35, 125864, 125864]
+    objective: 471865
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4469, 4, 125864, 125864]
+    objective: 470052
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4469, 0, 125864, 125864]
+    objective: 469124
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4639, 4, 125864, 125864]
+    objective: 467978
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4639, 0, 125864, 125864]
+    objective: 467050
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4514, 2121, 4639, 4, 125864, 125864]
+    objective: 466220
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 6
+    poAct1: 11
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4514, 2121, 4639, 0, 125864, 125864]
+    objective: 465292
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 6
+    poAct1: 11
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4469, 35, 125864, 125864]
+    objective: 460332
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4469, 4, 125864, 125864]
+    objective: 458519
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4469, 0, 125864, 125864]
+    objective: 457591
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4639, 4, 125864, 125864]
+    objective: 456445
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4639, 0, 125864, 125864]
+    objective: 455517
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4469, 35, 125864, 125864]
+    objective: 449242
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4469, 4, 125864, 125864]
+    objective: 447429
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4469, 0, 125864, 125864]
+    objective: 446501
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4639, 4, 125864, 125864]
+    objective: 445355
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4639, 0, 125864, 125864]
+    objective: 444427
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 647, 125864, 125864]
+    objective: 442029
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 35, 125864, 125864]
+    objective: 435609
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 4, 125864, 125864]
+    objective: 433796
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 0, 125864, 125864]
+    objective: 432868
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4639, 4, 125864, 125864]
+    objective: 431722
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4639, 0, 125864, 125864]
+    objective: 430794
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 647, 125864, 125864]
+    objective: 428396
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 35, 125864, 125864]
+    objective: 421976
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 4, 125864, 125864]
+    objective: 420163
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 0, 125864, 125864]
+    objective: 419235
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4639, 4, 125864, 125864]
+    objective: 418089
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 17
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4639, 0, 125864, 125864]
+    objective: 417161
+    piPort: 6
+    piWeek: [8, 9, 10, 7, 5, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.26
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 4204, 4469, 0, 6562, 125864]
+    objective: 405984
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 0
+    poAct1: 10
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 4204, 4639, 0, 6562, 125864]
+    objective: 403910
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 0
+    poAct1: 10
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 2121, 4469, 0, 6562, 125864]
+    objective: 392351
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 0
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 2121, 4639, 0, 6562, 125864]
+    objective: 390277
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 0
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4714, 2121, 4469, 0, 6562, 125864]
+    objective: 390240
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 2
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4714, 2121, 4639, 0, 6562, 125864]
+    objective: 388166
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 2
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4469, 0, 6562, 125864]
+    objective: 386254
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4639, 0, 6562, 125864]
+    objective: 384180
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4514, 2121, 4639, 0, 6562, 125864]
+    objective: 382422
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 6
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4469, 0, 6562, 125864]
+    objective: 374721
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4639, 0, 6562, 125864]
+    objective: 372647
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4469, 0, 6562, 125864]
+    objective: 363631
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4639, 0, 6562, 125864]
+    objective: 361557
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 0, 6562, 125864]
+    objective: 349998
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4639, 0, 6562, 125864]
+    objective: 347924
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 0, 6562, 125864]
+    objective: 336365
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4639, 0, 6562, 125864]
+    objective: 334291
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4639, 647, 6562, 125864]
+    objective: 334286
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 17
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 963, 6562, 125864]
+    objective: 330963
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 972, 6562, 125864]
+    objective: 325890
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 8
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 647, 6562, 125864]
+    objective: 322727
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4639, 647, 6562, 125864]
+    objective: 320653
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 17
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 963, 6562, 125864]
+    objective: 317330
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 972, 6562, 125864]
+    objective: 312257
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 8
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 647, 6562, 125864]
+    objective: 309094
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4639, 647, 6562, 125864]
+    objective: 307020
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 7, 6]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 17
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 35, 35, 6562, 125864]
+    objective: 306106
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 7, 6]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 13
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.33
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 35, 4, 6562, 125864]
+    objective: 304293
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 7, 6]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 13
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.33
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 35, 0, 6562, 125864]
+    objective: 303365
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 7, 6]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 13
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.33
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 4, 4, 6562, 125864]
+    objective: 302480
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 7, 6]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 14
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.33
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 4, 0, 6562, 125864]
+    objective: 301552
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 7, 6]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 14
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.33
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 0, 0, 6562, 125864]
+    objective: 300624
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 7, 6]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 15
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.33
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 626, 4, 6562, 125864]
+    objective: 299340
+    piPort: 6
+    piWeek: [9, 10, 11, 8, 7, 6]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 3
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.33
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 626, 0, 6562, 125864]
+    objective: 298412
+    piPort: 6
+    piWeek: [9, 10, 11, 8, 7, 6]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 3
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.33
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4639, 0, 125864, 6562]
+    objective: 297859
+    piPort: 6
+    piWeek: [8, 9, 10, 6, 5, 7]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 17
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.53
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [873, 2359, 506, 4670, 60607, 60607]
+    objective: 295150
+    piPort: 1
+    piWeek: [9, 5, 8, 4, 6, 7]
+    poAct0: 5
+    poAct1: 8
+    poAct2: 19
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.56
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [695, 2359, 506, 4670, 60607, 60607]
+    objective: 293256
+    piPort: 1
+    piWeek: [9, 5, 8, 4, 6, 7]
+    poAct0: 7
+    poAct1: 8
+    poAct2: 19
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.57
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2359, 695, 506, 4545, 60607, 60607]
+    objective: 292339
+    piPort: 1
+    piWeek: [4, 3, 8, 5, 6, 7]
+    poAct0: 8
+    poAct1: 6
+    poAct2: 19
+    poAct3: 5
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 4204, 4469, 0, 6562, 6562]
+    objective: 286682
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 0
+    poAct1: 10
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4714, 4204, 4469, 0, 6562, 6562]
+    objective: 284571
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 2
+    poAct1: 10
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 4204, 4469, 0, 6562, 6562]
+    objective: 280585
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 4
+    poAct1: 10
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 4204, 4639, 0, 6562, 6562]
+    objective: 278511
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 4
+    poAct1: 10
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4713, 2121, 4469, 0, 6562, 6562]
+    objective: 273049
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 0
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4714, 2121, 4469, 0, 6562, 6562]
+    objective: 270938
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 2
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4469, 0, 6562, 6562]
+    objective: 266952
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4556, 2121, 4639, 0, 6562, 6562]
+    objective: 264878
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 4
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4514, 2121, 4639, 0, 6562, 6562]
+    objective: 263120
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 6
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4469, 0, 6562, 6562]
+    objective: 255419
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4639, 2121, 4639, 0, 6562, 6562]
+    objective: 253345
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 8
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4469, 0, 6562, 6562]
+    objective: 244329
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4639, 0, 6562, 6562]
+    objective: 242255
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 0, 6562, 6562]
+    objective: 230696
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4639, 0, 6562, 6562]
+    objective: 228622
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 0, 6562, 6562]
+    objective: 217063
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4639, 0, 6562, 6562]
+    objective: 214989
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 17
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 4204, 4639, 647, 6562, 6562]
+    objective: 214984
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 10
+    poAct1: 10
+    poAct2: 17
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.6
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 963, 6562, 6562]
+    objective: 211661
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.6
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 972, 6562, 6562]
+    objective: 206588
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 8
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.6
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4469, 647, 6562, 6562]
+    objective: 203425
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 16
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.6
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [4204, 2121, 4639, 647, 6562, 6562]
+    objective: 201351
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 10
+    poAct1: 11
+    poAct2: 17
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.6
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 963, 6562, 6562]
+    objective: 198028
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 7
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.6
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 972, 6562, 6562]
+    objective: 192955
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 8
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.6
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4469, 647, 6562, 6562]
+    objective: 189792
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 16
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.6
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2121, 2121, 4639, 647, 6562, 6562]
+    objective: 187718
+    piPort: 6
+    piWeek: [8, 9, 10, 5, 6, 7]
+    poAct0: 11
+    poAct1: 11
+    poAct2: 17
+    poAct3: 9
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.6
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 35, 35, 6562, 6562]
+    objective: 186804
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 6, 7]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 13
+    poAct3: 10
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.61
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 35, 4, 6562, 6562]
+    objective: 184991
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 6, 7]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 13
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.61
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 35, 0, 6562, 6562]
+    objective: 184063
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 6, 7]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 13
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.61
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 4, 4, 6562, 6562]
+    objective: 183178
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 6, 7]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 14
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.61
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 4, 0, 6562, 6562]
+    objective: 182250
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 6, 7]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 14
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.61
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 0, 0, 6562, 6562]
+    objective: 181322
+    piPort: 6
+    piWeek: [9, 10, 5, 8, 6, 7]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 15
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.61
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 626, 4, 6562, 6562]
+    objective: 180038
+    piPort: 6
+    piWeek: [9, 10, 11, 8, 6, 7]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 3
+    poAct3: 11
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.61
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2325, 2325, 626, 0, 6562, 6562]
+    objective: 179110
+    piPort: 6
+    piWeek: [9, 10, 11, 8, 6, 7]
+    poAct0: 12
+    poAct1: 12
+    poAct2: 3
+    poAct3: 12
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 0.61
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2102, 2102, 85, 85, 8625, 8625]
+    objective: 178704
+    piPort: 2
+    piWeek: [5, 6, 9, 10, 7, 8]
+    poAct0: 8
+    poAct1: 8
+    poAct2: 21
+    poAct3: 18
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.21
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2102, 271, 519, 619, 8625, 8625]
+    objective: 178567
+    piPort: 2
+    piWeek: [6, 10, 9, 11, 7, 8]
+    poAct0: 8
+    poAct1: 1
+    poAct2: 20
+    poAct3: 22
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.27
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2102, 271, 85, 638, 8625, 8625]
+    objective: 176898
+    piPort: 2
+    piWeek: [6, 10, 9, 11, 7, 8]
+    poAct0: 8
+    poAct1: 1
+    poAct2: 21
+    poAct3: 21
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.28
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2102, 271, 85, 619, 8625, 8625]
+    objective: 175823
+    piPort: 2
+    piWeek: [6, 10, 9, 11, 7, 8]
+    poAct0: 8
+    poAct1: 1
+    poAct2: 21
+    poAct3: 22
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.28
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2102, 0, 85, 638, 8625, 8625]
+    objective: 174515
+    piPort: 2
+    piWeek: [6, 10, 9, 11, 7, 8]
+    poAct0: 8
+    poAct1: 3
+    poAct2: 21
+    poAct3: 21
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.28
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [2102, 0, 85, 619, 8625, 8625]
+    objective: 173440
+    piPort: 2
+    piWeek: [6, 10, 9, 11, 7, 8]
+    poAct0: 8
+    poAct1: 3
+    poAct2: 21
+    poAct3: 22
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.28
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [271, 2102, 307, 638, 8625, 8625]
+    objective: 172566
+    piPort: 2
+    piWeek: [9, 6, 10, 11, 7, 8]
+    poAct0: 1
+    poAct1: 8
+    poAct2: 23
+    poAct3: 21
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [271, 2102, 307, 619, 8625, 8625]
+    objective: 171491
+    piPort: 2
+    piWeek: [9, 6, 10, 11, 7, 8]
+    poAct0: 1
+    poAct1: 8
+    poAct2: 23
+    poAct3: 22
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.3
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [271, 2102, 638, 638, 8625, 8625]
+    objective: 170455
+    piPort: 2
+    piWeek: [9, 6, 10, 11, 7, 8]
+    poAct0: 1
+    poAct1: 8
+    poAct2: 24
+    poAct3: 21
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.31
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [271, 2102, 638, 619, 8625, 8625]
+    objective: 169380
+    piPort: 2
+    piWeek: [9, 6, 10, 11, 7, 8]
+    poAct0: 1
+    poAct1: 8
+    poAct2: 24
+    poAct3: 22
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.31
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [271, 2102, 619, 619, 8625, 8625]
+    objective: 168305
+    piPort: 2
+    piWeek: [9, 6, 10, 11, 7, 8]
+    poAct0: 1
+    poAct1: 8
+    poAct2: 25
+    poAct3: 22
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.31
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [0, 2102, 638, 638, 8625, 8625]
+    objective: 168072
+    piPort: 2
+    piWeek: [9, 6, 10, 11, 7, 8]
+    poAct0: 3
+    poAct1: 8
+    poAct2: 24
+    poAct3: 21
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.31
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [0, 2102, 638, 619, 8625, 8625]
+    objective: 166997
+    piPort: 2
+    piWeek: [9, 6, 10, 11, 7, 8]
+    poAct0: 3
+    poAct1: 8
+    poAct2: 24
+    poAct3: 22
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.32
+- configuration: Gecode
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [0, 2102, 619, 619, 8625, 8625]
+    objective: 165922
+    piPort: 2
+    piWeek: [9, 6, 10, 11, 7, 8]
+    poAct0: 3
+    poAct1: 8
+    poAct2: 25
+    poAct3: 22
+    poAct4: 0
+    poAct5: 0
+    reposType: [1, 1, 1, 1, 1, 1]
+  status: SATISFIED
+  time: 1.32
+- {configuration: Gecode, data_file: '', model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn,
+  problem: liner-sf-repositioning, status: OPTIMAL_SOLUTION, time: 5.37}

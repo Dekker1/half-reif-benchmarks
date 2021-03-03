@@ -1,0 +1,20 @@
+configuration: Gurobi HR
+data_file: data/mznc2019/steelmillslab/bench_19_6.dzn
+evaluatedHalfReifiedConstraints: 110
+evaluatedReifiedConstraints: 12541
+flatBoolVars: 110
+flatIntConstraints: 7457
+flatIntVars: 20090
+flatTime: 2.78506
+method: minimize
+model: data/mznc2019/steelmillslab/steelmillslab.mzn
+nSolutions: 1
+nodes: 88090
+objective: 1
+objectiveBound: 0
+openNodes: 10575
+paths: 0
+problem: steelmillslab
+solveTime: 1197.223
+status: SATISFIED
+time: 1200.7056615166366

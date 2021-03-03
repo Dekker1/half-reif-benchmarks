@@ -1,0 +1,27 @@
+configuration: Gecode HR
+data_file: data/mznc2019/steelmillslab/bench_19_6.dzn
+evaluatedHalfReifiedConstraints: 220
+evaluatedReifiedConstraints: 12321
+failures: 453373
+flatBoolConstraints: 1997
+flatBoolVars: 14428
+flatIntConstraints: 22554
+flatIntVars: 10102
+flatTime: 0.934059
+initTime: 0.152781
+method: minimize
+model: data/mznc2019/steelmillslab/steelmillslab.mzn
+nSolutions: 28
+nodes: 907098
+objective: 0
+paths: 0
+peakDepth: 214
+problem: steelmillslab
+propagations: 427656403
+propagators: 24551
+restarts: 0
+solutions: 28
+solveTime: 47.3144
+status: OPTIMAL_SOLUTION
+time: 48.684575997292995
+variables: 24530

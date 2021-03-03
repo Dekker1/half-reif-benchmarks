@@ -1,0 +1,23 @@
+configuration: CBC HR
+data_file: data/mznc2019/nside/HARD_2000_500.dzn
+error: "LinEqGraph: eqn between X_INTRODUCED_1204727_ && X_INTRODUCED_1205548_ is\
+  \ repeated. \nLinEqGraph: eqn between X_INTRODUCED_1205548_ && X_INTRODUCED_1204727_\
+  \ is repeated. \n153353 POSTs [ 153353,0,0,0,0,0,0,0,0,0, ], LINEQ [ 32,0,0,0,235,1000,0,0,0,\
+  \ ], 709 / 1948 vars, 699 cliques, 4 / 216.571 / 253 NSubIntv m/a/m, 0 / 0 / 0 SubIntvSize\
+  \ m/a/m, 0+699(699) clq eq_encoded  ... \n  WARNING: \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/nside/full.mzn:93.18:\n\
+  \  Variable `d' shadows variable with the same name in line 56.31\n\n  WARNING:\
+  \ \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/nside/full.mzn:94.14:\n \
+  \ Variable `d' shadows variable with the same name in line 56.31\n\n  WARNING: \n\
+  \  /home/dekker1/half-reif-benchmarks/data/mznc2019/nside/full.mzn:95.32:\n  Variable\
+  \ `d' shadows variable with the same name in line 56.31\nstd::bad_alloc"
+evaluatedHalfReifiedConstraints: 14278
+evaluatedReifiedConstraints: 444340
+flatBoolVars: 50038
+flatIntConstraints: 1719606
+flatIntVars: 839302
+flatTime: 540.637
+method: maximize
+model: data/mznc2019/nside/full.mzn
+paths: 0
+problem: nside
+status: ERROR

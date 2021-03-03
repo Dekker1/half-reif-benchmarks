@@ -1,0 +1,982 @@
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 55336
+    pfc: [10, 13, 14, 11, 12, 8, 9, 15, 16, 4, 7, 5, 3, 6, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 55319
+    pfc: [10, 13, 14, 11, 12, 8, 9, 16, 15, 4, 7, 5, 3, 6, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 55318
+    pfc: [10, 13, 16, 11, 12, 8, 9, 14, 15, 4, 7, 5, 3, 6, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 55301
+    pfc: [10, 13, 16, 11, 12, 8, 9, 15, 14, 4, 7, 5, 3, 6, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 55300
+    pfc: [10, 15, 16, 11, 12, 8, 9, 13, 14, 4, 7, 5, 3, 6, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 55283
+    pfc: [10, 15, 16, 11, 12, 8, 9, 14, 13, 4, 7, 5, 3, 6, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 49523
+    pfc: [11, 14, 15, 12, 13, 8, 9, 16, 17, 4, 7, 5, 3, 6, 18, 10, 2, 1]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 49506
+    pfc: [11, 14, 15, 12, 13, 8, 9, 17, 16, 4, 7, 5, 3, 6, 18, 10, 2, 1]
+  status: SATISFIED
+  time: 0.17
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 49505
+    pfc: [11, 14, 17, 12, 13, 8, 9, 15, 16, 4, 7, 5, 3, 6, 18, 10, 2, 1]
+  status: SATISFIED
+  time: 0.17
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 49488
+    pfc: [11, 14, 17, 12, 13, 8, 9, 16, 15, 4, 7, 5, 3, 6, 18, 10, 2, 1]
+  status: SATISFIED
+  time: 0.17
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 49487
+    pfc: [11, 16, 17, 12, 13, 8, 9, 14, 15, 4, 7, 5, 3, 6, 18, 10, 2, 1]
+  status: SATISFIED
+  time: 0.17
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 49470
+    pfc: [11, 16, 17, 12, 13, 8, 9, 15, 14, 4, 7, 5, 3, 6, 18, 10, 2, 1]
+  status: SATISFIED
+  time: 0.17
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 49180
+    pfc: [11, 12, 17, 13, 14, 8, 10, 15, 16, 4, 7, 5, 3, 6, 9, 18, 2, 1]
+  status: SATISFIED
+  time: 0.17
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 49163
+    pfc: [11, 12, 17, 13, 14, 8, 10, 16, 15, 4, 7, 5, 3, 6, 9, 18, 2, 1]
+  status: SATISFIED
+  time: 0.17
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 49162
+    pfc: [11, 16, 17, 12, 13, 8, 10, 14, 15, 4, 7, 5, 3, 6, 9, 18, 2, 1]
+  status: SATISFIED
+  time: 0.17
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 49145
+    pfc: [11, 16, 17, 12, 13, 8, 10, 15, 14, 4, 7, 5, 3, 6, 9, 18, 2, 1]
+  status: SATISFIED
+  time: 0.17
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43384
+    pfc: [12, 13, 17, 14, 15, 8, 10, 16, 18, 4, 7, 5, 3, 6, 9, 11, 2, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43366
+    pfc: [12, 13, 18, 14, 15, 8, 10, 16, 17, 4, 7, 5, 3, 6, 9, 11, 2, 1]
+  status: SATISFIED
+  time: 0.22
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43349
+    pfc: [12, 13, 18, 14, 15, 8, 10, 17, 16, 4, 7, 5, 3, 6, 9, 11, 2, 1]
+  status: SATISFIED
+  time: 0.23
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43332
+    pfc: [12, 17, 18, 14, 13, 8, 10, 16, 15, 4, 7, 5, 3, 6, 9, 11, 2, 1]
+  status: SATISFIED
+  time: 0.23
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43331
+    pfc: [12, 17, 18, 13, 14, 8, 10, 16, 15, 4, 7, 5, 3, 6, 9, 11, 2, 1]
+  status: SATISFIED
+  time: 0.23
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43060
+    pfc: [13, 14, 16, 8, 15, 9, 11, 17, 18, 4, 7, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.23
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43043
+    pfc: [13, 14, 16, 8, 15, 9, 11, 18, 17, 4, 7, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.24
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43042
+    pfc: [13, 14, 18, 8, 15, 9, 11, 16, 17, 4, 7, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.24
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43025
+    pfc: [13, 14, 18, 8, 15, 9, 11, 17, 16, 4, 7, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.24
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43024
+    pfc: [13, 17, 18, 8, 14, 9, 11, 15, 16, 4, 7, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.24
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43007
+    pfc: [13, 17, 18, 8, 14, 9, 11, 16, 15, 4, 7, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.24
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43006
+    pfc: [14, 17, 18, 15, 8, 9, 11, 16, 13, 4, 7, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.24
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43005
+    pfc: [15, 17, 18, 8, 9, 10, 12, 16, 14, 4, 7, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.25
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 43004
+    pfc: [16, 17, 18, 8, 9, 10, 12, 14, 15, 4, 7, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.25
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 42987
+    pfc: [16, 17, 18, 8, 9, 10, 12, 15, 14, 4, 7, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.25
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 42986
+    pfc: [16, 17, 18, 8, 9, 10, 14, 12, 13, 4, 7, 5, 3, 6, 11, 15, 2, 1]
+  status: SATISFIED
+  time: 0.25
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 42970
+    pfc: [16, 18, 17, 11, 8, 9, 14, 13, 12, 4, 7, 5, 3, 6, 10, 15, 2, 1]
+  status: SATISFIED
+  time: 0.25
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 42969
+    pfc: [16, 18, 17, 11, 8, 9, 14, 12, 13, 4, 7, 5, 3, 6, 10, 15, 2, 1]
+  status: SATISFIED
+  time: 0.25
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 42968
+    pfc: [16, 18, 17, 8, 9, 10, 14, 12, 13, 4, 7, 5, 3, 6, 11, 15, 2, 1]
+  status: SATISFIED
+  time: 0.25
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 37228
+    pfc: [13, 14, 17, 15, 7, 9, 11, 16, 18, 4, 8, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.29
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 37210
+    pfc: [13, 14, 18, 15, 7, 9, 11, 16, 17, 4, 8, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.29
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 37193
+    pfc: [13, 14, 18, 15, 7, 9, 11, 17, 16, 4, 8, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 37192
+    pfc: [13, 17, 18, 14, 7, 9, 11, 15, 16, 4, 8, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 37175
+    pfc: [13, 17, 18, 14, 7, 9, 11, 16, 15, 4, 8, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 37174
+    pfc: [14, 17, 18, 15, 7, 9, 11, 16, 13, 4, 8, 5, 3, 6, 10, 12, 2, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36904
+    pfc: [14, 15, 16, 9, 7, 10, 12, 17, 18, 4, 8, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.3
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36887
+    pfc: [14, 15, 16, 9, 7, 10, 12, 18, 17, 4, 8, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36886
+    pfc: [14, 15, 18, 9, 7, 10, 12, 16, 17, 4, 8, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36869
+    pfc: [14, 15, 18, 9, 7, 10, 12, 17, 16, 4, 8, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36868
+    pfc: [14, 17, 18, 9, 7, 10, 12, 15, 16, 4, 8, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36851
+    pfc: [14, 17, 18, 9, 7, 10, 12, 16, 15, 4, 8, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36850
+    pfc: [15, 17, 18, 9, 7, 10, 12, 16, 14, 4, 8, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36849
+    pfc: [16, 17, 18, 9, 7, 10, 12, 14, 15, 4, 8, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36832
+    pfc: [16, 17, 18, 9, 7, 10, 12, 15, 14, 4, 8, 5, 3, 6, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36831
+    pfc: [16, 17, 18, 9, 7, 10, 14, 12, 13, 4, 8, 5, 3, 6, 11, 15, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36814
+    pfc: [16, 18, 17, 9, 7, 10, 14, 13, 12, 4, 8, 5, 3, 6, 11, 15, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36813
+    pfc: [16, 18, 17, 9, 7, 10, 14, 12, 13, 4, 8, 5, 3, 6, 11, 15, 2, 1]
+  status: SATISFIED
+  time: 0.31
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36812
+    pfc: [16, 18, 17, 6, 8, 11, 15, 12, 13, 4, 9, 5, 3, 7, 10, 14, 2, 1]
+  status: SATISFIED
+  time: 0.84
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36562
+    pfc: [15, 16, 10, 6, 8, 12, 14, 18, 17, 4, 9, 5, 3, 7, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.88
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36561
+    pfc: [15, 16, 18, 6, 8, 12, 14, 10, 17, 4, 9, 5, 3, 7, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.88
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36543
+    pfc: [15, 17, 18, 6, 8, 12, 14, 10, 16, 4, 9, 5, 3, 7, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.89
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36524
+    pfc: [16, 17, 18, 6, 8, 12, 14, 10, 15, 4, 9, 5, 3, 7, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 0.89
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36506
+    pfc: [16, 17, 18, 6, 8, 12, 15, 10, 13, 4, 9, 5, 3, 7, 11, 14, 2, 1]
+  status: SATISFIED
+  time: 0.9
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 36488
+    pfc: [16, 18, 17, 6, 8, 12, 15, 10, 13, 4, 9, 5, 3, 7, 11, 14, 2, 1]
+  status: SATISFIED
+  time: 0.9
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30746
+    pfc: [15, 16, 6, 7, 9, 12, 14, 17, 18, 4, 10, 5, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 1.86
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30729
+    pfc: [15, 16, 6, 7, 9, 12, 14, 18, 17, 4, 10, 5, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 1.86
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30728
+    pfc: [15, 18, 6, 7, 9, 12, 14, 16, 17, 4, 10, 5, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 1.86
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30711
+    pfc: [15, 18, 6, 7, 9, 12, 14, 17, 16, 4, 10, 5, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 1.87
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30710
+    pfc: [16, 18, 6, 7, 9, 12, 14, 17, 15, 4, 10, 5, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 1.87
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30709
+    pfc: [17, 18, 6, 7, 9, 12, 14, 15, 16, 4, 10, 5, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 1.87
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30692
+    pfc: [17, 18, 6, 7, 9, 12, 14, 16, 15, 4, 10, 5, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 1.87
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30673
+    pfc: [17, 18, 6, 7, 9, 12, 16, 13, 14, 4, 10, 5, 3, 8, 11, 15, 2, 1]
+  status: SATISFIED
+  time: 1.88
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30405
+    pfc: [16, 18, 7, 5, 9, 13, 15, 11, 17, 4, 10, 6, 3, 8, 12, 14, 2, 1]
+  status: SATISFIED
+  time: 1.93
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30386
+    pfc: [17, 18, 7, 5, 9, 13, 15, 11, 16, 4, 10, 6, 3, 8, 12, 14, 2, 1]
+  status: SATISFIED
+  time: 1.94
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 30350
+    pfc: [17, 18, 7, 5, 9, 13, 16, 11, 14, 4, 10, 6, 3, 8, 12, 15, 2, 1]
+  status: SATISFIED
+  time: 1.94
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24915
+    pfc: [15, 16, 7, 4, 9, 12, 14, 17, 18, 5, 10, 6, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 2.67
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24898
+    pfc: [15, 16, 7, 4, 9, 12, 14, 18, 17, 5, 10, 6, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 2.67
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24897
+    pfc: [15, 18, 7, 4, 9, 12, 14, 16, 17, 5, 10, 6, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 2.67
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24880
+    pfc: [15, 18, 7, 4, 9, 12, 14, 17, 16, 5, 10, 6, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 2.67
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24879
+    pfc: [16, 18, 7, 4, 9, 12, 14, 17, 15, 5, 10, 6, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 2.68
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24878
+    pfc: [17, 18, 7, 4, 9, 12, 14, 15, 16, 5, 10, 6, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 2.68
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24861
+    pfc: [17, 18, 7, 4, 9, 12, 14, 16, 15, 5, 10, 6, 3, 8, 11, 13, 2, 1]
+  status: SATISFIED
+  time: 2.68
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24842
+    pfc: [17, 18, 7, 4, 9, 12, 16, 13, 14, 5, 10, 6, 3, 8, 11, 15, 2, 1]
+  status: SATISFIED
+  time: 2.69
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24825
+    pfc: [17, 18, 7, 4, 9, 12, 16, 14, 13, 5, 10, 6, 3, 8, 11, 15, 2, 1]
+  status: SATISFIED
+  time: 2.69
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24573
+    pfc: [16, 18, 7, 4, 9, 13, 15, 11, 17, 5, 10, 6, 3, 8, 12, 14, 2, 1]
+  status: SATISFIED
+  time: 2.7
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24554
+    pfc: [17, 18, 7, 4, 9, 13, 15, 11, 16, 5, 10, 6, 3, 8, 12, 14, 2, 1]
+  status: SATISFIED
+  time: 2.7
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24518
+    pfc: [17, 18, 7, 4, 9, 13, 16, 11, 14, 5, 10, 6, 3, 8, 12, 15, 2, 1]
+  status: SATISFIED
+  time: 2.7
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24517
+    pfc: [17, 18, 4, 6, 9, 13, 16, 11, 14, 7, 10, 3, 5, 8, 12, 15, 2, 1]
+  status: SATISFIED
+  time: 12.53
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24501
+    pfc: [13, 15, 3, 7, 9, 4, 10, 17, 11, 12, 14, 2, 6, 8, 16, 18, 5, 1]
+  status: SATISFIED
+  time: 302.91
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24500
+    pfc: [13, 15, 3, 6, 7, 9, 10, 14, 11, 12, 16, 4, 5, 8, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 318.53
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24464
+    pfc: [13, 16, 3, 6, 8, 9, 10, 14, 11, 12, 15, 2, 5, 7, 17, 18, 4, 1]
+  status: SATISFIED
+  time: 318.69
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24270
+    pfc: [17, 12, 3, 6, 8, 16, 9, 10, 18, 13, 11, 2, 5, 7, 15, 14, 4, 1]
+  status: SATISFIED
+  time: 349.06
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24251
+    pfc: [18, 12, 3, 6, 8, 16, 9, 10, 17, 13, 11, 2, 5, 7, 15, 14, 4, 1]
+  status: SATISFIED
+  time: 349.06
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24158
+    pfc: [14, 15, 5, 4, 7, 9, 11, 10, 12, 13, 16, 6, 3, 8, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 386.97
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24141
+    pfc: [14, 15, 5, 4, 7, 9, 11, 12, 10, 13, 16, 6, 3, 8, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 386.97
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24140
+    pfc: [14, 15, 5, 4, 7, 9, 12, 10, 11, 13, 16, 6, 3, 8, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 386.97
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24123
+    pfc: [14, 15, 5, 4, 7, 9, 12, 11, 10, 13, 16, 6, 3, 8, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 386.98
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24122
+    pfc: [14, 15, 3, 6, 7, 9, 12, 11, 10, 13, 16, 4, 5, 8, 17, 18, 2, 1]
+  status: SATISFIED
+  time: 386.98
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24121
+    pfc: [14, 15, 6, 4, 7, 9, 12, 10, 11, 13, 16, 5, 3, 8, 17, 18, 1, 2]
+  status: SATISFIED
+  time: 641.61
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24120
+    pfc: [14, 15, 3, 6, 7, 9, 12, 10, 11, 13, 16, 4, 5, 8, 17, 18, 1, 2]
+  status: SATISFIED
+  time: 641.62
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24105
+    pfc: [14, 16, 2, 6, 8, 9, 11, 12, 10, 13, 15, 1, 5, 7, 17, 18, 4, 3]
+  status: SATISFIED
+  time: 991.05
+- configuration: Gecode HR
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24104
+    pfc: [14, 16, 2, 6, 8, 9, 12, 10, 11, 13, 15, 1, 5, 7, 17, 18, 4, 3]
+  status: SATISFIED
+  time: 991.05
+- {configuration: Gecode HR, data_file: data/mznc2020/cable_tree_wiring/A031.dzn,
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn, problem: cable_tree_wiring, status: SATISFIED}

@@ -1,0 +1,27 @@
+configuration: Gecode HR
+data_file: data/mznc2020/code-generator/mips_gobmk.patterns.autohelperpat508.dzn
+eliminatedImplications: 562
+evaluatedHalfReifiedConstraints: 23402
+evaluatedReifiedConstraints: 2424
+failures: 1846256
+flatBoolConstraints: 7097
+flatBoolVars: 24775
+flatIntConstraints: 28080
+flatIntVars: 2732
+flatTime: 2.35041
+initTime: 0.379432
+method: minimize
+model: data/mznc2020/code-generator/unison.mzn
+nSolutions: 0
+nodes: 3692551
+paths: 0
+peakDepth: 84
+problem: code-generator
+propagations: 5109192449
+propagators: 173468
+restarts: 0
+solutions: 0
+solveTime: 1197.71
+status: UNKNOWN
+time: 1201.026162346825
+variables: 29441

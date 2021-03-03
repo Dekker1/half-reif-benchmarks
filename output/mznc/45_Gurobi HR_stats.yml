@@ -1,0 +1,19 @@
+configuration: Gurobi HR
+data_file: ''
+evaluatedReifiedConstraints: 1296
+flatBoolVars: 336
+flatIntConstraints: 3076
+flatIntVars: 1109
+flatTime: 0.544515
+method: minimize
+model: data/mznc2019/stochastic-vrp/vrp-s3-v2-c7_vrp-v2-c7_det.mzn
+nSolutions: 1
+nodes: 229525
+objective: 230
+objectiveBound: 138
+openNodes: 40015
+paths: 0
+problem: stochastic-vrp
+solveTime: 1199.4527
+status: SATISFIED
+time: 1200.1964385136962

@@ -1,0 +1,22 @@
+configuration: Gecode HR
+data_file: data/mznc2020/p1f-pjs/16.dzn
+failures: 1759418
+flatIntConstraints: 1831
+flatIntVars: 3496
+flatTime: 0.24894
+initTime: 0.022243
+method: minimize
+model: data/mznc2020/p1f-pjs/p1f-pjs.mzn
+nSolutions: 0
+nodes: 3518884
+paths: 0
+peakDepth: 91
+problem: p1f-pjs
+propagations: 2748741538
+propagators: 1831
+restarts: 0
+solutions: 0
+solveTime: 1199.75
+status: UNKNOWN
+time: 1200.1533561032265
+variables: 3496

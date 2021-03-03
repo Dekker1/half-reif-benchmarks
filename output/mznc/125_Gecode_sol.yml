@@ -1,0 +1,750 @@
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 0, 4, 0, 0, 0, 0, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 331520
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 6, 4, 0, 0, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 0, 19, 0, 0, 0, 0, 0, 0,
+      0, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 3.69
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 0, 0, 0, 0, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 0, 4, 0, 0, 0, 0, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 326400
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 19, 4, 0, 0, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 0, 0, 0, 0, 0,
+      0, 0, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 6, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, false, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, true, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 3.71
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 0, 0, 0, 0, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 0, 4, 0, 0, 0, 0, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 324096
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 6, 4, 0, 0, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 0, 0, 0, 0, 0, 0,
+      0, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 3.71
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 0, 0, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 0, 4, 0, 0, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 318976
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 19, 4, 0, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 0,
+      0, 0, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 6, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, false, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, true, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 3.74
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 0, 0, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 0, 4, 0, 0, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 316672
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 6, 4, 0, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 0, 0,
+      0, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 3.76
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 0, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 0, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 311552
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 19, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 0,
+      0, 5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 6, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, false, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, true, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 4.4
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 0, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 0, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 309248
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 6, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 0, 0,
+      5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 4.41
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 3, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 3, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 308224
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 6, 19, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 0,
+      3, 5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 4, 19, 19, 19, 19,
+      19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, false, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, true, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 12.88
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 3, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 3, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 305408
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 19, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 0,
+      3, 5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 6, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, false, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, true, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 12.9
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 3, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 3, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 303104
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 6, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 0, 3,
+      5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 12.9
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 4, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 4, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 300288
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 19, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 0,
+      4, 5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 6, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, false, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, true, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 24.02
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 4, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 0, 6, 4, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 297984
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 6, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 0, 4,
+      5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 24.03
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 2, 3, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 2, 6, 3, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 295168
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 19, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 2,
+      3, 5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 6, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, false, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, true, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 167.22
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 2, 3, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 2, 6, 3, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 292864
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 6, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 2, 3,
+      5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 167.23
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 2, 4, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 2, 6, 4, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 290048
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 19, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 2,
+      4, 5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 6, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, false, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, true, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 178.19
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 2, 4, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 2, 6, 4, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 287744
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 6, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 2, 4,
+      5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 178.21
+- configuration: Gecode
+  data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 0, 31, 31, 31, 0, 31, 31, 0, 31, 34, 34, 34, 0, 31, 31, 31, 0, 31, 31,
+      31, 0, 31, 34, 31, 31, 31, 0, 31, 31, 31, 31, 0, 31, 0, 31, 31, 31, 0, 31, 0,
+      31, 31, 31, 31, 31, 0, 31, 0, 0, 0, 0, 31, 0, 31, 0, 31, 0, 31, 31, 31, 31,
+      0, 31, 0, 0, 0, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 2, 0, 6, 4, 5, 0, 5, 5, 7, 0, 0,
+      7, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+      3, 0, 2, 6, 6, 4, 4, 5, 5, 5, 5, 8, 9, 7, 0, 0, 0, 7, 0, 7, 10, 0, 0, 0, 0]
+    objective: 283904
+    place: [7, 10, 0, 6, 19, 5, 19, 9, 11, 12, 13, 14, 15, 19, 19, 18, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 6, 4, 5, 5, 8, 9, 7, 0, 7, 10, 19, 19, 7, 19, 19, 5, 19, 5, 0, 0, 0, 6, 4,
+      5, 19, 1, 19, 3, 2, 7, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 4, 19, 8, 19, 19, 19, 19, 19, 19, 16, 17, 19, 10, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 0, 0, 0, 19, 19, 19, 19, 0, 0, 19, 19, 19, 19, 19, 19, 19,
+      19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 0, 19]
+    sel: [true, true, true, true, false, true, false, true, true, true, true, true,
+      true, false, false, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, false, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, false, true, false, false, true, false,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      false, false, false, false, true, true, true, false, false, false, false, false,
+      false, false, false, false, false, true, false, true, false, false, false, false,
+      false, false, true, true, false, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, true, true, false, false, false, false,
+      true, true, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false]
+    succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
+  status: SATISFIED
+  time: 378.29
+- {configuration: Gecode, data_file: data/mznc2020/is/LeTaZW8Ij5.dzn, model: data/mznc2020/is/model.mzn,
+  problem: is, status: SATISFIED}

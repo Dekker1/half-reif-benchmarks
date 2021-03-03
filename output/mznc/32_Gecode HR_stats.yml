@@ -1,0 +1,26 @@
+configuration: Gecode HR
+data_file: data/mznc2019/zephyrus/14__10__6__3.dzn
+evaluatedHalfReifiedConstraints: 294
+evaluatedReifiedConstraints: 168
+failures: 36562645
+flatBoolConstraints: 508
+flatBoolVars: 453
+flatIntConstraints: 918
+flatIntVars: 306
+flatTime: 0.106809
+initTime: 0.008438
+method: minimize
+model: data/mznc2019/zephyrus/zephyrus.mzn
+nSolutions: 0
+nodes: 73125351
+paths: 0
+peakDepth: 105
+problem: zephyrus
+propagations: 4600917321
+propagators: 1260
+restarts: 0
+solutions: 0
+solveTime: 1199.89
+status: UNKNOWN
+time: 1200.0766072366387
+variables: 1671

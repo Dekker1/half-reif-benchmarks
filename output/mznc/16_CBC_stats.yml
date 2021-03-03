@@ -1,0 +1,11 @@
+configuration: CBC
+data_file: data/mznc2019/triangular/n17.dzn
+flatIntConstraints: 3877
+flatIntVars: 154
+flatTime: 0.2111
+method: maximize
+model: data/mznc2019/triangular/triangular.mzn
+paths: 0
+problem: triangular
+status: UNKNOWN
+time: 1201.1256463956088

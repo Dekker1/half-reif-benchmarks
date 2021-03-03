@@ -1,0 +1,17 @@
+configuration: Gurobi HR
+data_file: ''
+evaluatedReifiedConstraints: 2810
+flatIntConstraints: 5641
+flatIntVars: 2874
+flatTime: 6.8566
+method: minimize
+model: data/mznc2020/bnn-planner/navigation_5x5_10s.mzn
+nSolutions: 0
+nodes: 18067
+objective: 1e+308
+objectiveBound: 0.999999
+paths: 0
+problem: bnn-planner
+solveTime: 1193.1426
+status: UNKNOWN
+time: 1200.8654758036137

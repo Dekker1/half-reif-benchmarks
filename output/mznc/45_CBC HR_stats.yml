@@ -1,0 +1,13 @@
+configuration: CBC HR
+data_file: ''
+evaluatedReifiedConstraints: 1296
+flatBoolVars: 336
+flatIntConstraints: 3076
+flatIntVars: 1109
+flatTime: 0.531343
+method: minimize
+model: data/mznc2019/stochastic-vrp/vrp-s3-v2-c7_vrp-v2-c7_det.mzn
+paths: 0
+problem: stochastic-vrp
+status: UNKNOWN
+time: 1201.1339209116995

@@ -1,0 +1,2 @@
+- {configuration: Gecode, data_file: data/mznc2020/sdn-chain/d26n600-2.dzn, model: data/mznc2020/sdn-chain/model.mzn,
+  problem: sdn-chain, status: UNKNOWN, time: 1200.43}

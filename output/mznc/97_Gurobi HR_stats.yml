@@ -1,0 +1,18 @@
+configuration: Gurobi HR
+data_file: data/mznc2019/accap/accap_instance5.dzn
+evaluatedHalfReifiedConstraints: 598
+flatIntConstraints: 1338
+flatIntVars: 656
+flatTime: 0.300373
+method: minimize
+model: data/mznc2019/accap/accap.mzn
+nSolutions: 1
+nodes: 283745
+objective: 101
+objectiveBound: 95.0125
+openNodes: 53558
+paths: 0
+problem: accap
+solveTime: 1199.6962
+status: SATISFIED
+time: 1200.204279826954

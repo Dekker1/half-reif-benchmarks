@@ -1,0 +1,14 @@
+configuration: CBC HR
+data_file: data/mznc2020/minimal-decision-sets/breast-cancer_train4.dzn
+eliminatedLinearConstraints: 916
+evaluatedHalfReifiedConstraints: 1843
+evaluatedReifiedConstraints: 2755
+flatIntConstraints: 20324
+flatIntVars: 17084
+flatTime: 4.027739
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+paths: 0
+problem: minimal-decision-sets
+status: UNKNOWN
+time: 1201.1939783822745

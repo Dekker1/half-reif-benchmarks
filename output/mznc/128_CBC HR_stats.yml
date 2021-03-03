@@ -1,0 +1,11 @@
+configuration: CBC HR
+data_file: data/mznc2020/pentominoes/04.dzn
+flatIntConstraints: 537714
+flatIntVars: 3462895
+flatTime: 504.861
+method: satisfy
+model: data/mznc2020/pentominoes/pentominoes-int.mzn
+paths: 0
+problem: pentominoes
+status: UNKNOWN
+time: 1201.9727095328271

@@ -1,0 +1,17 @@
+configuration: Gecode HR
+data_file: data/mznc2020/code-generator/mips_gcc.cfgbuild.control_flow_insn_p.dzn
+eliminatedImplications: 1384
+evaluatedHalfReifiedConstraints: 32791
+evaluatedReifiedConstraints: 7885
+flatBoolConstraints: 11306
+flatBoolVars: 38013
+flatIntConstraints: 46887
+flatIntVars: 8034
+flatTime: 6.19296
+method: minimize
+model: data/mznc2020/code-generator/unison.mzn
+objective: 282178734
+paths: 0
+problem: code-generator
+status: SATISFIED
+time: 1201.1477317735553

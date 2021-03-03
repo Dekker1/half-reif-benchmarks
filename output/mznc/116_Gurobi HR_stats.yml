@@ -1,0 +1,16 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/radiation/i8-9.dzn
+flatIntConstraints: 1227
+flatIntVars: 1168
+flatTime: 0.18637
+method: minimize
+model: data/mznc2020/radiation/radiation.mzn
+nSolutions: 1
+nodes: 1
+objective: 917
+objectiveBound: 917
+paths: 0
+problem: radiation
+solveTime: 0.0108
+status: OPTIMAL_SOLUTION
+time: 0.28325119614601135

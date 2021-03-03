@@ -1,0 +1,19 @@
+configuration: Gurobi HR
+data_file: data/mznc2019/amaze/2012-07-13.dzn
+evaluatedHalfReifiedConstraints: 585
+evaluatedReifiedConstraints: 1632
+flatIntConstraints: 3506
+flatIntVars: 2703
+flatTime: 0.56692
+method: satisfy
+model: data/mznc2019/amaze/amaze3.mzn
+nSolutions: 1
+nodes: 2950
+objective: 0
+objectiveBound: 0
+openNodes: 137
+paths: 0
+problem: amaze
+solveTime: 65.4558
+status: SATISFIED
+time: 66.18205351568758

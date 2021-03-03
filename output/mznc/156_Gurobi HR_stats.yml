@@ -1,0 +1,19 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/minimal-decision-sets/breast-cancer_train4.dzn
+eliminatedLinearConstraints: 916
+evaluatedHalfReifiedConstraints: 1843
+evaluatedReifiedConstraints: 2755
+flatIntConstraints: 20324
+flatIntVars: 17084
+flatTime: 3.93412
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+nSolutions: 1
+nodes: 3673
+objective: 102
+objectiveBound: 102
+paths: 0
+problem: minimal-decision-sets
+solveTime: 281.1848
+status: OPTIMAL_SOLUTION
+time: 286.13533480651677

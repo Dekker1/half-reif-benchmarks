@@ -1,0 +1,2 @@
+- {configuration: CBC, data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn, model: data/mznc2020/gbac/gbac.mzn,
+  problem: gbac, status: UNKNOWN}

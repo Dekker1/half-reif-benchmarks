@@ -1,0 +1,208 @@
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [117, 167, 0, 0, 161, 101, 130, 112, 139, 0, 111, 0, 101,
+      105]
+    inventory_periods: [1, 0, 3, 3, 0, 1, 0, 1, 0, 1, 4, 8, 9, 10]
+    objective: 1654
+    production_by_order: [12, 3, 13, 0, 14, 6, 1, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_order: [12, 3, 13, 13, 14, 6, 1, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_period: [7, 14, 2, 9, 15, 6, 12, 13, 8, 10, 11, 1, 3, 5]
+  status: SATISFIED
+  time: 0.06
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [117, 0, 167, 0, 161, 101, 130, 112, 139, 0, 111, 0, 101,
+      105]
+    inventory_periods: [1, 0, 3, 3, 0, 1, 0, 1, 0, 1, 4, 8, 8, 10]
+    objective: 1644
+    production_by_order: [12, 3, 0, 13, 14, 6, 1, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_order: [12, 3, 3, 13, 14, 6, 1, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_period: [7, 14, 2, 9, 15, 6, 12, 13, 8, 10, 11, 1, 4, 5]
+  status: SATISFIED
+  time: 0.07
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 0, 0, 117, 135, 101, 130, 112, 139, 0, 111, 0, 101,
+      105]
+    inventory_periods: [1, 0, 0, 3, 0, 1, 0, 1, 0, 1, 4, 8, 10, 11]
+    objective: 1451
+    production_by_order: [12, 13, 0, 14, 3, 6, 1, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_order: [12, 13, 13, 14, 3, 6, 1, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_period: [7, 14, 5, 9, 15, 6, 12, 13, 8, 10, 11, 1, 2, 4]
+  status: SATISFIED
+  time: 0.08
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 0, 0, 117, 135, 101, 130, 112, 139, 0, 111, 0, 101,
+      105]
+    inventory_periods: [1, 0, 0, 3, 0, 1, 0, 1, 0, 1, 4, 8, 9, 11]
+    objective: 1441
+    production_by_order: [12, 0, 13, 14, 3, 6, 1, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_order: [12, 12, 13, 14, 3, 6, 1, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_period: [7, 14, 5, 9, 15, 6, 12, 13, 8, 10, 11, 1, 3, 4]
+  status: SATISFIED
+  time: 0.08
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 0, 0, 117, 135, 101, 130, 112, 139, 0, 111, 0, 101,
+      105]
+    inventory_periods: [1, 0, 0, 3, 0, 1, 0, 1, 0, 1, 4, 7, 9, 11]
+    objective: 1431
+    production_by_order: [0, 12, 13, 14, 3, 6, 1, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_order: [0, 12, 13, 14, 3, 6, 1, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_period: [7, 14, 5, 9, 15, 6, 12, 13, 8, 10, 11, 2, 3, 4]
+  status: SATISFIED
+  time: 0.08
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [135, 0, 101, 100, 0, 0, 124, 112, 139, 0, 111, 0, 101,
+      105]
+    inventory_periods: [4, 0, 4, 3, 0, 5, 0, 1, 0, 1, 4, 4, 6, 8]
+    objective: 1428
+    production_by_order: [3, 6, 0, 1, 12, 13, 14, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_order: [3, 6, 6, 1, 12, 13, 14, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_period: [4, 14, 1, 9, 15, 2, 12, 13, 8, 10, 11, 5, 6, 7]
+  status: SATISFIED
+  time: 0.09
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 135, 101, 100, 0, 0, 124, 112, 139, 0, 111, 0, 101,
+      105]
+    inventory_periods: [4, 0, 4, 3, 0, 4, 0, 1, 0, 1, 4, 4, 6, 8]
+    objective: 1418
+    production_by_order: [3, 0, 6, 1, 12, 13, 14, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_order: [3, 3, 6, 1, 12, 13, 14, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_period: [4, 14, 1, 9, 15, 3, 12, 13, 8, 10, 11, 5, 6, 7]
+  status: SATISFIED
+  time: 0.09
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 135, 101, 100, 0, 0, 124, 112, 139, 0, 111, 0, 101,
+      105]
+    inventory_periods: [4, 0, 3, 3, 0, 4, 0, 1, 0, 1, 4, 4, 6, 8]
+    objective: 1408
+    production_by_order: [0, 3, 6, 1, 12, 13, 14, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_order: [0, 3, 6, 1, 12, 13, 14, 9, 4, 10, 11, 7, 8, 2, 5]
+    production_period: [4, 14, 2, 9, 15, 3, 12, 13, 8, 10, 11, 5, 6, 7]
+  status: SATISFIED
+  time: 0.1
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 139, 111, 101, 100, 0, 0, 117, 139, 0, 111, 0, 101,
+      105]
+    inventory_periods: [3, 0, 3, 3, 0, 3, 0, 1, 5, 1, 4, 3, 5, 7]
+    objective: 1404
+    production_by_order: [0, 3, 9, 6, 1, 12, 13, 14, 4, 10, 11, 7, 8, 2, 5]
+    production_order: [0, 3, 9, 6, 1, 12, 13, 14, 4, 10, 11, 7, 8, 2, 5]
+    production_period: [5, 14, 2, 9, 15, 4, 12, 13, 3, 10, 11, 6, 7, 8]
+  status: SATISFIED
+  time: 0.13
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 101, 105, 139, 103, 0, 0, 117, 139, 0, 111, 0, 101,
+      105]
+    inventory_periods: [5, 0, 1, 3, 0, 5, 0, 1, 3, 1, 4, 3, 5, 7]
+    objective: 1401
+    production_by_order: [0, 6, 1, 3, 9, 12, 13, 14, 4, 10, 11, 7, 8, 2, 5]
+    production_order: [0, 6, 1, 3, 9, 12, 13, 14, 4, 10, 11, 7, 8, 2, 5]
+    production_period: [3, 14, 4, 9, 15, 2, 12, 13, 5, 10, 11, 6, 7, 8]
+  status: SATISFIED
+  time: 0.13
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 0, 117, 0, 135, 101, 130, 0, 0, 0, 111, 0, 101, 105]
+    inventory_periods: [1, 0, 1, 7, 0, 1, 0, 1, 0, 1, 4, 8, 10, 12]
+    objective: 1260
+    production_by_order: [12, 13, 14, 3, 4, 6, 1, 9, 0, 10, 11, 7, 8, 2, 5]
+    production_order: [12, 13, 14, 3, 4, 6, 1, 9, 9, 10, 11, 7, 8, 2, 5]
+    production_period: [7, 14, 4, 5, 15, 6, 12, 13, 8, 10, 11, 1, 2, 3]
+  status: SATISFIED
+  time: 0.14
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 135, 101, 100, 0, 0, 124, 0, 0, 0, 111, 0, 101, 105]
+    inventory_periods: [4, 0, 4, 10, 0, 4, 0, 1, 0, 1, 4, 4, 6, 8]
+    objective: 1237
+    production_by_order: [3, 4, 6, 1, 12, 13, 14, 9, 0, 10, 11, 7, 8, 2, 5]
+    production_order: [3, 4, 6, 1, 12, 13, 14, 9, 9, 10, 11, 7, 8, 2, 5]
+    production_period: [4, 14, 1, 2, 15, 3, 12, 13, 8, 10, 11, 5, 6, 7]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 0, 0, 112, 0, 135, 101, 100, 0, 0, 161, 0, 101, 105]
+    inventory_periods: [0, 0, 0, 6, 0, 0, 0, 1, 7, 9, 11, 0, 2, 4]
+    objective: 1215
+    production_by_order: [9, 10, 0, 11, 3, 4, 6, 1, 12, 13, 14, 7, 8, 2, 5]
+    production_order: [9, 10, 10, 11, 3, 4, 6, 1, 12, 13, 14, 7, 8, 2, 5]
+    production_period: [8, 14, 5, 6, 15, 7, 12, 13, 1, 2, 4, 9, 10, 11]
+  status: SATISFIED
+  time: 0.39
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 0, 0, 112, 0, 135, 101, 100, 0, 0, 161, 0, 101, 105]
+    inventory_periods: [0, 0, 0, 6, 0, 0, 0, 1, 7, 8, 11, 0, 2, 4]
+    objective: 1205
+    production_by_order: [9, 0, 10, 11, 3, 4, 6, 1, 12, 13, 14, 7, 8, 2, 5]
+    production_order: [9, 9, 10, 11, 3, 4, 6, 1, 12, 13, 14, 7, 8, 2, 5]
+    production_period: [8, 14, 5, 6, 15, 7, 12, 13, 1, 3, 4, 9, 10, 11]
+  status: SATISFIED
+  time: 0.39
+- configuration: Gecode
+  data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 0, 0, 112, 0, 135, 101, 100, 0, 0, 161, 0, 101, 105]
+    inventory_periods: [0, 0, 0, 6, 0, 0, 0, 1, 6, 8, 11, 0, 2, 4]
+    objective: 1195
+    production_by_order: [0, 9, 10, 11, 3, 4, 6, 1, 12, 13, 14, 7, 8, 2, 5]
+    production_order: [0, 9, 10, 11, 3, 4, 6, 1, 12, 13, 14, 7, 8, 2, 5]
+    production_period: [8, 14, 5, 6, 15, 7, 12, 13, 2, 3, 4, 9, 10, 11]
+  status: SATISFIED
+  time: 0.4
+- {configuration: Gecode, data_file: data/mznc2019/lot-sizing/pigment15a.psp.dzn,
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn, problem: lot-sizing, status: OPTIMAL_SOLUTION,
+  time: 27.43}

@@ -1,0 +1,14 @@
+configuration: CBC HR
+data_file: data/mznc2019/steelmillslab/bench_20_15.dzn
+evaluatedHalfReifiedConstraints: 110
+evaluatedReifiedConstraints: 12541
+flatBoolVars: 110
+flatIntConstraints: 7457
+flatIntVars: 20423
+flatTime: 2.99285
+method: minimize
+model: data/mznc2019/steelmillslab/steelmillslab.mzn
+paths: 0
+problem: steelmillslab
+status: UNKNOWN
+time: 1201.1752622630447

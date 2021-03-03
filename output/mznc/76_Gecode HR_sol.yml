@@ -1,0 +1,107 @@
+- configuration: Gecode HR
+  data_file: data/mznc2019/stack-cuttingstock/d8.dzn
+  model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
+  problem: stack-cuttingstock
+  solution:
+    m: [0, 0, 0, 0, 0, 0, 12, 27, 16, 22]
+    objective: 77
+    used: [0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+    x:
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+    - [0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+    - [0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+    - [1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 343.42
+- configuration: Gecode HR
+  data_file: data/mznc2019/stack-cuttingstock/d8.dzn
+  model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
+  problem: stack-cuttingstock
+  solution:
+    m: [0, 0, 0, 0, 0, 0, 12, 27, 12, 22]
+    objective: 73
+    used: [0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+    x:
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+    - [0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+    - [0, 0, 0, 0, 2, 1, 0, 0, 0, 0]
+    - [1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 343.42
+- configuration: Gecode HR
+  data_file: data/mznc2019/stack-cuttingstock/d8.dzn
+  model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
+  problem: stack-cuttingstock
+  solution:
+    m: [0, 0, 0, 0, 0, 0, 12, 27, 16, 13]
+    objective: 68
+    used: [0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+    x:
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+    - [0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+    - [0, 0, 0, 1, 1, 1, 0, 0, 0, 0]
+    - [1, 1, 2, 0, 0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 343.43
+- configuration: Gecode HR
+  data_file: data/mznc2019/stack-cuttingstock/d8.dzn
+  model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
+  problem: stack-cuttingstock
+  solution:
+    m: [0, 0, 0, 0, 0, 0, 12, 27, 12, 16]
+    objective: 67
+    used: [0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+    x:
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+    - [0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+    - [0, 0, 1, 1, 0, 1, 0, 0, 0, 0]
+    - [1, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 343.43
+- configuration: Gecode HR
+  data_file: data/mznc2019/stack-cuttingstock/d8.dzn
+  model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
+  problem: stack-cuttingstock
+  solution:
+    m: [0, 0, 0, 0, 0, 0, 27, 12, 16, 11]
+    objective: 66
+    used: [0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+    x:
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+    - [0, 0, 1, 1, 0, 1, 0, 0, 0, 0]
+    - [0, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+    - [1, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+  status: SATISFIED
+  time: 538.15
+- {configuration: Gecode HR, data_file: data/mznc2019/stack-cuttingstock/d8.dzn, model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn,
+  problem: stack-cuttingstock, status: SATISFIED}

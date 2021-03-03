@@ -1,0 +1,7 @@
+configuration: CBC
+data_file: data/mznc2020/code-generator/hexagon_gcc.reload1.gen_reload.dzn
+error: "std::bad_alloc\nterminate called after throwing an instance of 'std::bad_alloc'\n\
+  \  what():  std::bad_alloc"
+model: data/mznc2020/code-generator/unison.mzn
+problem: code-generator
+status: ERROR

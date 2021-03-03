@@ -1,0 +1,11 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/pentominoes/07.dzn
+flatIntConstraints: 58416
+flatIntVars: 289660
+flatTime: 44.0986
+method: satisfy
+model: data/mznc2020/pentominoes/pentominoes-int.mzn
+paths: 0
+problem: pentominoes
+status: UNKNOWN
+time: 1201.2495982684195

@@ -1,0 +1,12 @@
+configuration: CBC
+data_file: data/mznc2019/amaze/2012-03-19.dzn
+evaluatedReifiedConstraints: 1538
+flatIntConstraints: 1792
+flatIntVars: 2045
+flatTime: 0.260013
+method: satisfy
+model: data/mznc2019/amaze/amaze3.mzn
+paths: 0
+problem: amaze
+status: UNKNOWN
+time: 1201.1201250050217

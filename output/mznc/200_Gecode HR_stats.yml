@@ -1,0 +1,25 @@
+configuration: Gecode HR
+data_file: ''
+evaluatedReifiedConstraints: 536
+failures: 1910958
+flatBoolVars: 556
+flatIntConstraints: 1099
+flatIntVars: 549
+flatTime: 0.313046
+initTime: 0.027101
+method: minimize
+model: data/mznc2020/bnn-planner/sysadmin_4_2s.mzn
+nSolutions: 1
+nodes: 3821925
+objective: 0
+paths: 0
+peakDepth: 30
+problem: bnn-planner
+propagations: 2289048253
+propagators: 1603
+restarts: 0
+solutions: 1
+solveTime: 447.246
+status: OPTIMAL_SOLUTION
+time: 447.7038174830377
+variables: 1105

@@ -1,0 +1,18 @@
+configuration: CBC HR
+data_file: data/mznc2020/soccer-computational/xIGData_24_24_16_1.dzn
+evaluatedReifiedConstraints: 15640
+flatIntConstraints: 33576
+flatIntVars: 18039
+flatTime: 5.26959
+method: satisfy
+model: data/mznc2020/soccer-computational/ecp.mzn
+nSolutions: 0
+nodes: 219
+objective: 1e+308
+objectiveBound: 0
+openNodes: -1
+paths: 0
+problem: soccer-computational
+solveTime: 1169.8517
+status: UNKNOWN
+time: 1176.6155703049153

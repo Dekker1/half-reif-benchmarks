@@ -1,0 +1,16 @@
+configuration: Gecode HR
+data_file: data/mznc2020/code-generator/hexagon_gcc.reload1.gen_reload.dzn
+eliminatedImplications: 8428
+evaluatedHalfReifiedConstraints: 175172
+evaluatedReifiedConstraints: 42088
+flatBoolConstraints: 59265
+flatBoolVars: 200071
+flatIntConstraints: 249906
+flatIntVars: 45548
+flatTime: 110.609
+method: minimize
+model: data/mznc2020/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1201.6139985155314

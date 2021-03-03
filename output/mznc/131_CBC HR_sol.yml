@@ -1,0 +1,12 @@
+- configuration: CBC HR
+  data_file: data/mznc2020/tower_challenge/tower_070_070_30_100-05.dzn
+  model: data/mznc2020/tower_challenge/tower.mzn
+  problem: tower_challenge
+  solution:
+    objective: 70
+    power: [3, 2, 2, 3, 1, 1, 2, 1, 2, 1, 2, 1, 1, 2, 2, 2, 2, 3, 2, 2, 2, 1, 2, 2,
+      2, 1, 2, 2, 2, 2]
+  status: SATISFIED
+  time: 1186.84
+- {configuration: CBC HR, data_file: data/mznc2020/tower_challenge/tower_070_070_30_100-05.dzn,
+  model: data/mznc2020/tower_challenge/tower.mzn, problem: tower_challenge, status: SATISFIED}

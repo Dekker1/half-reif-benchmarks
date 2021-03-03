@@ -1,0 +1,17 @@
+configuration: CBC
+data_file: data/mznc2020/radiation/i7-21.dzn
+flatIntConstraints: 2152
+flatIntVars: 2115
+flatTime: 0.316485
+method: minimize
+model: data/mznc2020/radiation/radiation.mzn
+nSolutions: 1
+nodes: 199
+objective: 1108
+objectiveBound: 1108
+openNodes: -1
+paths: 0
+problem: radiation
+solveTime: 2.9674
+status: OPTIMAL_SOLUTION
+time: 3.4083309788256884

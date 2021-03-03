@@ -1,0 +1,15 @@
+configuration: CBC HR
+data_file: data/mznc2019/code-generator/mips_mesa.shapes.auxWireBox.dzn
+eliminatedLinearConstraints: 2682
+evaluatedHalfReifiedConstraints: 142565
+evaluatedReifiedConstraints: 240906
+flatBoolVars: 1394
+flatIntConstraints: 1307789
+flatIntVars: 1018280
+flatTime: 240.089
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1201.958461964503

@@ -1,0 +1,19 @@
+configuration: CBC HR
+data_file: data/mznc2020/stable-goods/s-d7.dzn
+evaluatedHalfReifiedConstraints: 3860
+evaluatedReifiedConstraints: 482
+flatIntConstraints: 13694
+flatIntVars: 12381
+flatTime: 4.08566
+method: maximize
+model: data/mznc2020/stable-goods/stable-goods-solution.mzn
+nSolutions: 0
+nodes: 3247
+objective: 1e+308
+objectiveBound: 14746.4981112
+openNodes: -1
+paths: 0
+problem: stable-goods
+solveTime: 1194.6717
+status: UNKNOWN
+time: 1199.5422591846436

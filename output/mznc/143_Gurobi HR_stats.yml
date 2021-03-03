@@ -1,0 +1,19 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/cable_tree_wiring/R046.dzn
+evaluatedHalfReifiedConstraints: 98
+evaluatedReifiedConstraints: 4890
+flatIntConstraints: 18309
+flatIntVars: 13177
+flatTime: 3.04292
+method: minimize
+model: data/mznc2020/cable_tree_wiring/ctw.mzn
+nSolutions: 1
+nodes: 1894
+objective: 143635
+objectiveBound: 2709.08708277
+openNodes: 133
+paths: 0
+problem: cable_tree_wiring
+solveTime: 1196.9549
+status: SATISFIED
+time: 1200.80189746432

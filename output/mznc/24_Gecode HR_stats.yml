@@ -1,0 +1,22 @@
+configuration: Gecode HR
+data_file: data/mznc2019/multi-knapsack/mknap2-40.dzn
+failures: 114954449
+flatIntConstraints: 11
+flatIntVars: 96
+flatTime: 0.050375
+initTime: 0.001094
+method: maximize
+model: data/mznc2019/multi-knapsack/mknapsack_global.mzn
+nSolutions: 0
+nodes: 229908929
+paths: 0
+peakDepth: 62
+problem: multi-knapsack
+propagations: 2551386855
+propagators: 11
+restarts: 0
+solutions: 0
+solveTime: 1199.94
+status: UNKNOWN
+time: 1200.054002577439
+variables: 96

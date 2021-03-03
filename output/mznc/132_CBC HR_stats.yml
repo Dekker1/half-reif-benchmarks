@@ -1,0 +1,19 @@
+configuration: CBC HR
+data_file: data/mznc2020/tower_challenge/tower_070_070_15_070-06.dzn
+evaluatedReifiedConstraints: 4241
+flatBoolVars: 1120
+flatIntConstraints: 9832
+flatIntVars: 3652
+flatTime: 1.86625
+method: maximize
+model: data/mznc2020/tower_challenge/tower.mzn
+nSolutions: 0
+nodes: 12616
+objective: 1e+308
+objectiveBound: 70
+openNodes: -1
+paths: 0
+problem: tower_challenge
+solveTime: 1193.4692
+status: UNKNOWN
+time: 1195.7811080608517

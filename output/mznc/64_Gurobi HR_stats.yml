@@ -1,0 +1,21 @@
+configuration: Gurobi HR
+data_file: data/mznc2019/hrc/exp1-1-5110.dzn
+eliminatedLinearConstraints: 194
+evaluatedHalfReifiedConstraints: 751
+evaluatedReifiedConstraints: 1676
+flatBoolVars: 398
+flatIntConstraints: 5032
+flatIntVars: 5204
+flatTime: 1.40375
+method: minimize
+model: data/mznc2019/hrc/hrc.mzn
+nSolutions: 1
+nodes: 160
+objective: 5
+objectiveBound: 4.67801662493
+openNodes: 2
+paths: 0
+problem: hrc
+solveTime: 7.0249
+status: OPTIMAL_SOLUTION
+time: 8.878464894369245

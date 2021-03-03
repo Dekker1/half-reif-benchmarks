@@ -1,0 +1,2 @@
+- {configuration: CBC HR, data_file: data/mznc2019/triangular/n29.dzn, model: data/mznc2019/triangular/triangular.mzn,
+  problem: triangular, status: UNKNOWN}

@@ -1,0 +1,15 @@
+- configuration: Gurobi
+  data_file: data/mznc2019/nside/MEDIUM_200_50.dzn
+  model: data/mznc2019/nside/full.mzn
+  problem: nside
+  solution:
+    d: [164, 146, 195, 16, 132, 24, 127, 218, 183, 1, 208, 223, 30, 88, 118, 95, 84,
+      105, 69, 152, 59, 173, 115, 236, 63, 176, 198, 184, 167, 112, 231, 49, 43, 120,
+      10, 203, 18, 38, 79, 159, 227, 75, 189, 170, 36, 100, 74, 5, 141, 213]
+    g: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+      1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    objective: 2916
+  status: SATISFIED
+  time: 1164.81
+- {configuration: Gurobi, data_file: data/mznc2019/nside/MEDIUM_200_50.dzn, model: data/mznc2019/nside/full.mzn,
+  problem: nside, status: OPTIMAL_SOLUTION, time: 1166.04}

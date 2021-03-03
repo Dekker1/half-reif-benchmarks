@@ -1,0 +1,17 @@
+configuration: Gurobi
+data_file: data/mznc2020/minimal-decision-sets/colic_train4.dzn
+evaluatedReifiedConstraints: 8290
+flatIntConstraints: 29848
+flatIntVars: 39864
+flatTime: 5.50453
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+nodes: 6380
+objective: 163
+objectiveBound: 56
+openNodes: 1050
+paths: 0
+problem: minimal-decision-sets
+solveTime: 1194.5055
+status: SATISFIED
+time: 1201.082999996841

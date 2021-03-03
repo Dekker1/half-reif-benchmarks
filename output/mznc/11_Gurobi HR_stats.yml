@@ -1,0 +1,13 @@
+configuration: Gurobi HR
+data_file: data/mznc2019/rcpsp-wet-diverse/j60_19_6-wet-diverse-3.dzn
+evaluatedHalfReifiedConstraints: 30
+evaluatedReifiedConstraints: 16544
+flatIntConstraints: 435571
+flatIntVars: 170814
+flatTime: 128.424
+method: maximize
+model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
+paths: 0
+problem: rcpsp-wet-diverse
+status: UNKNOWN
+time: 1201.3920644931495

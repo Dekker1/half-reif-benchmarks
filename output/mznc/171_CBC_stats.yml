@@ -1,0 +1,12 @@
+configuration: CBC
+data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_2_8_1.dzn
+evaluatedReifiedConstraints: 1800
+flatIntConstraints: 5198
+flatIntVars: 2149
+flatTime: 0.873937
+method: minimize
+model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn
+paths: 0
+problem: hoist-benchmark-for-minizinc
+status: UNKNOWN
+time: 1201.1317832823843

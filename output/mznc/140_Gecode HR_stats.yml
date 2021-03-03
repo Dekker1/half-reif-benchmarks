@@ -1,0 +1,25 @@
+configuration: Gecode HR
+data_file: data/mznc2020/pillars-and-planks/p-d2.dzn
+evaluatedHalfReifiedConstraints: 22
+failures: 49254688
+flatBoolConstraints: 11
+flatBoolVars: 22
+flatIntConstraints: 255
+flatIntVars: 201
+flatTime: 0.041812
+initTime: 0.002361
+method: minimize
+model: data/mznc2020/pillars-and-planks/pillars-planks-solution.mzn
+nSolutions: 0
+nodes: 98509399
+paths: 0
+peakDepth: 85
+problem: pillars-and-planks
+propagations: 8080813149
+propagators: 268
+restarts: 0
+solutions: 0
+solveTime: 1199.95
+status: UNKNOWN
+time: 1200.0706648472697
+variables: 225

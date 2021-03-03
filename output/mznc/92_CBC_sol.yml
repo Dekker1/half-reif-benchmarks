@@ -1,0 +1,2 @@
+- {configuration: CBC, data_file: '', model: data/mznc2019/liner-sf-repositioning/tp7_2.mzn,
+  problem: liner-sf-repositioning, status: UNKNOWN, time: 1188.19}

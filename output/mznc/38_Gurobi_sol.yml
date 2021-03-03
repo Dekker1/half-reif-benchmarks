@@ -1,0 +1,19 @@
+- configuration: Gurobi
+  data_file: data/mznc2019/lot-sizing/pigment20a.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 0, 184, 0, 0, 0, 0, 137, 0, 116, 120, 0, 0, 152, 0,
+      0, 102, 116, 0]
+    inventory_periods: [0, 0, 3, 0, 1, 0, 0, 2, 5, 2, 6, 1, 0, 0, 1, 1, 0]
+    objective: 1147
+    production_by_order: [0, 10, 11, 6, 0, 7, 8, 9, 15, 16, 12, 1, 2, 3, 4, 0, 5,
+      17, 13, 14]
+    production_order: [0, 10, 11, 6, 6, 7, 8, 9, 15, 16, 12, 1, 2, 3, 4, 4, 5, 17,
+      13, 14]
+    production_period: [12, 13, 14, 15, 17, 4, 6, 7, 8, 2, 3, 11, 19, 20, 9, 10, 18]
+  status: SATISFIED
+  time: 872.37
+- {configuration: Gurobi, data_file: data/mznc2019/lot-sizing/pigment20a.psp.dzn,
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn, problem: lot-sizing, status: OPTIMAL_SOLUTION,
+  time: 872.38}

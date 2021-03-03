@@ -1,0 +1,13 @@
+configuration: CBC
+data_file: data/mznc2019/lot-sizing/pigment20c.psp.dzn
+evaluatedReifiedConstraints: 1635
+flatBoolVars: 380
+flatIntConstraints: 1397
+flatIntVars: 9100
+flatTime: 0.853561
+method: minimize
+model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+paths: 0
+problem: lot-sizing
+status: UNKNOWN
+time: 1201.178129594773

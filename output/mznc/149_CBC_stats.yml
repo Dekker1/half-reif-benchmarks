@@ -1,0 +1,12 @@
+configuration: CBC
+data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_2m_3.dzn
+evaluatedReifiedConstraints: 47068
+flatIntConstraints: 81421
+flatIntVars: 75198
+flatTime: 14.6344
+method: minimize
+model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
+paths: 0
+problem: skill-allocation
+status: UNKNOWN
+time: 1201.215340686962

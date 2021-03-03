@@ -1,0 +1,2 @@
+- {configuration: CBC HR, data_file: data/mznc2019/code-generator/mips_gobmk.helpers.dragon_weak.dzn,
+  model: data/mznc2019/code-generator/unison.mzn, problem: code-generator, status: UNKNOWN}

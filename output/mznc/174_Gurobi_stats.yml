@@ -1,0 +1,17 @@
+configuration: Gurobi
+data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_3_2_5.dzn
+evaluatedReifiedConstraints: 3996
+flatIntConstraints: 11396
+flatIntVars: 4735
+flatTime: 1.69459
+method: minimize
+model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn
+nSolutions: 0
+nodes: 16921
+objective: 1e+308
+objectiveBound: 491
+paths: 0
+problem: hoist-benchmark-for-minizinc
+solveTime: 1198.3005
+status: UNKNOWN
+time: 1200.4755398798734

@@ -1,0 +1,27 @@
+configuration: Gecode HR
+data_file: data/mznc2019/hrc/exp1-1-5460.dzn
+evaluatedHalfReifiedConstraints: 492
+evaluatedReifiedConstraints: 900
+failures: 1491322
+flatBoolConstraints: 634
+flatBoolVars: 2814
+flatIntConstraints: 2158
+flatIntVars: 946
+flatTime: 0.16081
+initTime: 0.026096
+method: minimize
+model: data/mznc2019/hrc/hrc.mzn
+nSolutions: 1
+nodes: 2983364
+objective: 9
+paths: 0
+peakDepth: 1020
+problem: hrc
+propagations: 751427096
+propagators: 2749
+restarts: 0
+solutions: 1
+solveTime: 230.423
+status: OPTIMAL_SOLUTION
+time: 230.7092223353684
+variables: 4958

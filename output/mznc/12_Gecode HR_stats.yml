@@ -1,0 +1,27 @@
+configuration: Gecode HR
+data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-3.dzn
+evaluatedHalfReifiedConstraints: 18
+evaluatedReifiedConstraints: 247
+failures: 24389982
+flatBoolConstraints: 14881
+flatBoolVars: 15137
+flatIntConstraints: 15711
+flatIntVars: 15346
+flatTime: 1.53882
+initTime: 0.227348
+method: maximize
+model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
+nSolutions: 3
+nodes: 48780070
+objective: 264
+paths: 0
+peakDepth: 76
+problem: rcpsp-wet-diverse
+propagations: 1646231189
+propagators: 29964
+restarts: 0
+solutions: 3
+solveTime: 1198.46
+status: SATISFIED
+time: 1200.712711814791
+variables: 30487

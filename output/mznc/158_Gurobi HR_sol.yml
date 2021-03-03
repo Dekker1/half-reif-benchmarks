@@ -1,0 +1,96 @@
+- configuration: Gurobi HR
+  data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn
+  model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+  problem: minimal-decision-sets
+  solution:
+    feat:
+    - {e: FEATUREX, i: 26}
+    - {e: FEATUREX, i: 33}
+    - {e: FEATUREX, i: 34}
+    - {e: FEATUREX, i: 34}
+    - {e: FEATUREX, i: 34}
+    m: [false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, true, false, true, false, true,
+      false, false, true, false, false, true, false, false, false, true, false, false,
+      false, true, false, false, false, true, false, true, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, false, false, false, false, false,
+      true, false, false, true, false, false, false, true, true, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, true, false, false, false, true, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, false, true, false, false, false, false, false, false, false, false,
+      false, true, false, false, false, false, true, false, false, false, false, false,
+      false, false, false, false, false]
+    objective: 34
+    sign: [false, false, false, false, false]
+    valid:
+    - [true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true]
+    - [true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, false,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true]
+    - [true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true]
+    - [false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false]
+    - [false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false]
+  status: SATISFIED
+  time: 90.24
+- {configuration: Gurobi HR, data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn,
+  model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
+  status: OPTIMAL_SOLUTION, time: 90.26}

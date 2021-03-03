@@ -1,0 +1,20 @@
+configuration: CBC HR
+data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+eliminatedLinearConstraints: 36
+evaluatedHalfReifiedConstraints: 48
+evaluatedReifiedConstraints: 29
+flatIntConstraints: 317
+flatIntVars: 176
+flatTime: 0.079797
+method: maximize
+model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+nSolutions: 1
+nodes: 33
+objective: 1962
+objectiveBound: 1962
+openNodes: -1
+paths: 0
+problem: fox-geese-corn
+solveTime: 1.1512
+status: OPTIMAL_SOLUTION
+time: 1.277788007631898

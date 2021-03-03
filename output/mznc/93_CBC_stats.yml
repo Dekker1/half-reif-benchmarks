@@ -1,0 +1,17 @@
+configuration: CBC
+data_file: ''
+flatIntConstraints: 117
+flatIntVars: 14374
+flatTime: 1.20736
+method: minimize
+model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+nSolutions: 0
+nodes: 109854
+objective: 1e+308
+objectiveBound: 0
+openNodes: -1
+paths: 0
+problem: liner-sf-repositioning
+solveTime: 1193.0145
+status: UNKNOWN
+time: 1194.5112624689937

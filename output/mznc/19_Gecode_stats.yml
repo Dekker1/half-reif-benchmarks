@@ -1,0 +1,13 @@
+configuration: Gecode
+data_file: data/mznc2019/triangular/n37.dzn
+flatIntConstraints: 82252
+flatIntVars: 704
+flatTime: 4.46032
+initTime: 0.466165
+method: maximize
+model: data/mznc2019/triangular/triangular.mzn
+objective: 80
+paths: 0
+problem: triangular
+status: SATISFIED
+time: 1201.1242220923305

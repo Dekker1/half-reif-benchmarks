@@ -1,0 +1,23 @@
+configuration: Gecode HR
+data_file: data/mznc2019/accap/accap_instance9.dzn
+failures: 1064600
+flatIntConstraints: 8992
+flatIntVars: 532
+flatTime: 0.364972
+initTime: 0.043188
+method: minimize
+model: data/mznc2019/accap/accap.mzn
+nSolutions: 66
+nodes: 2132485
+objective: 2415
+paths: 0
+peakDepth: 532
+problem: accap
+propagations: 7647530101
+propagators: 8993
+restarts: 0
+solutions: 66
+solveTime: 1199.63
+status: SATISFIED
+time: 1200.2248990964144
+variables: 532

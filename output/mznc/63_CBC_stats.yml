@@ -1,0 +1,13 @@
+configuration: CBC
+data_file: data/mznc2019/hrc/exp2-1-5145.dzn
+evaluatedReifiedConstraints: 6259
+flatBoolVars: 696
+flatIntConstraints: 13928
+flatIntVars: 12501
+flatTime: 3.06553
+method: minimize
+model: data/mznc2019/hrc/hrc.mzn
+paths: 0
+problem: hrc
+status: UNKNOWN
+time: 1201.1659368015826

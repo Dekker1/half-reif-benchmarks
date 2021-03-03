@@ -1,0 +1,2 @@
+- {configuration: CBC, data_file: data/mznc2019/median-string/p2_2_20-2.dzn, model: data/mznc2019/median-string/median_string_dp.mzn,
+  problem: median-string, status: UNKNOWN, time: 1200.11}

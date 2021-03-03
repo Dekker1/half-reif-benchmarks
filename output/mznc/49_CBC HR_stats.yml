@@ -1,0 +1,19 @@
+configuration: CBC HR
+data_file: data/mznc2019/kidney-exchange/3_20_0.25_5.dzn
+evaluatedReifiedConstraints: 800
+flatBoolVars: 380
+flatIntConstraints: 1325
+flatIntVars: 995
+flatTime: 0.307004
+method: maximize
+model: data/mznc2019/kidney-exchange/ccmcp.mzn
+nSolutions: 1
+nodes: 89097
+objective: 1247
+objectiveBound: 1247
+openNodes: -1
+paths: 0
+problem: kidney-exchange
+solveTime: 543.0543
+status: OPTIMAL_SOLUTION
+time: 543.4654445443302

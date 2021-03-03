@@ -1,0 +1,17 @@
+configuration: Gurobi HR
+data_file: data/mznc2019/ptv/pax_period_20_5a.dzn
+evaluatedReifiedConstraints: 5679
+flatIntConstraints: 5158
+flatIntVars: 7855
+flatTime: 1.75992
+method: minimize
+model: data/mznc2019/ptv/pax_model.mzn
+nSolutions: 1
+nodes: 1
+objective: 50
+objectiveBound: 50
+paths: 0
+problem: ptv
+solveTime: 0.0753
+status: OPTIMAL_SOLUTION
+time: 2.090710373595357

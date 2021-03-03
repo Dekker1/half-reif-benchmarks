@@ -1,0 +1,16 @@
+- configuration: Gurobi
+  data_file: data/mznc2019/steelmillslab/bench_19_6.dzn
+  model: data/mznc2019/steelmillslab/steelmillslab.mzn
+  problem: steelmillslab
+  solution:
+    assign: [36, 42, 14, 39, 38, 21, 18, 9, 4, 57, 46, 59, 31, 1, 2, 10, 9, 61, 2,
+      61, 61, 11, 23, 34, 60, 41, 4, 19, 58, 43, 26, 59, 45, 56, 48, 30, 2, 15, 27,
+      25, 20, 35, 46, 28, 22, 28, 32, 7, 8, 9, 49, 44, 6, 20, 36, 55, 54, 33, 10,
+      33, 18, 53, 31, 3, 50, 30, 7, 29, 20, 37, 1, 25, 48, 5, 21, 45, 12, 47, 13,
+      29, 34, 49, 60, 40, 24, 55, 51, 32, 35, 16, 17, 56, 54, 6, 52, 15, 24, 13, 11,
+      57, 12, 38, 3, 37, 14, 27, 39, 19, 50, 52, 51]
+    objective: 0
+  status: SATISFIED
+  time: 35.91
+- {configuration: Gurobi, data_file: data/mznc2019/steelmillslab/bench_19_6.dzn, model: data/mznc2019/steelmillslab/steelmillslab.mzn,
+  problem: steelmillslab, status: OPTIMAL_SOLUTION, time: 35.92}

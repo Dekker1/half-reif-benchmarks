@@ -1,0 +1,102 @@
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p1_15_20-1.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    objective: 300
+  status: SATISFIED
+  time: 4.12
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p1_15_20-1.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+    objective: 285
+  status: SATISFIED
+  time: 4.13
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p1_15_20-1.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+    objective: 270
+  status: SATISFIED
+  time: 4.139999
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p1_15_20-1.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1]
+    objective: 255
+  status: SATISFIED
+  time: 4.16
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p1_15_20-1.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+    objective: 240
+  status: SATISFIED
+  time: 4.26
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p1_15_20-1.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+    objective: 225
+  status: SATISFIED
+  time: 4.7
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p1_15_20-1.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+    objective: 210
+  status: SATISFIED
+  time: 6.68
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p1_15_20-1.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1]
+    objective: 195
+  status: SATISFIED
+  time: 15.97
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p1_15_20-1.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+    objective: 180
+  status: SATISFIED
+  time: 62.01
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p1_15_20-1.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    objective: 165
+  status: SATISFIED
+  time: 292.41
+- {configuration: Gecode, data_file: data/mznc2019/median-string/p1_15_20-1.dzn, model: data/mznc2019/median-string/median_string_dp.mzn,
+  problem: median-string, status: SATISFIED}

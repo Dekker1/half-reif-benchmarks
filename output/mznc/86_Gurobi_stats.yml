@@ -1,0 +1,13 @@
+configuration: Gurobi
+data_file: data/mznc2019/code-generator/mips_mesa.shapes.auxWireBox.dzn
+evaluatedReifiedConstraints: 386178
+flatBoolVars: 1394
+flatIntConstraints: 1403799
+flatIntVars: 1028128
+flatTime: 242.936
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1202.2367228716612

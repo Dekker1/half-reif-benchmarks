@@ -1,0 +1,13 @@
+configuration: CBC
+data_file: data/mznc2020/p1f-pjs/21.dzn
+evaluatedReifiedConstraints: 240200
+flatBoolVars: 79800
+flatIntConstraints: 230306
+flatIntVars: 184589
+flatTime: 48.9261
+method: minimize
+model: data/mznc2020/p1f-pjs/p1f-pjs.mzn
+paths: 0
+problem: p1f-pjs
+status: UNKNOWN
+time: 1201.2847376894206

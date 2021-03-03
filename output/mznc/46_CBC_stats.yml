@@ -1,0 +1,13 @@
+configuration: CBC
+data_file: data/mznc2019/kidney-exchange/3_20_0.30_5.dzn
+evaluatedReifiedConstraints: 800
+flatBoolVars: 380
+flatIntConstraints: 1335
+flatIntVars: 1015
+flatTime: 0.296744
+method: maximize
+model: data/mznc2019/kidney-exchange/ccmcp.mzn
+paths: 0
+problem: kidney-exchange
+status: UNKNOWN
+time: 1201.1400941684842

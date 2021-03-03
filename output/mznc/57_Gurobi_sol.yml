@@ -1,0 +1,12 @@
+- configuration: Gurobi
+  data_file: data/mznc2019/median-string/p2_2_20-2.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [9, 3]
+    median: [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    objective: 12
+  status: SATISFIED
+  time: 1200.25
+- {configuration: Gurobi, data_file: data/mznc2019/median-string/p2_2_20-2.dzn, model: data/mznc2019/median-string/median_string_dp.mzn,
+  problem: median-string, status: SATISFIED}

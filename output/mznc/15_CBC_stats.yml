@@ -1,0 +1,6 @@
+configuration: CBC
+data_file: data/mznc2019/rcpsp-wet-diverse/j90_48_4-wet-diverse-3.dzn
+error: std::bad_alloc
+model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
+problem: rcpsp-wet-diverse
+status: ERROR

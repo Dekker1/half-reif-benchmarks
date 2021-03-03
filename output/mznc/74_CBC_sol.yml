@@ -1,0 +1,30 @@
+- configuration: CBC
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_13.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0]
+    ecorn: [0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0,
+      1, 0, 1, 0, 1, 0, 0, 0]
+    efox: [0, 0, 5, 0, 0, 0, 3, 2, 3, 0, 2, 0, 2, 0, 2, 0, 2, 0, 0, 0, 1, 0, 1, 0,
+      1, 0, 1, 0, 1, 0, 0, 0]
+    egeese: [0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1,
+      0, 1, 0, 1, 0, 1, 0, 1, 1]
+    fox: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0]
+    geese: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 0, 0]
+    objective: 6
+    trips: 1
+    wcorn: [8, 8, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1,
+      0, 1, 0, 1, 0, 1, 0, 0]
+    wfox: [6, 6, 0, 5, 4, 3, 0, 1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 2, 1, 0, 1, 0, 1,
+      0, 1, 0, 1, 0, 1, 0, 0]
+    wgeese: [7, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0,
+      1, 0, 1, 0, 1, 0, 1, 0, 0]
+  status: SATISFIED
+  time: 69.82
+- {configuration: CBC, data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_13.dzn,
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn, problem: fox-geese-corn, status: OPTIMAL_SOLUTION,
+  time: 69.83}

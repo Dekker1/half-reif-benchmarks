@@ -1,0 +1,12 @@
+configuration: CBC HR
+data_file: ''
+evaluatedReifiedConstraints: 536
+flatIntConstraints: 1067
+flatIntVars: 545
+flatTime: 1.17252
+method: minimize
+model: data/mznc2020/bnn-planner/sysadmin_4_2s.mzn
+paths: 0
+problem: bnn-planner
+status: UNKNOWN
+time: 1201.1308580245823

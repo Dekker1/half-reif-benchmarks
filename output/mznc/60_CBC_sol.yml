@@ -1,0 +1,12 @@
+- configuration: CBC
+  data_file: data/mznc2019/median-string/p2_10_8-3.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [5, 8, 5, 7, 6, 7, 0, 7, 8, 7]
+    median: [4, 3, 2, 2, 1, 3, 1, 1]
+    objective: 60
+  status: SATISFIED
+  time: 1199.84
+- {configuration: CBC, data_file: data/mznc2019/median-string/p2_10_8-3.dzn, model: data/mznc2019/median-string/median_string_dp.mzn,
+  problem: median-string, status: SATISFIED}

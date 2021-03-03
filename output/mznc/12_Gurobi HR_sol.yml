@@ -1,0 +1,14 @@
+- configuration: Gurobi HR
+  data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-3.dzn
+  model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
+  problem: rcpsp-wet-diverse
+  solution:
+    objective: 6708
+    objectives:
+    - [0, 104, 19]
+    - [143, 0, 67]
+  status: SATISFIED
+  time: 472.64
+- {configuration: Gurobi HR, data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-3.dzn,
+  model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn, problem: rcpsp-wet-diverse,
+  status: OPTIMAL_SOLUTION, time: 472.64}

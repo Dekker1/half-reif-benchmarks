@@ -1,0 +1,13 @@
+configuration: CBC HR
+data_file: data/mznc2020/cable_tree_wiring/A073.dzn
+evaluatedHalfReifiedConstraints: 2422
+evaluatedReifiedConstraints: 77998
+flatIntConstraints: 290360
+flatIntVars: 199460
+flatTime: 48.4891
+method: minimize
+model: data/mznc2020/cable_tree_wiring/ctw.mzn
+paths: 0
+problem: cable_tree_wiring
+status: UNKNOWN
+time: 1201.357163598761

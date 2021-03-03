@@ -1,0 +1,12 @@
+configuration: CBC
+data_file: data/mznc2020/stable-goods/s-d8.dzn
+evaluatedReifiedConstraints: 4612
+flatIntConstraints: 19345
+flatIntVars: 15888
+flatTime: 4.72
+method: maximize
+model: data/mznc2020/stable-goods/stable-goods-solution.mzn
+paths: 0
+problem: stable-goods
+status: UNKNOWN
+time: 1201.1633988432586

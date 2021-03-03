@@ -1,0 +1,14 @@
+configuration: CBC HR
+data_file: data/mznc2019/fox-geese-corn/fgc_50_50_50_00.dzn
+eliminatedLinearConstraints: 420
+evaluatedHalfReifiedConstraints: 560
+evaluatedReifiedConstraints: 347
+flatIntConstraints: 3723
+flatIntVars: 2024
+flatTime: 0.563691
+method: maximize
+model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+paths: 0
+problem: fox-geese-corn
+status: UNKNOWN
+time: 1201.127268154174

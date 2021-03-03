@@ -1,0 +1,19 @@
+configuration: CBC HR
+data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_2_8_1.dzn
+eliminatedLinearConstraints: 600
+evaluatedHalfReifiedConstraints: 1800
+flatIntConstraints: 2846
+flatIntVars: 1573
+flatTime: 0.67096
+method: minimize
+model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn
+nSolutions: 1
+nodes: 31887
+objective: 269
+objectiveBound: 269
+openNodes: -1
+paths: 0
+problem: hoist-benchmark-for-minizinc
+solveTime: 814.0798
+status: OPTIMAL_SOLUTION
+time: 814.9311558287591

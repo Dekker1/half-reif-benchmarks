@@ -1,0 +1,25 @@
+configuration: Gecode HR
+data_file: data/mznc2020/racp/j60_13_4_1.0.dzn
+evaluatedHalfReifiedConstraints: 12200
+failures: 3003944
+flatBoolConstraints: 6080
+flatBoolVars: 12200
+flatIntConstraints: 12292
+flatIntVars: 65
+flatTime: 0.955587
+initTime: 0.12762
+method: minimize
+model: data/mznc2020/racp/racp.mzn
+nSolutions: 0
+nodes: 6007901
+paths: 0
+peakDepth: 59
+problem: racp
+propagations: 11643680666
+propagators: 8951
+restarts: 0
+solutions: 0
+solveTime: 1199.04
+status: UNKNOWN
+time: 1200.501730715856
+variables: 12265

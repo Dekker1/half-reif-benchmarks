@@ -1,0 +1,12 @@
+configuration: CBC HR
+data_file: data/mznc2019/accap/accap_instance3.dzn
+evaluatedHalfReifiedConstraints: 276
+flatIntConstraints: 567
+flatIntVars: 301
+flatTime: 0.120879
+method: minimize
+model: data/mznc2019/accap/accap.mzn
+paths: 0
+problem: accap
+status: UNKNOWN
+time: 1201.1544633693993

@@ -1,0 +1,17 @@
+configuration: Gurobi
+data_file: data/mznc2019/amaze/2012-07-27.dzn
+evaluatedReifiedConstraints: 2353
+flatIntConstraints: 2748
+flatIntVars: 3173
+flatTime: 0.413725
+method: satisfy
+model: data/mznc2019/amaze/amaze3.mzn
+nSolutions: 0
+nodes: 57090
+objective: 1e+308
+objectiveBound: 0
+paths: 0
+problem: amaze
+solveTime: 1199.5815
+status: UNKNOWN
+time: 1200.1388398222625

@@ -1,0 +1,21 @@
+configuration: CBC HR
+data_file: data/mznc2020/sdn-chain/d24n600-3.dzn
+eliminatedLinearConstraints: 2158
+evaluatedHalfReifiedConstraints: 4035
+evaluatedReifiedConstraints: 4844
+flatBoolVars: 1678
+flatIntConstraints: 46263
+flatIntVars: 16119
+flatTime: 9.69992
+method: minimize
+model: data/mznc2020/sdn-chain/model.mzn
+nSolutions: 1
+nodes: 421
+objective: 12
+objectiveBound: 12
+openNodes: -1
+paths: 0
+problem: sdn-chain
+solveTime: 414.9023
+status: OPTIMAL_SOLUTION
+time: 426.4384646676481

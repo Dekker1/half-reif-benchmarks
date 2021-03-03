@@ -1,0 +1,18 @@
+- configuration: Gurobi HR
+  data_file: data/mznc2020/pillars-and-planks/p-d12.dzn
+  model: data/mznc2020/pillars-and-planks/pillars-planks-solution.mzn
+  problem: pillars-and-planks
+  solution:
+    left: [7, 15, 11, 13, 14, 6]
+    objective: 6
+    right: [10, 4, 3, 2, 9, 5]
+    support: [0, 0, 2, 0, 2, 2, 4, 5, 0, 4, 4, 0, 0, 0, 0, 2]
+    xk: [5, 9, 8, 5, 2, 9]
+    xr: [0, 8, 17, 19, 14, 9, 5, 3, 3, 7, 8, 1, 5, 2, 9, 19]
+    yk: [5, 1, 5, 1, 4, 4]
+    yr: [0, 0, 2, 0, 2, 2, 2, 5, 0, 2, 2, 0, 0, 0, 0, 2]
+  status: SATISFIED
+  time: 1200.07
+- {configuration: Gurobi HR, data_file: data/mznc2020/pillars-and-planks/p-d12.dzn,
+  model: data/mznc2020/pillars-and-planks/pillars-planks-solution.mzn, problem: pillars-and-planks,
+  status: SATISFIED}

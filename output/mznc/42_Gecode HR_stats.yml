@@ -1,0 +1,23 @@
+configuration: Gecode HR
+data_file: ''
+failures: 53334149
+flatIntConstraints: 161
+flatIntVars: 122
+flatTime: 0.038047
+initTime: 0.001663
+method: minimize
+model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
+nSolutions: 11
+nodes: 106668378
+objective: 332
+paths: 0
+peakDepth: 45
+problem: stochastic-vrp
+propagations: 7656766253
+propagators: 153
+restarts: 0
+solutions: 11
+solveTime: 1199.96
+status: SATISFIED
+time: 1200.0514842364937
+variables: 170

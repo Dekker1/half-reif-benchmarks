@@ -1,0 +1,2 @@
+- {configuration: Gurobi, data_file: data/mznc2019/fox-geese-corn/fgc_50_50_50_00.dzn,
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn, problem: fox-geese-corn, status: UNKNOWN}

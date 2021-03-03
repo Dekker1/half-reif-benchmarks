@@ -1,0 +1,12 @@
+configuration: CBC HR
+data_file: data/mznc2019/stack-cuttingstock/d7.dzn
+evaluatedReifiedConstraints: 204
+flatIntConstraints: 4722
+flatIntVars: 2533
+flatTime: 0.641797
+method: minimize
+model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
+paths: 0
+problem: stack-cuttingstock
+status: UNKNOWN
+time: 1201.1315872371197

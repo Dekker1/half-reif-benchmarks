@@ -1,0 +1,18 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/tower_challenge/tower_070_070_30_100-05.dzn
+evaluatedReifiedConstraints: 12082
+flatBoolVars: 3100
+flatIntConstraints: 27603
+flatIntVars: 9843
+flatTime: 5.22761
+method: maximize
+model: data/mznc2020/tower_challenge/tower.mzn
+nSolutions: 1
+nodes: 1
+objective: 100
+objectiveBound: 100
+paths: 0
+problem: tower_challenge
+solveTime: 24.6197
+status: OPTIMAL_SOLUTION
+time: 31.10314534790814

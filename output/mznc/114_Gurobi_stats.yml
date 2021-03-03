@@ -1,0 +1,12 @@
+configuration: Gurobi
+data_file: data/mznc2020/stable-goods/s-d19.dzn
+evaluatedReifiedConstraints: 19196
+flatIntConstraints: 75761
+flatIntVars: 63630
+flatTime: 23.0561
+method: maximize
+model: data/mznc2020/stable-goods/stable-goods-solution.mzn
+paths: 0
+problem: stable-goods
+status: UNKNOWN
+time: 1201.2114819288254

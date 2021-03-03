@@ -1,0 +1,24 @@
+configuration: Gecode HR
+data_file: data/mznc2020/soccer-computational/xIGData_24_24_16_1.dzn
+evaluatedReifiedConstraints: 14536
+failures: 508642
+flatBoolVars: 14536
+flatIntConstraints: 30825
+flatIntVars: 15143
+flatTime: 0.903819
+initTime: 0.25767
+method: satisfy
+model: data/mznc2020/soccer-computational/ecp.mzn
+nSolutions: 0
+nodes: 1017568
+paths: 0
+peakDepth: 331
+problem: soccer-computational
+propagations: 3209660599
+propagators: 30799
+restarts: 0
+solutions: 0
+solveTime: 1199.09
+status: UNKNOWN
+time: 1200.7548013478518
+variables: 29696

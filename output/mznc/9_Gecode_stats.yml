@@ -1,0 +1,15 @@
+configuration: Gecode
+data_file: data/mznc2019/nside/HARD_200_50.dzn
+evaluatedReifiedConstraints: 12149
+flatBoolConstraints: 49
+flatBoolVars: 12148
+flatIntConstraints: 79029
+flatIntVars: 66962
+flatTime: 3.97684
+method: maximize
+model: data/mznc2019/nside/full.mzn
+objective: 1555
+paths: 0
+problem: nside
+status: SATISFIED
+time: 1201.1833629589528

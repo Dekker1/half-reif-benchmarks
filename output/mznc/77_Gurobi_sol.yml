@@ -1,0 +1,19 @@
+- configuration: Gurobi
+  data_file: data/mznc2019/stack-cuttingstock/d5.dzn
+  model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
+  problem: stack-cuttingstock
+  solution:
+    m: [1, 7, 3, 3, 2, 3]
+    objective: 19
+    used: [1, 1, 1, 1, 1, 1]
+    x:
+    - [0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+    - [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0]
+    - [1, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]
+    - [1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+  status: SATISFIED
+  time: 8.44
+- {configuration: Gurobi, data_file: data/mznc2019/stack-cuttingstock/d5.dzn, model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn,
+  problem: stack-cuttingstock, status: OPTIMAL_SOLUTION, time: 8.45}

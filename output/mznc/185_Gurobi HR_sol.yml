@@ -1,0 +1,2 @@
+- {configuration: Gurobi HR, data_file: data/mznc2020/racp/j60_10_6_1.25.dzn, model: data/mznc2020/racp/racp.mzn,
+  problem: racp, status: UNKNOWN}

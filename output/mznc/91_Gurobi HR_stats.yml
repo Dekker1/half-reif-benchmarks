@@ -1,0 +1,17 @@
+configuration: Gurobi HR
+data_file: ''
+flatIntConstraints: 151
+flatIntVars: 18156
+flatTime: 1.49112
+method: minimize
+model: data/mznc2019/liner-sf-repositioning/tp7_4.mzn
+nSolutions: 1
+nodes: 343142
+objective: 157102
+objectiveBound: 0
+openNodes: 86516
+paths: 0
+problem: liner-sf-repositioning
+solveTime: 1198.5127
+status: SATISFIED
+time: 1200.5816995762289

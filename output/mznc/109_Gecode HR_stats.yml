@@ -1,0 +1,26 @@
+configuration: Gecode HR
+data_file: data/mznc2020/lot-sizing/pigment30a.psp.dzn
+evaluatedReifiedConstraints: 87
+failures: 33199525
+flatBoolConstraints: 58
+flatBoolVars: 87
+flatIntConstraints: 174
+flatIntVars: 113
+flatTime: 0.04685
+initTime: 0.002711
+method: minimize
+model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
+nSolutions: 37
+nodes: 66399146
+objective: 1257
+paths: 0
+peakDepth: 56
+problem: lot-sizing
+propagations: 3073393483
+propagators: 261
+restarts: 0
+solutions: 37
+solveTime: 1199.95
+status: SATISFIED
+time: 1200.070823436603
+variables: 200

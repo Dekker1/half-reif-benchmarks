@@ -1,0 +1,19 @@
+configuration: CBC HR
+data_file: data/mznc2020/racp/j60_9_9_1.25.dzn
+evaluatedHalfReifiedConstraints: 5597
+evaluatedReifiedConstraints: 16052
+flatIntConstraints: 64828
+flatIntVars: 29740
+flatTime: 10.9547
+method: minimize
+model: data/mznc2020/racp/racp.mzn
+nSolutions: 0
+nodes: 3
+objective: 1e+308
+objectiveBound: 250
+openNodes: -1
+paths: 0
+problem: racp
+solveTime: 1145.0852
+status: UNKNOWN
+time: 1159.1381064727902

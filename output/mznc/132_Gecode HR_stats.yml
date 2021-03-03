@@ -1,0 +1,27 @@
+configuration: Gecode HR
+data_file: data/mznc2020/tower_challenge/tower_070_070_15_070-06.dzn
+evaluatedHalfReifiedConstraints: 26
+evaluatedReifiedConstraints: 1065
+failures: 11860668
+flatBoolConstraints: 70
+flatBoolVars: 1231
+flatIntConstraints: 2875
+flatIntVars: 1659
+flatTime: 0.231884
+initTime: 0.01918
+method: maximize
+model: data/mznc2020/tower_challenge/tower.mzn
+nSolutions: 45
+nodes: 23721566
+objective: 45
+paths: 0
+peakDepth: 182
+problem: tower_challenge
+propagations: 10047743537
+propagators: 2960
+restarts: 0
+solutions: 45
+solveTime: 1199.76
+status: SATISFIED
+time: 1200.135040216148
+variables: 2890

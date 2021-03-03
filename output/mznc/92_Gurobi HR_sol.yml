@@ -1,0 +1,28 @@
+- configuration: Gurobi HR
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/tp7_2.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [14575, 14575, 14575, 1558, 1558, 1558, 265, 0, 265]
+    objective: 163637
+    piPort: 1
+    piWeek: [2, 9, 10, 3, 4, 5, 8, 7, 6]
+    poAct0: 6
+    poAct1: 7
+    poAct2: 7
+    poAct3: 5
+    poAct4: 5
+    poAct5: 5
+    poAct6: 15
+    poAct7: 4
+    poAct8: 11
+    reposType: [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    sos: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+    sosAct: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+    sosActACost: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+    sosActBCost: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+    sosActSavings: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 1200.26
+- {configuration: Gurobi HR, data_file: '', model: data/mznc2019/liner-sf-repositioning/tp7_2.mzn,
+  problem: liner-sf-repositioning, status: SATISFIED}

@@ -1,0 +1,94 @@
+- configuration: CBC HR
+  data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn
+  model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+  problem: minimal-decision-sets
+  solution:
+    feat:
+    - {e: FEATUREX, i: 25}
+    - {e: FEATUREX, i: 1}
+    - {e: FEATUREX, i: 10}
+    - {e: FEATUREX, i: 18}
+    - {e: FEATUREX, i: 33}
+    m: [true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, false, true, true, false, false, true,
+      true, false, false, false, false, false, false, false, true, false, true, false,
+      false, false, false, false, false, false, true, false, false, false, true, false,
+      false, false, true, false, false, false, false, false, true, false, false, false,
+      false, false, false, true, false, true, false, false, false, true, false, false,
+      false, false, false, true, true, true, false, false, true, true, false, false,
+      false, false, false, true, false, false, false]
+    objective: 124
+    sign: [false, true, false, false, false]
+    valid:
+    - [true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true]
+    - [true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, false, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true]
+    - [false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, false, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true]
+    - [false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, true, true, true, false, true, true, true, true,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, true, true, true, true, true, true, false,
+      false, true, true, true, false, true, true, true, true, true, false, true, true,
+      true]
+    - [false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, true, true, true, false, true, true, true, true,
+      true, true, true, true, true, true, true, false, true, false, true, true, true,
+      true, true, true, true, false, true, true, true, true, true, true, true, false,
+      true, true, true, true, true, false, true, true, true, true, true, true, true,
+      true, true, true, true, true, false, true, true, true, true, true, true, false,
+      false, true, true, true, false, true, true, true, true, true, false, true, true,
+      true]
+  status: SATISFIED
+  time: 1194.22
+- {configuration: CBC HR, data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn,
+  model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
+  status: SATISFIED}

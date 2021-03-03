@@ -1,0 +1,12 @@
+configuration: CBC HR
+data_file: data/mznc2020/whirlpool/d30.dzn
+evaluatedReifiedConstraints: 4260
+flatIntConstraints: 13787
+flatIntVars: 817725
+flatTime: 65.501999
+method: satisfy
+model: data/mznc2020/whirlpool/whirlpool-x.mzn
+paths: 0
+problem: whirlpool
+status: UNKNOWN
+time: 1201.6147284470499

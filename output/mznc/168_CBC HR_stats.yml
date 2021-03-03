@@ -1,0 +1,12 @@
+configuration: CBC HR
+data_file: data/mznc2020/gbac/UD10-gbac.dzn
+evaluatedReifiedConstraints: 1128
+flatIntConstraints: 1596
+flatIntVars: 13209
+flatTime: 1.26519
+method: minimize
+model: data/mznc2020/gbac/gbac.mzn
+paths: 0
+problem: gbac
+status: UNKNOWN
+time: 1201.1398093793541

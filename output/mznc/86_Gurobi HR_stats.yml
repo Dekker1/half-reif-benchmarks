@@ -1,0 +1,15 @@
+configuration: Gurobi HR
+data_file: data/mznc2019/code-generator/mips_mesa.shapes.auxWireBox.dzn
+eliminatedLinearConstraints: 2682
+evaluatedHalfReifiedConstraints: 142565
+evaluatedReifiedConstraints: 240906
+flatBoolVars: 1394
+flatIntConstraints: 1287876
+flatIntVars: 1018401
+flatTime: 242.083
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1201.9747258238494

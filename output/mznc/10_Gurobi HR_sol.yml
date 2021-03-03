@@ -1,0 +1,2 @@
+- {configuration: Gurobi HR, data_file: data/mznc2019/nside/EASY_200_50.dzn, model: data/mznc2019/nside/full.mzn,
+  problem: nside, status: UNKNOWN}

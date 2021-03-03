@@ -1,0 +1,22 @@
+configuration: Gecode HR
+data_file: data/mznc2020/radiation/i8-40.dzn
+failures: 21380830
+flatIntConstraints: 2947
+flatIntVars: 4251
+flatTime: 0.174213
+initTime: 0.02522
+method: minimize
+model: data/mznc2020/radiation/radiation.mzn
+nSolutions: 0
+nodes: 42761685
+paths: 0
+peakDepth: 58
+problem: radiation
+propagations: 1579135718
+propagators: 1036
+restarts: 0
+solutions: 0
+solveTime: 1199.82
+status: UNKNOWN
+time: 1200.1231445223093
+variables: 4251

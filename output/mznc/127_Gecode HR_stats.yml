@@ -1,0 +1,22 @@
+configuration: Gecode HR
+data_file: data/mznc2020/pentominoes/05.dzn
+failures: 1943
+flatIntConstraints: 12
+flatIntVars: 60
+flatTime: 0.11972
+initTime: 0.013261
+method: satisfy
+model: data/mznc2020/pentominoes/pentominoes-int.mzn
+nSolutions: 1
+nodes: 3902
+paths: 0
+peakDepth: 33
+problem: pentominoes
+propagations: 29192
+propagators: 12
+restarts: 0
+solutions: 1
+solveTime: 0.528223
+status: SATISFIED
+time: 0.7255919314920902
+variables: 66

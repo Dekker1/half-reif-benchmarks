@@ -1,0 +1,13 @@
+configuration: Gurobi
+data_file: data/mznc2020/code-generator/mips_gobmk.patterns.autohelperpat508.dzn
+evaluatedReifiedConstraints: 91310
+flatBoolVars: 270
+flatIntConstraints: 351656
+flatIntVars: 166585
+flatTime: 54.3314
+method: minimize
+model: data/mznc2020/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1201.3216115795076

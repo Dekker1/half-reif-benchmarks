@@ -1,0 +1,20 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_2m_1.dzn
+eliminatedLinearConstraints: 461
+evaluatedHalfReifiedConstraints: 3120
+evaluatedReifiedConstraints: 44098
+flatIntConstraints: 85544
+flatIntVars: 73827
+flatTime: 17.1709
+method: minimize
+model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
+nSolutions: 1
+nodes: 522
+objective: 2
+objectiveBound: 2
+openNodes: 300
+paths: 0
+problem: skill-allocation
+solveTime: 168.8577
+status: OPTIMAL_SOLUTION
+time: 190.3332043774426

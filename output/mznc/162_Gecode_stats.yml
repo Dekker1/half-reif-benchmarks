@@ -1,0 +1,14 @@
+configuration: Gecode
+data_file: data/mznc2020/collaborative-construction/307.dzn
+evaluatedReifiedConstraints: 23808
+flatBoolConstraints: 31425
+flatBoolVars: 43631
+flatIntConstraints: 47702
+flatIntVars: 24357
+flatTime: 3.39428
+method: minimize
+model: data/mznc2020/collaborative-construction/macc.mzn
+paths: 0
+problem: collaborative-construction
+status: UNKNOWN
+time: 1201.161106735468

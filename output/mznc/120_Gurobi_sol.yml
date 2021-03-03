@@ -1,0 +1,50 @@
+- configuration: Gurobi
+  data_file: data/mznc2020/radiation/i6-9.dzn
+  model: data/mznc2020/radiation/radiation.mzn
+  problem: radiation
+  solution:
+    Beamtime: 9
+    K: 5
+    N: [3, 0, 2, 0, 0]
+    Q:
+    - - [0, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+      - [1, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+      - [1, 0, 0, 0, 0]
+    - - [1, 0, 0, 0, 0]
+      - [2, 0, 0, 0, 0]
+      - [1, 0, 0, 0, 0]
+      - [2, 0, 0, 0, 0]
+      - [1, 0, 0, 0, 0]
+      - [0, 0, 1, 0, 0]
+    - - [1, 0, 0, 0, 0]
+      - [3, 0, 0, 0, 0]
+      - [1, 0, 0, 0, 0]
+      - [1, 0, 1, 0, 0]
+      - [1, 0, 0, 0, 0]
+      - [1, 0, 1, 0, 0]
+    - - [1, 0, 0, 0, 0]
+      - [2, 0, 1, 0, 0]
+      - [1, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+      - [1, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+    - - [1, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+      - [1, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+      - [1, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+    - - [1, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+      - [1, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+      - [0, 0, 0, 0, 0]
+    objective: 338
+  status: SATISFIED
+  time: 0.14
+- {configuration: Gurobi, data_file: data/mznc2020/radiation/i6-9.dzn, model: data/mznc2020/radiation/radiation.mzn,
+  problem: radiation, status: OPTIMAL_SOLUTION, time: 0.14}

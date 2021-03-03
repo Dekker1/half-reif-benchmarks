@@ -1,0 +1,21 @@
+configuration: CBC HR
+data_file: ''
+eliminatedLinearConstraints: 78
+evaluatedHalfReifiedConstraints: 90
+evaluatedReifiedConstraints: 24
+flatBoolVars: 12
+flatIntConstraints: 390
+flatIntVars: 25051
+flatTime: 2.009659
+method: minimize
+model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
+nSolutions: 0
+nodes: 66211
+objective: 1e+308
+objectiveBound: 0
+openNodes: -1
+paths: 0
+problem: liner-sf-repositioning
+solveTime: 1184.5936
+status: UNKNOWN
+time: 1187.0754957422614

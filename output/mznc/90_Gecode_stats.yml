@@ -1,0 +1,15 @@
+configuration: Gecode
+data_file: data/mznc2019/code-generator/mips_gcc.function.use_return_register.dzn
+evaluatedReifiedConstraints: 64852
+flatBoolConstraints: 20253
+flatBoolVars: 63624
+flatIntConstraints: 73541
+flatIntVars: 11078
+flatTime: 9.72379
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+objective: 11515
+paths: 0
+problem: code-generator
+status: SATISFIED
+time: 1201.1683548409492

@@ -1,0 +1,26 @@
+configuration: Gecode HR
+data_file: data/mznc2019/amaze/mod2012-03-29.dzn
+evaluatedHalfReifiedConstraints: 724
+evaluatedReifiedConstraints: 342
+failures: 574071
+flatBoolConstraints: 114
+flatBoolVars: 838
+flatIntConstraints: 1546
+flatIntVars: 724
+flatTime: 0.076568
+initTime: 0.010907
+method: satisfy
+model: data/mznc2019/amaze/amaze3.mzn
+nSolutions: 1
+nodes: 1148187
+paths: 0
+peakDepth: 83
+problem: amaze
+propagations: 120406169
+propagators: 1767
+restarts: 0
+solutions: 1
+solveTime: 31.5033
+status: SATISFIED
+time: 31.664204685017467
+variables: 1713

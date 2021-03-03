@@ -1,0 +1,24 @@
+configuration: Gecode HR
+data_file: data/mznc2019/stack-cuttingstock/d14.dzn
+evaluatedReifiedConstraints: 72
+failures: 57065492
+flatBoolVars: 72
+flatIntConstraints: 493
+flatIntVars: 397
+flatTime: 0.042527
+initTime: 0.003619
+method: minimize
+model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
+nSolutions: 0
+nodes: 114131032
+paths: 0
+peakDepth: 64
+problem: stack-cuttingstock
+propagations: 16102223551
+propagators: 934
+restarts: 0
+solutions: 0
+solveTime: 1199.95
+status: UNKNOWN
+time: 1200.059878764674
+variables: 535

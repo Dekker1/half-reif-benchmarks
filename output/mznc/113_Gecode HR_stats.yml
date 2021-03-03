@@ -1,0 +1,26 @@
+configuration: Gecode HR
+data_file: data/mznc2020/stable-goods/s-d7.dzn
+evaluatedHalfReifiedConstraints: 4680
+evaluatedReifiedConstraints: 800
+failures: 2003556
+flatBoolConstraints: 780
+flatBoolVars: 5480
+flatIntConstraints: 15097
+flatIntVars: 9654
+flatTime: 0.937456
+initTime: 0.161127
+method: maximize
+model: data/mznc2020/stable-goods/stable-goods-solution.mzn
+nSolutions: 0
+nodes: 4007136
+paths: 0
+peakDepth: 65
+problem: stable-goods
+propagations: 2732851465
+propagators: 10228
+restarts: 0
+solutions: 0
+solveTime: 1199.07
+status: UNKNOWN
+time: 1200.53465590626
+variables: 15137

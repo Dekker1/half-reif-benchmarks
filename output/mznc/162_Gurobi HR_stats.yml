@@ -1,0 +1,19 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/collaborative-construction/307.dzn
+evaluatedHalfReifiedConstraints: 7348
+evaluatedReifiedConstraints: 27389
+flatBoolVars: 8942
+flatIntConstraints: 164825
+flatIntVars: 65682
+flatTime: 27.5799
+method: minimize
+model: data/mznc2020/collaborative-construction/macc.mzn
+nSolutions: 1
+nodes: 3354
+objective: 17
+objectiveBound: 17
+paths: 0
+problem: collaborative-construction
+solveTime: 600.1767
+status: OPTIMAL_SOLUTION
+time: 634.1793881263584

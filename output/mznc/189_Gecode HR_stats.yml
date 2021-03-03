@@ -1,0 +1,24 @@
+configuration: Gecode HR
+data_file: data/mznc2020/whirlpool/d29.dzn
+evaluatedReifiedConstraints: 3976
+failures: 1917250
+flatBoolVars: 3976
+flatIntConstraints: 8753
+flatIntVars: 5615
+flatTime: 0.240317
+initTime: 0.075766
+method: satisfy
+model: data/mznc2020/whirlpool/whirlpool-x.mzn
+nSolutions: 0
+nodes: 3834560
+paths: 0
+peakDepth: 128
+problem: whirlpool
+propagations: 2795702122
+propagators: 8753
+restarts: 0
+solutions: 0
+solveTime: 1199.76
+status: UNKNOWN
+time: 1200.2600828725845
+variables: 9591

@@ -1,0 +1,20 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/is/Ws5Q6fhGi5.dzn
+eliminatedLinearConstraints: 426
+evaluatedHalfReifiedConstraints: 2877
+evaluatedReifiedConstraints: 3024
+flatBoolVars: 1054
+flatIntConstraints: 8054
+flatIntVars: 18740
+flatTime: 6.76908
+method: minimize
+model: data/mznc2020/is/model.mzn
+nSolutions: 1
+nodes: 185
+objective: 180224
+objectiveBound: 180224
+paths: 0
+problem: is
+solveTime: 1.0143
+status: OPTIMAL_SOLUTION
+time: 8.47101771645248

@@ -1,0 +1,2 @@
+- {configuration: CBC, data_file: data/mznc2019/stack-cuttingstock/d7.dzn, model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn,
+  problem: stack-cuttingstock, status: UNKNOWN}

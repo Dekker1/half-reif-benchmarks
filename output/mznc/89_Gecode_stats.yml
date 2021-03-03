@@ -1,0 +1,15 @@
+configuration: Gecode
+data_file: data/mznc2019/code-generator/mips_gobmk.helpers.dragon_weak.dzn
+evaluatedReifiedConstraints: 51305
+flatBoolConstraints: 15724
+flatBoolVars: 50251
+flatIntConstraints: 57486
+flatIntVars: 8227
+flatTime: 6.44461
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+objective: 350
+paths: 0
+problem: code-generator
+status: SATISFIED
+time: 1201.1723107192665

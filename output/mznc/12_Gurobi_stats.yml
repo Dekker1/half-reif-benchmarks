@@ -1,0 +1,17 @@
+configuration: Gurobi
+data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-3.dzn
+evaluatedReifiedConstraints: 5988
+flatIntConstraints: 51392
+flatIntVars: 26032
+flatTime: 9.82222
+method: maximize
+model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
+nSolutions: 1
+nodes: 163
+objective: 6708
+objectiveBound: 6708
+paths: 0
+problem: rcpsp-wet-diverse
+solveTime: 443.0504
+status: OPTIMAL_SOLUTION
+time: 455.1409544683993

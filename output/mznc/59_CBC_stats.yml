@@ -1,0 +1,13 @@
+configuration: CBC
+data_file: data/mznc2019/median-string/p2_4_20-0.dzn
+evaluatedReifiedConstraints: 11740
+flatBoolVars: 100
+flatIntConstraints: 25297
+flatIntVars: 15277
+flatTime: 4.38162
+method: minimize
+model: data/mznc2019/median-string/median_string_dp.mzn
+paths: 0
+problem: median-string
+status: UNKNOWN
+time: 1201.1536735109985

@@ -1,0 +1,15 @@
+configuration: Gecode
+data_file: data/mznc2020/code-generator/mips_gcc.cfgbuild.control_flow_insn_p.dzn
+evaluatedReifiedConstraints: 40674
+flatBoolConstraints: 12690
+flatBoolVars: 39395
+flatIntConstraints: 46885
+flatIntVars: 8034
+flatTime: 6.06043
+method: minimize
+model: data/mznc2020/code-generator/unison.mzn
+objective: 282178734
+paths: 0
+problem: code-generator
+status: SATISFIED
+time: 1201.1501336954534

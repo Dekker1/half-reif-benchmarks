@@ -1,0 +1,26 @@
+configuration: Gecode HR
+data_file: ''
+evaluatedHalfReifiedConstraints: 153
+failures: 1360568
+flatBoolConstraints: 72
+flatBoolVars: 189
+flatIntConstraints: 242
+flatIntVars: 157
+flatTime: 0.130294
+initTime: 0.007933
+method: minimize
+model: data/mznc2019/liner-sf-repositioning/tp7_2.mzn
+nSolutions: 2155
+nodes: 2725461
+objective: 609123
+paths: 0
+peakDepth: 50
+problem: liner-sf-repositioning
+propagations: 617643218
+propagators: 332
+restarts: 0
+solutions: 2155
+solveTime: 1199.89
+status: SATISFIED
+time: 1200.1255903951824
+variables: 346

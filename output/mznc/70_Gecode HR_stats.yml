@@ -1,0 +1,12 @@
+configuration: Gecode HR
+data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
+flatIntConstraints: 206
+flatIntVars: 304
+flatTime: 4.03829
+method: maximize
+model: data/mznc2019/groupsplitter/group.mzn
+objective: 254
+paths: 0
+problem: groupsplitter
+status: SATISFIED
+time: 1201.2183997761458

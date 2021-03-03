@@ -1,0 +1,23 @@
+configuration: Gecode HR
+data_file: data/mznc2019/groupsplitter/u9g1pref1.dzn
+failures: 233
+flatIntConstraints: 104
+flatIntVars: 142
+flatTime: 2.15707
+initTime: 4.6213
+method: maximize
+model: data/mznc2019/groupsplitter/group.mzn
+nSolutions: 9
+nodes: 521
+objective: 144
+paths: 0
+peakDepth: 30
+problem: groupsplitter
+propagations: 20720
+propagators: 101
+restarts: 0
+solutions: 9
+solveTime: 18.2031
+status: OPTIMAL_SOLUTION
+time: 25.937768664211035
+variables: 178

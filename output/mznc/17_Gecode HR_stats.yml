@@ -1,0 +1,23 @@
+configuration: Gecode HR
+data_file: data/mznc2019/triangular/n29.dzn
+failures: 41695141
+flatIntConstraints: 31466
+flatIntVars: 436
+flatTime: 1.8048
+initTime: 0.159717
+method: maximize
+model: data/mznc2019/triangular/triangular.mzn
+nSolutions: 9
+nodes: 83390367
+objective: 63
+paths: 0
+peakDepth: 63
+problem: triangular
+propagations: 5450090258
+propagators: 31466
+restarts: 0
+solutions: 9
+solveTime: 1198.19
+status: SATISFIED
+time: 1200.7486384864897
+variables: 842

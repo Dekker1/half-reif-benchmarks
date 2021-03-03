@@ -1,0 +1,17 @@
+configuration: Gurobi
+data_file: data/mznc2019/triangular/n29.dzn
+flatIntConstraints: 31466
+flatIntVars: 436
+flatTime: 1.67787
+method: maximize
+model: data/mznc2019/triangular/triangular.mzn
+nSolutions: 1
+nodes: 506
+objective: 71
+objectiveBound: 250.309448528
+openNodes: 487
+paths: 0
+problem: triangular
+solveTime: 1198.3234
+status: SATISFIED
+time: 1200.5336882155389

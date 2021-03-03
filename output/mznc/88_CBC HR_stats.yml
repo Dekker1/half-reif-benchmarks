@@ -1,0 +1,21 @@
+configuration: CBC HR
+data_file: data/mznc2019/code-generator/mips_gobmk.patterns.autohelperpat1114.dzn
+eliminatedLinearConstraints: 1319
+evaluatedHalfReifiedConstraints: 33432
+evaluatedReifiedConstraints: 53352
+flatBoolVars: 348
+flatIntConstraints: 291071
+flatIntVars: 168712
+flatTime: 47.7203
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+nSolutions: 0
+nodes: 0
+objective: 1e+308
+objectiveBound: 108
+openNodes: -1
+paths: 0
+problem: code-generator
+solveTime: 696.6858
+status: UNKNOWN
+time: 757.2808025926352

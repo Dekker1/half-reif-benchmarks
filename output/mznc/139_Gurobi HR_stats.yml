@@ -1,0 +1,19 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/pillars-and-planks/p-d7.dzn
+evaluatedHalfReifiedConstraints: 940
+evaluatedReifiedConstraints: 64
+flatBoolVars: 16
+flatIntConstraints: 2910
+flatIntVars: 1555
+flatTime: 0.508117
+method: minimize
+model: data/mznc2020/pillars-and-planks/pillars-planks-solution.mzn
+nSolutions: 0
+nodes: 335294
+objective: 1e+308
+objectiveBound: 5
+paths: 0
+problem: pillars-and-planks
+solveTime: 1199.4872
+status: UNKNOWN
+time: 1200.4142656251788

@@ -1,0 +1,12 @@
+configuration: CBC
+data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn
+evaluatedReifiedConstraints: 6834
+flatIntConstraints: 24596
+flatIntVars: 24096
+flatTime: 4.73281
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+paths: 0
+problem: minimal-decision-sets
+status: UNKNOWN
+time: 1201.1776054110378

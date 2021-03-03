@@ -1,0 +1,3261 @@
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 0, 0, 0]
+    egeese: [0, 0, 0, 0]
+    fox: [0, 0, 0]
+    geese: [0, 0, 0]
+    objective: 0
+    trips: 0
+    wcorn: [124, 0, 0, 0]
+    wfox: [118, 0, 0, 0]
+    wgeese: [213, 0, 0, 0]
+  status: SATISFIED
+  time: 0.05
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 0]
+    egeese: [0, 60, 0, 0]
+    fox: [118, 0, 0]
+    geese: [60, 0, 0]
+    objective: 1126
+    trips: 1
+    wcorn: [124, 123, 0, 0]
+    wfox: [118, 0, 0, 0]
+    wgeese: [213, 152, 0, 0]
+  status: SATISFIED
+  time: 0.06
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 1, 61]
+    fox: [118, 118, 118]
+    geese: [60, 59, 60]
+    objective: 1131
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 211, 150]
+  status: SATISFIED
+  time: 0.11
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 2, 62]
+    fox: [118, 118, 118]
+    geese: [60, 58, 60]
+    objective: 1136
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 210, 149]
+  status: SATISFIED
+  time: 0.11
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 3, 63]
+    fox: [118, 118, 118]
+    geese: [60, 57, 60]
+    objective: 1141
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 209, 148]
+  status: SATISFIED
+  time: 0.12
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 4, 64]
+    fox: [118, 118, 118]
+    geese: [60, 56, 60]
+    objective: 1146
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 208, 147]
+  status: SATISFIED
+  time: 0.12
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 5, 65]
+    fox: [118, 118, 118]
+    geese: [60, 55, 60]
+    objective: 1151
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 207, 146]
+  status: SATISFIED
+  time: 0.12
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 6, 66]
+    fox: [118, 118, 118]
+    geese: [60, 54, 60]
+    objective: 1156
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 206, 145]
+  status: SATISFIED
+  time: 0.13
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 7, 67]
+    fox: [118, 118, 118]
+    geese: [60, 53, 60]
+    objective: 1161
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 205, 144]
+  status: SATISFIED
+  time: 0.13
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 8, 68]
+    fox: [118, 118, 118]
+    geese: [60, 52, 60]
+    objective: 1166
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 204, 143]
+  status: SATISFIED
+  time: 0.13
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 9, 69]
+    fox: [118, 118, 118]
+    geese: [60, 51, 60]
+    objective: 1171
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 203, 142]
+  status: SATISFIED
+  time: 0.13
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 10, 70]
+    fox: [118, 118, 118]
+    geese: [60, 50, 60]
+    objective: 1176
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 202, 141]
+  status: SATISFIED
+  time: 0.14
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 11, 71]
+    fox: [118, 118, 118]
+    geese: [60, 49, 60]
+    objective: 1181
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 201, 140]
+  status: SATISFIED
+  time: 0.14
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 12, 72]
+    fox: [118, 118, 118]
+    geese: [60, 48, 60]
+    objective: 1186
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 200, 139]
+  status: SATISFIED
+  time: 0.14
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 13, 73]
+    fox: [118, 118, 118]
+    geese: [60, 47, 60]
+    objective: 1191
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 199, 138]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 14, 74]
+    fox: [118, 118, 118]
+    geese: [60, 46, 60]
+    objective: 1196
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 198, 137]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 15, 75]
+    fox: [118, 118, 118]
+    geese: [60, 45, 60]
+    objective: 1201
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 197, 136]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 16, 76]
+    fox: [118, 118, 118]
+    geese: [60, 44, 60]
+    objective: 1206
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 196, 135]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 17, 77]
+    fox: [118, 118, 118]
+    geese: [60, 43, 60]
+    objective: 1211
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 195, 134]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 18, 78]
+    fox: [118, 118, 118]
+    geese: [60, 42, 60]
+    objective: 1216
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 194, 133]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 19, 79]
+    fox: [118, 118, 118]
+    geese: [60, 41, 60]
+    objective: 1221
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 193, 132]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 20, 80]
+    fox: [118, 118, 118]
+    geese: [60, 40, 60]
+    objective: 1226
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 192, 131]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 21, 81]
+    fox: [118, 118, 118]
+    geese: [60, 39, 60]
+    objective: 1231
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 191, 130]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 22, 82]
+    fox: [118, 118, 118]
+    geese: [60, 38, 60]
+    objective: 1236
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 190, 129]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 23, 83]
+    fox: [118, 118, 118]
+    geese: [60, 37, 60]
+    objective: 1241
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 189, 128]
+  status: SATISFIED
+  time: 0.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 24, 84]
+    fox: [118, 118, 118]
+    geese: [60, 36, 60]
+    objective: 1246
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 188, 127]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 25, 85]
+    fox: [118, 118, 118]
+    geese: [60, 35, 60]
+    objective: 1251
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 187, 126]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 26, 86]
+    fox: [118, 118, 118]
+    geese: [60, 34, 60]
+    objective: 1256
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 186, 125]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 27, 87]
+    fox: [118, 118, 118]
+    geese: [60, 33, 60]
+    objective: 1261
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 185, 124]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 28, 88]
+    fox: [118, 118, 118]
+    geese: [60, 32, 60]
+    objective: 1266
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 184, 123]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 29, 89]
+    fox: [118, 118, 118]
+    geese: [60, 31, 60]
+    objective: 1271
+    trips: 3
+    wcorn: [124, 123, 123, 0]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 183, 123]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 30, 90]
+    fox: [118, 118, 118]
+    geese: [60, 30, 60]
+    objective: 1276
+    trips: 3
+    wcorn: [124, 123, 123, 1]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 182, 122]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 31, 91]
+    fox: [118, 118, 118]
+    geese: [60, 29, 60]
+    objective: 1281
+    trips: 3
+    wcorn: [124, 123, 123, 2]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 181, 121]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 32, 92]
+    fox: [118, 118, 118]
+    geese: [60, 28, 60]
+    objective: 1286
+    trips: 3
+    wcorn: [124, 123, 123, 3]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 180, 120]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 33, 93]
+    fox: [118, 118, 118]
+    geese: [60, 27, 60]
+    objective: 1291
+    trips: 3
+    wcorn: [124, 123, 123, 4]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 179, 119]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 34, 94]
+    fox: [118, 118, 118]
+    geese: [60, 26, 60]
+    objective: 1296
+    trips: 3
+    wcorn: [124, 123, 123, 5]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 178, 118]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 35, 95]
+    fox: [118, 118, 118]
+    geese: [60, 25, 60]
+    objective: 1301
+    trips: 3
+    wcorn: [124, 123, 123, 6]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 177, 117]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 36, 96]
+    fox: [118, 118, 118]
+    geese: [60, 24, 60]
+    objective: 1306
+    trips: 3
+    wcorn: [124, 123, 123, 7]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 176, 116]
+  status: SATISFIED
+  time: 0.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 37, 97]
+    fox: [118, 118, 118]
+    geese: [60, 23, 60]
+    objective: 1311
+    trips: 3
+    wcorn: [124, 123, 123, 8]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 175, 115]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 38, 98]
+    fox: [118, 118, 118]
+    geese: [60, 22, 60]
+    objective: 1316
+    trips: 3
+    wcorn: [124, 123, 123, 9]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 174, 114]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 39, 99]
+    fox: [118, 118, 118]
+    geese: [60, 21, 60]
+    objective: 1321
+    trips: 3
+    wcorn: [124, 123, 123, 10]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 173, 113]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 40, 100]
+    fox: [118, 118, 118]
+    geese: [60, 20, 60]
+    objective: 1326
+    trips: 3
+    wcorn: [124, 123, 123, 11]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 172, 112]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 41, 101]
+    fox: [118, 118, 118]
+    geese: [60, 19, 60]
+    objective: 1331
+    trips: 3
+    wcorn: [124, 123, 123, 12]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 171, 111]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 42, 102]
+    fox: [118, 118, 118]
+    geese: [60, 18, 60]
+    objective: 1336
+    trips: 3
+    wcorn: [124, 123, 123, 13]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 170, 110]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 43, 103]
+    fox: [118, 118, 118]
+    geese: [60, 17, 60]
+    objective: 1341
+    trips: 3
+    wcorn: [124, 123, 123, 14]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 169, 109]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 44, 104]
+    fox: [118, 118, 118]
+    geese: [60, 16, 60]
+    objective: 1346
+    trips: 3
+    wcorn: [124, 123, 123, 15]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 168, 108]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 45, 105]
+    fox: [118, 118, 118]
+    geese: [60, 15, 60]
+    objective: 1351
+    trips: 3
+    wcorn: [124, 123, 123, 16]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 167, 107]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 46, 106]
+    fox: [118, 118, 118]
+    geese: [60, 14, 60]
+    objective: 1356
+    trips: 3
+    wcorn: [124, 123, 123, 17]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 166, 106]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 47, 107]
+    fox: [118, 118, 118]
+    geese: [60, 13, 60]
+    objective: 1361
+    trips: 3
+    wcorn: [124, 123, 123, 18]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 165, 105]
+  status: SATISFIED
+  time: 0.18
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 48, 108]
+    fox: [118, 118, 118]
+    geese: [60, 12, 60]
+    objective: 1366
+    trips: 3
+    wcorn: [124, 123, 123, 19]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 164, 104]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 49, 109]
+    fox: [118, 118, 118]
+    geese: [60, 11, 60]
+    objective: 1371
+    trips: 3
+    wcorn: [124, 123, 123, 20]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 163, 103]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 50, 110]
+    fox: [118, 118, 118]
+    geese: [60, 10, 60]
+    objective: 1376
+    trips: 3
+    wcorn: [124, 123, 123, 21]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 162, 102]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 51, 111]
+    fox: [118, 118, 118]
+    geese: [60, 9, 60]
+    objective: 1381
+    trips: 3
+    wcorn: [124, 123, 123, 22]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 161, 101]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 52, 112]
+    fox: [118, 118, 118]
+    geese: [60, 8, 60]
+    objective: 1386
+    trips: 3
+    wcorn: [124, 123, 123, 23]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 160, 100]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 53, 113]
+    fox: [118, 118, 118]
+    geese: [60, 7, 60]
+    objective: 1391
+    trips: 3
+    wcorn: [124, 123, 123, 24]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 159, 99]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 54, 114]
+    fox: [118, 118, 118]
+    geese: [60, 6, 60]
+    objective: 1396
+    trips: 3
+    wcorn: [124, 123, 123, 25]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 158, 98]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 55, 115]
+    fox: [118, 118, 118]
+    geese: [60, 5, 60]
+    objective: 1401
+    trips: 3
+    wcorn: [124, 123, 123, 26]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 157, 97]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 56, 116]
+    fox: [118, 118, 118]
+    geese: [60, 4, 60]
+    objective: 1406
+    trips: 3
+    wcorn: [124, 123, 123, 27]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 156, 96]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 57, 117]
+    fox: [118, 118, 118]
+    geese: [60, 3, 60]
+    objective: 1411
+    trips: 3
+    wcorn: [124, 123, 123, 28]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 155, 95]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 58, 118]
+    fox: [118, 118, 118]
+    geese: [60, 2, 60]
+    objective: 1416
+    trips: 3
+    wcorn: [124, 123, 123, 29]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 154, 94]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 59, 119]
+    fox: [118, 118, 118]
+    geese: [60, 1, 60]
+    objective: 1421
+    trips: 3
+    wcorn: [124, 123, 123, 30]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 153, 93]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 0, 118]
+    egeese: [0, 60, 60, 120]
+    fox: [118, 118, 118]
+    geese: [60, 0, 60]
+    objective: 1426
+    trips: 3
+    wcorn: [124, 123, 123, 31]
+    wfox: [118, 0, 118, 0]
+    wgeese: [213, 152, 152, 92]
+  status: SATISFIED
+  time: 0.19
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 31, 117]
+    egeese: [0, 60, 30, 122]
+    fox: [118, 86, 86]
+    geese: [60, 30, 92]
+    objective: 1429
+    trips: 3
+    wcorn: [124, 123, 123, 33]
+    wfox: [118, 0, 86, 0]
+    wgeese: [213, 152, 182, 90]
+  status: SATISFIED
+  time: 0.6
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 31, 117]
+    egeese: [0, 60, 31, 123]
+    fox: [118, 86, 86]
+    geese: [60, 29, 92]
+    objective: 1434
+    trips: 3
+    wcorn: [124, 123, 123, 34]
+    wfox: [118, 0, 86, 0]
+    wgeese: [213, 152, 181, 89]
+  status: SATISFIED
+  time: 0.61
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 32, 117]
+    egeese: [0, 60, 31, 124]
+    fox: [118, 85, 85]
+    geese: [60, 29, 93]
+    objective: 1439
+    trips: 3
+    wcorn: [124, 123, 123, 35]
+    wfox: [118, 0, 85, 0]
+    wgeese: [213, 152, 181, 88]
+  status: SATISFIED
+  time: 0.62
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 32, 117]
+    egeese: [0, 60, 32, 125]
+    fox: [118, 85, 85]
+    geese: [60, 28, 93]
+    objective: 1444
+    trips: 3
+    wcorn: [124, 123, 123, 36]
+    wfox: [118, 0, 85, 0]
+    wgeese: [213, 152, 180, 87]
+  status: SATISFIED
+  time: 0.62
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 33, 117]
+    egeese: [0, 60, 32, 126]
+    fox: [118, 84, 84]
+    geese: [60, 28, 94]
+    objective: 1449
+    trips: 3
+    wcorn: [124, 123, 123, 37]
+    wfox: [118, 0, 84, 0]
+    wgeese: [213, 152, 180, 86]
+  status: SATISFIED
+  time: 0.64
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 33, 117]
+    egeese: [0, 60, 33, 127]
+    fox: [118, 84, 84]
+    geese: [60, 27, 94]
+    objective: 1454
+    trips: 3
+    wcorn: [124, 123, 123, 38]
+    wfox: [118, 0, 84, 0]
+    wgeese: [213, 152, 179, 85]
+  status: SATISFIED
+  time: 0.64
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 34, 117]
+    egeese: [0, 60, 33, 128]
+    fox: [118, 83, 83]
+    geese: [60, 27, 95]
+    objective: 1459
+    trips: 3
+    wcorn: [124, 123, 123, 39]
+    wfox: [118, 0, 83, 0]
+    wgeese: [213, 152, 179, 84]
+  status: SATISFIED
+  time: 0.66
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 34, 117]
+    egeese: [0, 60, 34, 129]
+    fox: [118, 83, 83]
+    geese: [60, 26, 95]
+    objective: 1464
+    trips: 3
+    wcorn: [124, 123, 123, 40]
+    wfox: [118, 0, 83, 0]
+    wgeese: [213, 152, 178, 83]
+  status: SATISFIED
+  time: 0.66
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 35, 117]
+    egeese: [0, 60, 34, 130]
+    fox: [118, 82, 82]
+    geese: [60, 26, 96]
+    objective: 1469
+    trips: 3
+    wcorn: [124, 123, 123, 41]
+    wfox: [118, 0, 82, 0]
+    wgeese: [213, 152, 178, 82]
+  status: SATISFIED
+  time: 0.67
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 35, 117]
+    egeese: [0, 60, 35, 131]
+    fox: [118, 82, 82]
+    geese: [60, 25, 96]
+    objective: 1474
+    trips: 3
+    wcorn: [124, 123, 123, 42]
+    wfox: [118, 0, 82, 0]
+    wgeese: [213, 152, 177, 81]
+  status: SATISFIED
+  time: 0.68
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 36, 117]
+    egeese: [0, 60, 35, 132]
+    fox: [118, 81, 81]
+    geese: [60, 25, 97]
+    objective: 1479
+    trips: 3
+    wcorn: [124, 123, 123, 43]
+    wfox: [118, 0, 81, 0]
+    wgeese: [213, 152, 177, 80]
+  status: SATISFIED
+  time: 0.69
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 36, 117]
+    egeese: [0, 60, 36, 133]
+    fox: [118, 81, 81]
+    geese: [60, 24, 97]
+    objective: 1484
+    trips: 3
+    wcorn: [124, 123, 123, 44]
+    wfox: [118, 0, 81, 0]
+    wgeese: [213, 152, 176, 79]
+  status: SATISFIED
+  time: 0.69
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 37, 117]
+    egeese: [0, 60, 36, 134]
+    fox: [118, 80, 80]
+    geese: [60, 24, 98]
+    objective: 1489
+    trips: 3
+    wcorn: [124, 123, 123, 45]
+    wfox: [118, 0, 80, 0]
+    wgeese: [213, 152, 176, 78]
+  status: SATISFIED
+  time: 0.7
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 37, 117]
+    egeese: [0, 60, 37, 135]
+    fox: [118, 80, 80]
+    geese: [60, 23, 98]
+    objective: 1494
+    trips: 3
+    wcorn: [124, 123, 123, 46]
+    wfox: [118, 0, 80, 0]
+    wgeese: [213, 152, 175, 77]
+  status: SATISFIED
+  time: 0.71
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 38, 117]
+    egeese: [0, 60, 37, 136]
+    fox: [118, 79, 79]
+    geese: [60, 23, 99]
+    objective: 1499
+    trips: 3
+    wcorn: [124, 123, 123, 47]
+    wfox: [118, 0, 79, 0]
+    wgeese: [213, 152, 175, 76]
+  status: SATISFIED
+  time: 0.72
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 38, 117]
+    egeese: [0, 60, 38, 137]
+    fox: [118, 79, 79]
+    geese: [60, 22, 99]
+    objective: 1504
+    trips: 3
+    wcorn: [124, 123, 123, 48]
+    wfox: [118, 0, 79, 0]
+    wgeese: [213, 152, 174, 75]
+  status: SATISFIED
+  time: 0.72
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 39, 117]
+    egeese: [0, 60, 38, 138]
+    fox: [118, 78, 78]
+    geese: [60, 22, 100]
+    objective: 1509
+    trips: 3
+    wcorn: [124, 123, 123, 49]
+    wfox: [118, 0, 78, 0]
+    wgeese: [213, 152, 174, 74]
+  status: SATISFIED
+  time: 0.73
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 39, 117]
+    egeese: [0, 60, 39, 139]
+    fox: [118, 78, 78]
+    geese: [60, 21, 100]
+    objective: 1514
+    trips: 3
+    wcorn: [124, 123, 123, 50]
+    wfox: [118, 0, 78, 0]
+    wgeese: [213, 152, 173, 73]
+  status: SATISFIED
+  time: 0.74
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 40, 117]
+    egeese: [0, 60, 39, 140]
+    fox: [118, 77, 77]
+    geese: [60, 21, 101]
+    objective: 1519
+    trips: 3
+    wcorn: [124, 123, 123, 51]
+    wfox: [118, 0, 77, 0]
+    wgeese: [213, 152, 173, 72]
+  status: SATISFIED
+  time: 0.75
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 40, 117]
+    egeese: [0, 60, 40, 141]
+    fox: [118, 77, 77]
+    geese: [60, 20, 101]
+    objective: 1524
+    trips: 3
+    wcorn: [124, 123, 123, 52]
+    wfox: [118, 0, 77, 0]
+    wgeese: [213, 152, 172, 71]
+  status: SATISFIED
+  time: 0.75
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 41, 117]
+    egeese: [0, 60, 40, 142]
+    fox: [118, 76, 76]
+    geese: [60, 20, 102]
+    objective: 1529
+    trips: 3
+    wcorn: [124, 123, 123, 53]
+    wfox: [118, 0, 76, 0]
+    wgeese: [213, 152, 172, 70]
+  status: SATISFIED
+  time: 0.76
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 41, 117]
+    egeese: [0, 60, 41, 143]
+    fox: [118, 76, 76]
+    geese: [60, 19, 102]
+    objective: 1534
+    trips: 3
+    wcorn: [124, 123, 123, 54]
+    wfox: [118, 0, 76, 0]
+    wgeese: [213, 152, 171, 69]
+  status: SATISFIED
+  time: 0.76
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 42, 117]
+    egeese: [0, 60, 41, 144]
+    fox: [118, 75, 75]
+    geese: [60, 19, 103]
+    objective: 1539
+    trips: 3
+    wcorn: [124, 123, 123, 55]
+    wfox: [118, 0, 75, 0]
+    wgeese: [213, 152, 171, 68]
+  status: SATISFIED
+  time: 0.77
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 42, 117]
+    egeese: [0, 60, 42, 145]
+    fox: [118, 75, 75]
+    geese: [60, 18, 103]
+    objective: 1544
+    trips: 3
+    wcorn: [124, 123, 123, 56]
+    wfox: [118, 0, 75, 0]
+    wgeese: [213, 152, 170, 67]
+  status: SATISFIED
+  time: 0.77
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 43, 117]
+    egeese: [0, 60, 42, 146]
+    fox: [118, 74, 74]
+    geese: [60, 18, 104]
+    objective: 1549
+    trips: 3
+    wcorn: [124, 123, 123, 57]
+    wfox: [118, 0, 74, 0]
+    wgeese: [213, 152, 170, 66]
+  status: SATISFIED
+  time: 0.78
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 43, 117]
+    egeese: [0, 60, 43, 147]
+    fox: [118, 74, 74]
+    geese: [60, 17, 104]
+    objective: 1554
+    trips: 3
+    wcorn: [124, 123, 123, 58]
+    wfox: [118, 0, 74, 0]
+    wgeese: [213, 152, 169, 65]
+  status: SATISFIED
+  time: 0.79
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 44, 117]
+    egeese: [0, 60, 43, 148]
+    fox: [118, 73, 73]
+    geese: [60, 17, 105]
+    objective: 1559
+    trips: 3
+    wcorn: [124, 123, 123, 59]
+    wfox: [118, 0, 73, 0]
+    wgeese: [213, 152, 169, 64]
+  status: SATISFIED
+  time: 0.8
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 44, 117]
+    egeese: [0, 60, 44, 149]
+    fox: [118, 73, 73]
+    geese: [60, 16, 105]
+    objective: 1564
+    trips: 3
+    wcorn: [124, 123, 123, 60]
+    wfox: [118, 0, 73, 0]
+    wgeese: [213, 152, 168, 63]
+  status: SATISFIED
+  time: 0.8
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 45, 117]
+    egeese: [0, 60, 44, 150]
+    fox: [118, 72, 72]
+    geese: [60, 16, 106]
+    objective: 1569
+    trips: 3
+    wcorn: [124, 123, 123, 61]
+    wfox: [118, 0, 72, 0]
+    wgeese: [213, 152, 168, 62]
+  status: SATISFIED
+  time: 0.81
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 45, 117]
+    egeese: [0, 60, 45, 151]
+    fox: [118, 72, 72]
+    geese: [60, 15, 106]
+    objective: 1574
+    trips: 3
+    wcorn: [124, 123, 123, 62]
+    wfox: [118, 0, 72, 0]
+    wgeese: [213, 152, 167, 61]
+  status: SATISFIED
+  time: 0.81
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 46, 117]
+    egeese: [0, 60, 45, 152]
+    fox: [118, 71, 71]
+    geese: [60, 15, 107]
+    objective: 1579
+    trips: 3
+    wcorn: [124, 123, 123, 63]
+    wfox: [118, 0, 71, 0]
+    wgeese: [213, 152, 167, 60]
+  status: SATISFIED
+  time: 0.82
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 46, 117]
+    egeese: [0, 60, 46, 153]
+    fox: [118, 71, 71]
+    geese: [60, 14, 107]
+    objective: 1584
+    trips: 3
+    wcorn: [124, 123, 123, 64]
+    wfox: [118, 0, 71, 0]
+    wgeese: [213, 152, 166, 59]
+  status: SATISFIED
+  time: 0.82
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 47, 117]
+    egeese: [0, 60, 46, 154]
+    fox: [118, 70, 70]
+    geese: [60, 14, 108]
+    objective: 1589
+    trips: 3
+    wcorn: [124, 123, 123, 65]
+    wfox: [118, 0, 70, 0]
+    wgeese: [213, 152, 166, 58]
+  status: SATISFIED
+  time: 0.83
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 47, 117]
+    egeese: [0, 60, 47, 155]
+    fox: [118, 70, 70]
+    geese: [60, 13, 108]
+    objective: 1594
+    trips: 3
+    wcorn: [124, 123, 123, 66]
+    wfox: [118, 0, 70, 0]
+    wgeese: [213, 152, 165, 57]
+  status: SATISFIED
+  time: 0.84
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 48, 117]
+    egeese: [0, 60, 47, 156]
+    fox: [118, 69, 69]
+    geese: [60, 13, 109]
+    objective: 1599
+    trips: 3
+    wcorn: [124, 123, 123, 67]
+    wfox: [118, 0, 69, 0]
+    wgeese: [213, 152, 165, 56]
+  status: SATISFIED
+  time: 0.84
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 48, 117]
+    egeese: [0, 60, 48, 157]
+    fox: [118, 69, 69]
+    geese: [60, 12, 109]
+    objective: 1604
+    trips: 3
+    wcorn: [124, 123, 123, 68]
+    wfox: [118, 0, 69, 0]
+    wgeese: [213, 152, 164, 55]
+  status: SATISFIED
+  time: 0.85
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 49, 117]
+    egeese: [0, 60, 48, 158]
+    fox: [118, 68, 68]
+    geese: [60, 12, 110]
+    objective: 1609
+    trips: 3
+    wcorn: [124, 123, 123, 69]
+    wfox: [118, 0, 68, 0]
+    wgeese: [213, 152, 164, 54]
+  status: SATISFIED
+  time: 0.86
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 49, 117]
+    egeese: [0, 60, 49, 159]
+    fox: [118, 68, 68]
+    geese: [60, 11, 110]
+    objective: 1614
+    trips: 3
+    wcorn: [124, 123, 123, 70]
+    wfox: [118, 0, 68, 0]
+    wgeese: [213, 152, 163, 53]
+  status: SATISFIED
+  time: 0.86
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 50, 117]
+    egeese: [0, 60, 49, 160]
+    fox: [118, 67, 67]
+    geese: [60, 11, 111]
+    objective: 1619
+    trips: 3
+    wcorn: [124, 123, 123, 71]
+    wfox: [118, 0, 67, 0]
+    wgeese: [213, 152, 163, 52]
+  status: SATISFIED
+  time: 0.87
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 50, 117]
+    egeese: [0, 60, 50, 161]
+    fox: [118, 67, 67]
+    geese: [60, 10, 111]
+    objective: 1624
+    trips: 3
+    wcorn: [124, 123, 123, 72]
+    wfox: [118, 0, 67, 0]
+    wgeese: [213, 152, 162, 51]
+  status: SATISFIED
+  time: 0.87
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 51, 117]
+    egeese: [0, 60, 50, 162]
+    fox: [118, 66, 66]
+    geese: [60, 10, 112]
+    objective: 1629
+    trips: 3
+    wcorn: [124, 123, 123, 73]
+    wfox: [118, 0, 66, 0]
+    wgeese: [213, 152, 162, 50]
+  status: SATISFIED
+  time: 0.88
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 51, 117]
+    egeese: [0, 60, 51, 163]
+    fox: [118, 66, 66]
+    geese: [60, 9, 112]
+    objective: 1634
+    trips: 3
+    wcorn: [124, 123, 123, 74]
+    wfox: [118, 0, 66, 0]
+    wgeese: [213, 152, 161, 49]
+  status: SATISFIED
+  time: 0.88
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 52, 117]
+    egeese: [0, 60, 51, 164]
+    fox: [118, 65, 65]
+    geese: [60, 9, 113]
+    objective: 1639
+    trips: 3
+    wcorn: [124, 123, 123, 75]
+    wfox: [118, 0, 65, 0]
+    wgeese: [213, 152, 161, 48]
+  status: SATISFIED
+  time: 0.89
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 52, 117]
+    egeese: [0, 60, 52, 165]
+    fox: [118, 65, 65]
+    geese: [60, 8, 113]
+    objective: 1644
+    trips: 3
+    wcorn: [124, 123, 123, 76]
+    wfox: [118, 0, 65, 0]
+    wgeese: [213, 152, 160, 47]
+  status: SATISFIED
+  time: 0.89
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 53, 117]
+    egeese: [0, 60, 52, 166]
+    fox: [118, 64, 64]
+    geese: [60, 8, 114]
+    objective: 1649
+    trips: 3
+    wcorn: [124, 123, 123, 77]
+    wfox: [118, 0, 64, 0]
+    wgeese: [213, 152, 160, 46]
+  status: SATISFIED
+  time: 0.9
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 53, 117]
+    egeese: [0, 60, 53, 167]
+    fox: [118, 64, 64]
+    geese: [60, 7, 114]
+    objective: 1654
+    trips: 3
+    wcorn: [124, 123, 123, 78]
+    wfox: [118, 0, 64, 0]
+    wgeese: [213, 152, 159, 45]
+  status: SATISFIED
+  time: 0.9
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 54, 117]
+    egeese: [0, 60, 53, 168]
+    fox: [118, 63, 63]
+    geese: [60, 7, 115]
+    objective: 1659
+    trips: 3
+    wcorn: [124, 123, 123, 79]
+    wfox: [118, 0, 63, 0]
+    wgeese: [213, 152, 159, 44]
+  status: SATISFIED
+  time: 0.91
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 54, 117]
+    egeese: [0, 60, 54, 169]
+    fox: [118, 63, 63]
+    geese: [60, 6, 115]
+    objective: 1664
+    trips: 3
+    wcorn: [124, 123, 123, 80]
+    wfox: [118, 0, 63, 0]
+    wgeese: [213, 152, 158, 43]
+  status: SATISFIED
+  time: 0.91
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 55, 117]
+    egeese: [0, 60, 54, 170]
+    fox: [118, 62, 62]
+    geese: [60, 6, 116]
+    objective: 1669
+    trips: 3
+    wcorn: [124, 123, 123, 81]
+    wfox: [118, 0, 62, 0]
+    wgeese: [213, 152, 158, 42]
+  status: SATISFIED
+  time: 0.92
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 55, 117]
+    egeese: [0, 60, 55, 171]
+    fox: [118, 62, 62]
+    geese: [60, 5, 116]
+    objective: 1674
+    trips: 3
+    wcorn: [124, 123, 123, 82]
+    wfox: [118, 0, 62, 0]
+    wgeese: [213, 152, 157, 41]
+  status: SATISFIED
+  time: 0.92
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 56, 117]
+    egeese: [0, 60, 55, 172]
+    fox: [118, 61, 61]
+    geese: [60, 5, 117]
+    objective: 1679
+    trips: 3
+    wcorn: [124, 123, 123, 83]
+    wfox: [118, 0, 61, 0]
+    wgeese: [213, 152, 157, 40]
+  status: SATISFIED
+  time: 0.93
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 56, 117]
+    egeese: [0, 60, 56, 173]
+    fox: [118, 61, 61]
+    geese: [60, 4, 117]
+    objective: 1684
+    trips: 3
+    wcorn: [124, 123, 123, 84]
+    wfox: [118, 0, 61, 0]
+    wgeese: [213, 152, 156, 39]
+  status: SATISFIED
+  time: 0.94
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 57, 117]
+    egeese: [0, 60, 56, 174]
+    fox: [118, 60, 60]
+    geese: [60, 4, 118]
+    objective: 1689
+    trips: 3
+    wcorn: [124, 123, 123, 85]
+    wfox: [118, 0, 60, 0]
+    wgeese: [213, 152, 156, 38]
+  status: SATISFIED
+  time: 0.94
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 57, 117]
+    egeese: [0, 60, 57, 175]
+    fox: [118, 60, 60]
+    geese: [60, 3, 118]
+    objective: 1694
+    trips: 3
+    wcorn: [124, 123, 123, 86]
+    wfox: [118, 0, 60, 0]
+    wgeese: [213, 152, 155, 37]
+  status: SATISFIED
+  time: 0.95
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 58, 117]
+    egeese: [0, 60, 57, 176]
+    fox: [118, 59, 59]
+    geese: [60, 3, 119]
+    objective: 1699
+    trips: 3
+    wcorn: [124, 123, 123, 87]
+    wfox: [118, 0, 59, 0]
+    wgeese: [213, 152, 155, 36]
+  status: SATISFIED
+  time: 0.95
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 58, 117]
+    egeese: [0, 60, 58, 177]
+    fox: [118, 59, 59]
+    geese: [60, 2, 119]
+    objective: 1704
+    trips: 3
+    wcorn: [124, 123, 123, 88]
+    wfox: [118, 0, 59, 0]
+    wgeese: [213, 152, 154, 35]
+  status: SATISFIED
+  time: 0.96
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 59, 117]
+    egeese: [0, 60, 58, 178]
+    fox: [118, 58, 58]
+    geese: [60, 2, 120]
+    objective: 1709
+    trips: 3
+    wcorn: [124, 123, 123, 89]
+    wfox: [118, 0, 58, 0]
+    wgeese: [213, 152, 154, 34]
+  status: SATISFIED
+  time: 0.96
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 59, 117]
+    egeese: [0, 60, 59, 179]
+    fox: [118, 58, 58]
+    geese: [60, 1, 120]
+    objective: 1714
+    trips: 3
+    wcorn: [124, 123, 123, 90]
+    wfox: [118, 0, 58, 0]
+    wgeese: [213, 152, 153, 33]
+  status: SATISFIED
+  time: 0.97
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 60, 117]
+    egeese: [0, 60, 59, 180]
+    fox: [118, 57, 57]
+    geese: [60, 1, 121]
+    objective: 1719
+    trips: 3
+    wcorn: [124, 123, 123, 91]
+    wfox: [118, 0, 57, 0]
+    wgeese: [213, 152, 153, 32]
+  status: SATISFIED
+  time: 0.97
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 60, 117]
+    egeese: [0, 60, 60, 181]
+    fox: [118, 57, 57]
+    geese: [60, 0, 121]
+    objective: 1724
+    trips: 3
+    wcorn: [124, 123, 123, 92]
+    wfox: [118, 0, 57, 0]
+    wgeese: [213, 152, 152, 31]
+  status: SATISFIED
+  time: 0.98
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 61, 117]
+    egeese: [0, 60, 60, 182]
+    fox: [118, 56, 56]
+    geese: [60, 0, 122]
+    objective: 1729
+    trips: 3
+    wcorn: [124, 123, 123, 93]
+    wfox: [118, 0, 56, 0]
+    wgeese: [213, 152, 152, 30]
+  status: SATISFIED
+  time: 0.98
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 62, 117]
+    egeese: [0, 60, 60, 183]
+    fox: [118, 55, 55]
+    geese: [60, 0, 123]
+    objective: 1734
+    trips: 3
+    wcorn: [124, 123, 123, 94]
+    wfox: [118, 0, 55, 0]
+    wgeese: [213, 152, 152, 29]
+  status: SATISFIED
+  time: 0.99
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 63, 117]
+    egeese: [0, 60, 60, 184]
+    fox: [118, 54, 54]
+    geese: [60, 0, 124]
+    objective: 1739
+    trips: 3
+    wcorn: [124, 123, 123, 95]
+    wfox: [118, 0, 54, 0]
+    wgeese: [213, 152, 152, 28]
+  status: SATISFIED
+  time: 1.0
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 64, 117]
+    egeese: [0, 60, 60, 185]
+    fox: [118, 53, 53]
+    geese: [60, 0, 125]
+    objective: 1744
+    trips: 3
+    wcorn: [124, 123, 123, 96]
+    wfox: [118, 0, 53, 0]
+    wgeese: [213, 152, 152, 27]
+  status: SATISFIED
+  time: 1.0
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 65, 117]
+    egeese: [0, 60, 60, 186]
+    fox: [118, 52, 52]
+    geese: [60, 0, 126]
+    objective: 1749
+    trips: 3
+    wcorn: [124, 123, 123, 97]
+    wfox: [118, 0, 52, 0]
+    wgeese: [213, 152, 152, 26]
+  status: SATISFIED
+  time: 1.01
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 66, 117]
+    egeese: [0, 60, 60, 187]
+    fox: [118, 51, 51]
+    geese: [60, 0, 127]
+    objective: 1754
+    trips: 3
+    wcorn: [124, 123, 123, 98]
+    wfox: [118, 0, 51, 0]
+    wgeese: [213, 152, 152, 25]
+  status: SATISFIED
+  time: 1.01
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 67, 117]
+    egeese: [0, 60, 60, 188]
+    fox: [118, 50, 50]
+    geese: [60, 0, 128]
+    objective: 1759
+    trips: 3
+    wcorn: [124, 123, 123, 99]
+    wfox: [118, 0, 50, 0]
+    wgeese: [213, 152, 152, 24]
+  status: SATISFIED
+  time: 1.02
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 68, 117]
+    egeese: [0, 60, 60, 189]
+    fox: [118, 49, 49]
+    geese: [60, 0, 129]
+    objective: 1764
+    trips: 3
+    wcorn: [124, 123, 123, 100]
+    wfox: [118, 0, 49, 0]
+    wgeese: [213, 152, 152, 23]
+  status: SATISFIED
+  time: 1.03
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 69, 117]
+    egeese: [0, 60, 60, 190]
+    fox: [118, 48, 48]
+    geese: [60, 0, 130]
+    objective: 1769
+    trips: 3
+    wcorn: [124, 123, 123, 101]
+    wfox: [118, 0, 48, 0]
+    wgeese: [213, 152, 152, 22]
+  status: SATISFIED
+  time: 1.03
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 70, 117]
+    egeese: [0, 60, 60, 191]
+    fox: [118, 47, 47]
+    geese: [60, 0, 131]
+    objective: 1774
+    trips: 3
+    wcorn: [124, 123, 123, 102]
+    wfox: [118, 0, 47, 0]
+    wgeese: [213, 152, 152, 21]
+  status: SATISFIED
+  time: 1.04
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 71, 117]
+    egeese: [0, 60, 60, 192]
+    fox: [118, 46, 46]
+    geese: [60, 0, 132]
+    objective: 1779
+    trips: 3
+    wcorn: [124, 123, 123, 103]
+    wfox: [118, 0, 46, 0]
+    wgeese: [213, 152, 152, 20]
+  status: SATISFIED
+  time: 1.04
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 72, 117]
+    egeese: [0, 60, 60, 193]
+    fox: [118, 45, 45]
+    geese: [60, 0, 133]
+    objective: 1784
+    trips: 3
+    wcorn: [124, 123, 123, 104]
+    wfox: [118, 0, 45, 0]
+    wgeese: [213, 152, 152, 19]
+  status: SATISFIED
+  time: 1.05
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 73, 117]
+    egeese: [0, 60, 60, 194]
+    fox: [118, 44, 44]
+    geese: [60, 0, 134]
+    objective: 1789
+    trips: 3
+    wcorn: [124, 123, 123, 105]
+    wfox: [118, 0, 44, 0]
+    wgeese: [213, 152, 152, 18]
+  status: SATISFIED
+  time: 1.05
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 74, 117]
+    egeese: [0, 60, 60, 195]
+    fox: [118, 43, 43]
+    geese: [60, 0, 135]
+    objective: 1794
+    trips: 3
+    wcorn: [124, 123, 123, 106]
+    wfox: [118, 0, 43, 0]
+    wgeese: [213, 152, 152, 17]
+  status: SATISFIED
+  time: 1.06
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 75, 117]
+    egeese: [0, 60, 60, 196]
+    fox: [118, 42, 42]
+    geese: [60, 0, 136]
+    objective: 1799
+    trips: 3
+    wcorn: [124, 123, 123, 107]
+    wfox: [118, 0, 42, 0]
+    wgeese: [213, 152, 152, 16]
+  status: SATISFIED
+  time: 1.06
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 76, 117]
+    egeese: [0, 60, 60, 197]
+    fox: [118, 41, 41]
+    geese: [60, 0, 137]
+    objective: 1804
+    trips: 3
+    wcorn: [124, 123, 123, 108]
+    wfox: [118, 0, 41, 0]
+    wgeese: [213, 152, 152, 15]
+  status: SATISFIED
+  time: 1.07
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 77, 117]
+    egeese: [0, 60, 60, 198]
+    fox: [118, 40, 40]
+    geese: [60, 0, 138]
+    objective: 1809
+    trips: 3
+    wcorn: [124, 123, 123, 109]
+    wfox: [118, 0, 40, 0]
+    wgeese: [213, 152, 152, 14]
+  status: SATISFIED
+  time: 1.07
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 78, 117]
+    egeese: [0, 60, 60, 199]
+    fox: [118, 39, 39]
+    geese: [60, 0, 139]
+    objective: 1814
+    trips: 3
+    wcorn: [124, 123, 123, 110]
+    wfox: [118, 0, 39, 0]
+    wgeese: [213, 152, 152, 13]
+  status: SATISFIED
+  time: 1.08
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 79, 117]
+    egeese: [0, 60, 60, 200]
+    fox: [118, 38, 38]
+    geese: [60, 0, 140]
+    objective: 1819
+    trips: 3
+    wcorn: [124, 123, 123, 111]
+    wfox: [118, 0, 38, 0]
+    wgeese: [213, 152, 152, 12]
+  status: SATISFIED
+  time: 1.08
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 80, 117]
+    egeese: [0, 60, 60, 201]
+    fox: [118, 37, 37]
+    geese: [60, 0, 141]
+    objective: 1824
+    trips: 3
+    wcorn: [124, 123, 123, 112]
+    wfox: [118, 0, 37, 0]
+    wgeese: [213, 152, 152, 11]
+  status: SATISFIED
+  time: 1.09
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 81, 117]
+    egeese: [0, 60, 60, 202]
+    fox: [118, 36, 36]
+    geese: [60, 0, 142]
+    objective: 1829
+    trips: 3
+    wcorn: [124, 123, 123, 113]
+    wfox: [118, 0, 36, 0]
+    wgeese: [213, 152, 152, 10]
+  status: SATISFIED
+  time: 1.09
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 82, 117]
+    egeese: [0, 60, 60, 203]
+    fox: [118, 35, 35]
+    geese: [60, 0, 143]
+    objective: 1834
+    trips: 3
+    wcorn: [124, 123, 123, 114]
+    wfox: [118, 0, 35, 0]
+    wgeese: [213, 152, 152, 9]
+  status: SATISFIED
+  time: 1.09
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 83, 117]
+    egeese: [0, 60, 60, 204]
+    fox: [118, 34, 34]
+    geese: [60, 0, 144]
+    objective: 1839
+    trips: 3
+    wcorn: [124, 123, 123, 115]
+    wfox: [118, 0, 34, 0]
+    wgeese: [213, 152, 152, 8]
+  status: SATISFIED
+  time: 1.1
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 84, 117]
+    egeese: [0, 60, 60, 205]
+    fox: [118, 33, 33]
+    geese: [60, 0, 145]
+    objective: 1844
+    trips: 3
+    wcorn: [124, 123, 123, 116]
+    wfox: [118, 0, 33, 0]
+    wgeese: [213, 152, 152, 7]
+  status: SATISFIED
+  time: 1.1
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 85, 117]
+    egeese: [0, 60, 60, 206]
+    fox: [118, 32, 32]
+    geese: [60, 0, 146]
+    objective: 1849
+    trips: 3
+    wcorn: [124, 123, 123, 117]
+    wfox: [118, 0, 32, 0]
+    wgeese: [213, 152, 152, 6]
+  status: SATISFIED
+  time: 1.11
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 86, 117]
+    egeese: [0, 60, 60, 207]
+    fox: [118, 31, 31]
+    geese: [60, 0, 147]
+    objective: 1854
+    trips: 3
+    wcorn: [124, 123, 123, 118]
+    wfox: [118, 0, 31, 0]
+    wgeese: [213, 152, 152, 5]
+  status: SATISFIED
+  time: 1.11
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 87, 117]
+    egeese: [0, 60, 60, 208]
+    fox: [118, 30, 30]
+    geese: [60, 0, 148]
+    objective: 1859
+    trips: 3
+    wcorn: [124, 123, 123, 119]
+    wfox: [118, 0, 30, 0]
+    wgeese: [213, 152, 152, 4]
+  status: SATISFIED
+  time: 1.11
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 88, 117]
+    egeese: [0, 60, 60, 209]
+    fox: [118, 29, 29]
+    geese: [60, 0, 149]
+    objective: 1864
+    trips: 3
+    wcorn: [124, 123, 123, 120]
+    wfox: [118, 0, 29, 0]
+    wgeese: [213, 152, 152, 3]
+  status: SATISFIED
+  time: 1.12
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 89, 117]
+    egeese: [0, 60, 60, 210]
+    fox: [118, 28, 28]
+    geese: [60, 0, 150]
+    objective: 1869
+    trips: 3
+    wcorn: [124, 123, 123, 121]
+    wfox: [118, 0, 28, 0]
+    wgeese: [213, 152, 152, 2]
+  status: SATISFIED
+  time: 1.12
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 90, 117]
+    egeese: [0, 60, 60, 211]
+    fox: [118, 27, 27]
+    geese: [60, 0, 151]
+    objective: 1874
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 27, 0]
+    wgeese: [213, 152, 152, 1]
+  status: SATISFIED
+  time: 1.12
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 0]
+    ecorn: [0, 0, 0, 0]
+    efox: [0, 118, 91, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 26, 26]
+    geese: [60, 0, 152]
+    objective: 1879
+    trips: 3
+    wcorn: [124, 123, 123, 123]
+    wfox: [118, 0, 26, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.13
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 1]
+    ecorn: [0, 0, 0, 1]
+    efox: [0, 118, 92, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 25, 25]
+    geese: [60, 0, 152]
+    objective: 1882
+    trips: 3
+    wcorn: [124, 123, 123, 122]
+    wfox: [118, 0, 25, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.13
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 2]
+    ecorn: [0, 0, 0, 2]
+    efox: [0, 118, 93, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 24, 24]
+    geese: [60, 0, 152]
+    objective: 1885
+    trips: 3
+    wcorn: [124, 123, 123, 121]
+    wfox: [118, 0, 24, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.13
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 3]
+    ecorn: [0, 0, 0, 3]
+    efox: [0, 118, 94, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 23, 23]
+    geese: [60, 0, 152]
+    objective: 1888
+    trips: 3
+    wcorn: [124, 123, 123, 120]
+    wfox: [118, 0, 23, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.13
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 4]
+    ecorn: [0, 0, 0, 4]
+    efox: [0, 118, 95, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 22, 22]
+    geese: [60, 0, 152]
+    objective: 1891
+    trips: 3
+    wcorn: [124, 123, 123, 119]
+    wfox: [118, 0, 22, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.13
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 5]
+    ecorn: [0, 0, 0, 5]
+    efox: [0, 118, 96, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 21, 21]
+    geese: [60, 0, 152]
+    objective: 1894
+    trips: 3
+    wcorn: [124, 123, 123, 118]
+    wfox: [118, 0, 21, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.13
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 6]
+    ecorn: [0, 0, 0, 6]
+    efox: [0, 118, 97, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 20, 20]
+    geese: [60, 0, 152]
+    objective: 1897
+    trips: 3
+    wcorn: [124, 123, 123, 117]
+    wfox: [118, 0, 20, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.14
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 7]
+    ecorn: [0, 0, 0, 7]
+    efox: [0, 118, 98, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 19, 19]
+    geese: [60, 0, 152]
+    objective: 1900
+    trips: 3
+    wcorn: [124, 123, 123, 116]
+    wfox: [118, 0, 19, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 8]
+    ecorn: [0, 0, 0, 8]
+    efox: [0, 118, 99, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 18, 18]
+    geese: [60, 0, 152]
+    objective: 1903
+    trips: 3
+    wcorn: [124, 123, 123, 115]
+    wfox: [118, 0, 18, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 9]
+    ecorn: [0, 0, 0, 9]
+    efox: [0, 118, 100, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 17, 17]
+    geese: [60, 0, 152]
+    objective: 1906
+    trips: 3
+    wcorn: [124, 123, 123, 114]
+    wfox: [118, 0, 17, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 10]
+    ecorn: [0, 0, 0, 10]
+    efox: [0, 118, 101, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 16, 16]
+    geese: [60, 0, 152]
+    objective: 1909
+    trips: 3
+    wcorn: [124, 123, 123, 113]
+    wfox: [118, 0, 16, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 11]
+    ecorn: [0, 0, 0, 11]
+    efox: [0, 118, 102, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 15, 15]
+    geese: [60, 0, 152]
+    objective: 1912
+    trips: 3
+    wcorn: [124, 123, 123, 112]
+    wfox: [118, 0, 15, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 12]
+    ecorn: [0, 0, 0, 12]
+    efox: [0, 118, 103, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 14, 14]
+    geese: [60, 0, 152]
+    objective: 1915
+    trips: 3
+    wcorn: [124, 123, 123, 111]
+    wfox: [118, 0, 14, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 13]
+    ecorn: [0, 0, 0, 13]
+    efox: [0, 118, 104, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 13, 13]
+    geese: [60, 0, 152]
+    objective: 1918
+    trips: 3
+    wcorn: [124, 123, 123, 110]
+    wfox: [118, 0, 13, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 14]
+    ecorn: [0, 0, 0, 14]
+    efox: [0, 118, 105, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 12, 12]
+    geese: [60, 0, 152]
+    objective: 1921
+    trips: 3
+    wcorn: [124, 123, 123, 109]
+    wfox: [118, 0, 12, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 15]
+    ecorn: [0, 0, 0, 15]
+    efox: [0, 118, 106, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 11, 11]
+    geese: [60, 0, 152]
+    objective: 1924
+    trips: 3
+    wcorn: [124, 123, 123, 108]
+    wfox: [118, 0, 11, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.15
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 16]
+    ecorn: [0, 0, 0, 16]
+    efox: [0, 118, 107, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 10, 10]
+    geese: [60, 0, 152]
+    objective: 1927
+    trips: 3
+    wcorn: [124, 123, 123, 107]
+    wfox: [118, 0, 10, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 17]
+    ecorn: [0, 0, 0, 17]
+    efox: [0, 118, 108, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 9, 9]
+    geese: [60, 0, 152]
+    objective: 1930
+    trips: 3
+    wcorn: [124, 123, 123, 106]
+    wfox: [118, 0, 9, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 18]
+    ecorn: [0, 0, 0, 18]
+    efox: [0, 118, 109, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 8, 8]
+    geese: [60, 0, 152]
+    objective: 1933
+    trips: 3
+    wcorn: [124, 123, 123, 105]
+    wfox: [118, 0, 8, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 19]
+    ecorn: [0, 0, 0, 19]
+    efox: [0, 118, 110, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 7, 7]
+    geese: [60, 0, 152]
+    objective: 1936
+    trips: 3
+    wcorn: [124, 123, 123, 104]
+    wfox: [118, 0, 7, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 20]
+    ecorn: [0, 0, 0, 20]
+    efox: [0, 118, 111, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 6, 6]
+    geese: [60, 0, 152]
+    objective: 1939
+    trips: 3
+    wcorn: [124, 123, 123, 103]
+    wfox: [118, 0, 6, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 21]
+    ecorn: [0, 0, 0, 21]
+    efox: [0, 118, 112, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 5, 5]
+    geese: [60, 0, 152]
+    objective: 1942
+    trips: 3
+    wcorn: [124, 123, 123, 102]
+    wfox: [118, 0, 5, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 22]
+    ecorn: [0, 0, 0, 22]
+    efox: [0, 118, 113, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 4, 4]
+    geese: [60, 0, 152]
+    objective: 1945
+    trips: 3
+    wcorn: [124, 123, 123, 101]
+    wfox: [118, 0, 4, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 23]
+    ecorn: [0, 0, 0, 23]
+    efox: [0, 118, 114, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 3, 3]
+    geese: [60, 0, 152]
+    objective: 1948
+    trips: 3
+    wcorn: [124, 123, 123, 100]
+    wfox: [118, 0, 3, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 24]
+    ecorn: [0, 0, 0, 24]
+    efox: [0, 118, 115, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 2, 2]
+    geese: [60, 0, 152]
+    objective: 1951
+    trips: 3
+    wcorn: [124, 123, 123, 99]
+    wfox: [118, 0, 2, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 25]
+    ecorn: [0, 0, 0, 25]
+    efox: [0, 118, 116, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 1, 1]
+    geese: [60, 0, 152]
+    objective: 1954
+    trips: 3
+    wcorn: [124, 123, 123, 98]
+    wfox: [118, 0, 1, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 26]
+    ecorn: [0, 0, 0, 26]
+    efox: [0, 118, 117, 117]
+    egeese: [0, 60, 60, 212]
+    fox: [118, 0, 0]
+    geese: [60, 0, 152]
+    objective: 1957
+    trips: 3
+    wcorn: [124, 123, 123, 97]
+    wfox: [118, 0, 0, 0]
+    wgeese: [213, 152, 152, 0]
+  status: SATISFIED
+  time: 1.16
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 25]
+    ecorn: [0, 0, 0, 25]
+    efox: [0, 1, 0, 117]
+    egeese: [0, 177, 177, 213]
+    fox: [1, 1, 117]
+    geese: [177, 0, 36]
+    objective: 1959
+    trips: 3
+    wcorn: [124, 124, 124, 99]
+    wfox: [118, 116, 117, 0]
+    wgeese: [213, 36, 36, 0]
+  status: SATISFIED
+  time: 28.53
+- configuration: Gecode
+  data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+  problem: fox-geese-corn
+  solution:
+    corn: [0, 0, 26]
+    ecorn: [0, 0, 0, 26]
+    efox: [0, 0, 0, 117]
+    egeese: [0, 178, 178, 213]
+    fox: [0, 0, 117]
+    geese: [178, 0, 35]
+    objective: 1962
+    trips: 3
+    wcorn: [124, 124, 124, 98]
+    wfox: [118, 117, 117, 0]
+    wgeese: [213, 35, 35, 0]
+  status: SATISFIED
+  time: 29.0
+- {configuration: Gecode, data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn,
+  model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn, problem: fox-geese-corn, status: OPTIMAL_SOLUTION,
+  time: 29.17}

@@ -1,0 +1,17 @@
+configuration: Gurobi
+data_file: data/mznc2019/nside/MEDIUM_200_50.dzn
+evaluatedReifiedConstraints: 37726
+flatIntConstraints: 137965
+flatIntVars: 96304
+flatTime: 20.9323
+method: maximize
+model: data/mznc2019/nside/full.mzn
+nSolutions: 1
+nodes: 88
+objective: 2916
+objectiveBound: 2916
+paths: 0
+problem: nside
+solveTime: 1141.3354
+status: OPTIMAL_SOLUTION
+time: 1169.6111782696098

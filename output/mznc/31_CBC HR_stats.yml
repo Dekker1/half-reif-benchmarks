@@ -1,0 +1,20 @@
+configuration: CBC HR
+data_file: data/mznc2019/zephyrus/12__8__6__3.dzn
+evaluatedHalfReifiedConstraints: 184
+evaluatedReifiedConstraints: 368
+flatBoolVars: 88
+flatIntConstraints: 5606
+flatIntVars: 2824
+flatTime: 0.710001
+method: minimize
+model: data/mznc2019/zephyrus/zephyrus.mzn
+nSolutions: 1
+nodes: 26
+objective: 1300
+objectiveBound: 1300
+openNodes: -1
+paths: 0
+problem: zephyrus
+solveTime: 18.3847
+status: OPTIMAL_SOLUTION
+time: 19.31721101142466

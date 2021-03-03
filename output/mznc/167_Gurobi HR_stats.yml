@@ -1,0 +1,18 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/gbac/UD9-gbac.dzn
+evaluatedReifiedConstraints: 2727
+flatIntConstraints: 5839
+flatIntVars: 59578
+flatTime: 5.54132
+method: minimize
+model: data/mznc2020/gbac/gbac.mzn
+nSolutions: 1
+nodes: 4316
+objective: 256
+objectiveBound: 137.267122109
+openNodes: 1458
+paths: 0
+problem: gbac
+solveTime: 1194.4586
+status: SATISFIED
+time: 1201.0557498969138

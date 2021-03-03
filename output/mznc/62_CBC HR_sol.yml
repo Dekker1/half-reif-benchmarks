@@ -1,0 +1,2 @@
+- {configuration: CBC HR, data_file: data/mznc2019/hrc/exp2-1-5600.dzn, model: data/mznc2019/hrc/hrc.mzn,
+  problem: hrc, status: UNKNOWN, time: 1198.41}

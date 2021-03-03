@@ -1,0 +1,25 @@
+configuration: Gecode HR
+data_file: data/mznc2020/gbac/reduced_UD7-gbac.dzn
+evaluatedReifiedConstraints: 249
+failures: 46415372
+flatBoolVars: 249
+flatIntConstraints: 1981
+flatIntVars: 1989
+flatTime: 0.143324
+initTime: 0.014291
+method: minimize
+model: data/mznc2020/gbac/gbac.mzn
+nSolutions: 140
+nodes: 92831090
+objective: 24393
+paths: 0
+peakDepth: 87
+problem: gbac
+propagations: 5780309163
+propagators: 1923
+restarts: 0
+solutions: 140
+solveTime: 1199.85
+status: SATISFIED
+time: 1200.0912730861455
+variables: 2238

@@ -1,0 +1,18 @@
+configuration: CBC HR
+data_file: ''
+evaluatedReifiedConstraints: 5160
+flatIntConstraints: 11562
+flatIntVars: 5611
+flatTime: 21.1809
+method: minimize
+model: data/mznc2020/bnn-planner/cellda_y_10s.mzn
+nSolutions: 0
+nodes: 45
+objective: 1e+308
+objectiveBound: 3
+openNodes: -1
+paths: 0
+problem: bnn-planner
+solveTime: 1158.9049
+status: UNKNOWN
+time: 1183.0298924911767

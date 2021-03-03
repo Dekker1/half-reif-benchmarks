@@ -1,0 +1,14 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn
+eliminatedLinearConstraints: 972
+evaluatedHalfReifiedConstraints: 1959
+evaluatedReifiedConstraints: 2931
+flatIntConstraints: 21682
+flatIntVars: 22158
+flatTime: 4.4043
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+paths: 0
+problem: minimal-decision-sets
+status: UNKNOWN
+time: 1201.1667233780026

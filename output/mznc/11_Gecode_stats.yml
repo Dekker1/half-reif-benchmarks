@@ -1,0 +1,14 @@
+configuration: Gecode
+data_file: data/mznc2019/rcpsp-wet-diverse/j60_19_6-wet-diverse-3.dzn
+evaluatedReifiedConstraints: 786
+flatBoolConstraints: 139299
+flatBoolVars: 140070
+flatIntConstraints: 141166
+flatIntVars: 140208
+flatTime: 13.9913
+method: maximize
+model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
+paths: 0
+problem: rcpsp-wet-diverse
+status: UNKNOWN
+time: 1201.1856412775815

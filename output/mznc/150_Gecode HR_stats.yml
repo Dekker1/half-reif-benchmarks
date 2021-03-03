@@ -1,0 +1,26 @@
+configuration: Gecode HR
+data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_2w_1.dzn
+evaluatedHalfReifiedConstraints: 1871
+evaluatedReifiedConstraints: 9880
+failures: 6760526
+flatBoolConstraints: 7656
+flatBoolVars: 19291
+flatIntConstraints: 21697
+flatIntVars: 10097
+flatTime: 0.897161
+initTime: 0.217672
+method: minimize
+model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
+nSolutions: 0
+nodes: 13521179
+paths: 0
+peakDepth: 194
+problem: skill-allocation
+propagations: 1377514767
+propagators: 27627
+restarts: 0
+solutions: 0
+solveTime: 1199.1
+status: UNKNOWN
+time: 1200.5900462046266
+variables: 29388

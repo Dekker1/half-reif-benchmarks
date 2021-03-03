@@ -1,0 +1,408 @@
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [133, 133, 133, 133, 133, 133]
+    activity_available_from2: [96, 96, 96, 96, 96, 96]
+    group_act_map1: [393]
+    group_act_map2: [1560]
+    objective: 15
+    user_act_map1: [393, 393, 393, 393, 393, 393]
+    user_act_map2: [1560, 1560, 1560, 1560, 1560, 1560]
+    user_cell_map1: [208, 208, 208, 208, 208, 208]
+    user_cell_map2: [208, 208, 208, 208, 208, 208]
+    user_distance_map: [1, 1, 1, 1, 1, 1]
+    user_duration_map1: [24, 24, 24, 24, 24, 24]
+    user_duration_map2: [24, 24, 24, 24, 24, 24]
+    user_end_map1: [157, 157, 157, 157, 157, 157]
+    user_end_map2: [288, 288, 288, 288, 288, 288]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [3, 3, 3, 3, 3, 3]
+    user_pub_rating_map2: [4, 4, 4, 4, 4, 4]
+    user_start_time_map1: [133, 133, 133, 133, 133, 133]
+    user_start_time_map2: [158, 158, 158, 158, 158, 158]
+    user_weight_map1: [0, 0, 0, 0, -1, 0]
+    user_weight_map2: [0, 0, 0, 0, -2, 0]
+  status: SATISFIED
+  time: 5.28
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [133, 133, 133, 133, 133, 133]
+    activity_available_from2: [60, 60, 60, 60, 60, 60]
+    group_act_map1: [393]
+    group_act_map2: [13462]
+    objective: 18
+    user_act_map1: [393, 393, 393, 393, 393, 393]
+    user_act_map2: [13462, 13462, 13462, 13462, 13462, 13462]
+    user_cell_map1: [208, 208, 208, 208, 208, 208]
+    user_cell_map2: [49, 49, 49, 49, 49, 49]
+    user_distance_map: [3, 3, 3, 3, 3, 3]
+    user_duration_map1: [24, 24, 24, 24, 24, 24]
+    user_duration_map2: [24, 24, 24, 24, 24, 24]
+    user_end_map1: [157, 157, 157, 157, 157, 157]
+    user_end_map2: [288, 288, 288, 288, 288, 288]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [3, 3, 3, 3, 3, 3]
+    user_pub_rating_map2: [3, 3, 3, 3, 3, 3]
+    user_start_time_map1: [133, 133, 133, 133, 133, 133]
+    user_start_time_map2: [160, 160, 160, 160, 160, 160]
+    user_weight_map1: [0, 0, 0, 0, -1, 0]
+    user_weight_map2: [0, 0, 0, 0, 0, -1]
+  status: SATISFIED
+  time: 5.34
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [133, 133, 133, 133, 133, 133]
+    activity_available_from2: [138, 138, 138, 138, 138, 138]
+    group_act_map1: [393]
+    group_act_map2: [34]
+    objective: 39
+    user_act_map1: [393, 393, 393, 393, 393, 393]
+    user_act_map2: [34, 34, 34, 34, 34, 34]
+    user_cell_map1: [208, 208, 208, 208, 208, 208]
+    user_cell_map2: [18, 18, 18, 18, 18, 18]
+    user_distance_map: [5, 5, 5, 5, 5, 5]
+    user_duration_map1: [24, 24, 24, 24, 24, 24]
+    user_duration_map2: [18, 18, 18, 18, 18, 18]
+    user_end_map1: [157, 157, 157, 157, 157, 157]
+    user_end_map2: [180, 180, 180, 180, 180, 180]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [3, 3, 3, 3, 3, 3]
+    user_pub_rating_map2: [5, 5, 5, 5, 5, 5]
+    user_start_time_map1: [133, 133, 133, 133, 133, 133]
+    user_start_time_map2: [162, 162, 162, 162, 162, 162]
+    user_weight_map1: [0, 0, 0, 0, -1, 0]
+    user_weight_map2: [0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 5.46
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [133, 133, 133, 133, 133, 133]
+    activity_available_from2: [84, 84, 84, 84, 84, 84]
+    group_act_map1: [393]
+    group_act_map2: [5339]
+    objective: 51
+    user_act_map1: [393, 393, 393, 393, 393, 393]
+    user_act_map2: [5339, 5339, 5339, 5339, 5339, 5339]
+    user_cell_map1: [208, 208, 208, 208, 208, 208]
+    user_cell_map2: [44, 44, 44, 44, 44, 44]
+    user_distance_map: [6, 6, 6, 6, 6, 6]
+    user_duration_map1: [24, 24, 24, 24, 24, 24]
+    user_duration_map2: [24, 24, 24, 24, 24, 24]
+    user_end_map1: [157, 157, 157, 157, 157, 157]
+    user_end_map2: [288, 288, 288, 288, 288, 288]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [3, 3, 3, 3, 3, 3]
+    user_pub_rating_map2: [4, 4, 4, 4, 4, 4]
+    user_start_time_map1: [133, 133, 133, 133, 133, 133]
+    user_start_time_map2: [163, 163, 163, 163, 163, 163]
+    user_weight_map1: [0, 0, 0, 0, -1, 0]
+    user_weight_map2: [0, 0, 0, 2, 0, 0]
+  status: SATISFIED
+  time: 5.58
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [168, 168, 168, 168, 168, 168]
+    activity_available_from2: [120, 120, 120, 120, 120, 120]
+    group_act_map1: [1]
+    group_act_map2: [51]
+    objective: 54
+    user_act_map1: [1, 1, 1, 1, 1, 1]
+    user_act_map2: [51, 51, 51, 51, 51, 51]
+    user_cell_map1: [40, 40, 40, 40, 40, 40]
+    user_cell_map2: [194, 194, 194, 194, 194, 194]
+    user_distance_map: [4, 4, 4, 4, 4, 4]
+    user_duration_map1: [27, 27, 27, 27, 27, 27]
+    user_duration_map2: [18, 18, 18, 18, 18, 18]
+    user_end_map1: [195, 195, 195, 195, 195, 195]
+    user_end_map2: [276, 276, 276, 276, 276, 276]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [4, 4, 4, 4, 4, 4]
+    user_pub_rating_map2: [5, 5, 5, 5, 5, 5]
+    user_start_time_map1: [168, 168, 168, 168, 168, 168]
+    user_start_time_map2: [199, 199, 199, 199, 199, 199]
+    user_weight_map1: [0, 0, 0, 0, 0, 0]
+    user_weight_map2: [0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 6.16
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [198, 198, 198, 198, 198, 198]
+    activity_available_from2: [222, 222, 222, 222, 222, 222]
+    group_act_map1: [146]
+    group_act_map2: [1]
+    objective: 60
+    user_act_map1: [146, 146, 146, 146, 146, 146]
+    user_act_map2: [1, 1, 1, 1, 1, 1]
+    user_cell_map1: [236, 236, 236, 236, 236, 236]
+    user_cell_map2: [63, 63, 63, 63, 63, 63]
+    user_distance_map: [6, 6, 6, 6, 6, 6]
+    user_duration_map1: [23, 23, 23, 23, 23, 23]
+    user_duration_map2: [18, 18, 18, 18, 18, 18]
+    user_end_map1: [221, 221, 221, 221, 221, 221]
+    user_end_map2: [276, 276, 276, 276, 276, 276]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [5, 5, 5, 5, 5, 5]
+    user_pub_rating_map2: [5, 5, 5, 5, 5, 5]
+    user_start_time_map1: [198, 198, 198, 198, 198, 198]
+    user_start_time_map2: [227, 227, 227, 227, 227, 227]
+    user_weight_map1: [0, 0, 0, 0, 0, 0]
+    user_weight_map2: [0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 7.63
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [168, 168, 168, 168, 168, 168]
+    activity_available_from2: [84, 84, 84, 84, 84, 84]
+    group_act_map1: [1]
+    group_act_map2: [5339]
+    objective: 66
+    user_act_map1: [1, 1, 1, 1, 1, 1]
+    user_act_map2: [5339, 5339, 5339, 5339, 5339, 5339]
+    user_cell_map1: [40, 40, 40, 40, 40, 40]
+    user_cell_map2: [44, 44, 44, 44, 44, 44]
+    user_distance_map: [3, 3, 3, 3, 3, 3]
+    user_duration_map1: [27, 27, 27, 27, 27, 27]
+    user_duration_map2: [24, 24, 24, 24, 24, 24]
+    user_end_map1: [195, 195, 195, 195, 195, 195]
+    user_end_map2: [288, 288, 288, 288, 288, 288]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [4, 4, 4, 4, 4, 4]
+    user_pub_rating_map2: [4, 4, 4, 4, 4, 4]
+    user_start_time_map1: [168, 168, 168, 168, 168, 168]
+    user_start_time_map2: [198, 198, 198, 198, 198, 198]
+    user_weight_map1: [0, 0, 0, 0, 0, 0]
+    user_weight_map2: [0, 0, 0, 2, 0, 0]
+  status: SATISFIED
+  time: 7.63
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [198, 198, 198, 198, 198, 198]
+    activity_available_from2: [84, 84, 84, 84, 84, 84]
+    group_act_map1: [146]
+    group_act_map2: [5339]
+    objective: 72
+    user_act_map1: [146, 146, 146, 146, 146, 146]
+    user_act_map2: [5339, 5339, 5339, 5339, 5339, 5339]
+    user_cell_map1: [236, 236, 236, 236, 236, 236]
+    user_cell_map2: [44, 44, 44, 44, 44, 44]
+    user_distance_map: [6, 6, 6, 6, 6, 6]
+    user_duration_map1: [23, 23, 23, 23, 23, 23]
+    user_duration_map2: [24, 24, 24, 24, 24, 24]
+    user_end_map1: [221, 221, 221, 221, 221, 221]
+    user_end_map2: [288, 288, 288, 288, 288, 288]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [5, 5, 5, 5, 5, 5]
+    user_pub_rating_map2: [4, 4, 4, 4, 4, 4]
+    user_start_time_map1: [198, 198, 198, 198, 198, 198]
+    user_start_time_map2: [227, 227, 227, 227, 227, 227]
+    user_weight_map1: [0, 0, 0, 0, 0, 0]
+    user_weight_map2: [0, 0, 0, 2, 0, 0]
+  status: SATISFIED
+  time: 7.65
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [124, 124, 124, 124, 124, 124]
+    activity_available_from2: [84, 84, 84, 84, 84, 84]
+    group_act_map1: [289]
+    group_act_map2: [5339]
+    objective: 75
+    user_act_map1: [289, 289, 289, 289, 289, 289]
+    user_act_map2: [5339, 5339, 5339, 5339, 5339, 5339]
+    user_cell_map1: [177, 177, 177, 177, 177, 177]
+    user_cell_map2: [44, 44, 44, 44, 44, 44]
+    user_distance_map: [2, 2, 2, 2, 2, 2]
+    user_duration_map1: [27, 27, 27, 27, 27, 27]
+    user_duration_map2: [24, 24, 24, 24, 24, 24]
+    user_end_map1: [151, 151, 151, 151, 151, 151]
+    user_end_map2: [288, 288, 288, 288, 288, 288]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [4, 4, 4, 4, 4, 4]
+    user_pub_rating_map2: [4, 4, 4, 4, 4, 4]
+    user_start_time_map1: [124, 124, 124, 124, 124, 124]
+    user_start_time_map2: [153, 153, 153, 153, 153, 153]
+    user_weight_map1: [0, 0, 0, 0, 0, 1]
+    user_weight_map2: [0, 0, 0, 2, 0, 0]
+  status: SATISFIED
+  time: 8.17
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [116, 116, 116, 116, 116, 116]
+    activity_available_from2: [84, 84, 84, 84, 84, 84]
+    group_act_map1: [217]
+    group_act_map2: [5339]
+    objective: 84
+    user_act_map1: [217, 217, 217, 217, 217, 217]
+    user_act_map2: [5339, 5339, 5339, 5339, 5339, 5339]
+    user_cell_map1: [177, 177, 177, 177, 177, 177]
+    user_cell_map2: [44, 44, 44, 44, 44, 44]
+    user_distance_map: [2, 2, 2, 2, 2, 2]
+    user_duration_map1: [18, 18, 18, 18, 18, 18]
+    user_duration_map2: [24, 24, 24, 24, 24, 24]
+    user_end_map1: [134, 134, 134, 134, 134, 134]
+    user_end_map2: [288, 288, 288, 288, 288, 288]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [4, 4, 4, 4, 4, 4]
+    user_pub_rating_map2: [4, 4, 4, 4, 4, 4]
+    user_start_time_map1: [116, 116, 116, 116, 116, 116]
+    user_start_time_map2: [136, 136, 136, 136, 136, 136]
+    user_weight_map1: [0, 0, 0, 0, 0, 2]
+    user_weight_map2: [0, 0, 0, 2, 0, 0]
+  status: SATISFIED
+  time: 8.72
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [122, 122, 122, 122, 122, 122]
+    activity_available_from2: [144, 144, 144, 144, 144, 144]
+    group_act_map1: [19]
+    group_act_map2: [2]
+    objective: 90
+    user_act_map1: [19, 19, 19, 19, 19, 19]
+    user_act_map2: [2, 2, 2, 2, 2, 2]
+    user_cell_map1: [9, 9, 9, 9, 9, 9]
+    user_cell_map2: [224, 224, 224, 224, 224, 224]
+    user_distance_map: [6, 6, 6, 6, 6, 6]
+    user_duration_map1: [27, 27, 27, 27, 27, 27]
+    user_duration_map2: [18, 18, 18, 18, 18, 18]
+    user_end_map1: [149, 149, 149, 149, 149, 149]
+    user_end_map2: [174, 174, 174, 174, 174, 174]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [4, 4, 4, 4, 4, 4]
+    user_pub_rating_map2: [5, 5, 5, 5, 5, 5]
+    user_start_time_map1: [122, 122, 122, 122, 122, 122]
+    user_start_time_map2: [155, 155, 155, 155, 155, 155]
+    user_weight_map1: [2, 2, 0, 0, 0, 0]
+    user_weight_map2: [0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 11.72
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [122, 122, 122, 122, 122, 122]
+    activity_available_from2: [84, 84, 84, 84, 84, 84]
+    group_act_map1: [19]
+    group_act_map2: [5339]
+    objective: 102
+    user_act_map1: [19, 19, 19, 19, 19, 19]
+    user_act_map2: [5339, 5339, 5339, 5339, 5339, 5339]
+    user_cell_map1: [9, 9, 9, 9, 9, 9]
+    user_cell_map2: [44, 44, 44, 44, 44, 44]
+    user_distance_map: [6, 6, 6, 6, 6, 6]
+    user_duration_map1: [27, 27, 27, 27, 27, 27]
+    user_duration_map2: [24, 24, 24, 24, 24, 24]
+    user_end_map1: [149, 149, 149, 149, 149, 149]
+    user_end_map2: [288, 288, 288, 288, 288, 288]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [4, 4, 4, 4, 4, 4]
+    user_pub_rating_map2: [4, 4, 4, 4, 4, 4]
+    user_start_time_map1: [122, 122, 122, 122, 122, 122]
+    user_start_time_map2: [155, 155, 155, 155, 155, 155]
+    user_weight_map1: [2, 2, 0, 0, 0, 0]
+    user_weight_map2: [0, 0, 0, 2, 0, 0]
+  status: SATISFIED
+  time: 11.87
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [120, 120, 120, 120, 120, 120]
+    activity_available_from2: [144, 144, 144, 144, 144, 144]
+    group_act_map1: [31]
+    group_act_map2: [2]
+    objective: 108
+    user_act_map1: [31, 31, 31, 31, 31, 31]
+    user_act_map2: [2, 2, 2, 2, 2, 2]
+    user_cell_map1: [9, 9, 9, 9, 9, 9]
+    user_cell_map2: [224, 224, 224, 224, 224, 224]
+    user_distance_map: [6, 6, 6, 6, 6, 6]
+    user_duration_map1: [24, 24, 24, 24, 24, 24]
+    user_duration_map2: [18, 18, 18, 18, 18, 18]
+    user_end_map1: [144, 144, 144, 144, 144, 144]
+    user_end_map2: [174, 174, 174, 174, 174, 174]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [4, 4, 4, 4, 4, 4]
+    user_pub_rating_map2: [5, 5, 5, 5, 5, 5]
+    user_start_time_map1: [120, 120, 120, 120, 120, 120]
+    user_start_time_map2: [150, 150, 150, 150, 150, 150]
+    user_weight_map1: [2, 2, 0, 0, 2, 0]
+    user_weight_map2: [0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 12.48
+- configuration: Gecode
+  data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
+  model: data/mznc2019/groupsplitter/group.mzn
+  problem: groupsplitter
+  solution:
+    activity_available_from1: [120, 120, 120, 120, 120, 120]
+    activity_available_from2: [84, 84, 84, 84, 84, 84]
+    group_act_map1: [31]
+    group_act_map2: [5339]
+    objective: 120
+    user_act_map1: [31, 31, 31, 31, 31, 31]
+    user_act_map2: [5339, 5339, 5339, 5339, 5339, 5339]
+    user_cell_map1: [9, 9, 9, 9, 9, 9]
+    user_cell_map2: [44, 44, 44, 44, 44, 44]
+    user_distance_map: [6, 6, 6, 6, 6, 6]
+    user_duration_map1: [24, 24, 24, 24, 24, 24]
+    user_duration_map2: [24, 24, 24, 24, 24, 24]
+    user_end_map1: [144, 144, 144, 144, 144, 144]
+    user_end_map2: [288, 288, 288, 288, 288, 288]
+    user_group_map1: [1, 1, 1, 1, 1, 1]
+    user_group_map2: [1, 1, 1, 1, 1, 1]
+    user_pub_rating_map1: [4, 4, 4, 4, 4, 4]
+    user_pub_rating_map2: [4, 4, 4, 4, 4, 4]
+    user_start_time_map1: [120, 120, 120, 120, 120, 120]
+    user_start_time_map2: [150, 150, 150, 150, 150, 150]
+    user_weight_map1: [2, 2, 0, 0, 2, 0]
+    user_weight_map2: [0, 0, 0, 2, 0, 0]
+  status: SATISFIED
+  time: 12.63
+- {configuration: Gecode, data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn, model: data/mznc2019/groupsplitter/group.mzn,
+  problem: groupsplitter, status: OPTIMAL_SOLUTION, time: 12.73}

@@ -1,0 +1,25 @@
+configuration: Gecode HR
+data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_3_4_1.dzn
+evaluatedHalfReifiedConstraints: 3996
+failures: 4677181
+flatBoolConstraints: 1998
+flatBoolVars: 4662
+flatIntConstraints: 4178
+flatIntVars: 145
+flatTime: 0.313096
+initTime: 0.041448
+method: minimize
+model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn
+nSolutions: 0
+nodes: 9354378
+paths: 0
+peakDepth: 54
+problem: hoist-benchmark-for-minizinc
+propagations: 18666821569
+propagators: 6099
+restarts: 0
+solutions: 0
+solveTime: 1199.68
+status: UNKNOWN
+time: 1200.201811619103
+variables: 4810

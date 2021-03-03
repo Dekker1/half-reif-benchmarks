@@ -1,0 +1,2 @@
+- {configuration: Gurobi, data_file: data/mznc2019/median-string/p1_15_20-1.dzn, model: data/mznc2019/median-string/median_string_dp.mzn,
+  problem: median-string, status: UNKNOWN}

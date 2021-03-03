@@ -1,0 +1,14 @@
+configuration: Gecode
+data_file: data/mznc2020/stable-goods/s-d16.dzn
+evaluatedReifiedConstraints: 16705
+flatBoolConstraints: 2080
+flatBoolVars: 16705
+flatIntConstraints: 46339
+flatIntVars: 29693
+flatTime: 3.22929
+method: maximize
+model: data/mznc2020/stable-goods/stable-goods-solution.mzn
+paths: 0
+problem: stable-goods
+status: UNKNOWN
+time: 1201.139298401773

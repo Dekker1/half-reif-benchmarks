@@ -1,0 +1,13 @@
+configuration: CBC
+data_file: data/mznc2019/nside/HARD_200_50.dzn
+evaluatedReifiedConstraints: 54670
+flatBoolVars: 9671
+flatIntConstraints: 219113
+flatIntVars: 106817
+flatTime: 65.8199
+method: maximize
+model: data/mznc2019/nside/full.mzn
+paths: 0
+problem: nside
+status: UNKNOWN
+time: 1201.3589070606977

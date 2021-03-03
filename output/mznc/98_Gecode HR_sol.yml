@@ -1,0 +1,326 @@
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 45
+    S: [22, 41, 29]
+    objective: 137
+    yCoor: [29, 1, 8, 6, 31, 15, 11, 6, 6, 1, 42, 11, 40, 26, 37, 16, 16, 43, 21,
+      33]
+  status: SATISFIED
+  time: 0.05
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 45
+    S: [22, 44, 14]
+    objective: 125
+    yCoor: [29, 1, 8, 6, 31, 15, 11, 6, 6, 1, 42, 11, 40, 26, 37, 16, 43, 16, 21,
+      33]
+  status: SATISFIED
+  time: 0.06
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 45
+    S: [21, 44, 14]
+    objective: 124
+    yCoor: [29, 1, 9, 7, 31, 15, 11, 6, 7, 1, 42, 11, 40, 26, 37, 16, 43, 16, 21,
+      33]
+  status: SATISFIED
+  time: 0.06
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [22, 42, 15]
+    objective: 122
+    yCoor: [29, 1, 8, 6, 31, 11, 33, 6, 6, 1, 43, 11, 41, 26, 12, 16, 18, 15, 21,
+      37]
+  status: SATISFIED
+  time: 0.1
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [22, 42, 14]
+    objective: 121
+    yCoor: [29, 1, 8, 6, 31, 11, 33, 6, 6, 1, 43, 11, 41, 26, 12, 16, 15, 18, 21,
+      37]
+  status: SATISFIED
+  time: 0.1
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [21, 42, 14]
+    objective: 120
+    yCoor: [29, 1, 9, 7, 31, 11, 33, 6, 7, 1, 43, 11, 41, 26, 12, 16, 15, 18, 21,
+      37]
+  status: SATISFIED
+  time: 0.11
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [23, 42, 11]
+    objective: 119
+    yCoor: [26, 1, 9, 7, 31, 11, 33, 6, 7, 1, 43, 11, 41, 28, 12, 16, 15, 18, 21,
+      37]
+  status: SATISFIED
+  time: 1.25
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 44
+    S: [20, 43, 11]
+    objective: 118
+    yCoor: [26, 1, 18, 16, 32, 31, 34, 6, 14, 1, 44, 11, 38, 28, 11, 16, 6, 18, 21,
+      40]
+  status: SATISFIED
+  time: 1.32
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [17, 42, 15]
+    objective: 117
+    yCoor: [29, 1, 8, 6, 39, 11, 31, 6, 6, 1, 43, 11, 41, 21, 12, 16, 18, 15, 24,
+      35]
+  status: SATISFIED
+  time: 5.45
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [17, 42, 14]
+    objective: 116
+    yCoor: [29, 1, 8, 6, 39, 11, 31, 6, 6, 1, 43, 11, 41, 21, 12, 16, 15, 18, 24,
+      35]
+  status: SATISFIED
+  time: 5.45
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [16, 42, 14]
+    objective: 115
+    yCoor: [29, 1, 9, 7, 39, 11, 31, 6, 7, 1, 43, 11, 41, 21, 12, 16, 15, 18, 24,
+      35]
+  status: SATISFIED
+  time: 5.47
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 44
+    S: [13, 43, 14]
+    objective: 114
+    yCoor: [30, 1, 18, 16, 40, 11, 32, 6, 15, 1, 44, 11, 42, 22, 12, 17, 6, 19, 25,
+      36]
+  status: SATISFIED
+  time: 18.11
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 45
+    S: [12, 44, 11]
+    objective: 112
+    yCoor: [29, 1, 8, 6, 41, 11, 12, 6, 6, 1, 45, 11, 43, 16, 35, 19, 38, 19, 24,
+      31]
+  status: SATISFIED
+  time: 27.19
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 45
+    S: [11, 44, 11]
+    objective: 111
+    yCoor: [29, 1, 9, 7, 41, 11, 12, 6, 7, 1, 45, 11, 43, 16, 35, 19, 38, 19, 24,
+      31]
+  status: SATISFIED
+  time: 34.16
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 46
+    S: [8, 45, 11]
+    objective: 110
+    yCoor: [29, 1, 10, 16, 42, 11, 31, 6, 12, 1, 46, 11, 44, 16, 39, 19, 6, 19, 24,
+      35]
+  status: SATISFIED
+  time: 39.74
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 46
+    S: [7, 45, 11]
+    objective: 109
+    yCoor: [29, 1, 18, 16, 42, 11, 31, 6, 12, 1, 46, 11, 44, 16, 39, 19, 6, 19, 24,
+      35]
+  status: SATISFIED
+  time: 39.78
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 45
+    S: [8, 44, 11]
+    objective: 108
+    yCoor: [29, 1, 10, 16, 42, 14, 31, 6, 10, 1, 15, 11, 44, 16, 39, 19, 6, 19, 24,
+      35]
+  status: SATISFIED
+  time: 45.69
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [11, 42, 11]
+    objective: 107
+    yCoor: [30, 1, 9, 7, 39, 11, 12, 6, 7, 1, 43, 11, 41, 16, 36, 20, 19, 22, 25,
+      32]
+  status: SATISFIED
+  time: 138.23
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [11, 35, 17]
+    objective: 106
+    yCoor: [42, 1, 9, 7, 32, 15, 11, 6, 7, 1, 36, 11, 34, 16, 23, 26, 26, 29, 37,
+      19]
+  status: SATISFIED
+  time: 377.19
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [11, 35, 16]
+    objective: 105
+    yCoor: [42, 1, 9, 7, 32, 15, 11, 6, 7, 1, 36, 11, 34, 16, 23, 27, 26, 29, 37,
+      19]
+  status: SATISFIED
+  time: 421.29
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [11, 35, 15]
+    objective: 104
+    yCoor: [42, 1, 9, 7, 26, 15, 11, 6, 7, 1, 36, 11, 34, 16, 23, 28, 28, 31, 37,
+      19]
+  status: SATISFIED
+  time: 442.73
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [11, 35, 14]
+    objective: 103
+    yCoor: [42, 1, 9, 7, 26, 15, 11, 6, 7, 1, 36, 11, 34, 16, 23, 29, 28, 31, 37,
+      19]
+  status: SATISFIED
+  time: 454.41
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [11, 35, 13]
+    objective: 102
+    yCoor: [42, 1, 9, 7, 26, 15, 11, 6, 7, 1, 36, 11, 28, 16, 23, 30, 30, 33, 37,
+      19]
+  status: SATISFIED
+  time: 460.7
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [12, 32, 12]
+    objective: 99
+    yCoor: [42, 1, 8, 6, 26, 15, 11, 6, 6, 1, 30, 11, 28, 16, 23, 31, 31, 34, 37,
+      19]
+  status: SATISFIED
+  time: 464.84
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [11, 32, 12]
+    objective: 98
+    yCoor: [42, 1, 9, 7, 26, 15, 11, 6, 7, 1, 30, 11, 28, 16, 23, 31, 31, 34, 37,
+      19]
+  status: SATISFIED
+  time: 464.85
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 43
+    S: [11, 32, 11]
+    objective: 97
+    yCoor: [42, 1, 9, 7, 26, 15, 11, 6, 7, 1, 30, 11, 28, 16, 23, 32, 31, 34, 37,
+      19]
+  status: SATISFIED
+  time: 466.62
+- configuration: Gecode HR
+  data_file: data/mznc2019/accap/accap_instance3.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 44
+    S: [10, 31, 11]
+    objective: 96
+    yCoor: [43, 1, 16, 9, 28, 19, 20, 6, 9, 1, 32, 11, 30, 16, 13, 33, 6, 33, 38,
+      24]
+  status: SATISFIED
+  time: 470.16
+- {configuration: Gecode HR, data_file: data/mznc2019/accap/accap_instance3.dzn, model: data/mznc2019/accap/accap.mzn,
+  problem: accap, status: SATISFIED}

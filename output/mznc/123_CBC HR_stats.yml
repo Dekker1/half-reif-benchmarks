@@ -1,0 +1,21 @@
+configuration: CBC HR
+data_file: data/mznc2020/is/A3PZaPjnUz.dzn
+eliminatedLinearConstraints: 185
+evaluatedHalfReifiedConstraints: 1408
+evaluatedReifiedConstraints: 1772
+flatBoolVars: 646
+flatIntConstraints: 4307
+flatIntVars: 11217
+flatTime: 2.5883
+method: minimize
+model: data/mznc2020/is/model.mzn
+nSolutions: 1
+nodes: 16822
+objective: 103936
+objectiveBound: 103936
+openNodes: -1
+paths: 0
+problem: is
+solveTime: 143.1665
+status: OPTIMAL_SOLUTION
+time: 146.1499749533832

@@ -1,0 +1,26 @@
+configuration: Gecode HR
+data_file: data/mznc2020/sdn-chain/d30n600-5.dzn
+evaluatedHalfReifiedConstraints: 7207
+evaluatedReifiedConstraints: 2108
+failures: 18069141
+flatBoolConstraints: 36172
+flatBoolVars: 28675
+flatIntConstraints: 9351
+flatIntVars: 3433
+flatTime: 6.54328
+initTime: 0.267258
+method: minimize
+model: data/mznc2020/sdn-chain/model.mzn
+nSolutions: 0
+nodes: 36139303
+paths: 0
+peakDepth: 1035
+problem: sdn-chain
+propagations: 1725258665
+propagators: 45268
+restarts: 0
+solutions: 0
+solveTime: 1193.46
+status: UNKNOWN
+time: 1200.798299929127
+variables: 32289

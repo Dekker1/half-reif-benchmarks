@@ -1,0 +1,14 @@
+configuration: CBC HR
+data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
+eliminatedLinearConstraints: 2208
+evaluatedHalfReifiedConstraints: 4427
+evaluatedReifiedConstraints: 6559
+flatIntConstraints: 48835
+flatIntVars: 51829
+flatTime: 11.6203
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+paths: 0
+problem: minimal-decision-sets
+status: UNKNOWN
+time: 1201.259369187057

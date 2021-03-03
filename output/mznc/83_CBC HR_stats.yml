@@ -1,0 +1,20 @@
+configuration: CBC HR
+data_file: data/mznc2019/rotating-workforce/Example1370.dzn
+evaluatedHalfReifiedConstraints: 224
+evaluatedReifiedConstraints: 1078
+flatBoolVars: 117
+flatIntConstraints: 9388
+flatIntVars: 16387
+flatTime: 5.48733
+method: satisfy
+model: data/mznc2019/rotating-workforce/rotating-workforce.mzn
+nSolutions: 0
+nodes: 0
+objective: 1e+308
+objectiveBound: 0
+openNodes: -1
+paths: 0
+problem: rotating-workforce
+solveTime: 3.6679
+status: UNSATISFIABLE
+time: 9.885230032727122

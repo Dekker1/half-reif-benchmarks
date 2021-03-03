@@ -1,0 +1,20 @@
+configuration: Gurobi HR
+data_file: data/mznc2020/sdn-chain/d26n600-2.dzn
+eliminatedLinearConstraints: 2352
+evaluatedHalfReifiedConstraints: 5923
+evaluatedReifiedConstraints: 5293
+flatBoolVars: 1770
+flatIntConstraints: 77483
+flatIntVars: 28424
+flatTime: 14.6773
+method: minimize
+model: data/mznc2020/sdn-chain/model.mzn
+nSolutions: 1
+nodes: 1
+objective: 9
+objectiveBound: 9
+paths: 0
+problem: sdn-chain
+solveTime: 21.7906
+status: OPTIMAL_SOLUTION
+time: 38.95370838791132

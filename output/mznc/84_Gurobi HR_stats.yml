@@ -1,0 +1,19 @@
+configuration: Gurobi HR
+data_file: data/mznc2019/rotating-workforce/Example1242.dzn
+evaluatedHalfReifiedConstraints: 192
+evaluatedReifiedConstraints: 712
+flatBoolVars: 40
+flatIntConstraints: 5159
+flatIntVars: 7712
+flatTime: 2.95263
+method: satisfy
+model: data/mznc2019/rotating-workforce/rotating-workforce.mzn
+nSolutions: 1
+nodes: 1
+objective: 0
+objectiveBound: 0
+paths: 0
+problem: rotating-workforce
+solveTime: 6.9628
+status: SATISFIED
+time: 10.271281328052282

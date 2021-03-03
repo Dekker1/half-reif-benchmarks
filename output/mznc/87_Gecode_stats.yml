@@ -1,0 +1,16 @@
+configuration: Gecode
+data_file: data/mznc2019/code-generator/mips_gcc.cfgrtl.update_br_prob_note.dzn
+evaluatedReifiedConstraints: 36962
+flatBoolConstraints: 11589
+flatBoolVars: 35832
+flatIntConstraints: 42187
+flatIntVars: 6912
+flatTime: 4.87753
+initTime: 0.547621
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+objective: 3638
+paths: 0
+problem: code-generator
+status: SATISFIED
+time: 1201.0774636082351

@@ -1,0 +1,3 @@
+- {configuration: Gurobi HR, data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn,
+  model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
+  status: UNKNOWN}

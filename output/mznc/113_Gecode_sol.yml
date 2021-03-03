@@ -1,0 +1,2 @@
+- {configuration: Gecode, data_file: data/mznc2020/stable-goods/s-d7.dzn, model: data/mznc2020/stable-goods/stable-goods-solution.mzn,
+  problem: stable-goods, status: UNKNOWN, time: 1200.34}

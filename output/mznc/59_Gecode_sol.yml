@@ -1,0 +1,22 @@
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p2_4_20-0.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [5, 3, 9, 3]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    objective: 20
+  status: SATISFIED
+  time: 0.58
+- configuration: Gecode
+  data_file: data/mznc2019/median-string/p2_4_20-0.dzn
+  model: data/mznc2019/median-string/median_string_dp.mzn
+  problem: median-string
+  solution:
+    distances: [4, 2, 8, 2]
+    median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]
+    objective: 16
+  status: SATISFIED
+  time: 0.58
+- {configuration: Gecode, data_file: data/mznc2019/median-string/p2_4_20-0.dzn, model: data/mznc2019/median-string/median_string_dp.mzn,
+  problem: median-string, status: SATISFIED}
