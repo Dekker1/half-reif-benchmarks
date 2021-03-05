@@ -16,9 +16,11 @@ fi
 module load Bison
 module load CMake
 module load Cbc/2.10.5-foss-2020a
+module load CPLEX/12.10-GCCcore-9.3.0
 module load flex
 module load Gecode/431520083a51fc2f31c22fbc7b0378e7a1588e42-GCCcore-9.3.0
 module load Gurobi/9.1.0
+module load SCIPOptSuite/7.0.0-gompi-2020a
 
 cmake -S software/minizinc -B software/minizinc/build -DCMAKE_INSTALL_PREFIX=`pwd`/software/install/
 cmake --build software/minizinc/build --config Release --target install
