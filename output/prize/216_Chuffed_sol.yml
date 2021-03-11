@@ -1,0 +1,572 @@
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 9, 1, 8, 7, 6, 5, 4, 3, 2]
+    objective: -12996
+    pos: [1, 3, 5, 7, 9, 11, 13, 15, 14, 12, 10, 8, 6, 4, 2]
+  status: SATISFIED
+  time: 0.09
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 9, 3, 8, 7, 6, 5, 1, 4, 2]
+    objective: -11996
+    pos: [1, 3, 14, 5, 7, 9, 11, 13, 12, 10, 8, 6, 15, 4, 2]
+  status: SATISFIED
+  time: 0.1
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 9, 3, 8, 5, 7, 6, 1, 4, 2]
+    objective: -11990
+    pos: [1, 3, 14, 5, 9, 7, 11, 13, 12, 8, 10, 6, 15, 4, 2]
+  status: SATISFIED
+  time: 0.1
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 9, 3, 8, 1, 6, 7, 5, 4, 2]
+    objective: -10997
+    pos: [1, 3, 10, 5, 12, 14, 7, 9, 8, 15, 13, 6, 11, 4, 2]
+  status: SATISFIED
+  time: 0.1
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 9, 3, 8, 5, 1, 7, 6, 4, 2]
+    objective: -10991
+    pos: [1, 3, 10, 5, 14, 12, 7, 9, 8, 13, 15, 6, 11, 4, 2]
+  status: SATISFIED
+  time: 0.11
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 9, 7, 4, 5, 1, 6, 8, 3, 2]
+    objective: -10990
+    pos: [1, 3, 5, 10, 14, 12, 8, 7, 9, 13, 15, 11, 6, 4, 2]
+  status: SATISFIED
+  time: 0.11
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 8, 9, 4, 5, 7, 1, 6, 3, 2]
+    objective: -10984
+    pos: [1, 3, 5, 14, 9, 7, 11, 12, 13, 8, 10, 15, 6, 4, 2]
+  status: SATISFIED
+  time: 0.11
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 2, 9, 4, 8, 6, 7, 5, 1, 3]
+    objective: -10002
+    pos: [1, 14, 3, 11, 5, 7, 13, 9, 10, 8, 6, 12, 4, 15, 2]
+  status: SATISFIED
+  time: 0.11
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 2, 9, 4, 5, 8, 7, 6, 1, 3]
+    objective: -9996
+    pos: [1, 14, 3, 11, 7, 5, 13, 9, 10, 6, 8, 12, 4, 15, 2]
+  status: SATISFIED
+  time: 0.11
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 6, 9, 4, 5, 1, 7, 8, 3, 2]
+    objective: -8989
+    pos: [1, 3, 5, 9, 14, 12, 11, 7, 8, 13, 15, 10, 6, 4, 2]
+  status: SATISFIED
+  time: 0.11
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 8, 3, 4, 9, 6, 7, 1, 5, 2]
+    objective: -8988
+    pos: [1, 3, 14, 10, 5, 7, 12, 13, 9, 8, 6, 11, 15, 4, 2]
+  status: SATISFIED
+  time: 0.12
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 8, 3, 4, 5, 1, 7, 6, 9, 2]
+    objective: -8987
+    pos: [1, 3, 10, 6, 14, 12, 8, 9, 5, 13, 15, 7, 11, 4, 2]
+  status: SATISFIED
+  time: 0.13
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 6, 3, 8, 5, 1, 7, 4, 9, 2]
+    objective: -8985
+    pos: [1, 3, 7, 9, 14, 12, 11, 6, 5, 13, 15, 10, 8, 4, 2]
+  status: SATISFIED
+  time: 0.13
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 10, 6, 7, 4, 5, 1, 3, 8, 9, 2]
+    objective: -8984
+    pos: [1, 3, 8, 6, 14, 12, 11, 10, 5, 13, 15, 7, 9, 4, 2]
+  status: SATISFIED
+  time: 0.13
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 1, 10, 9, 4, 5, 6, 7, 8, 3, 2]
+    objective: -7994
+    pos: [1, 3, 5, 9, 13, 15, 11, 7, 8, 12, 14, 10, 6, 4, 2]
+  status: SATISFIED
+  time: 0.13
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 1, 10, 3, 8, 5, 6, 7, 4, 9, 2]
+    objective: -7990
+    pos: [1, 3, 7, 9, 13, 15, 11, 6, 5, 12, 14, 10, 8, 4, 2]
+  status: SATISFIED
+  time: 0.13
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 1, 10, 7, 4, 5, 6, 3, 8, 9, 2]
+    objective: -7989
+    pos: [1, 3, 8, 6, 13, 15, 11, 10, 5, 12, 14, 7, 9, 4, 2]
+  status: SATISFIED
+  time: 0.13
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 1, 8, 9, 10, 5, 6, 7, 4, 3, 2]
+    objective: -7979
+    pos: [1, 3, 5, 7, 13, 15, 9, 10, 11, 12, 14, 8, 6, 4, 2]
+  status: SATISFIED
+  time: 0.13
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 1, 2, 9, 10, 5, 6, 7, 8, 3, 4]
+    objective: -6991
+    pos: [1, 6, 8, 3, 13, 15, 5, 10, 11, 12, 14, 4, 9, 7, 2]
+  status: SATISFIED
+  time: 0.13
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 11, 1, 8, 3, 10, 5, 6, 7, 2, 9, 4]
+    objective: -6981
+    pos: [1, 9, 7, 3, 13, 15, 5, 6, 11, 12, 14, 4, 8, 10, 2]
+  status: SATISFIED
+  time: 0.13
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 4, 11, 8, 3, 10, 5, 1, 7, 6, 9, 2]
+    objective: -6980
+    pos: [1, 3, 12, 8, 7, 14, 10, 11, 5, 6, 15, 9, 13, 4, 2]
+  status: SATISFIED
+  time: 0.13
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 4, 11, 6, 7, 10, 5, 1, 3, 8, 9, 2]
+    objective: -6977
+    pos: [1, 3, 10, 8, 7, 14, 13, 12, 5, 6, 15, 9, 11, 4, 2]
+  status: SATISFIED
+  time: 0.14
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 4, 11, 6, 3, 8, 5, 2, 7, 1, 9, 10]
+    objective: -5984
+    pos: [1, 10, 14, 5, 4, 8, 7, 13, 12, 3, 9, 6, 15, 11, 2]
+  status: SATISFIED
+  time: 0.14
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 4, 7, 8, 3, 10, 5, 6, 11, 1, 9, 2]
+    objective: -5978
+    pos: [1, 3, 14, 8, 7, 11, 12, 13, 5, 6, 10, 9, 15, 4, 2]
+  status: SATISFIED
+  time: 0.14
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 12, 4, 1, 2, 7, 10, 5, 6, 11, 8, 9, 3]
+    objective: -4988
+    pos: [1, 7, 3, 12, 11, 15, 6, 5, 9, 10, 14, 13, 4, 8, 2]
+  status: SATISFIED
+  time: 0.15
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 3, 12, 1, 6, 7, 4, 5, 0, 2, 8, 9, 10]
+    objective: -4986
+    pos: [1, 6, 10, 9, 4, 14, 13, 12, 8, 3, 0, 5, 11, 7, 2]
+  status: SATISFIED
+  time: 0.16
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 3, 4, 1, 12, 7, 10, 5, 6, 11, 8, 9, 2]
+    objective: -3987
+    pos: [1, 3, 9, 8, 7, 15, 12, 11, 5, 6, 14, 13, 10, 4, 2]
+  status: SATISFIED
+  time: 0.17
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 3, 4, 1, 6, 7, 8, 5, 2, 11, 12, 9, 10]
+    objective: -3985
+    pos: [1, 10, 6, 5, 4, 15, 14, 13, 12, 3, 9, 8, 7, 11, 2]
+  status: SATISFIED
+  time: 0.17
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 3, 4, 1, 6, 7, 8, 5, 0, 2, 12, 9, 10]
+    objective: -3983
+    pos: [1, 9, 6, 5, 4, 14, 13, 12, 11, 3, 0, 8, 7, 10, 2]
+  status: SATISFIED
+  time: 0.19
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 13, 3, 4, 1, 6, 7, 10, 5, 0, 0, 8, 9, 2]
+    objective: -3980
+    pos: [1, 3, 9, 8, 7, 13, 12, 11, 5, 6, 0, 0, 10, 4, 2]
+  status: SATISFIED
+  time: 0.19
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 13, 4, 1, 6, 7, 8, 5, 3, 11, 12, 9, 10]
+    objective: -3978
+    pos: [1, 10, 9, 5, 4, 15, 14, 13, 12, 3, 8, 7, 6, 11, 2]
+  status: SATISFIED
+  time: 0.2
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 13, 4, 1, 6, 7, 8, 5, 0, 3, 12, 9, 10]
+    objective: -3976
+    pos: [1, 9, 8, 5, 4, 14, 13, 12, 11, 3, 0, 7, 6, 10, 2]
+  status: SATISFIED
+  time: 0.2
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 13, 4, 1, 6, 7, 10, 5, 0, 0, 8, 9, 3]
+    objective: -3973
+    pos: [1, 4, 3, 9, 8, 13, 12, 11, 6, 7, 0, 0, 10, 5, 2]
+  status: SATISFIED
+  time: 0.21
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 3, 4, 1, 13, 7, 8, 5, 6, 11, 12, 9, 10]
+    objective: -2985
+    pos: [1, 7, 6, 5, 4, 15, 11, 10, 9, 3, 14, 13, 12, 8, 2]
+  status: SATISFIED
+  time: 0.23
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 3, 4, 1, 0, 13, 8, 5, 6, 11, 12, 9, 10]
+    objective: -1992
+    pos: [1, 7, 6, 5, 4, 14, 0, 10, 9, 3, 13, 12, 11, 8, 2]
+  status: SATISFIED
+  time: 0.23
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 3, 4, 1, 6, 13, 8, 5, 0, 7, 12, 9, 10]
+    objective: -1987
+    pos: [1, 7, 6, 5, 4, 14, 13, 10, 9, 3, 0, 12, 11, 8, 2]
+  status: SATISFIED
+  time: 0.24
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 3, 0, 1, 12, 7, 4, 9, 6, 11, 8, 13, 10]
+    objective: -1982
+    pos: [1, 7, 6, 5, 0, 14, 11, 10, 4, 3, 13, 12, 9, 8, 2]
+  status: SATISFIED
+  time: 0.24
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 0, 0, 1, 0, 3, 8, 9, 6, 11, 12, 13, 10]
+    objective: -1981
+    pos: [1, 7, 6, 0, 0, 12, 0, 5, 4, 3, 11, 10, 9, 8, 2]
+  status: SATISFIED
+  time: 0.24
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 9, 4, 1, 6, 3, 8, 5, 0, 7, 12, 13, 10]
+    objective: -1979
+    pos: [1, 9, 8, 5, 4, 14, 13, 7, 6, 3, 0, 12, 11, 10, 2]
+  status: SATISFIED
+  time: 0.25
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 0, 0, 1, 6, 3, 8, 9, 0, 7, 12, 13, 10]
+    objective: -1976
+    pos: [1, 7, 6, 0, 0, 12, 11, 5, 4, 3, 0, 10, 9, 8, 2]
+  status: SATISFIED
+  time: 0.25
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 14, 2, 3, 0, 1, 6, 7, 4, 9, 0, 0, 8, 13, 10]
+    objective: -1975
+    pos: [1, 7, 6, 5, 0, 12, 11, 10, 4, 3, 0, 0, 9, 8, 2]
+  status: SATISFIED
+  time: 0.25
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 7, 2, 9, 4, 1, 12, 3, 14, 5, 6, 11, 8, 13, 10]
+    objective: -990
+    pos: [1, 11, 10, 5, 4, 15, 12, 9, 6, 3, 14, 13, 8, 7, 2]
+  status: SATISFIED
+  time: 0.26
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 0, 0, 9, 4, 1, 12, 7, 14, 5, 6, 11, 8, 13, 10]
+    objective: -983
+    pos: [1, 0, 0, 5, 4, 13, 10, 9, 6, 3, 12, 11, 8, 7, 2]
+  status: SATISFIED
+  time: 0.27
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 0, 0, 0, 0, 1, 12, 7, 14, 9, 6, 11, 8, 13, 10]
+    objective: -980
+    pos: [1, 0, 0, 0, 0, 11, 8, 7, 4, 3, 10, 9, 6, 5, 2]
+  status: SATISFIED
+  time: 0.27
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 1, 2, 9, 4, 7, 8, 3, 14, 5, 6, 11, 12, 13, 10]
+    objective: -978
+    pos: [1, 15, 14, 5, 4, 11, 12, 13, 6, 3, 10, 9, 8, 7, 2]
+  status: SATISFIED
+  time: 0.27
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 1, 2, 0, 0, 7, 8, 3, 14, 9, 6, 11, 12, 13, 10]
+    objective: -975
+    pos: [1, 13, 12, 0, 0, 9, 10, 11, 4, 3, 8, 7, 6, 5, 2]
+  status: SATISFIED
+  time: 0.27
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [15, 0, 0, 0, 0, 1, 6, 7, 14, 9, 0, 0, 8, 13, 10]
+    objective: -973
+    pos: [1, 0, 0, 0, 0, 9, 8, 7, 4, 3, 0, 0, 6, 5, 2]
+  status: SATISFIED
+  time: 0.28
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [2, 3, 15, 0, 0, 1, 6, 7, 14, 9, 0, 0, 8, 13, 10]
+    objective: -971
+    pos: [1, 2, 3, 0, 0, 11, 10, 9, 6, 5, 0, 0, 8, 7, 4]
+  status: SATISFIED
+  time: 0.29
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [2, 3, 4, 5, 10, 1, 0, 13, 8, 15, 6, 11, 12, 9, 14]
+    objective: 6
+    pos: [1, 2, 3, 4, 5, 14, 0, 10, 9, 6, 13, 12, 11, 8, 7]
+  status: SATISFIED
+  time: 0.32
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [2, 3, 4, 5, 10, 1, 6, 13, 8, 15, 0, 7, 12, 9, 14]
+    objective: 11
+    pos: [1, 2, 3, 4, 5, 14, 13, 10, 9, 6, 0, 12, 11, 8, 7]
+  status: SATISFIED
+  time: 0.32
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [2, 3, 4, 5, 10, 1, 12, 7, 0, 15, 6, 11, 8, 13, 14]
+    objective: 13
+    pos: [1, 2, 3, 4, 5, 14, 11, 10, 0, 6, 13, 12, 9, 8, 7]
+  status: SATISFIED
+  time: 0.32
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [2, 3, 4, 9, 0, 1, 12, 7, 10, 15, 6, 11, 8, 13, 14]
+    objective: 16
+    pos: [1, 2, 3, 4, 0, 14, 11, 10, 5, 6, 13, 12, 9, 8, 7]
+  status: SATISFIED
+  time: 0.33
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [2, 3, 8, 0, 0, 1, 0, 9, 10, 15, 6, 11, 12, 13, 14]
+    objective: 17
+    pos: [1, 2, 3, 0, 0, 12, 0, 4, 5, 6, 11, 10, 9, 8, 7]
+  status: SATISFIED
+  time: 0.33
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [2, 3, 8, 5, 10, 1, 6, 9, 4, 15, 0, 7, 12, 13, 14]
+    objective: 19
+    pos: [1, 2, 3, 6, 7, 14, 13, 4, 5, 8, 0, 12, 11, 10, 9]
+  status: SATISFIED
+  time: 0.33
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [2, 3, 8, 0, 0, 1, 6, 9, 10, 15, 0, 7, 12, 13, 14]
+    objective: 22
+    pos: [1, 2, 3, 0, 0, 12, 11, 4, 5, 6, 0, 10, 9, 8, 7]
+  status: SATISFIED
+  time: 0.34
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [2, 3, 4, 9, 0, 1, 6, 7, 10, 15, 0, 0, 8, 13, 14]
+    objective: 23
+    pos: [1, 2, 3, 4, 0, 12, 11, 10, 5, 6, 0, 0, 9, 8, 7]
+  status: SATISFIED
+  time: 0.34
+- configuration: Chuffed
+  data_file: data/prize/15-3-5-5.dzn
+  model: data/prize/prize_imp.mzn
+  problem: prize
+  solution:
+    next: [2, 3, 4, 5, 10, 1, 6, 7, 14, 9, 0, 0, 8, 13, 0]
+    objective: 29
+    pos: [1, 2, 3, 4, 5, 12, 11, 10, 7, 6, 0, 0, 9, 8, 0]
+  status: SATISFIED
+  time: 0.35
+- {configuration: Chuffed, data_file: data/prize/15-3-5-5.dzn, model: data/prize/prize_imp.mzn,
+  problem: prize, status: OPTIMAL_SOLUTION, time: 0.36}

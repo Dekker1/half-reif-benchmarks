@@ -1,0 +1,17 @@
+configuration: Chuffed
+data_file: data/prize/32-4-8-6.dzn
+evaluatedHalfReifiedConstraints: 126
+evaluatedReifiedConstraints: 558
+flatBoolConstraints: 91
+flatBoolVars: 619
+flatIntConstraints: 748
+flatIntVars: 159
+flatTime: 0.057887
+method: maximize
+model: data/prize/prize_imp.mzn
+nSolutions: 278
+objective: 64
+paths: 0
+problem: prize
+status: SATISFIED
+time: 300.07663276046515

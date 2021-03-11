@@ -1,0 +1,22 @@
+- configuration: Chuffed
+  data_file: data/qcp_max/qcp-10-67-9.dzn
+  model: data/qcp_max/qcp_max_redef.mzn
+  problem: qcp_max
+  solution:
+    obj: 20
+    objective: 20
+    q:
+    - [1, 10, 8, 3, 6, 9, 4, 2, 7, 5]
+    - [7, 4, 10, 9, 5, 3, 2, 6, 8, 1]
+    - [10, 8, 6, 5, 9, 7, 1, 3, 4, 2]
+    - [9, 7, 2, 10, 4, 8, 5, 1, 3, 6]
+    - [4, 6, 9, 1, 10, 5, 3, 8, 2, 7]
+    - [6, 1, 7, 8, 3, 2, 10, 5, 9, 4]
+    - [8, 9, 1, 2, 7, 10, 6, 4, 5, 3]
+    - [5, 3, 4, 7, 2, 1, 9, 10, 6, 8]
+    - [3, 2, 5, 6, 1, 4, 8, 7, 10, 9]
+    - [2, 5, 3, 4, 8, 6, 7, 9, 1, 10]
+  status: SATISFIED
+  time: 0.19
+- {configuration: Chuffed, data_file: data/qcp_max/qcp-10-67-9.dzn, model: data/qcp_max/qcp_max_redef.mzn,
+  problem: qcp_max, status: OPTIMAL_SOLUTION, time: 0.2}

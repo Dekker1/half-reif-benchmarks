@@ -11,9 +11,7 @@ schedule(
     configurations=[
         Configuration(
             "Chuffed",
-            minizinc.Solver.load(
-                Path("./software/install/share/minizinc/solvers/chuffed.msc")
-            ),
+            minizinc.Solver.lookup("chuffed-hr"),
         ),
     ],
     nodelist=["critical001"],

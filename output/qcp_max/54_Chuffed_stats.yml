@@ -1,0 +1,15 @@
+configuration: Chuffed
+data_file: data/qcp_max/qcp-20-187-3.dzn
+evaluatedReifiedConstraints: 7640
+flatBoolConstraints: 40
+flatBoolVars: 7640
+flatIntConstraints: 7641
+flatIntVars: 238
+flatTime: 0.348037
+method: maximize
+model: data/qcp_max/qcp_max_redef.mzn
+nSolutions: 0
+paths: 0
+problem: qcp_max
+status: UNKNOWN
+time: 300.31569922342896
