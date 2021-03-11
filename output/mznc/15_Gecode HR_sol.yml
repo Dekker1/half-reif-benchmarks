@@ -8,7 +8,7 @@
     - [7, 951, 950]
     - [1246, 0, 334]
   status: SATISFIED
-  time: 168.39
+  time: 163.08
 - configuration: Gecode HR
   data_file: data/mznc2019/rcpsp-wet-diverse/j90_48_4-wet-diverse-3.dzn
   model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
@@ -19,7 +19,7 @@
     - [7, 951, 950]
     - [1246, 0, 332]
   status: SATISFIED
-  time: 168.73
+  time: 163.4
 - configuration: Gecode HR
   data_file: data/mznc2019/rcpsp-wet-diverse/j90_48_4-wet-diverse-3.dzn
   model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
@@ -30,4 +30,4 @@
     - [7, 951, 949]
     - [1246, 0, 334]
   status: SATISFIED
-  time: 168.89
+  time: 163.58

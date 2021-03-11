@@ -1,0 +1,19 @@
+configuration: CPLEX HR
+data_file: data/mznc2019/zephyrus/12__10__8__3.dzn
+evaluatedHalfReifiedConstraints: 208
+evaluatedReifiedConstraints: 392
+flatBoolVars: 100
+flatIntConstraints: 5722
+flatIntVars: 2896
+flatTime: 0.729716
+method: minimize
+model: data/mznc2019/zephyrus/zephyrus.mzn
+nSolutions: 1
+nodes: 0
+objective: 3120
+objectiveBound: 3120
+paths: 0
+problem: zephyrus
+solveTime: 0.8642
+status: OPTIMAL_SOLUTION
+time: 1.840406872332096

@@ -1,0 +1,2 @@
+- {configuration: SCIP, data_file: data/mznc2020/pentominoes/02.dzn, model: data/mznc2020/pentominoes/pentominoes-int.mzn,
+  problem: pentominoes, status: UNKNOWN}

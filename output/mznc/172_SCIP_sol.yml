@@ -1,0 +1,3 @@
+- {configuration: SCIP, data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_3_8_5.dzn,
+  model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn, problem: hoist-benchmark-for-minizinc,
+  status: UNKNOWN, time: 1200.65}

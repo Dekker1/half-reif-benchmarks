@@ -3,11 +3,11 @@ data_file: data/mznc2020/stable-goods/s-d8.dzn
 evaluatedHalfReifiedConstraints: 4069
 evaluatedReifiedConstraints: 543
 flatIntConstraints: 14640
-flatIntVars: 13174
-flatTime: 4.64778
+flatIntVars: 13160
+flatTime: 4.94842
 method: maximize
 model: data/mznc2020/stable-goods/stable-goods-solution.mzn
 paths: 0
 problem: stable-goods
 status: UNKNOWN
-time: 1201.1583106275648
+time: 1201.1456950940192

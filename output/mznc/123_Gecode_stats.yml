@@ -6,8 +6,8 @@ flatBoolConstraints: 535
 flatBoolVars: 1272
 flatIntConstraints: 1638
 flatIntVars: 357
-flatTime: 0.805333
-initTime: 0.02885
+flatTime: 0.806772
+initTime: 0.029158
 method: minimize
 model: data/mznc2020/is/model.mzn
 nSolutions: 33
@@ -20,7 +20,7 @@ propagations: 200143529
 propagators: 1488
 restarts: 0
 solutions: 33
-solveTime: 53.5394
+solveTime: 53.7115
 status: OPTIMAL_SOLUTION
-time: 54.47536375001073
+time: 54.69824663735926
 variables: 1677

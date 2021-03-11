@@ -5,10 +5,10 @@ evaluatedHalfReifiedConstraints: 3120
 evaluatedReifiedConstraints: 44098
 flatIntConstraints: 85544
 flatIntVars: 73827
-flatTime: 17.0537
+flatTime: 17.3676
 method: minimize
 model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
 paths: 0
 problem: skill-allocation
 status: UNKNOWN
-time: 1201.2077685967088
+time: 1201.218135021627

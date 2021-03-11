@@ -1,0 +1,2 @@
+- {configuration: CPLEX HR, data_file: data/mznc2020/racp/j60_13_4_1.0.dzn, model: data/mznc2020/racp/racp.mzn,
+  problem: racp, status: UNKNOWN}

@@ -3,7 +3,7 @@ data_file: data/mznc2019/amaze/mod2012-03-29.dzn
 evaluatedReifiedConstraints: 2274
 flatIntConstraints: 2488
 flatIntVars: 3297
-flatTime: 0.42677
+flatTime: 0.382988
 method: satisfy
 model: data/mznc2019/amaze/amaze3.mzn
 nSolutions: 1
@@ -13,6 +13,6 @@ objectiveBound: 0
 openNodes: 128
 paths: 0
 problem: amaze
-solveTime: 144.8632
+solveTime: 145.1553
 status: SATISFIED
-time: 145.41944460757077
+time: 145.68952290713787

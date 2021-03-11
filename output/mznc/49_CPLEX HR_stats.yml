@@ -1,0 +1,18 @@
+configuration: CPLEX HR
+data_file: data/mznc2019/kidney-exchange/3_20_0.25_5.dzn
+evaluatedReifiedConstraints: 800
+flatBoolVars: 380
+flatIntConstraints: 1325
+flatIntVars: 995
+flatTime: 0.313515
+method: maximize
+model: data/mznc2019/kidney-exchange/ccmcp.mzn
+nSolutions: 1
+nodes: 4258
+objective: 1247
+objectiveBound: 1247
+paths: 0
+problem: kidney-exchange
+solveTime: 12.5192
+status: OPTIMAL_SOLUTION
+time: 12.947313264012337

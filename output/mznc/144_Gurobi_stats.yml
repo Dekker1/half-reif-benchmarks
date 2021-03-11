@@ -3,10 +3,10 @@ data_file: data/mznc2020/cable_tree_wiring/A073.dzn
 evaluatedReifiedConstraints: 80420
 flatIntConstraints: 292782
 flatIntVars: 199460
-flatTime: 46.078
+flatTime: 48.6248
 method: minimize
 model: data/mznc2020/cable_tree_wiring/ctw.mzn
 paths: 0
 problem: cable_tree_wiring
 status: UNKNOWN
-time: 1201.4061047881842
+time: 1201.3728396762162

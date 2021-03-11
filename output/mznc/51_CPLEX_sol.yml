@@ -1,0 +1,16 @@
+- configuration: CPLEX
+  data_file: data/mznc2019/steelmillslab/bench_19_6.dzn
+  model: data/mznc2019/steelmillslab/steelmillslab.mzn
+  problem: steelmillslab
+  solution:
+    assign: [2, 43, 37, 34, 3, 3, 26, 4, 43, 4, 3, 3, 34, 16, 8, 6, 4, 6, 33, 6, 23,
+      1, 38, 23, 3, 52, 8, 8, 11, 54, 39, 37, 2, 35, 49, 45, 12, 49, 46, 14, 22, 22,
+      5, 31, 51, 56, 15, 24, 1, 17, 48, 25, 47, 32, 14, 18, 36, 53, 25, 20, 19, 6,
+      21, 28, 24, 5, 40, 27, 28, 42, 44, 29, 50, 41, 54, 26, 13, 53, 17, 9, 34, 30,
+      56, 7, 12, 19, 51, 32, 48, 58, 27, 33, 39, 9, 31, 21, 45, 55, 57, 10, 44, 42,
+      35, 20, 16, 47, 50, 10, 13, 29, 11]
+    objective: 4
+  status: SATISFIED
+  time: 1200.26
+- {configuration: CPLEX, data_file: data/mznc2019/steelmillslab/bench_19_6.dzn, model: data/mznc2019/steelmillslab/steelmillslab.mzn,
+  problem: steelmillslab, status: SATISFIED}

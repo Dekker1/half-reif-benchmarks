@@ -6,7 +6,7 @@ evaluatedReifiedConstraints: 3751
 flatBoolVars: 1358
 flatIntConstraints: 11867
 flatIntVars: 10267
-flatTime: 3.131
+flatTime: 3.3167
 method: minimize
 model: data/mznc2019/hrc/hrc.mzn
 nSolutions: 1
@@ -16,6 +16,6 @@ objectiveBound: 0
 openNodes: 178
 paths: 0
 problem: hrc
-solveTime: 221.4584
+solveTime: 221.9679
 status: OPTIMAL_SOLUTION
-time: 225.39739337190986
+time: 226.11338874138892

@@ -8,8 +8,8 @@ flatBoolConstraints: 2899
 flatBoolVars: 2904
 flatIntConstraints: 2481
 flatIntVars: 1306
-flatTime: 0.248367
-initTime: 0.034475
+flatTime: 0.247608
+initTime: 0.034117
 method: minimize
 model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
 nSolutions: 7
@@ -22,7 +22,7 @@ propagations: 13453029662
 propagators: 5371
 restarts: 0
 solutions: 7
-solveTime: 1184.77
+solveTime: 1194.72
 status: OPTIMAL_SOLUTION
-time: 1185.189929008484
+time: 1195.1568190306425
 variables: 4354

@@ -35,7 +35,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.87
+  time: 0.92
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -73,7 +73,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.89
+  time: 0.94
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -111,7 +111,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.89
+  time: 0.95
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -149,7 +149,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.89
+  time: 0.95
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -187,7 +187,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.91
+  time: 0.95
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -225,7 +225,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.91
+  time: 0.96
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -263,7 +263,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.91
+  time: 0.96
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -301,7 +301,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.91
+  time: 0.96
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -339,7 +339,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.91
+  time: 0.96
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -377,7 +377,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.92
+  time: 0.96
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -415,7 +415,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.92
+  time: 0.98
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -453,7 +453,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.92
+  time: 0.98
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -491,7 +491,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.94
+  time: 0.98
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -529,7 +529,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.94
+  time: 0.98
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -567,7 +567,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.94
+  time: 0.98
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -605,7 +605,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.94
+  time: 0.98
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -643,7 +643,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.94
+  time: 0.99
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -681,7 +681,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.94
+  time: 0.99
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -719,7 +719,7 @@
       68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103, 90,
       26]
   status: SATISFIED
-  time: 0.94
+  time: 0.99
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -757,7 +757,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 0.94
+  time: 1.0
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -795,7 +795,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 0.94
+  time: 1.01
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -833,7 +833,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 0.96
+  time: 1.01
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -871,7 +871,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 0.96
+  time: 1.01
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -909,7 +909,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 0.97
+  time: 1.03
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -947,7 +947,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 0.98
+  time: 1.04
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -985,7 +985,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 0.98
+  time: 1.04
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1023,7 +1023,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 0.99
+  time: 1.04
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1061,7 +1061,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 0.99
+  time: 1.04
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1099,7 +1099,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 0.99
+  time: 1.05
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1137,7 +1137,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.01
+  time: 1.05
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1175,7 +1175,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.02
+  time: 1.07
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1213,7 +1213,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.02
+  time: 1.07
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1251,7 +1251,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.04
+  time: 1.08
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1289,7 +1289,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.04
+  time: 1.1
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1327,7 +1327,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.05
+  time: 1.1
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1365,7 +1365,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.05
+  time: 1.11
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1403,7 +1403,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.06
+  time: 1.11
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1441,7 +1441,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.08
+  time: 1.13
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1479,7 +1479,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.08
+  time: 1.14
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1517,7 +1517,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.09
+  time: 1.14
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1555,7 +1555,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.1
+  time: 1.16
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1593,7 +1593,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.11
+  time: 1.17
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1631,7 +1631,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.13
+  time: 1.18
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1669,7 +1669,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.14
+  time: 1.19
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1707,7 +1707,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.14
+  time: 1.2
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1745,7 +1745,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.48
+  time: 1.21
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1783,7 +1783,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.48
+  time: 1.23
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1821,7 +1821,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6,
       24, 103, 90, 26]
   status: SATISFIED
-  time: 1.48
+  time: 1.23
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1859,7 +1859,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6,
       24, 103, 90, 26]
   status: SATISFIED
-  time: 1.48
+  time: 1.59
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1897,7 +1897,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6,
       24, 103, 90, 26]
   status: SATISFIED
-  time: 1.48
+  time: 1.6
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1935,7 +1935,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6,
       24, 103, 90, 26]
   status: SATISFIED
-  time: 1.48
+  time: 1.6
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -1973,7 +1973,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6,
       24, 103, 90, 26]
   status: SATISFIED
-  time: 1.48
+  time: 1.6
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2011,7 +2011,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24,
       103, 90, 26]
   status: SATISFIED
-  time: 1.48
+  time: 1.6
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2049,7 +2049,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24,
       103, 90, 26]
   status: SATISFIED
-  time: 1.49
+  time: 1.6
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2087,7 +2087,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24,
       103, 90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.6
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2125,7 +2125,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24,
       103, 90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.6
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2163,7 +2163,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24,
       103, 90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.61
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2201,7 +2201,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24,
       103, 90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.61
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2239,7 +2239,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24,
       103, 90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.61
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2277,7 +2277,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24,
       103, 90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.61
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2315,7 +2315,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 34, 36, 6, 24, 103,
       90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.62
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2353,7 +2353,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.62
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2391,7 +2391,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.62
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2429,7 +2429,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.62
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2467,7 +2467,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 1.5
+  time: 1.62
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2505,7 +2505,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 1.52
+  time: 1.62
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2543,7 +2543,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 1.53
+  time: 1.62
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2581,7 +2581,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 1.55
+  time: 1.62
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2619,7 +2619,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 1.56
+  time: 1.64
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2657,7 +2657,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 1.58
+  time: 1.65
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2695,7 +2695,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 1.59
+  time: 1.67
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2733,7 +2733,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 1.61
+  time: 1.68
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2771,7 +2771,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 1.61
+  time: 1.7
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2809,7 +2809,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 2.11
+  time: 1.7
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2847,7 +2847,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 2.11
+  time: 1.72
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2885,7 +2885,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 2.11
+  time: 1.73
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2923,7 +2923,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 2.11
+  time: 2.25
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2961,7 +2961,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 2.11
+  time: 2.25
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -2999,7 +2999,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 2.11
+  time: 2.25
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3037,7 +3037,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.11
+  time: 2.25
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3075,7 +3075,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.11
+  time: 2.25
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3113,7 +3113,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.12
+  time: 2.25
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3151,7 +3151,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.12
+  time: 2.25
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3189,7 +3189,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.12
+  time: 2.25
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3227,7 +3227,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.12
+  time: 2.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3265,7 +3265,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.12
+  time: 2.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3303,7 +3303,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.13
+  time: 2.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3341,7 +3341,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 2.13
+  time: 2.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3379,7 +3379,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.13
+  time: 2.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3417,7 +3417,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.13
+  time: 2.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3455,7 +3455,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.13
+  time: 2.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3493,7 +3493,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.13
+  time: 2.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3531,7 +3531,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.13
+  time: 2.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3569,7 +3569,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.18
+  time: 2.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3607,7 +3607,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.22
+  time: 2.29
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3645,7 +3645,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 2.26
+  time: 2.33
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3683,7 +3683,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 2.4
+  time: 2.47
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3721,7 +3721,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 2.44
+  time: 2.5
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3759,7 +3759,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 2.47
+  time: 2.53
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3797,7 +3797,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 2.5
+  time: 2.57
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3835,7 +3835,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       10, 90, 26]
   status: SATISFIED
-  time: 2.73
+  time: 2.8
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3873,7 +3873,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 10, 90, 26]
   status: SATISFIED
-  time: 2.91
+  time: 2.85
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3911,7 +3911,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 10,
       90, 26]
   status: SATISFIED
-  time: 2.91
+  time: 3.0
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3949,7 +3949,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 22.09
+  time: 22.33
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -3987,7 +3987,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 22.12
+  time: 22.36
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4025,7 +4025,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 22.16
+  time: 22.4
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4063,7 +4063,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.2
+  time: 22.44
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4101,7 +4101,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.22
+  time: 22.46
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4139,7 +4139,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.24
+  time: 22.48
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4177,7 +4177,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.24
+  time: 22.49
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4215,7 +4215,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.26
+  time: 22.51
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4253,7 +4253,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.27
+  time: 22.51
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4291,7 +4291,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.3
+  time: 22.53
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4329,7 +4329,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.4
+  time: 22.65
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4367,7 +4367,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.43
+  time: 22.68
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4405,7 +4405,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 22.46
+  time: 22.71
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4443,7 +4443,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 22.49
+  time: 22.74
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4481,7 +4481,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.6
+  time: 22.85
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4519,7 +4519,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.62
+  time: 22.87
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4557,7 +4557,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.64
+  time: 22.89
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4595,7 +4595,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.65
+  time: 22.89
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4633,7 +4633,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.68
+  time: 22.92
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4671,7 +4671,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.75
+  time: 23.0
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4709,7 +4709,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 22.78
+  time: 23.03
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4747,7 +4747,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 22.81
+  time: 23.06
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4785,7 +4785,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 22.84
+  time: 23.09
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4823,7 +4823,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 22.94
+  time: 23.19
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4861,7 +4861,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 30.48
+  time: 30.78
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4899,7 +4899,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 30.54
+  time: 30.84
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4937,7 +4937,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 30.58
+  time: 30.89
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -4975,7 +4975,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.08
+  time: 371.59
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5013,7 +5013,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 370.11
+  time: 371.62
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5051,7 +5051,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.15
+  time: 371.66
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5089,7 +5089,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 370.18
+  time: 371.68
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5127,7 +5127,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.35
+  time: 371.85
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5165,7 +5165,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.37
+  time: 371.87
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5203,7 +5203,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.41
+  time: 371.92
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5241,7 +5241,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.44
+  time: 371.95
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5279,7 +5279,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 370.47
+  time: 371.98
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5317,7 +5317,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.51
+  time: 372.02
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5355,7 +5355,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 370.54
+  time: 372.05
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5393,7 +5393,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 370.69
+  time: 372.2
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5431,7 +5431,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.82
+  time: 372.33
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5469,7 +5469,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.84
+  time: 372.35
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5507,7 +5507,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.87
+  time: 372.38
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5545,7 +5545,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.9
+  time: 372.41
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5583,7 +5583,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 370.93
+  time: 372.44
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5621,7 +5621,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 370.97
+  time: 372.48
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5659,7 +5659,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 370.99
+  time: 372.5
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5697,7 +5697,7 @@
       32, 15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6,
       24, 26, 90, 26]
   status: SATISFIED
-  time: 372.69
+  time: 374.2
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5735,7 +5735,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 372.74
+  time: 374.25
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5773,7 +5773,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 372.76
+  time: 374.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5811,7 +5811,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 372.78
+  time: 374.29
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5849,7 +5849,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 372.8
+  time: 374.3
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5887,7 +5887,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 372.83
+  time: 374.35
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5925,7 +5925,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 372.85
+  time: 374.38
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -5963,7 +5963,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 372.88
+  time: 374.39
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6001,7 +6001,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 372.93
+  time: 374.44
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6039,7 +6039,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 372.96
+  time: 374.47
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6077,7 +6077,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 373.1
+  time: 374.61
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6115,7 +6115,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 373.12
+  time: 374.63
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6153,7 +6153,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 373.15
+  time: 374.67
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6191,7 +6191,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 373.18
+  time: 374.7
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6229,7 +6229,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 373.21
+  time: 374.73
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6267,7 +6267,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 373.25
+  time: 374.76
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6305,7 +6305,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 373.27
+  time: 374.79
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6343,7 +6343,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 373.6
+  time: 375.11
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6381,7 +6381,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 382.48
+  time: 384.01
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6419,7 +6419,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 382.53
+  time: 384.06
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6457,7 +6457,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 383.05
+  time: 384.58
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6495,7 +6495,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 385.71
+  time: 387.24
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6533,7 +6533,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 385.73
+  time: 387.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6571,7 +6571,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 385.75
+  time: 387.29
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6609,7 +6609,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 385.78
+  time: 387.32
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6647,7 +6647,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 385.83
+  time: 387.37
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6685,7 +6685,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 397.2
+  time: 398.72
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6723,7 +6723,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 397.86
+  time: 399.37
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6761,7 +6761,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 397.88
+  time: 399.4
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6799,7 +6799,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 397.91
+  time: 399.42
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6837,7 +6837,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 397.95
+  time: 399.46
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6875,7 +6875,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 398.39
+  time: 399.9
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6913,7 +6913,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 398.41
+  time: 399.92
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6951,7 +6951,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 398.43
+  time: 399.94
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -6989,7 +6989,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 398.43
+  time: 399.96
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7027,7 +7027,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 398.48
+  time: 399.99
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7065,7 +7065,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 398.51
+  time: 400.03
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7103,7 +7103,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 398.54
+  time: 400.06
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7141,7 +7141,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 398.58
+  time: 400.1
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7179,7 +7179,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 400.15
+  time: 401.66
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7217,7 +7217,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 400.31
+  time: 401.83
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7255,7 +7255,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 400.48
+  time: 402.0
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7293,7 +7293,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 400.65
+  time: 402.16
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7331,7 +7331,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 400.67
+  time: 402.19
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7369,7 +7369,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 735.72
+  time: 741.92
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7407,7 +7407,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 735.75
+  time: 741.95
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7445,7 +7445,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 735.8
+  time: 742.01
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7483,7 +7483,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 735.84
+  time: 742.04
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7521,7 +7521,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 737.54
+  time: 743.76
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7559,7 +7559,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 737.7
+  time: 743.93
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7597,7 +7597,7 @@
       15, 72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24,
       26, 90, 26]
   status: SATISFIED
-  time: 737.87
+  time: 744.1
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7635,7 +7635,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 738.04
+  time: 744.27
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7673,7 +7673,7 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 738.06
+  time: 744.3
 - configuration: Gecode HR
   data_file: data/mznc2019/accap/accap_instance8.dzn
   model: data/mznc2019/accap/accap.mzn
@@ -7711,6 +7711,6 @@
       72, 68, 50, 39, 20, 90, 6, 51, 83, 52, 70, 83, 70, 1, 90, 23, 36, 6, 24, 26,
       90, 26]
   status: SATISFIED
-  time: 1104.25
+  time: 1112.15
 - {configuration: Gecode HR, data_file: data/mznc2019/accap/accap_instance8.dzn, model: data/mznc2019/accap/accap.mzn,
   problem: accap, status: SATISFIED}

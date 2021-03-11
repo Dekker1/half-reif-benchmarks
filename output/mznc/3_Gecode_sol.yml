@@ -19,6 +19,6 @@
     - [13, 12, 12, 12, 12, 12, 12, 12, 12, 11]
     - [13, 13, 13, 13, 13, 13, 13, 13, 13, 13]
   status: SATISFIED
-  time: 30.74
+  time: 29.66
 - {configuration: Gecode, data_file: data/mznc2019/amaze/mod2012-03-29.dzn, model: data/mznc2019/amaze/amaze3.mzn,
   problem: amaze, status: SATISFIED}

@@ -1,0 +1,13 @@
+configuration: CPLEX
+data_file: data/mznc2019/code-generator/mips_gcc.cfgrtl.update_br_prob_note.dzn
+evaluatedReifiedConstraints: 97739
+flatBoolVars: 640
+flatIntConstraints: 341411
+flatIntVars: 250258
+flatTime: 58.0872
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1201.2993327770382

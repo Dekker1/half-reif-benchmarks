@@ -2,7 +2,7 @@ configuration: CBC HR
 data_file: data/mznc2020/radiation/i8-40.dzn
 flatIntConstraints: 5635
 flatIntVars: 5595
-flatTime: 0.823631
+flatTime: 0.840442
 method: minimize
 model: data/mznc2020/radiation/radiation.mzn
 nSolutions: 1
@@ -12,6 +12,6 @@ objectiveBound: 4040
 openNodes: -1
 paths: 0
 problem: radiation
-solveTime: 61.1054
+solveTime: 61.2272
 status: OPTIMAL_SOLUTION
-time: 62.20103862322867
+time: 62.37190171889961

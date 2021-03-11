@@ -4,10 +4,10 @@ evaluatedReifiedConstraints: 3276
 flatBoolVars: 646
 flatIntConstraints: 2923
 flatIntVars: 10546
-flatTime: 2.23427
+flatTime: 2.27015
 method: minimize
 model: data/mznc2020/is/model.mzn
 paths: 0
 problem: is
 status: UNKNOWN
-time: 1201.1550155561417
+time: 1201.1615618541837

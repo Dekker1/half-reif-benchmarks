@@ -1,0 +1,15 @@
+configuration: SCIP HR
+data_file: data/mznc2019/code-generator/mips_gcc.cfgrtl.update_br_prob_note.dzn
+eliminatedLinearConstraints: 1086
+evaluatedHalfReifiedConstraints: 40530
+evaluatedReifiedConstraints: 56225
+flatBoolVars: 640
+flatIntConstraints: 303737
+flatIntVars: 247598
+flatTime: 60.8887
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1201.5753209199756

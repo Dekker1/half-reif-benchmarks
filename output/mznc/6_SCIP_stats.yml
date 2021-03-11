@@ -1,0 +1,12 @@
+configuration: SCIP
+data_file: data/mznc2019/nside/MEDIUM_1000_100.dzn
+evaluatedReifiedConstraints: 73912
+flatIntConstraints: 270831
+flatIntVars: 191093
+flatTime: 42.2106
+method: maximize
+model: data/mznc2019/nside/full.mzn
+paths: 0
+problem: nside
+status: UNKNOWN
+time: 1201.4055543355644

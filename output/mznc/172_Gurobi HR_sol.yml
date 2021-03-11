@@ -12,7 +12,7 @@
       269, 324, 7, 89, 156, 308, 75, 192, 244, 24, 136, 278, 390, 50, 133, 215, 282,
       34, 201, 318, 370]
   status: SATISFIED
-  time: 3.93
+  time: 4.12
 - {configuration: Gurobi HR, data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_3_8_5.dzn,
   model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn, problem: hoist-benchmark-for-minizinc,
-  status: OPTIMAL_SOLUTION, time: 3.93}
+  status: OPTIMAL_SOLUTION, time: 4.13}

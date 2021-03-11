@@ -1,0 +1,14 @@
+configuration: SCIP HR
+data_file: data/mznc2019/nside/HARD_2000_500.dzn
+evaluatedHalfReifiedConstraints: 14278
+evaluatedReifiedConstraints: 444340
+flatBoolVars: 50038
+flatIntConstraints: 1167719
+flatIntVars: 842582
+flatTime: 207.825
+method: maximize
+model: data/mznc2019/nside/full.mzn
+paths: 0
+problem: nside
+status: UNKNOWN
+time: 1201.6678697299212

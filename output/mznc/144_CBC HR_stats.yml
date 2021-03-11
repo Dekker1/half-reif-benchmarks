@@ -4,10 +4,10 @@ evaluatedHalfReifiedConstraints: 2422
 evaluatedReifiedConstraints: 77998
 flatIntConstraints: 290360
 flatIntVars: 199460
-flatTime: 48.4891
+flatTime: 50.3433
 method: minimize
 model: data/mznc2020/cable_tree_wiring/ctw.mzn
 paths: 0
 problem: cable_tree_wiring
 status: UNKNOWN
-time: 1201.357163598761
+time: 1201.400211147964

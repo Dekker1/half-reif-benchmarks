@@ -3,8 +3,8 @@ data_file: data/mznc2020/radiation/i8-9.dzn
 failures: 1091
 flatIntConstraints: 667
 flatIntVars: 888
-flatTime: 0.055359
-initTime: 0.005454
+flatTime: 0.056123
+initTime: 0.005419
 method: minimize
 model: data/mznc2020/radiation/radiation.mzn
 nSolutions: 1
@@ -17,7 +17,7 @@ propagations: 82072
 propagators: 195
 restarts: 0
 solutions: 1
-solveTime: 0.030146
+solveTime: 0.029656
 status: OPTIMAL_SOLUTION
-time: 0.16387042962014675
+time: 0.188930444419384
 variables: 888

@@ -73,6 +73,6 @@
       - [0, 0, 0, 0, 0]
     objective: 917
   status: SATISFIED
-  time: 0.1
+  time: 0.12
 - {configuration: Gecode, data_file: data/mznc2020/radiation/i8-9.dzn, model: data/mznc2020/radiation/radiation.mzn,
-  problem: radiation, status: OPTIMAL_SOLUTION, time: 0.11}
+  problem: radiation, status: OPTIMAL_SOLUTION, time: 0.13}

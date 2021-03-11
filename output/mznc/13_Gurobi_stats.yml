@@ -3,10 +3,10 @@ data_file: data/mznc2019/rcpsp-wet-diverse/j30_44_8-wet-diverse-4.dzn
 evaluatedReifiedConstraints: 8222
 flatIntConstraints: 226937
 flatIntVars: 87991
-flatTime: 26.1815
+flatTime: 24.9389
 method: maximize
 model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
 paths: 0
 problem: rcpsp-wet-diverse
 status: UNKNOWN
-time: 1201.2639184165746
+time: 1201.274644708261

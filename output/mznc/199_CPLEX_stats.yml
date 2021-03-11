@@ -1,0 +1,12 @@
+configuration: CPLEX
+data_file: ''
+evaluatedReifiedConstraints: 5160
+flatIntConstraints: 11562
+flatIntVars: 5611
+flatTime: 20.927
+method: minimize
+model: data/mznc2020/bnn-planner/cellda_y_10s.mzn
+paths: 0
+problem: bnn-planner
+status: UNKNOWN
+time: 1201.2390598356724

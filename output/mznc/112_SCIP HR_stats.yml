@@ -1,0 +1,18 @@
+configuration: SCIP HR
+data_file: data/mznc2020/stable-goods/s-d6.dzn
+evaluatedHalfReifiedConstraints: 956
+evaluatedReifiedConstraints: 133
+flatIntConstraints: 3311
+flatIntVars: 3224
+flatTime: 0.775833
+method: maximize
+model: data/mznc2020/stable-goods/stable-goods-solution.mzn
+nSolutions: 1
+nodes: 6889
+objective: 6264
+objectiveBound: 6264
+paths: 0
+problem: stable-goods
+solveTime: 81.0643
+status: OPTIMAL_SOLUTION
+time: 82.089456114918

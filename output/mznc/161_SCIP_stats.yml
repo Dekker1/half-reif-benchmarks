@@ -1,0 +1,13 @@
+configuration: SCIP
+data_file: data/mznc2020/collaborative-construction/175.dzn
+evaluatedReifiedConstraints: 32178
+flatBoolVars: 7322
+flatIntConstraints: 136645
+flatIntVars: 51364
+flatTime: 22.8691
+method: minimize
+model: data/mznc2020/collaborative-construction/macc.mzn
+paths: 0
+problem: collaborative-construction
+status: UNKNOWN
+time: 1201.262721631676

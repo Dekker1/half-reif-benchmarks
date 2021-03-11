@@ -5,11 +5,11 @@ flatBoolConstraints: 47
 flatBoolVars: 12144
 flatIntConstraints: 82181
 flatIntVars: 70136
-flatTime: 3.69542
+flatTime: 3.80784
 method: maximize
 model: data/mznc2019/nside/full.mzn
 objective: 2322
 paths: 0
 problem: nside
 status: SATISFIED
-time: 1201.1789782661945
+time: 1201.1614309698343

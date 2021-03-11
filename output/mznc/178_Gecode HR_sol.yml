@@ -343,7 +343,7 @@
     worstPosition: [3, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 3, 22, 22,
       22, 22, 22, 3, 22, 22]
   status: SATISFIED
-  time: 4.86
+  time: 4.76
 - {configuration: Gecode HR, data_file: data/mznc2020/soccer-computational/xIGData_22_12_22_5.dzn,
   model: data/mznc2020/soccer-computational/ecp.mzn, problem: soccer-computational,
   status: SATISFIED}

@@ -11,7 +11,7 @@
       30, 31, 45, 40, 46, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 41,
       47, 42, 48, 49, 34, 33, 35, 50, 43, 51, 44, 52]
   status: SATISFIED
-  time: 0.51
+  time: 0.53
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -25,7 +25,7 @@
       30, 31, 45, 40, 46, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 41,
       48, 42, 47, 49, 34, 33, 35, 50, 43, 51, 44, 52]
   status: SATISFIED
-  time: 0.52
+  time: 0.54
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -39,7 +39,7 @@
       30, 31, 45, 40, 46, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 41,
       48, 42, 49, 50, 34, 33, 35, 51, 43, 47, 44, 52]
   status: SATISFIED
-  time: 0.52
+  time: 0.55
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -53,7 +53,7 @@
       30, 31, 45, 40, 46, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 41,
       49, 42, 48, 50, 34, 33, 35, 51, 43, 47, 44, 52]
   status: SATISFIED
-  time: 0.53
+  time: 0.55
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -67,7 +67,7 @@
       30, 31, 45, 40, 47, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 41,
       49, 42, 46, 50, 34, 33, 35, 51, 43, 48, 44, 52]
   status: SATISFIED
-  time: 0.53
+  time: 0.55
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -81,7 +81,7 @@
       30, 31, 45, 40, 47, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 41,
       49, 42, 50, 51, 34, 33, 35, 46, 43, 48, 44, 52]
   status: SATISFIED
-  time: 0.53
+  time: 0.55
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -95,7 +95,7 @@
       30, 31, 45, 40, 47, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 41,
       50, 42, 49, 51, 34, 33, 35, 46, 43, 48, 44, 52]
   status: SATISFIED
-  time: 0.53
+  time: 0.55
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -109,7 +109,7 @@
       30, 31, 45, 40, 48, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 41,
       50, 42, 47, 51, 34, 33, 35, 46, 43, 49, 44, 52]
   status: SATISFIED
-  time: 0.53
+  time: 0.55
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -123,7 +123,7 @@
       30, 31, 46, 40, 48, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 41,
       50, 42, 45, 51, 34, 33, 35, 47, 43, 49, 44, 52]
   status: SATISFIED
-  time: 0.53
+  time: 0.55
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -137,7 +137,7 @@
       30, 31, 48, 40, 43, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 41,
       50, 42, 46, 51, 34, 33, 35, 49, 45, 44, 47, 52]
   status: SATISFIED
-  time: 0.54
+  time: 0.57
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -151,7 +151,7 @@
       30, 31, 45, 40, 47, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 42,
       49, 43, 50, 51, 34, 33, 35, 44, 41, 48, 46, 52]
   status: SATISFIED
-  time: 0.55
+  time: 0.57
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -165,7 +165,7 @@
       30, 31, 45, 40, 47, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 42,
       50, 43, 49, 51, 34, 33, 35, 44, 41, 48, 46, 52]
   status: SATISFIED
-  time: 0.55
+  time: 0.57
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -179,7 +179,7 @@
       30, 31, 45, 40, 48, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 42,
       50, 43, 47, 51, 34, 33, 35, 44, 41, 49, 46, 52]
   status: SATISFIED
-  time: 0.55
+  time: 0.57
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -193,7 +193,7 @@
       30, 31, 45, 40, 48, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 42,
       50, 43, 46, 51, 34, 33, 35, 44, 41, 49, 47, 52]
   status: SATISFIED
-  time: 0.55
+  time: 0.57
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -207,7 +207,7 @@
       30, 31, 47, 40, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 43,
       42, 45, 44, 51, 34, 33, 35, 48, 41, 50, 46, 52]
   status: SATISFIED
-  time: 0.55
+  time: 0.57
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -221,7 +221,7 @@
       30, 31, 46, 41, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 43,
       51, 44, 52, 40, 34, 33, 35, 45, 42, 50, 47, 48]
   status: SATISFIED
-  time: 0.67
+  time: 0.69
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -235,7 +235,7 @@
       30, 31, 46, 41, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 43,
       52, 44, 51, 40, 34, 33, 35, 45, 42, 50, 47, 48]
   status: SATISFIED
-  time: 0.67
+  time: 0.7
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -249,7 +249,7 @@
       30, 31, 46, 41, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 43,
       52, 44, 49, 40, 34, 33, 35, 45, 42, 51, 47, 48]
   status: SATISFIED
-  time: 0.68
+  time: 0.7
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -263,7 +263,7 @@
       30, 31, 46, 41, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 43,
       52, 44, 48, 40, 34, 33, 35, 45, 42, 51, 47, 49]
   status: SATISFIED
-  time: 0.68
+  time: 0.71
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -277,7 +277,7 @@
       30, 31, 46, 41, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 43,
       51, 44, 47, 40, 34, 33, 35, 45, 42, 50, 48, 52]
   status: SATISFIED
-  time: 0.69
+  time: 0.71
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -291,7 +291,7 @@
       30, 31, 47, 41, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 43,
       51, 44, 45, 40, 34, 33, 35, 46, 42, 50, 48, 52]
   status: SATISFIED
-  time: 0.69
+  time: 0.71
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -305,7 +305,7 @@
       30, 31, 48, 41, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 44,
       43, 46, 45, 40, 34, 33, 35, 49, 42, 51, 47, 52]
   status: SATISFIED
-  time: 0.69
+  time: 0.71
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -319,7 +319,7 @@
       30, 31, 48, 43, 41, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 45,
       52, 47, 46, 40, 34, 33, 35, 49, 44, 42, 50, 51]
   status: SATISFIED
-  time: 0.76
+  time: 0.79
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -333,7 +333,7 @@
       30, 31, 50, 46, 44, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 42,
       41, 48, 43, 40, 34, 33, 35, 51, 47, 45, 49, 52]
   status: SATISFIED
-  time: 0.77
+  time: 0.79
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -347,7 +347,7 @@
       30, 31, 46, 42, 48, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 38,
       50, 44, 51, 41, 34, 33, 35, 47, 43, 49, 45, 52]
   status: SATISFIED
-  time: 0.77
+  time: 0.8
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -361,7 +361,7 @@
       30, 31, 46, 42, 48, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 38,
       51, 44, 50, 41, 34, 33, 35, 47, 43, 49, 45, 52]
   status: SATISFIED
-  time: 0.78
+  time: 0.8
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -375,7 +375,7 @@
       30, 31, 46, 42, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 38,
       51, 44, 48, 41, 34, 33, 35, 47, 43, 50, 45, 52]
   status: SATISFIED
-  time: 0.78
+  time: 0.8
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -389,7 +389,7 @@
       30, 31, 47, 42, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 38,
       51, 44, 46, 41, 34, 33, 35, 48, 43, 50, 45, 52]
   status: SATISFIED
-  time: 0.78
+  time: 0.81
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -403,7 +403,7 @@
       30, 31, 48, 44, 42, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 38,
       52, 47, 46, 41, 34, 33, 35, 49, 45, 43, 50, 51]
   status: SATISFIED
-  time: 0.83
+  time: 0.85
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -417,7 +417,7 @@
       30, 31, 49, 46, 43, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 42,
       37, 48, 45, 41, 34, 33, 35, 50, 47, 44, 51, 52]
   status: SATISFIED
-  time: 0.84
+  time: 0.87
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -431,7 +431,7 @@
       30, 31, 47, 43, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 39,
       37, 45, 51, 42, 34, 33, 35, 48, 44, 50, 46, 52]
   status: SATISFIED
-  time: 0.85
+  time: 0.87
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -445,7 +445,7 @@
       30, 31, 47, 43, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 39,
       37, 45, 49, 42, 34, 33, 35, 48, 44, 51, 46, 52]
   status: SATISFIED
-  time: 0.85
+  time: 0.87
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -459,7 +459,7 @@
       30, 31, 48, 43, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 39,
       37, 45, 47, 42, 34, 33, 35, 49, 44, 51, 46, 52]
   status: SATISFIED
-  time: 0.86
+  time: 0.88
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -473,7 +473,7 @@
       30, 31, 48, 43, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 39,
       37, 45, 46, 42, 34, 33, 35, 49, 44, 51, 47, 52]
   status: SATISFIED
-  time: 0.86
+  time: 0.88
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -487,7 +487,7 @@
       30, 31, 49, 46, 44, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 39,
       37, 48, 43, 42, 34, 33, 35, 50, 47, 45, 51, 52]
   status: SATISFIED
-  time: 0.87
+  time: 0.89
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -501,7 +501,7 @@
       30, 31, 47, 41, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 40,
       38, 43, 51, 46, 34, 33, 36, 48, 42, 50, 44, 52]
   status: SATISFIED
-  time: 0.88
+  time: 0.9
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -515,7 +515,7 @@
       30, 31, 47, 41, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 40,
       38, 43, 49, 46, 34, 33, 36, 48, 42, 51, 44, 52]
   status: SATISFIED
-  time: 0.89
+  time: 0.91
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -529,7 +529,7 @@
       30, 31, 48, 41, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 40,
       38, 43, 47, 46, 34, 33, 36, 49, 42, 51, 44, 52]
   status: SATISFIED
-  time: 0.89
+  time: 0.91
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -543,7 +543,7 @@
       30, 31, 48, 41, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 40,
       38, 43, 45, 47, 34, 33, 36, 49, 42, 51, 44, 52]
   status: SATISFIED
-  time: 0.89
+  time: 0.91
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -557,7 +557,7 @@
       30, 31, 47, 43, 41, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 32, 40,
       38, 46, 45, 52, 34, 33, 36, 48, 44, 42, 49, 50]
   status: SATISFIED
-  time: 1.19
+  time: 1.21
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -571,7 +571,7 @@
       30, 31, 47, 42, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 33, 41,
       39, 34, 51, 46, 36, 35, 32, 48, 43, 50, 44, 52]
   status: SATISFIED
-  time: 1.2
+  time: 1.22
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -585,7 +585,7 @@
       30, 31, 47, 42, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 33, 41,
       39, 34, 49, 46, 36, 35, 32, 48, 43, 51, 44, 52]
   status: SATISFIED
-  time: 1.2
+  time: 1.22
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -599,7 +599,7 @@
       30, 31, 48, 42, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 33, 41,
       39, 34, 47, 46, 36, 35, 32, 49, 43, 51, 44, 52]
   status: SATISFIED
-  time: 1.21
+  time: 1.23
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -613,7 +613,7 @@
       30, 31, 48, 42, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 33, 41,
       39, 34, 45, 47, 36, 35, 32, 49, 43, 51, 44, 52]
   status: SATISFIED
-  time: 1.21
+  time: 1.23
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -627,7 +627,7 @@
       30, 31, 51, 44, 42, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 33, 41,
       39, 34, 46, 50, 36, 35, 32, 52, 45, 43, 47, 48]
   status: SATISFIED
-  time: 1.29
+  time: 1.32
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -641,7 +641,7 @@
       30, 32, 41, 35, 49, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 34, 45,
       43, 37, 51, 48, 38, 31, 33, 40, 36, 50, 46, 52]
   status: SATISFIED
-  time: 208.61
+  time: 208.33
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -655,7 +655,7 @@
       30, 32, 41, 35, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 34, 45,
       43, 37, 49, 48, 38, 31, 33, 40, 36, 51, 46, 52]
   status: SATISFIED
-  time: 208.61
+  time: 208.34
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -669,7 +669,7 @@
       30, 32, 41, 35, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 34, 45,
       43, 37, 47, 49, 38, 31, 33, 40, 36, 51, 46, 52]
   status: SATISFIED
-  time: 208.61
+  time: 208.34
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -683,7 +683,7 @@
       30, 32, 41, 35, 50, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 34, 45,
       43, 37, 46, 49, 38, 31, 33, 40, 36, 51, 47, 52]
   status: SATISFIED
-  time: 208.62
+  time: 208.35
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -697,7 +697,7 @@
       30, 32, 49, 37, 35, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 34, 42,
       40, 48, 43, 47, 45, 31, 33, 50, 38, 36, 51, 52]
   status: SATISFIED
-  time: 255.36
+  time: 255.25
 - configuration: Gecode HR
   data_file: data/mznc2020/cable_tree_wiring/R046.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -711,6 +711,6 @@
       30, 37, 47, 42, 40, 24, 22, 25, 18, 26, 9, 6, 7, 10, 14, 15, 16, 19, 39, 35,
       33, 44, 36, 52, 46, 31, 38, 48, 43, 41, 49, 50]
   status: SATISFIED
-  time: 873.15
+  time: 878.16
 - {configuration: Gecode HR, data_file: data/mznc2020/cable_tree_wiring/R046.dzn,
   model: data/mznc2020/cable_tree_wiring/ctw.mzn, problem: cable_tree_wiring, status: SATISFIED}

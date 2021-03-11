@@ -3,7 +3,7 @@ data_file: data/mznc2019/accap/accap_instance6.dzn
 evaluatedHalfReifiedConstraints: 500
 flatIntConstraints: 2354
 flatIntVars: 592
-flatTime: 0.570772
+flatTime: 0.536816
 method: minimize
 model: data/mznc2019/accap/accap.mzn
 nSolutions: 1
@@ -12,6 +12,6 @@ objective: 82
 objectiveBound: 82
 paths: 0
 problem: accap
-solveTime: 189.7143
+solveTime: 182.784
 status: OPTIMAL_SOLUTION
-time: 190.4538564439863
+time: 183.53787611611187

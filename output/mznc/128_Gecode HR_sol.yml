@@ -22,6 +22,6 @@
       8, 8, 8, 8, 9, 9, 9, 9, 10, 10, 10, 10, 18, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8,
       8, 9, 9, 9, 9, 10, 10, 10, 10, 18]
   status: SATISFIED
-  time: 23.02
+  time: 23.15
 - {configuration: Gecode HR, data_file: data/mznc2020/pentominoes/04.dzn, model: data/mznc2020/pentominoes/pentominoes-int.mzn,
   problem: pentominoes, status: SATISFIED}

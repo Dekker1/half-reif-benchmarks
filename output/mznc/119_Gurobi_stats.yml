@@ -2,7 +2,7 @@ configuration: Gurobi
 data_file: data/mznc2020/radiation/i9-21.dzn
 flatIntConstraints: 3945
 flatIntVars: 3877
-flatTime: 0.537205
+flatTime: 0.540944
 method: minimize
 model: data/mznc2020/radiation/radiation.mzn
 nSolutions: 1
@@ -12,6 +12,6 @@ objectiveBound: 2634
 openNodes: 3
 paths: 0
 problem: radiation
-solveTime: 0.394
+solveTime: 0.3917
 status: OPTIMAL_SOLUTION
-time: 1.1142847891896963
+time: 1.1382198799401522

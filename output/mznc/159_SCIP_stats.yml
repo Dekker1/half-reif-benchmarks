@@ -1,0 +1,12 @@
+configuration: SCIP
+data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
+evaluatedReifiedConstraints: 15402
+flatIntConstraints: 55541
+flatIntVars: 56295
+flatTime: 10.7114
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+paths: 0
+problem: minimal-decision-sets
+status: UNKNOWN
+time: 1201.278232080862

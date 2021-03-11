@@ -1,0 +1,19 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/stable-goods/s-d7.dzn
+evaluatedHalfReifiedConstraints: 3860
+evaluatedReifiedConstraints: 482
+flatIntConstraints: 13694
+flatIntVars: 12381
+flatTime: 4.145629
+method: maximize
+model: data/mznc2020/stable-goods/stable-goods-solution.mzn
+nSolutions: 1
+nodes: 32722
+objective: 11639
+objectiveBound: 12622.7885963
+openNodes: 9478
+paths: 0
+problem: stable-goods
+solveTime: 1195.8282
+status: SATISFIED
+time: 1200.73569332622

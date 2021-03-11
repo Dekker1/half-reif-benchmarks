@@ -3,10 +3,10 @@ data_file: data/mznc2020/whirlpool/d21.dzn
 evaluatedReifiedConstraints: 2040
 flatIntConstraints: 6635
 flatIntVars: 198192
-flatTime: 14.425
+flatTime: 15.3098
 method: satisfy
 model: data/mznc2020/whirlpool/whirlpool-x.mzn
 paths: 0
 problem: whirlpool
 status: UNKNOWN
-time: 1201.3052681423724
+time: 1201.3159268703312

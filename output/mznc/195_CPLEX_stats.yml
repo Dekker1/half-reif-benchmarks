@@ -1,0 +1,13 @@
+configuration: CPLEX
+data_file: data/mznc2020/code-generator/mips_gobmk.patterns.autohelperpat508.dzn
+evaluatedReifiedConstraints: 91310
+flatBoolVars: 270
+flatIntConstraints: 352526
+flatIntVars: 166579
+flatTime: 58.1429
+method: minimize
+model: data/mznc2020/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1201.4024812784046

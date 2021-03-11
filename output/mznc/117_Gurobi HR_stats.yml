@@ -2,7 +2,7 @@ configuration: Gurobi HR
 data_file: data/mznc2020/radiation/i8-40.dzn
 flatIntConstraints: 5635
 flatIntVars: 5595
-flatTime: 0.832175
+flatTime: 0.828249
 method: minimize
 model: data/mznc2020/radiation/radiation.mzn
 nSolutions: 1
@@ -11,6 +11,6 @@ objective: 4040
 objectiveBound: 4040
 paths: 0
 problem: radiation
-solveTime: 3.2015
+solveTime: 3.1998
 status: OPTIMAL_SOLUTION
-time: 4.295556623488665
+time: 4.3212041817605495

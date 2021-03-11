@@ -1,0 +1,19 @@
+configuration: SCIP HR
+data_file: data/mznc2019/zephyrus/14__10__6__3.dzn
+evaluatedHalfReifiedConstraints: 198
+evaluatedReifiedConstraints: 416
+flatBoolVars: 96
+flatIntConstraints: 7488
+flatIntVars: 3700
+flatTime: 0.993907
+method: minimize
+model: data/mznc2019/zephyrus/zephyrus.mzn
+nSolutions: 1
+nodes: 60
+objective: 1690
+objectiveBound: 1690
+paths: 0
+problem: zephyrus
+solveTime: 10.0675
+status: OPTIMAL_SOLUTION
+time: 11.434503991156816

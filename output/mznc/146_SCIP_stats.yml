@@ -1,0 +1,17 @@
+configuration: SCIP
+data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_1m_1.dzn
+evaluatedReifiedConstraints: 23995
+flatIntConstraints: 39475
+flatIntVars: 38703
+flatTime: 7.18672
+method: minimize
+model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
+nSolutions: 1
+nodes: 1
+objective: 2
+objectiveBound: 2
+paths: 0
+problem: skill-allocation
+solveTime: 37.3914
+status: OPTIMAL_SOLUTION
+time: 46.87169407308102

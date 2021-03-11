@@ -288,7 +288,7 @@
       true, false, false, false, false, false, true, true, false, false, true, true,
       false, true, true, false, true, true, false, true]
   status: SATISFIED
-  time: 1.17
+  time: 1.24
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -577,7 +577,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true]
   status: SATISFIED
-  time: 1.27
+  time: 1.34
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -862,7 +862,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true]
   status: SATISFIED
-  time: 1.84
+  time: 1.91
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -1151,7 +1151,7 @@
       false, false, false, false, false, false, false, false, false, false, false,
       false, false]
   status: SATISFIED
-  time: 15.99
+  time: 16.12
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -1438,7 +1438,7 @@
       true, true, true, false, true, false, false, false, true, true, false, true,
       true, true, true, true, true, true, false]
   status: SATISFIED
-  time: 23.98
+  time: 24.16
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -1725,7 +1725,7 @@
       false, false, false, true, false, true, true, true, false, false, true, false,
       false, false, false, false, false, false, true]
   status: SATISFIED
-  time: 24.61
+  time: 24.78
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -2012,7 +2012,7 @@
       true, true, true, false, true, false, false, false, true, true, false, true,
       true, true, true, true, true, true, false]
   status: SATISFIED
-  time: 66.019999
+  time: 67.24
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -2297,7 +2297,7 @@
       true, true, true, false, true, false, false, false, true, true, false, true,
       true, true, true, true, true, true, false]
   status: SATISFIED
-  time: 93.31
+  time: 95.14
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -2582,7 +2582,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true]
   status: SATISFIED
-  time: 202.19
+  time: 205.66
 - {configuration: Gecode, data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn,
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
-  status: OPTIMAL_SOLUTION, time: 361.02}
+  status: OPTIMAL_SOLUTION, time: 367.4}

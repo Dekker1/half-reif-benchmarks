@@ -4,7 +4,7 @@
   problem: minimal-decision-sets
   solution:
     feat:
-    - {e: FEATUREX, i: 9}
+    - {e: FEATUREX, i: 3}
     - {e: FEATUREX, i: 10}
     - {e: FEATUREX, i: 10}
     - {e: FEATUREX, i: 11}
@@ -30,7 +30,7 @@
       false, true, true, true, true, true, true, false, true, false, false, true,
       true, false, false, false, false, false]
     objective: 102
-    sign: [false, false, false, false, false]
+    sign: [true, false, false, false, false]
     valid:
     - [true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
@@ -50,24 +50,26 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true]
-    - [true, true, true, true, true, true, true, true, true, true, true, false, false,
-      true, true, true, true, true, true, true, true, true, true, true, true, true,
-      true, true, true, true, true, true, true, true, true, true, false, true, true,
-      true, true, true, true, true, true, true, true, true, true, true, true, true,
-      true, false, false, true, true, true, true, true, true, true, true, true, true,
-      false, false, true, true, true, true, true, true, false, true, true, true, true,
-      true, true, true, true, true, true, true, true, true, false, false, true, false,
-      false, true, false, true, true, true, false, true, true, true, true, true, true,
-      false, false, true, true, true, true, true, true, true, true, true, true, true,
-      true, true, true, true, true, true, true, true, true, false, true, true, false,
-      true, true, false, false, true, true, true, true, true, true, true, false, true,
-      true, true, true, true, true, false, false, false, true, false, true, true,
-      true, true, false, true, false, true, true, true, true, true, true, true, true,
-      true, false, true, true, false, true, true, true, false, false, true, true,
-      true, false, true, true, true, true, true, true, true, false, false, true, true,
-      false, true, false, true, false, true, true, true, false, true, false, false,
-      true, true, false, true, true, false, false, true, true, false, true, false,
-      false, true, false, false, false, false, true, false, true, false, false, true]
+    - [false, false, false, false, false, false, false, false, false, false, true,
+      true, false, true, true, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, true, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, true, false, false, false, false, false, true, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, true, true, true, true, true, false, true,
+      true, true, false, true, true, true, false, true, true, false, false, false,
+      false, true, true, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, true, false,
+      false, false, false, false, true, true, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, true,
+      true, true, true, false, true, false, false, false, false, false, true, true,
+      true, false, false, true, false, false, false, true, false, false, false, false,
+      false, false, true, false, true, true, false, false, false, false, true, true,
+      false, false, false, false, true, false, false, false, false, true, true, false,
+      false, true, false, false, false, false, false, false, true, false, true, false,
+      true, false, false, false, true, false, false, false, false, false, false, false,
+      false, false, true, false, true, false, false, false]
     - [true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
@@ -126,7 +128,7 @@
       false, false, false, false, false, false, false, false, false, false, false,
       false, false, false, false, false, false, false, false, false]
   status: SATISFIED
-  time: 285.52
+  time: 73.56
 - {configuration: Gurobi HR, data_file: data/mznc2020/minimal-decision-sets/breast-cancer_train4.dzn,
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
-  status: OPTIMAL_SOLUTION, time: 285.54}
+  status: OPTIMAL_SOLUTION, time: 73.58}

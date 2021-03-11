@@ -3,10 +3,10 @@ data_file: data/mznc2019/groupsplitter/u7g2pref1.dzn
 evaluatedReifiedConstraints: 28
 flatIntConstraints: 333
 flatIntVars: 1768677
-flatTime: 167.148
+flatTime: 160.74
 method: maximize
 model: data/mznc2019/groupsplitter/group.mzn
 paths: 0
 problem: groupsplitter
 status: UNKNOWN
-time: 1201.6098256669939
+time: 1201.7201291006058

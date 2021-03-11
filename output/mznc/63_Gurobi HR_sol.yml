@@ -483,6 +483,6 @@
       false, false, false, false, false, false, false, false, false, false, false,
       false, false, false, false, false, false, false, false, false]
   status: SATISFIED
-  time: 224.88
+  time: 225.6
 - {configuration: Gurobi HR, data_file: data/mznc2019/hrc/exp2-1-5145.dzn, model: data/mznc2019/hrc/hrc.mzn,
-  problem: hrc, status: OPTIMAL_SOLUTION, time: 224.9}
+  problem: hrc, status: OPTIMAL_SOLUTION, time: 225.63}

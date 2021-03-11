@@ -7,8 +7,8 @@ flatBoolConstraints: 15972
 flatBoolVars: 39697
 flatIntConstraints: 45743
 flatIntVars: 22109
-flatTime: 1.73647
-initTime: 0.493984
+flatTime: 1.75778
+initTime: 0.499569
 method: minimize
 model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
 nSolutions: 1
@@ -17,11 +17,11 @@ objective: 2
 paths: 0
 peakDepth: 504
 problem: skill-allocation
-propagations: 16599865
+propagations: 16600012
 propagators: 58374
 restarts: 0
 solutions: 1
-solveTime: 17.6155
+solveTime: 17.0913
 status: OPTIMAL_SOLUTION
-time: 20.53094621375203
+time: 20.148818127810955
 variables: 61806

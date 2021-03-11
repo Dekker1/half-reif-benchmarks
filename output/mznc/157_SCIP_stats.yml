@@ -1,0 +1,17 @@
+configuration: SCIP
+data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn
+evaluatedReifiedConstraints: 6834
+flatIntConstraints: 24596
+flatIntVars: 24096
+flatTime: 4.62337
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+nodes: 7608
+objective: 116
+objectiveBound: 60
+openNodes: 463
+paths: 0
+problem: minimal-decision-sets
+solveTime: 1195.3705
+status: SATISFIED
+time: 1201.1262200959027

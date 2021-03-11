@@ -3,7 +3,7 @@ data_file: data/mznc2020/racp/j30_26_2_1.0.dzn
 evaluatedReifiedConstraints: 2823
 flatIntConstraints: 4716
 flatIntVars: 3569
-flatTime: 0.968882
+flatTime: 0.959858
 method: minimize
 model: data/mznc2020/racp/racp.mzn
 nSolutions: 1
@@ -12,6 +12,6 @@ objective: 704
 objectiveBound: 704
 paths: 0
 problem: racp
-solveTime: 21.883
+solveTime: 22.017
 status: OPTIMAL_SOLUTION
-time: 23.089069683104753
+time: 23.245604557916522

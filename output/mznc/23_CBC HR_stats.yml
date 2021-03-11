@@ -2,7 +2,7 @@ configuration: CBC HR
 data_file: data/mznc2019/multi-knapsack/mknap2-1.dzn
 flatIntConstraints: 61
 flatIntVars: 91
-flatTime: 0.117858
+flatTime: 0.118176
 method: maximize
 model: data/mznc2019/multi-knapsack/mknapsack_global.mzn
 nSolutions: 1
@@ -14,4 +14,4 @@ paths: 0
 problem: multi-knapsack
 solveTime: 0.0463
 status: OPTIMAL_SOLUTION
-time: 0.22006744146347046
+time: 0.2457513976842165

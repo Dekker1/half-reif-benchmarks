@@ -7,8 +7,8 @@ flatBoolConstraints: 118
 flatBoolVars: 735
 flatIntConstraints: 1318
 flatIntVars: 617
-flatTime: 0.067384
-initTime: 0.008491
+flatTime: 0.062553
+initTime: 0.009795
 method: satisfy
 model: data/mznc2019/amaze/amaze3.mzn
 nSolutions: 1
@@ -20,7 +20,7 @@ propagations: 21083240
 propagators: 1538
 restarts: 0
 solutions: 1
-solveTime: 10.5228
+solveTime: 9.82302
 status: SATISFIED
-time: 10.667219743132591
+time: 9.994772611185908
 variables: 1505

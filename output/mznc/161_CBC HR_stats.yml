@@ -6,10 +6,10 @@ evaluatedReifiedConstraints: 22281
 flatBoolVars: 7322
 flatIntConstraints: 131111
 flatIntVars: 51984
-flatTime: 20.2176
+flatTime: 20.7527
 method: minimize
 model: data/mznc2020/collaborative-construction/macc.mzn
 paths: 0
 problem: collaborative-construction
 status: UNKNOWN
-time: 1201.232937835157
+time: 1201.237493261695

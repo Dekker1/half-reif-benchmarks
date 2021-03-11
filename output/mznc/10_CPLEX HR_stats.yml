@@ -1,0 +1,12 @@
+configuration: CPLEX HR
+data_file: data/mznc2019/nside/EASY_200_50.dzn
+evaluatedReifiedConstraints: 134454
+flatIntConstraints: 520829
+flatIntVars: 239734
+flatTime: 113.23
+method: maximize
+model: data/mznc2019/nside/full.mzn
+paths: 0
+problem: nside
+status: UNKNOWN
+time: 1201.5368854422122

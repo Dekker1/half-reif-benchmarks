@@ -1,0 +1,3 @@
+- {configuration: SCIP, data_file: data/mznc2020/soccer-computational/xIGData_24_24_16_1.dzn,
+  model: data/mznc2020/soccer-computational/ecp.mzn, problem: soccer-computational,
+  status: UNKNOWN}

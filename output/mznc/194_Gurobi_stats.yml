@@ -1,6 +1,6 @@
 configuration: Gurobi
 data_file: data/mznc2020/code-generator/mips_gcc.real.eiremain.dzn
-error: std::bad_alloc
+error: 'MiniZinc: internal error: out of memory'
 model: data/mznc2020/code-generator/unison.mzn
 problem: code-generator
 status: ERROR

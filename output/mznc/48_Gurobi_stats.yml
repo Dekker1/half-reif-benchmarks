@@ -4,7 +4,7 @@ evaluatedReifiedConstraints: 800
 flatBoolVars: 380
 flatIntConstraints: 1327
 flatIntVars: 995
-flatTime: 0.29707
+flatTime: 0.308058
 method: maximize
 model: data/mznc2019/kidney-exchange/ccmcp.mzn
 nSolutions: 1
@@ -13,6 +13,6 @@ objective: 1008
 objectiveBound: 1008
 paths: 0
 problem: kidney-exchange
-solveTime: 79.1411
+solveTime: 79.4041
 status: OPTIMAL_SOLUTION
-time: 79.54551033861935
+time: 79.83342562057078

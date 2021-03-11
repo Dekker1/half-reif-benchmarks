@@ -264,6 +264,4 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
   status: SATISFIED
-  time: 9.46
-- {configuration: Gecode, data_file: data/mznc2019/code-generator/mips_gcc.cfgrtl.update_br_prob_note.dzn,
-  model: data/mznc2019/code-generator/unison.mzn, problem: code-generator, status: SATISFIED}
+  time: 10.05

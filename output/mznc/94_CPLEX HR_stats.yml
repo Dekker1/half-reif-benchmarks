@@ -1,0 +1,21 @@
+configuration: CPLEX HR
+data_file: ''
+eliminatedLinearConstraints: 78
+evaluatedHalfReifiedConstraints: 90
+evaluatedReifiedConstraints: 24
+flatBoolVars: 12
+flatIntConstraints: 390
+flatIntVars: 25051
+flatTime: 2.05572
+method: minimize
+model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
+nSolutions: 1
+nodes: 281206
+objective: 165922
+objectiveBound: 0
+openNodes: 26144
+paths: 0
+problem: liner-sf-repositioning
+solveTime: 1197.9209
+status: SATISFIED
+time: 1200.560042483732

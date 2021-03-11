@@ -4,19 +4,19 @@
   problem: minimal-decision-sets
   solution:
     feat:
-    - {e: FEATUREX, i: 26}
+    - {e: FEATUREX, i: 25}
     - {e: FEATUREX, i: 33}
     - {e: FEATUREX, i: 34}
     - {e: FEATUREX, i: 34}
     - {e: FEATUREX, i: 34}
     m: [false, false, false, false, false, false, false, false, false, false, false,
       false, false, false, false, false, false, false, true, false, true, false, true,
-      false, false, true, false, false, true, false, false, false, true, false, false,
+      false, false, false, false, false, true, false, false, false, true, false, false,
       false, true, false, false, false, true, false, true, false, false, false, false,
       false, false, false, false, false, false, false, false, false, false, false,
       false, false, false, false, false, true, false, false, false, false, false,
       true, false, false, true, false, false, false, true, true, false, false, false,
-      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, true, false, false, false, false,
       false, false, false, true, false, false, false, true, false, false, false, false,
       false, false, false, false, false, false, false, false, false, false, false,
       false, true, false, true, false, false, false, false, false, false, false, false,
@@ -38,12 +38,12 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true]
     - [true, true, true, true, true, true, true, true, true, true, true, true, true,
-      true, true, true, true, true, true, true, true, true, true, true, true, false,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, false, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true, true, true, true, true,
@@ -90,7 +90,7 @@
       false, false, false, false, false, false, false, false, false, false, false,
       false]
   status: SATISFIED
-  time: 243.49
+  time: 114.96
 - {configuration: Gurobi, data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn,
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
-  status: OPTIMAL_SOLUTION, time: 243.51}
+  status: OPTIMAL_SOLUTION, time: 114.98}

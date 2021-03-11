@@ -5,8 +5,8 @@ failures: 2501326
 flatBoolVars: 20
 flatIntConstraints: 152
 flatIntVars: 119
-flatTime: 0.034502
-initTime: 0.001436
+flatTime: 0.035574
+initTime: 0.001431
 method: minimize
 model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
 nSolutions: 10
@@ -19,7 +19,7 @@ propagations: 404878961
 propagators: 267
 restarts: 0
 solutions: 10
-solveTime: 30.3656
+solveTime: 28.3605
 status: OPTIMAL_SOLUTION
-time: 30.455755608156323
+time: 28.47951429337263
 variables: 155

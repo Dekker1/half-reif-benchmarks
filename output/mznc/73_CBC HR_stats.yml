@@ -5,10 +5,10 @@ evaluatedHalfReifiedConstraints: 240
 evaluatedReifiedConstraints: 147
 flatIntConstraints: 1583
 flatIntVars: 864
-flatTime: 0.251044
+flatTime: 0.239255
 method: maximize
 model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
 paths: 0
 problem: fox-geese-corn
 status: UNKNOWN
-time: 1201.1160281281918
+time: 1201.120498675853

@@ -6,7 +6,7 @@ evaluatedReifiedConstraints: 3024
 flatBoolVars: 1054
 flatIntConstraints: 8054
 flatIntVars: 18740
-flatTime: 6.76908
+flatTime: 6.85277
 method: minimize
 model: data/mznc2020/is/model.mzn
 nSolutions: 1
@@ -15,6 +15,6 @@ objective: 180224
 objectiveBound: 180224
 paths: 0
 problem: is
-solveTime: 1.0143
+solveTime: 1.0225
 status: OPTIMAL_SOLUTION
-time: 8.47101771645248
+time: 8.59914598800242

@@ -1,0 +1,17 @@
+configuration: SCIP
+data_file: data/mznc2019/nside/EASY_200_50.dzn
+evaluatedReifiedConstraints: 12150
+flatIntConstraints: 48356
+flatIntVars: 58042
+flatTime: 7.71157
+method: maximize
+model: data/mznc2019/nside/full.mzn
+nSolutions: 1
+nodes: 2204
+objective: 2916
+objectiveBound: 2916
+paths: 0
+problem: nside
+solveTime: 833.7133
+status: OPTIMAL_SOLUTION
+time: 844.683056037873

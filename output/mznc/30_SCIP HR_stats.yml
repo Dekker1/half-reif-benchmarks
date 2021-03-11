@@ -1,0 +1,19 @@
+configuration: SCIP HR
+data_file: data/mznc2019/ptv/pax_period_20_1c.dzn
+eliminatedLinearConstraints: 36
+evaluatedHalfReifiedConstraints: 103
+evaluatedReifiedConstraints: 3302
+flatIntConstraints: 3361
+flatIntVars: 5601
+flatTime: 1.54684
+method: minimize
+model: data/mznc2019/ptv/pax_model.mzn
+nSolutions: 1
+nodes: 3618
+objective: 1521
+objectiveBound: 1521
+paths: 0
+problem: ptv
+solveTime: 30.7508
+status: OPTIMAL_SOLUTION
+time: 32.619314705953

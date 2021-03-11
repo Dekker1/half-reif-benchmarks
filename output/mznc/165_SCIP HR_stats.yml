@@ -1,0 +1,20 @@
+configuration: SCIP HR
+data_file: data/mznc2020/collaborative-construction/46.dzn
+eliminatedLinearConstraints: 5
+evaluatedHalfReifiedConstraints: 3534
+evaluatedReifiedConstraints: 14766
+flatBoolVars: 4892
+flatIntConstraints: 84494
+flatIntVars: 34435
+flatTime: 13.1162
+method: minimize
+model: data/mznc2020/collaborative-construction/macc.mzn
+nSolutions: 1
+nodes: 1
+objective: 6
+objectiveBound: 6
+paths: 0
+problem: collaborative-construction
+solveTime: 128.083599
+status: OPTIMAL_SOLUTION
+time: 144.77609186805785

@@ -6,8 +6,8 @@ flatBoolConstraints: 82
 flatBoolVars: 310
 flatIntConstraints: 732
 flatIntVars: 602
-flatTime: 0.048463
-initTime: 0.005457
+flatTime: 0.04883
+initTime: 0.005469
 method: satisfy
 model: data/mznc2019/rotating-workforce/rotating-workforce.mzn
 nSolutions: 1
@@ -19,7 +19,7 @@ propagations: 135508774
 propagators: 751
 restarts: 0
 solutions: 1
-solveTime: 23.1818
+solveTime: 23.2443
 status: SATISFIED
-time: 23.293004598468542
+time: 23.388075932860374
 variables: 915

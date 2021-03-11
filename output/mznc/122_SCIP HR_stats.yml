@@ -1,0 +1,20 @@
+configuration: SCIP HR
+data_file: data/mznc2020/is/YfFfEiuCQo.dzn
+eliminatedLinearConstraints: 308
+evaluatedHalfReifiedConstraints: 3966
+evaluatedReifiedConstraints: 4588
+flatBoolVars: 1605
+flatIntConstraints: 11087
+flatIntVars: 31890
+flatTime: 9.86418
+method: minimize
+model: data/mznc2020/is/model.mzn
+nSolutions: 1
+nodes: 8048
+objective: 157824
+objectiveBound: 157824
+paths: 0
+problem: is
+solveTime: 242.9153
+status: OPTIMAL_SOLUTION
+time: 254.19809849746525

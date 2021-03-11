@@ -4,7 +4,7 @@ evaluatedReifiedConstraints: 612
 flatBoolVars: 144
 flatIntConstraints: 2280
 flatIntVars: 6769
-flatTime: 0.79958
+flatTime: 0.831872
 method: minimize
 model: data/mznc2020/gbac/gbac.mzn
 nSolutions: 1
@@ -13,6 +13,6 @@ objective: 1374
 objectiveBound: 1374
 paths: 0
 problem: gbac
-solveTime: 4.5599
+solveTime: 4.6082
 status: OPTIMAL_SOLUTION
-time: 5.572162080556154
+time: 5.689261833205819

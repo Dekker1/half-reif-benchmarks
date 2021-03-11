@@ -1,0 +1,46 @@
+- configuration: CPLEX
+  data_file: data/mznc2020/is/Ws5Q6fhGi5.dzn
+  model: data/mznc2020/is/model.mzn
+  problem: is
+  solution:
+    loc: [31, 31, 31, 33, 31, 31, 0, 31, 34, 34, 31, 31, 0, 31, 31, 0, 31, 33, 31,
+      0, 31, 31, 34, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 0, 31,
+      0, 31, 0, 31, 31, 31, 31, 31, 31, 0, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31,
+      0, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 0, 0, 0, 0]
+    mzn_def: [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1,
+      1, 1, 6, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 2, 4, 1, 1, 1,
+      1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 6, 6, 7, 5, 0, 0, 0, 0]
+    objective: 180224
+    place: [4, 7, 5, 14, 4, 14, 14, 8, 9, 10, 11, 12, 13, 0, 0, 0, 0, 0, 0, 0, 0,
+      0, 0, 0, 0, 0, 14, 14, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 1, 1, 1, 1, 1, 1,
+      1, 1, 1, 6, 7, 5, 0, 14, 14, 14, 1, 14, 14, 14, 14, 14, 1, 14, 6, 0, 1, 1, 1,
+      0, 14, 1, 2, 14, 14, 1, 1, 0, 1, 1, 14, 14, 14, 14, 14, 14, 3, 14, 6, 7, 14,
+      14, 14, 14, 14, 14, 5, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14,
+      14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14,
+      14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14,
+      14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 0, 0, 14,
+      0, 14, 14, 14, 3, 2, 14, 14, 14, 14, 14, 1, 14, 14, 14, 14, 14, 14, 14, 14,
+      14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+    sel: [true, true, true, false, true, false, false, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, false, false, false, true, true, true, true, true, true, true, true, true,
+      true, true, true, true, true, true, true, true, true, true, true, true, true,
+      true, true, false, false, false, true, false, false, false, false, false, true,
+      false, true, true, true, true, true, true, false, true, true, false, false,
+      true, true, true, true, true, false, false, false, false, false, false, true,
+      false, true, true, false, false, false, false, false, false, true, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, true, true, false, true, false, false, false, true, true, false, false,
+      false, false, false, true, false, false, false, false, false, false, false,
+      false, false, false, false, false, false, false, false, false, false, false,
+      false, false]
+    succ: [8, 13, 10, 14, 5, 12, 11, 9, 2, 1, 4, 3, 7, 6, 0]
+  status: SATISFIED
+  time: 7.41
+- {configuration: CPLEX, data_file: data/mznc2020/is/Ws5Q6fhGi5.dzn, model: data/mznc2020/is/model.mzn,
+  problem: is, status: OPTIMAL_SOLUTION, time: 7.42}

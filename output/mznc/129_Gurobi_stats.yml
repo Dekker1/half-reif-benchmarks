@@ -2,10 +2,10 @@ configuration: Gurobi
 data_file: data/mznc2020/pentominoes/06.dzn
 flatIntConstraints: 57080
 flatIntVars: 281513
-flatTime: 40.4287
+flatTime: 41.6431
 method: satisfy
 model: data/mznc2020/pentominoes/pentominoes-int.mzn
 paths: 0
 problem: pentominoes
 status: UNKNOWN
-time: 1201.2249701526016
+time: 1201.2202869262546

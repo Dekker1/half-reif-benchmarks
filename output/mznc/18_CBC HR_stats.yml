@@ -2,7 +2,7 @@ configuration: CBC HR
 data_file: data/mznc2019/triangular/n10.dzn
 flatIntConstraints: 496
 flatIntVars: 56
-flatTime: 0.064243
+flatTime: 0.068207
 method: maximize
 model: data/mznc2019/triangular/triangular.mzn
 nSolutions: 1
@@ -12,6 +12,6 @@ objectiveBound: 20
 openNodes: -1
 paths: 0
 problem: triangular
-solveTime: 178.4372
+solveTime: 185.9117
 status: OPTIMAL_SOLUTION
-time: 178.56653076782823
+time: 186.06326610594988

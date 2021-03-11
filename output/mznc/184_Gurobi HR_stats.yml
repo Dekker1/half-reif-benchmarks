@@ -4,7 +4,7 @@ evaluatedHalfReifiedConstraints: 1387
 evaluatedReifiedConstraints: 1436
 flatIntConstraints: 3360
 flatIntVars: 3530
-flatTime: 0.835225
+flatTime: 0.859963
 method: minimize
 model: data/mznc2020/racp/racp.mzn
 nSolutions: 1
@@ -13,6 +13,6 @@ objective: 704
 objectiveBound: 704
 paths: 0
 problem: racp
-solveTime: 17.7689
+solveTime: 17.8346
 status: OPTIMAL_SOLUTION
-time: 18.81041630357504
+time: 18.93253193795681

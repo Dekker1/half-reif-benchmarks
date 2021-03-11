@@ -6,7 +6,7 @@
     objective: 0
     power: [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
   status: SATISFIED
-  time: 0.33
+  time: 0.36
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -15,7 +15,7 @@
     objective: 3
     power: [9, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1]
   status: SATISFIED
-  time: 0.34
+  time: 0.36
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -24,7 +24,7 @@
     objective: 6
     power: [10, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1]
   status: SATISFIED
-  time: 0.34
+  time: 0.37
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -33,7 +33,7 @@
     objective: 7
     power: [10, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1]
   status: SATISFIED
-  time: 0.35
+  time: 0.37
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -42,7 +42,7 @@
     objective: 8
     power: [10, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1]
   status: SATISFIED
-  time: 0.35
+  time: 0.37
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -51,7 +51,7 @@
     objective: 9
     power: [10, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1]
   status: SATISFIED
-  time: 0.35
+  time: 0.38
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -60,7 +60,7 @@
     objective: 10
     power: [10, 2, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1]
   status: SATISFIED
-  time: 0.35
+  time: 0.38
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -69,7 +69,7 @@
     objective: 11
     power: [10, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.36
+  time: 0.38
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -78,7 +78,7 @@
     objective: 12
     power: [10, 2, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.36
+  time: 0.38
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -87,7 +87,7 @@
     objective: 13
     power: [10, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1]
   status: SATISFIED
-  time: 0.36
+  time: 0.39
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -96,7 +96,7 @@
     objective: 14
     power: [10, 2, 2, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1]
   status: SATISFIED
-  time: 0.36
+  time: 0.39
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -105,7 +105,7 @@
     objective: 15
     power: [10, 1, 2, 1, 1, 2, 3, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.37
+  time: 0.39
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -114,7 +114,7 @@
     objective: 16
     power: [10, 2, 2, 1, 1, 2, 3, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.37
+  time: 0.39
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -123,7 +123,7 @@
     objective: 17
     power: [10, 3, 2, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.38
+  time: 0.4
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -132,7 +132,7 @@
     objective: 18
     power: [10, 3, 2, 1, 1, 2, 3, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.38
+  time: 0.41
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -141,7 +141,7 @@
     objective: 19
     power: [10, 3, 2, 2, 1, 2, 2, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.38
+  time: 0.41
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -150,7 +150,7 @@
     objective: 20
     power: [10, 3, 2, 2, 1, 2, 3, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.38
+  time: 0.41
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -159,7 +159,7 @@
     objective: 21
     power: [8, 2, 2, 2, 1, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1]
   status: SATISFIED
-  time: 0.4
+  time: 0.42
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -168,7 +168,7 @@
     objective: 22
     power: [10, 3, 1, 3, 1, 2, 3, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.4
+  time: 0.43
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -177,7 +177,7 @@
     objective: 23
     power: [10, 3, 2, 3, 1, 2, 2, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.41
+  time: 0.43
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -186,7 +186,7 @@
     objective: 24
     power: [10, 3, 2, 3, 1, 2, 3, 1, 1, 1, 1, 2, 1, 3, 1]
   status: SATISFIED
-  time: 0.41
+  time: 0.43
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -195,7 +195,7 @@
     objective: 25
     power: [10, 3, 2, 3, 1, 2, 2, 1, 1, 1, 1, 2, 1, 3, 2]
   status: SATISFIED
-  time: 0.62
+  time: 0.65
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -204,7 +204,7 @@
     objective: 26
     power: [10, 3, 2, 3, 1, 2, 3, 1, 1, 1, 1, 2, 1, 3, 2]
   status: SATISFIED
-  time: 0.62
+  time: 0.65
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -213,7 +213,7 @@
     objective: 27
     power: [10, 3, 2, 3, 1, 2, 3, 4, 1, 1, 1, 2, 1, 3, 2]
   status: SATISFIED
-  time: 0.95
+  time: 0.98
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -222,7 +222,7 @@
     objective: 28
     power: [10, 3, 2, 3, 1, 2, 2, 1, 1, 1, 1, 2, 4, 3, 1]
   status: SATISFIED
-  time: 4.4
+  time: 4.42
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -231,7 +231,7 @@
     objective: 29
     power: [10, 3, 2, 3, 1, 2, 3, 1, 1, 1, 1, 2, 4, 3, 1]
   status: SATISFIED
-  time: 4.41
+  time: 4.42
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -240,7 +240,7 @@
     objective: 30
     power: [10, 3, 2, 3, 1, 2, 2, 1, 1, 1, 1, 2, 4, 3, 2]
   status: SATISFIED
-  time: 4.41
+  time: 4.43
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -249,7 +249,7 @@
     objective: 31
     power: [10, 3, 2, 3, 1, 2, 3, 1, 1, 1, 1, 2, 4, 3, 2]
   status: SATISFIED
-  time: 4.41
+  time: 4.43
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -258,7 +258,7 @@
     objective: 32
     power: [10, 3, 2, 3, 1, 2, 3, 4, 1, 1, 1, 2, 4, 3, 2]
   status: SATISFIED
-  time: 6.3
+  time: 6.31
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -276,7 +276,7 @@
     objective: 34
     power: [10, 3, 2, 3, 1, 2, 3, 4, 6, 1, 1, 2, 4, 3, 2]
   status: SATISFIED
-  time: 9.78
+  time: 9.77
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -285,7 +285,7 @@
     objective: 35
     power: [10, 3, 2, 3, 1, 2, 3, 1, 7, 1, 1, 2, 4, 3, 2]
   status: SATISFIED
-  time: 12.4
+  time: 12.39
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -294,7 +294,7 @@
     objective: 36
     power: [10, 3, 2, 3, 1, 2, 3, 5, 5, 1, 1, 2, 4, 3, 2]
   status: SATISFIED
-  time: 25.56
+  time: 25.43
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -303,7 +303,7 @@
     objective: 37
     power: [10, 3, 2, 3, 1, 2, 3, 5, 6, 1, 1, 2, 4, 3, 2]
   status: SATISFIED
-  time: 25.84
+  time: 25.71
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -312,7 +312,7 @@
     objective: 38
     power: [10, 3, 2, 3, 1, 2, 2, 6, 8, 1, 1, 2, 4, 3, 3]
   status: SATISFIED
-  time: 29.9
+  time: 29.73
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -321,7 +321,7 @@
     objective: 39
     power: [10, 3, 2, 3, 1, 2, 3, 6, 8, 1, 1, 2, 4, 3, 3]
   status: SATISFIED
-  time: 29.9
+  time: 29.74
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -330,7 +330,7 @@
     objective: 40
     power: [10, 3, 2, 3, 1, 4, 6, 7, 9, 1, 1, 4, 5, 5, 8]
   status: SATISFIED
-  time: 32.92
+  time: 32.729999
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -339,7 +339,7 @@
     objective: 41
     power: [10, 3, 2, 3, 1, 4, 6, 7, 9, 1, 3, 4, 5, 5, 8]
   status: SATISFIED
-  time: 46.99
+  time: 46.73
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -348,7 +348,7 @@
     objective: 42
     power: [10, 3, 2, 3, 1, 4, 6, 7, 9, 1, 4, 4, 5, 5, 8]
   status: SATISFIED
-  time: 69.65
+  time: 69.21
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -357,7 +357,7 @@
     objective: 43
     power: [10, 3, 2, 3, 1, 2, 3, 6, 8, 1, 7, 2, 4, 3, 3]
   status: SATISFIED
-  time: 95.86
+  time: 95.18
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -366,7 +366,7 @@
     objective: 44
     power: [10, 3, 2, 3, 1, 4, 6, 7, 9, 1, 7, 4, 5, 5, 8]
   status: SATISFIED
-  time: 99.96
+  time: 99.24
 - configuration: Gecode HR
   data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
   model: data/mznc2020/tower_challenge/tower.mzn
@@ -375,6 +375,6 @@
     objective: 45
     power: [10, 3, 2, 3, 1, 4, 6, 7, 9, 1, 10, 4, 5, 5, 8]
   status: SATISFIED
-  time: 129.539999
+  time: 128.6
 - {configuration: Gecode HR, data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn,
   model: data/mznc2020/tower_challenge/tower.mzn, problem: tower_challenge, status: SATISFIED}

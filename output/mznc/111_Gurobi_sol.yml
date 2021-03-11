@@ -19,6 +19,6 @@
       16, 6, 14, 15, 6, 17, 14, 14, 0, 18, 13, 11, 13, 7, 16, 0, 7, 8, 20, 19, 18,
       18, 16, 16, 26, 11, 17]
   status: SATISFIED
-  time: 19.03
+  time: 20.84
 - {configuration: Gurobi, data_file: data/mznc2020/stable-goods/s-d16.dzn, model: data/mznc2020/stable-goods/stable-goods-solution.mzn,
-  problem: stable-goods, status: OPTIMAL_SOLUTION, time: 19.04}
+  problem: stable-goods, status: OPTIMAL_SOLUTION, time: 20.85}

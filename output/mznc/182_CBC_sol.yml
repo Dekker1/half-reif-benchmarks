@@ -1,2 +1,2 @@
 - {configuration: CBC, data_file: data/mznc2020/racp/j60_9_9_1.25.dzn, model: data/mznc2020/racp/racp.mzn,
-  problem: racp, status: UNKNOWN, time: 1102.83}
+  problem: racp, status: UNKNOWN}

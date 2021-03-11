@@ -6,10 +6,10 @@ evaluatedReifiedConstraints: 40
 flatBoolVars: 40
 flatIntConstraints: 6221
 flatIntVars: 2891
-flatTime: 1.21841
+flatTime: 1.18683
 method: minimize
 model: data/mznc2019/median-string/median_string_dp.mzn
 paths: 0
 problem: median-string
 status: UNKNOWN
-time: 1201.1259792335331
+time: 1201.1313490327448

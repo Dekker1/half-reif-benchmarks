@@ -1,0 +1,13 @@
+configuration: SCIP HR
+data_file: data/mznc2020/cable_tree_wiring/R189.dzn
+evaluatedHalfReifiedConstraints: 266
+evaluatedReifiedConstraints: 15286
+flatIntConstraints: 56459
+flatIntVars: 43760
+flatTime: 9.2725
+method: minimize
+model: data/mznc2020/cable_tree_wiring/ctw.mzn
+paths: 0
+problem: cable_tree_wiring
+status: UNKNOWN
+time: 1201.2077330350876

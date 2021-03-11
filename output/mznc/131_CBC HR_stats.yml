@@ -4,7 +4,7 @@ evaluatedReifiedConstraints: 12082
 flatBoolVars: 3100
 flatIntConstraints: 27603
 flatIntVars: 9843
-flatTime: 5.30013
+flatTime: 5.28526
 method: maximize
 model: data/mznc2020/tower_challenge/tower.mzn
 nSolutions: 1
@@ -14,6 +14,6 @@ objectiveBound: 100
 openNodes: -1
 paths: 0
 problem: tower_challenge
-solveTime: 1180.8724
+solveTime: 1183.3567
 status: SATISFIED
-time: 1187.4819668643177
+time: 1189.9630389995873

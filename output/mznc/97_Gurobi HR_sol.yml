@@ -10,6 +10,6 @@
       21, 5, 20, 20, 35, 31, 17, 4, 7, 36, 16, 18, 9, 33, 36, 26, 23, 14, 39, 27,
       1, 1, 19, 22, 15, 15, 19, 16, 4, 41, 1]
   status: SATISFIED
-  time: 1200.04
+  time: 1200.03
 - {configuration: Gurobi HR, data_file: data/mznc2019/accap/accap_instance5.dzn, model: data/mznc2019/accap/accap.mzn,
   problem: accap, status: SATISFIED}

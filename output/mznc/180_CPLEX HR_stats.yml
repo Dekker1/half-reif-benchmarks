@@ -1,0 +1,17 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/soccer-computational/xIGData_28_22_7_4.dzn
+evaluatedReifiedConstraints: 23814
+flatIntConstraints: 51282
+flatIntVars: 28098
+flatTime: 8.71409
+method: satisfy
+model: data/mznc2020/soccer-computational/ecp.mzn
+nSolutions: 1
+nodes: 2967
+objective: 0
+objectiveBound: 0
+paths: 0
+problem: soccer-computational
+solveTime: 98.5916
+status: SATISFIED
+time: 109.23825420252979

@@ -1,0 +1,6 @@
+configuration: SCIP HR
+data_file: data/mznc2020/code-generator/mips_gcc.real.eiremain.dzn
+error: 'MiniZinc: internal error: out of memory'
+model: data/mznc2020/code-generator/unison.mzn
+problem: code-generator
+status: ERROR

@@ -4,10 +4,10 @@ evaluatedReifiedConstraints: 27840
 flatBoolVars: 27840
 flatIntConstraints: 58561
 flatIntVars: 28935
-flatTime: 1.92657
+flatTime: 1.85307
 method: satisfy
 model: data/mznc2020/soccer-computational/ecp.mzn
 paths: 0
 problem: soccer-computational
 status: UNKNOWN
-time: 1201.197452088818
+time: 1201.1868435963988

@@ -45,6 +45,6 @@
       - [0, 0, 0, 0, 0]
     objective: 338
   status: SATISFIED
-  time: 0.14
+  time: 0.16
 - {configuration: Gurobi HR, data_file: data/mznc2020/radiation/i6-9.dzn, model: data/mznc2020/radiation/radiation.mzn,
-  problem: radiation, status: OPTIMAL_SOLUTION, time: 0.15}
+  problem: radiation, status: OPTIMAL_SOLUTION, time: 0.17}

@@ -7,7 +7,7 @@
     objective: 419
     succ: [1, 9, 3, 5, 6, 4, 19, 8, 14, 10, 11, 17, 12, 2, 7, 20, 13, 18, 15, 16]
   status: SATISFIED
-  time: 717.23
+  time: 720.34
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -17,7 +17,7 @@
     objective: 515
     succ: [18, 9, 3, 5, 6, 4, 19, 8, 14, 10, 11, 17, 12, 2, 7, 20, 13, 1, 15, 16]
   status: SATISFIED
-  time: 717.23
+  time: 720.35
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -27,7 +27,7 @@
     objective: 520
     succ: [11, 9, 3, 5, 6, 4, 19, 8, 14, 10, 1, 17, 12, 2, 7, 20, 13, 18, 15, 16]
   status: SATISFIED
-  time: 717.24
+  time: 720.35
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -37,7 +37,7 @@
     objective: 560
     succ: [11, 9, 3, 5, 6, 4, 19, 8, 14, 10, 18, 17, 12, 2, 7, 20, 13, 1, 15, 16]
   status: SATISFIED
-  time: 717.24
+  time: 720.35
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -47,7 +47,7 @@
     objective: 611
     succ: [18, 9, 3, 4, 6, 11, 19, 8, 14, 10, 5, 17, 12, 2, 7, 20, 13, 1, 15, 16]
   status: SATISFIED
-  time: 717.24
+  time: 720.36
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -57,7 +57,7 @@
     objective: 612
     succ: [4, 9, 3, 1, 6, 11, 19, 8, 14, 10, 5, 17, 12, 2, 7, 20, 13, 18, 15, 16]
   status: SATISFIED
-  time: 717.25
+  time: 720.36
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -67,7 +67,7 @@
     objective: 665
     succ: [18, 9, 3, 1, 6, 11, 19, 8, 14, 10, 5, 17, 12, 2, 7, 20, 13, 4, 15, 16]
   status: SATISFIED
-  time: 717.25
+  time: 720.36
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -77,7 +77,7 @@
     objective: 757
     succ: [5, 9, 3, 11, 6, 1, 19, 8, 14, 10, 18, 17, 12, 2, 7, 20, 13, 4, 15, 16]
   status: SATISFIED
-  time: 717.25
+  time: 720.37
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -87,7 +87,7 @@
     objective: 840
     succ: [11, 9, 5, 6, 3, 18, 19, 8, 14, 10, 1, 17, 12, 2, 7, 20, 13, 4, 15, 16]
   status: SATISFIED
-  time: 717.27
+  time: 720.38
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -97,7 +97,7 @@
     objective: 852
     succ: [4, 9, 5, 1, 14, 11, 19, 8, 18, 10, 6, 17, 12, 3, 7, 20, 13, 2, 15, 16]
   status: SATISFIED
-  time: 717.5
+  time: 720.63
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -107,7 +107,7 @@
     objective: 899
     succ: [11, 9, 8, 6, 3, 18, 19, 5, 14, 10, 1, 17, 12, 2, 7, 20, 13, 4, 15, 16]
   status: SATISFIED
-  time: 718.05
+  time: 721.21
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -117,7 +117,7 @@
     objective: 905
     succ: [11, 9, 5, 6, 3, 18, 19, 20, 14, 10, 1, 17, 12, 2, 7, 8, 13, 4, 15, 16]
   status: SATISFIED
-  time: 719.19
+  time: 722.39
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -127,7 +127,7 @@
     objective: 917
     succ: [4, 9, 5, 1, 14, 11, 19, 20, 18, 10, 6, 17, 12, 3, 7, 8, 13, 2, 15, 16]
   status: SATISFIED
-  time: 719.31
+  time: 722.51
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -137,7 +137,7 @@
     objective: 936
     succ: [4, 9, 14, 11, 17, 8, 19, 12, 18, 10, 1, 6, 5, 3, 7, 20, 13, 2, 15, 16]
   status: SATISFIED
-  time: 719.45
+  time: 722.66
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -147,7 +147,7 @@
     objective: 970
     succ: [6, 9, 8, 12, 17, 11, 19, 14, 18, 4, 1, 10, 5, 3, 7, 20, 13, 2, 15, 16]
   status: SATISFIED
-  time: 719.82
+  time: 723.05
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -157,7 +157,7 @@
     objective: 975
     succ: [3, 9, 1, 12, 17, 11, 19, 20, 18, 4, 6, 10, 5, 14, 7, 8, 13, 2, 15, 16]
   status: SATISFIED
-  time: 720.17
+  time: 723.42
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -167,7 +167,7 @@
     objective: 1009
     succ: [17, 9, 14, 12, 6, 11, 19, 20, 18, 4, 5, 10, 3, 13, 7, 8, 1, 2, 15, 16]
   status: SATISFIED
-  time: 731.2
+  time: 734.94
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -177,7 +177,7 @@
     objective: 1053
     succ: [17, 9, 3, 12, 14, 11, 19, 8, 18, 4, 6, 10, 5, 13, 7, 20, 1, 2, 15, 16]
   status: SATISFIED
-  time: 731.38
+  time: 735.14
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -187,7 +187,7 @@
     objective: 1079
     succ: [17, 9, 6, 12, 14, 11, 19, 8, 18, 4, 3, 10, 5, 13, 7, 20, 1, 2, 15, 16]
   status: SATISFIED
-  time: 731.39
+  time: 735.14
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -197,7 +197,7 @@
     objective: 1118
     succ: [17, 9, 3, 12, 14, 11, 19, 20, 18, 4, 6, 10, 5, 13, 7, 8, 1, 2, 15, 16]
   status: SATISFIED
-  time: 731.9
+  time: 735.68
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -207,7 +207,7 @@
     objective: 1144
     succ: [17, 9, 6, 12, 14, 11, 19, 20, 18, 4, 3, 10, 5, 13, 7, 8, 1, 2, 15, 16]
   status: SATISFIED
-  time: 731.91
+  time: 735.68
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -217,7 +217,7 @@
     objective: 1146
     succ: [17, 9, 7, 12, 14, 3, 6, 8, 18, 4, 19, 10, 5, 13, 11, 20, 1, 2, 15, 16]
   status: SATISFIED
-  time: 736.28
+  time: 740.25
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -227,7 +227,7 @@
     objective: 1211
     succ: [17, 9, 7, 12, 14, 3, 6, 20, 18, 4, 19, 10, 5, 13, 11, 8, 1, 2, 15, 16]
   status: SATISFIED
-  time: 736.28
+  time: 740.26
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -237,7 +237,7 @@
     objective: 1222
     succ: [17, 9, 13, 12, 3, 11, 8, 14, 18, 4, 15, 10, 5, 7, 6, 20, 1, 2, 19, 16]
   status: SATISFIED
-  time: 769.35
+  time: 774.88
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -247,7 +247,7 @@
     objective: 1247
     succ: [17, 9, 19, 15, 3, 11, 6, 20, 14, 13, 7, 10, 12, 2, 18, 8, 1, 4, 5, 16]
   status: SATISFIED
-  time: 816.67
+  time: 824.56
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -257,7 +257,7 @@
     objective: 1255
     succ: [17, 9, 19, 15, 3, 13, 11, 20, 18, 4, 14, 6, 12, 7, 10, 8, 1, 2, 5, 16]
   status: SATISFIED
-  time: 816.8
+  time: 824.7
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -267,7 +267,7 @@
     objective: 1278
     succ: [17, 9, 8, 15, 3, 11, 6, 5, 14, 13, 7, 10, 12, 2, 18, 19, 1, 4, 20, 16]
   status: SATISFIED
-  time: 844.27
+  time: 854.27
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -277,7 +277,7 @@
     objective: 1280
     succ: [17, 9, 13, 15, 3, 8, 11, 12, 14, 10, 7, 6, 5, 2, 18, 19, 1, 4, 20, 16]
   status: SATISFIED
-  time: 844.84
+  time: 854.87
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -287,7 +287,7 @@
     objective: 1286
     succ: [17, 9, 8, 15, 3, 13, 11, 5, 18, 4, 14, 6, 12, 7, 10, 19, 1, 2, 20, 16]
   status: SATISFIED
-  time: 852.61
+  time: 863.22
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -297,7 +297,7 @@
     objective: 1325
     succ: [17, 9, 13, 15, 3, 8, 11, 12, 18, 4, 14, 6, 5, 7, 10, 19, 1, 2, 20, 16]
   status: SATISFIED
-  time: 854.15
+  time: 864.88
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -307,7 +307,7 @@
     objective: 1366
     succ: [17, 9, 13, 12, 3, 11, 8, 14, 18, 4, 15, 10, 5, 7, 6, 19, 1, 2, 20, 16]
   status: SATISFIED
-  time: 854.2
+  time: 864.93
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -317,7 +317,7 @@
     objective: 1380
     succ: [17, 4, 13, 8, 3, 11, 6, 2, 12, 10, 7, 15, 5, 18, 9, 19, 1, 14, 20, 16]
   status: SATISFIED
-  time: 855.7
+  time: 866.53
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -327,7 +327,7 @@
     objective: 1395
     succ: [17, 10, 19, 15, 3, 8, 11, 12, 4, 2, 7, 6, 18, 13, 9, 20, 1, 14, 5, 16]
   status: SATISFIED
-  time: 868.11
+  time: 879.64
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -337,7 +337,7 @@
     objective: 1400
     succ: [17, 10, 13, 14, 3, 2, 11, 8, 12, 6, 7, 15, 5, 18, 9, 19, 1, 4, 20, 16]
   status: SATISFIED
-  time: 870.52
+  time: 882.15
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -347,7 +347,7 @@
     objective: 1410
     succ: [17, 10, 8, 4, 3, 2, 11, 5, 12, 6, 7, 15, 18, 13, 9, 19, 1, 14, 20, 16]
   status: SATISFIED
-  time: 870.58
+  time: 882.22
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -357,7 +357,7 @@
     objective: 1448
     succ: [17, 10, 13, 11, 3, 2, 8, 14, 12, 6, 18, 15, 5, 7, 9, 19, 1, 4, 20, 16]
   status: SATISFIED
-  time: 870.71
+  time: 882.35
 - configuration: Gecode HR
   data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn
   model: data/mznc2019/kidney-exchange/ccmcp.mzn
@@ -367,7 +367,7 @@
     objective: 1475
     succ: [17, 10, 13, 12, 3, 2, 8, 14, 11, 6, 15, 18, 5, 7, 9, 19, 1, 4, 20, 16]
   status: SATISFIED
-  time: 871.01
+  time: 882.66
 - {configuration: Gecode HR, data_file: data/mznc2019/kidney-exchange/3_20_0.40_3.dzn,
   model: data/mznc2019/kidney-exchange/ccmcp.mzn, problem: kidney-exchange, status: OPTIMAL_SOLUTION,
-  time: 882.25}
+  time: 894.21}

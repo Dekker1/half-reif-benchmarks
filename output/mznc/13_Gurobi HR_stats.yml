@@ -4,10 +4,10 @@ evaluatedHalfReifiedConstraints: 24
 evaluatedReifiedConstraints: 8198
 flatIntConstraints: 226921
 flatIntVars: 87993
-flatTime: 33.0974
+flatTime: 31.5416
 method: maximize
 model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
 paths: 0
 problem: rcpsp-wet-diverse
 status: UNKNOWN
-time: 1201.266871822998
+time: 1201.263100516051

@@ -1,2 +1,2 @@
 - {configuration: CBC, data_file: data/mznc2020/whirlpool/d29.dzn, model: data/mznc2020/whirlpool/whirlpool-x.mzn,
-  problem: whirlpool, status: UNKNOWN, time: 1169.95}
+  problem: whirlpool, status: UNKNOWN}

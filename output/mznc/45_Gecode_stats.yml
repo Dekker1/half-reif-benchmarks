@@ -3,8 +3,8 @@ data_file: ''
 failures: 11410149
 flatIntConstraints: 199
 flatIntVars: 146
-flatTime: 0.039417
-initTime: 0.001886
+flatTime: 0.040256
+initTime: 0.001906
 method: minimize
 model: data/mznc2019/stochastic-vrp/vrp-s3-v2-c7_vrp-v2-c7_det.mzn
 nSolutions: 35
@@ -17,7 +17,7 @@ propagations: 1432450971
 propagators: 187
 restarts: 0
 solutions: 35
-solveTime: 226.938
+solveTime: 230.11
 status: OPTIMAL_SOLUTION
-time: 227.04846056364477
+time: 230.257126448676
 variables: 216

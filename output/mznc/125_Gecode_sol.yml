@@ -41,7 +41,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 3.69
+  time: 3.73
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -85,7 +85,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 3.71
+  time: 3.75
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -129,7 +129,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 3.71
+  time: 3.76
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -173,7 +173,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 3.74
+  time: 3.8
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -217,7 +217,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 3.76
+  time: 3.8
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -261,7 +261,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 4.4
+  time: 4.45
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -305,7 +305,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 4.41
+  time: 4.46
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -349,7 +349,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 12.88
+  time: 13.07
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -393,7 +393,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 12.9
+  time: 13.08
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -437,7 +437,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 12.9
+  time: 13.08
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -481,7 +481,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 24.02
+  time: 24.4
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -525,7 +525,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 24.03
+  time: 24.42
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -569,7 +569,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 167.22
+  time: 169.33
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -613,7 +613,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 167.23
+  time: 169.34
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -657,7 +657,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 178.19
+  time: 180.52
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -701,7 +701,7 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 178.21
+  time: 180.54
 - configuration: Gecode
   data_file: data/mznc2020/is/LeTaZW8Ij5.dzn
   model: data/mznc2020/is/model.mzn
@@ -745,6 +745,6 @@
       false, true, false]
     succ: [1, 11, 16, 13, 12, 8, 7, 18, 14, 10, 17, 3, 2, 5, 4, 6, 15, 19, 9, 0]
   status: SATISFIED
-  time: 378.29
+  time: 384.3
 - {configuration: Gecode, data_file: data/mznc2020/is/LeTaZW8Ij5.dzn, model: data/mznc2020/is/model.mzn,
   problem: is, status: SATISFIED}

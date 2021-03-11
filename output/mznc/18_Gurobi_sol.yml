@@ -16,6 +16,6 @@
     - [1, 1, 1, 0, 0, 0, 0, 1, 1, 0]
     objective: 20
   status: SATISFIED
-  time: 7.69
+  time: 7.71
 - {configuration: Gurobi, data_file: data/mznc2019/triangular/n10.dzn, model: data/mznc2019/triangular/triangular.mzn,
-  problem: triangular, status: OPTIMAL_SOLUTION, time: 7.7}
+  problem: triangular, status: OPTIMAL_SOLUTION, time: 7.71}

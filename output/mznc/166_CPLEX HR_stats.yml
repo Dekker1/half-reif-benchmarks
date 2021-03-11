@@ -1,0 +1,19 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/gbac/reduced_UD7-gbac.dzn
+evaluatedReifiedConstraints: 1980
+flatBoolVars: 657
+flatIntConstraints: 4501
+flatIntVars: 18309
+flatTime: 1.99425
+method: minimize
+model: data/mznc2020/gbac/gbac.mzn
+nSolutions: 1
+nodes: 44544
+objective: 2586
+objectiveBound: 2552.57422084
+openNodes: 23610
+paths: 0
+problem: gbac
+solveTime: 1197.9811
+status: SATISFIED
+time: 1200.604478430003

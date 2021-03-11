@@ -15,7 +15,7 @@
     wfox: [6, 5, 5, 4, 4, 2, 3, 1, 1, 0, 1, 0, 0, 0, 0, 0]
     wgeese: [7, 4, 4, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 53.76
+  time: 53.99
 - {configuration: Gurobi HR, data_file: data/mznc2019/fox-geese-corn/fgc_06_07_08_00.dzn,
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn, problem: fox-geese-corn, status: OPTIMAL_SOLUTION,
-  time: 53.77}
+  time: 54.0}

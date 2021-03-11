@@ -3,8 +3,8 @@ data_file: data/mznc2020/p1f-pjs/10.dzn
 failures: 6042
 flatIntConstraints: 424
 flatIntVars: 775
-flatTime: 0.128036
-initTime: 0.005203
+flatTime: 0.130891
+initTime: 0.005249
 method: minimize
 model: data/mznc2020/p1f-pjs/p1f-pjs.mzn
 nSolutions: 27
@@ -17,7 +17,7 @@ propagations: 5276700
 propagators: 424
 restarts: 0
 solutions: 27
-solveTime: 1.45288
+solveTime: 1.4512
 status: OPTIMAL_SOLUTION
-time: 1.6614356767386198
+time: 1.6955079194158316
 variables: 775

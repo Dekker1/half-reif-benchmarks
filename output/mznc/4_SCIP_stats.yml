@@ -1,0 +1,17 @@
+configuration: SCIP
+data_file: data/mznc2019/amaze/2012-07-27.dzn
+evaluatedReifiedConstraints: 2353
+flatIntConstraints: 2748
+flatIntVars: 3173
+flatTime: 0.407794
+method: satisfy
+model: data/mznc2019/amaze/amaze3.mzn
+nSolutions: 1
+nodes: 34432
+objective: 0
+objectiveBound: 0
+paths: 0
+problem: amaze
+solveTime: 409.3537
+status: SATISFIED
+time: 409.978311996907

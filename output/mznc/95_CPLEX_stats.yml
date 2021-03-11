@@ -1,0 +1,13 @@
+configuration: CPLEX
+data_file: ''
+evaluatedReifiedConstraints: 378
+flatBoolVars: 21
+flatIntConstraints: 1420
+flatIntVars: 41638
+flatTime: 4.72502
+method: minimize
+model: data/mznc2019/liner-sf-repositioning/tp7_12.mzn
+paths: 0
+problem: liner-sf-repositioning
+status: UNKNOWN
+time: 1201.2364619858563

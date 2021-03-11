@@ -132,7 +132,7 @@
       true, false, true, false, true, false, false, false, false, false, false, true,
       false, false, false, true, false, false, true, false, true, false, false, false]
   status: SATISFIED
-  time: 0.51
+  time: 0.54
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -267,7 +267,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true]
   status: SATISFIED
-  time: 0.55
+  time: 0.59
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -402,7 +402,7 @@
       true, false, true, false, true, false, true, true, true, true, true, true, false,
       true, true, true, false, true, true, false, true, false, true, true, true]
   status: SATISFIED
-  time: 0.75
+  time: 0.78
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -536,7 +536,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true]
   status: SATISFIED
-  time: 4.84
+  time: 4.87
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -672,7 +672,7 @@
       false, false, true, false, true, false, true, false, true, true, true, true,
       true, true, false, true, true, true, false]
   status: SATISFIED
-  time: 24.98
+  time: 25.0
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -807,7 +807,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true]
   status: SATISFIED
-  time: 64.55
+  time: 64.58
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -942,7 +942,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true]
   status: SATISFIED
-  time: 72.72
+  time: 72.76
 - {configuration: Gecode HR, data_file: data/mznc2020/minimal-decision-sets/cleve_train5.dzn,
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
-  status: OPTIMAL_SOLUTION, time: 109.49}
+  status: OPTIMAL_SOLUTION, time: 109.68}

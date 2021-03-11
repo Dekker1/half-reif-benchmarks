@@ -6,10 +6,10 @@ flatBoolConstraints: 3160
 flatBoolVars: 22160
 flatIntConstraints: 60596
 flatIntVars: 38512
-flatTime: 4.43514
+flatTime: 4.33121
 method: maximize
 model: data/mznc2020/stable-goods/stable-goods-solution.mzn
 paths: 0
 problem: stable-goods
 status: UNKNOWN
-time: 1201.144849512726
+time: 1201.1436170749366

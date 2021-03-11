@@ -1,0 +1,21 @@
+configuration: CPLEX HR
+data_file: data/mznc2019/median-string/p2_4_20-0.dzn
+eliminatedLinearConstraints: 2000
+evaluatedHalfReifiedConstraints: 4000
+evaluatedReifiedConstraints: 100
+flatBoolVars: 100
+flatIntConstraints: 11669
+flatIntVars: 5225
+flatTime: 2.28977
+method: minimize
+model: data/mznc2019/median-string/median_string_dp.mzn
+nSolutions: 1
+nodes: 34757
+objective: 16
+objectiveBound: 2.00000000771
+openNodes: 10130
+paths: 0
+problem: median-string
+solveTime: 1197.6843
+status: SATISFIED
+time: 1200.5151274576783

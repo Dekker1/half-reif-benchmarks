@@ -1,0 +1,19 @@
+configuration: CPLEX HR
+data_file: data/mznc2019/rotating-workforce/Example1337.dzn
+evaluatedHalfReifiedConstraints: 304
+evaluatedReifiedConstraints: 1120
+flatBoolVars: 64
+flatIntConstraints: 6410
+flatIntVars: 8096
+flatTime: 3.37934
+method: satisfy
+model: data/mznc2019/rotating-workforce/rotating-workforce.mzn
+nSolutions: 1
+nodes: 0
+objective: 0
+objectiveBound: 0
+paths: 0
+problem: rotating-workforce
+solveTime: 6.3929
+status: SATISFIED
+time: 10.252477154135704

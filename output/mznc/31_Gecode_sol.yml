@@ -140,6 +140,6 @@
       0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
       0]
   status: SATISFIED
-  time: 114.9
+  time: 114.4
 - {configuration: Gecode, data_file: data/mznc2019/zephyrus/12__8__6__3.dzn, model: data/mznc2019/zephyrus/zephyrus.mzn,
-  problem: zephyrus, status: OPTIMAL_SOLUTION, time: 340.32}
+  problem: zephyrus, status: OPTIMAL_SOLUTION, time: 337.28}

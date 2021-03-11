@@ -1,0 +1,19 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn
+eliminatedLinearConstraints: 576
+evaluatedHalfReifiedConstraints: 1163
+evaluatedReifiedConstraints: 1723
+flatIntConstraints: 12787
+flatIntVars: 23777
+flatTime: 3.02984
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+nSolutions: 1
+nodes: 560
+objective: 34
+objectiveBound: 34
+paths: 0
+problem: minimal-decision-sets
+solveTime: 977.2567
+status: OPTIMAL_SOLUTION
+time: 981.0979165155441

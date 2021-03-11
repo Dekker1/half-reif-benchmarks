@@ -3,7 +3,7 @@ data_file: data/mznc2019/stack-cuttingstock/d14.dzn
 evaluatedReifiedConstraints: 204
 flatIntConstraints: 1122
 flatIntVars: 733
-flatTime: 0.11873
+flatTime: 0.121861
 method: minimize
 model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
 nSolutions: 1
@@ -13,6 +13,6 @@ objectiveBound: 19
 openNodes: 1
 paths: 0
 problem: stack-cuttingstock
-solveTime: 46.442
+solveTime: 46.8778
 status: OPTIMAL_SOLUTION
-time: 46.63536625355482
+time: 47.10697637498379

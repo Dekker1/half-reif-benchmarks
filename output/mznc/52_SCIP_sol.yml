@@ -1,0 +1,16 @@
+- configuration: SCIP
+  data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
+  model: data/mznc2019/steelmillslab/steelmillslab.mzn
+  problem: steelmillslab
+  solution:
+    assign: [32, 8, 46, 37, 49, 5, 6, 6, 15, 38, 5, 46, 36, 20, 1, 27, 6, 27, 1, 44,
+      23, 5, 18, 49, 5, 3, 13, 34, 42, 42, 26, 9, 41, 55, 44, 53, 19, 24, 9, 7, 15,
+      28, 50, 25, 51, 31, 40, 10, 2, 22, 35, 41, 53, 52, 7, 43, 13, 12, 2, 45, 27,
+      16, 43, 47, 48, 34, 19, 38, 18, 54, 11, 56, 30, 48, 39, 3, 21, 20, 1, 39, 25,
+      14, 23, 32, 22, 29, 17, 37, 55, 54, 14, 14, 56, 29, 11, 17, 45, 4, 40, 36, 4,
+      16, 21, 33, 26, 24, 8, 51, 35, 31, 50]
+    objective: 26
+  status: SATISFIED
+  time: 1200.35
+- {configuration: SCIP, data_file: data/mznc2019/steelmillslab/bench_17_7.dzn, model: data/mznc2019/steelmillslab/steelmillslab.mzn,
+  problem: steelmillslab, status: SATISFIED}

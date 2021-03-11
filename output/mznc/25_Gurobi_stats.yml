@@ -2,7 +2,7 @@ configuration: Gurobi
 data_file: data/mznc2019/multi-knapsack/mknap2-10.dzn
 flatIntConstraints: 5
 flatIntVars: 108
-flatTime: 0.052126
+flatTime: 0.048377
 method: maximize
 model: data/mznc2019/multi-knapsack/mknapsack_global.mzn
 nSolutions: 1
@@ -11,6 +11,6 @@ objective: 624319
 objectiveBound: 624319
 paths: 0
 problem: multi-knapsack
-solveTime: 0.006
+solveTime: 0.0055
 status: OPTIMAL_SOLUTION
-time: 0.10696244798600674
+time: 0.1256534643471241

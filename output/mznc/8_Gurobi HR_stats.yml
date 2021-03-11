@@ -5,10 +5,10 @@ evaluatedReifiedConstraints: 444340
 flatBoolVars: 50038
 flatIntConstraints: 1167719
 flatIntVars: 842582
-flatTime: 234.581
+flatTime: 211.146
 method: maximize
 model: data/mznc2019/nside/full.mzn
 paths: 0
 problem: nside
 status: UNKNOWN
-time: 1201.6495736055076
+time: 1201.6815354991704

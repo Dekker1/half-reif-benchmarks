@@ -99,7 +99,7 @@
     - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.68
+  time: 0.69
 - configuration: Gecode
   data_file: data/mznc2019/ptv/pax_period_20_2b.dzn
   model: data/mznc2019/ptv/pax_model.mzn
@@ -201,7 +201,7 @@
     - [1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.71
+  time: 0.72
 - configuration: Gecode
   data_file: data/mznc2019/ptv/pax_period_20_2b.dzn
   model: data/mznc2019/ptv/pax_model.mzn
@@ -303,7 +303,7 @@
     - [2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.72
+  time: 0.73
 - configuration: Gecode
   data_file: data/mznc2019/ptv/pax_period_20_2b.dzn
   model: data/mznc2019/ptv/pax_model.mzn
@@ -405,7 +405,7 @@
     - [3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.72
+  time: 0.73
 - configuration: Gecode
   data_file: data/mznc2019/ptv/pax_period_20_2b.dzn
   model: data/mznc2019/ptv/pax_model.mzn
@@ -507,7 +507,7 @@
     - [4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 4, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.74
+  time: 0.75
 - configuration: Gecode
   data_file: data/mznc2019/ptv/pax_period_20_2b.dzn
   model: data/mznc2019/ptv/pax_model.mzn
@@ -609,7 +609,7 @@
     - [5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.79
+  time: 0.81
 - configuration: Gecode
   data_file: data/mznc2019/ptv/pax_period_20_2b.dzn
   model: data/mznc2019/ptv/pax_model.mzn
@@ -711,7 +711,7 @@
     - [6, 6, 6, 6, 6, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 6, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.79
+  time: 0.81
 - configuration: Gecode
   data_file: data/mznc2019/ptv/pax_period_20_2b.dzn
   model: data/mznc2019/ptv/pax_model.mzn
@@ -813,7 +813,7 @@
     - [7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.8
+  time: 0.81
 - configuration: Gecode
   data_file: data/mznc2019/ptv/pax_period_20_2b.dzn
   model: data/mznc2019/ptv/pax_model.mzn
@@ -915,7 +915,7 @@
     - [8, 8, 8, 8, 8, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 8, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.8
+  time: 0.81
 - configuration: Gecode
   data_file: data/mznc2019/ptv/pax_period_20_2b.dzn
   model: data/mznc2019/ptv/pax_model.mzn
@@ -1017,7 +1017,7 @@
     - [9, 9, 9, 9, 9, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 8, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.8
+  time: 0.81
 - configuration: Gecode
   data_file: data/mznc2019/ptv/pax_period_20_2b.dzn
   model: data/mznc2019/ptv/pax_model.mzn

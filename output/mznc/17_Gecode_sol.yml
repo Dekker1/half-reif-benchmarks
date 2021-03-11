@@ -466,7 +466,7 @@
       1, 1, 0, 1]
     objective: 61
   status: SATISFIED
-  time: 4.26
+  time: 4.28
 - configuration: Gecode
   data_file: data/mznc2019/triangular/n29.dzn
   model: data/mznc2019/triangular/triangular.mzn
@@ -533,7 +533,7 @@
       1, 1, 0, 1]
     objective: 62
   status: SATISFIED
-  time: 17.31
+  time: 17.43
 - configuration: Gecode
   data_file: data/mznc2019/triangular/n29.dzn
   model: data/mznc2019/triangular/triangular.mzn
@@ -600,6 +600,6 @@
       1, 1, 0, 1]
     objective: 63
   status: SATISFIED
-  time: 114.88
+  time: 115.71
 - {configuration: Gecode, data_file: data/mznc2019/triangular/n29.dzn, model: data/mznc2019/triangular/triangular.mzn,
   problem: triangular, status: SATISFIED}

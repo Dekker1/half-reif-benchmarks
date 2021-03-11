@@ -20,7 +20,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.19
+  time: 0.23
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -43,7 +43,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -66,7 +66,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.2
+  time: 0.24
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -89,7 +89,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.21
+  time: 0.24
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -112,7 +112,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.21
+  time: 0.24
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -135,7 +135,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.21
+  time: 0.24
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -158,7 +158,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.21
+  time: 0.24
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -181,7 +181,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.21
+  time: 0.24
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -204,7 +204,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.22
+  time: 0.24
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -227,7 +227,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -250,7 +250,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -273,7 +273,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -296,7 +296,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -319,7 +319,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -342,7 +342,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -365,7 +365,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -388,7 +388,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -411,7 +411,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -434,7 +434,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -457,7 +457,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -480,7 +480,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -503,7 +503,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -526,7 +526,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -549,7 +549,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -572,7 +572,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -595,7 +595,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -618,7 +618,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -641,7 +641,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -664,7 +664,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -687,7 +687,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -710,7 +710,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -733,7 +733,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -756,7 +756,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -779,7 +779,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -802,7 +802,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -825,7 +825,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -848,7 +848,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -871,7 +871,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.23
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -894,7 +894,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -917,7 +917,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -940,7 +940,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -963,7 +963,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -986,7 +986,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1009,7 +1009,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1032,7 +1032,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.27
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1055,7 +1055,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1078,7 +1078,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1101,7 +1101,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1124,7 +1124,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1147,7 +1147,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1170,7 +1170,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.24
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1193,7 +1193,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1216,7 +1216,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1239,7 +1239,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1262,7 +1262,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1285,7 +1285,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1308,7 +1308,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.28
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1331,7 +1331,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.29
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1354,7 +1354,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.29
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1377,7 +1377,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.29
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1400,7 +1400,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.29
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1423,7 +1423,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.29
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1446,7 +1446,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.29
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1469,7 +1469,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.29
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1492,7 +1492,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.29
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1515,7 +1515,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.29
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1538,7 +1538,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1561,7 +1561,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1584,7 +1584,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1607,7 +1607,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1630,7 +1630,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1653,7 +1653,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1676,7 +1676,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.25
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1699,7 +1699,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1722,7 +1722,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1745,7 +1745,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1768,7 +1768,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1791,7 +1791,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1814,7 +1814,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1837,7 +1837,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1860,7 +1860,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1883,7 +1883,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1906,7 +1906,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1929,7 +1929,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1952,7 +1952,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1975,7 +1975,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -1998,7 +1998,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2021,7 +2021,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2044,7 +2044,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2067,7 +2067,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2090,7 +2090,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2113,7 +2113,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2136,7 +2136,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2159,7 +2159,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2182,7 +2182,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2205,7 +2205,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.3
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2228,7 +2228,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2251,7 +2251,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2274,7 +2274,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2297,7 +2297,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2320,7 +2320,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2343,7 +2343,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2366,7 +2366,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2389,7 +2389,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2412,7 +2412,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2435,7 +2435,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2458,7 +2458,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2481,7 +2481,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2504,7 +2504,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2527,7 +2527,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2550,7 +2550,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2573,7 +2573,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2596,7 +2596,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2619,7 +2619,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2642,7 +2642,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2665,7 +2665,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2688,7 +2688,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2711,7 +2711,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2734,7 +2734,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2757,7 +2757,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2780,7 +2780,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.32
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2803,7 +2803,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.33
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2826,7 +2826,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.35
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2849,7 +2849,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2872,7 +2872,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2895,7 +2895,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2918,7 +2918,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2941,7 +2941,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2964,7 +2964,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.27
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -2987,7 +2987,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3010,7 +3010,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3033,7 +3033,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3056,7 +3056,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3079,7 +3079,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3102,7 +3102,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3125,7 +3125,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3148,7 +3148,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3171,7 +3171,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3194,7 +3194,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3217,7 +3217,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3240,7 +3240,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3263,7 +3263,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3286,7 +3286,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.3
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3309,7 +3309,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3332,7 +3332,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3355,7 +3355,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3378,7 +3378,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3401,7 +3401,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3424,7 +3424,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3447,7 +3447,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3470,7 +3470,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3493,7 +3493,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3516,7 +3516,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3539,7 +3539,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3562,7 +3562,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3585,7 +3585,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3608,7 +3608,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3631,7 +3631,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3654,7 +3654,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3677,7 +3677,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3700,7 +3700,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3723,7 +3723,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3746,7 +3746,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3769,7 +3769,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3792,7 +3792,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3815,7 +3815,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3838,7 +3838,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3861,7 +3861,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3884,7 +3884,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3907,7 +3907,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3930,7 +3930,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.32
+  time: 0.36
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3953,7 +3953,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.37
+  time: 0.41
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3976,7 +3976,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -3999,7 +3999,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4022,7 +4022,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4045,7 +4045,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4068,7 +4068,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4091,7 +4091,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4114,7 +4114,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4137,7 +4137,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4160,7 +4160,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4183,7 +4183,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4206,7 +4206,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4229,7 +4229,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4252,7 +4252,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4275,7 +4275,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4298,7 +4298,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4321,7 +4321,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4344,7 +4344,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.38
+  time: 0.42
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4367,7 +4367,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4390,7 +4390,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4413,7 +4413,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4436,7 +4436,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4459,7 +4459,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4482,7 +4482,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4505,7 +4505,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4528,7 +4528,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4551,7 +4551,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4574,7 +4574,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4597,7 +4597,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4620,7 +4620,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4643,7 +4643,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4666,7 +4666,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4689,7 +4689,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4712,7 +4712,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4735,7 +4735,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4758,7 +4758,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4781,7 +4781,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4804,7 +4804,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4827,7 +4827,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4850,7 +4850,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4873,7 +4873,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4896,7 +4896,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4919,7 +4919,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4942,7 +4942,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4965,7 +4965,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -4988,7 +4988,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5011,7 +5011,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5034,7 +5034,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5057,7 +5057,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5080,7 +5080,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5103,7 +5103,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5126,7 +5126,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5149,7 +5149,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5172,7 +5172,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5195,7 +5195,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5218,7 +5218,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5241,7 +5241,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.43
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5264,7 +5264,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.39
+  time: 0.44
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5287,7 +5287,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.4
+  time: 0.44
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5310,7 +5310,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.4
+  time: 0.44
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5333,7 +5333,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.4
+  time: 0.44
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5356,7 +5356,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.4
+  time: 0.44
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5379,7 +5379,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.4
+  time: 0.44
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5402,7 +5402,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.4
+  time: 0.44
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5425,7 +5425,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.4
+  time: 0.44
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5448,7 +5448,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5471,7 +5471,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5494,7 +5494,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5517,7 +5517,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5540,7 +5540,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5563,7 +5563,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5586,7 +5586,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5609,7 +5609,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5632,7 +5632,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5655,7 +5655,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5678,7 +5678,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5701,7 +5701,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5724,7 +5724,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5747,7 +5747,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5770,7 +5770,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5793,7 +5793,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5816,7 +5816,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5839,7 +5839,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5862,7 +5862,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5885,7 +5885,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5908,7 +5908,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5931,7 +5931,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5954,7 +5954,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -5977,7 +5977,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.84
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6000,7 +6000,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6023,7 +6023,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6046,7 +6046,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6069,7 +6069,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6092,7 +6092,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6115,7 +6115,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6138,7 +6138,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6161,7 +6161,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6184,7 +6184,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6207,7 +6207,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6230,7 +6230,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6253,7 +6253,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6276,7 +6276,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6299,7 +6299,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6322,7 +6322,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6345,7 +6345,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6368,7 +6368,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6391,7 +6391,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6414,7 +6414,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6437,7 +6437,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6460,7 +6460,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6483,7 +6483,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6506,7 +6506,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6529,7 +6529,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6552,7 +6552,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6575,7 +6575,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6598,7 +6598,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6621,7 +6621,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6644,7 +6644,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6667,7 +6667,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6690,7 +6690,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6713,7 +6713,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6736,7 +6736,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6759,7 +6759,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6782,7 +6782,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6805,7 +6805,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6828,7 +6828,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 0.85
+  time: 0.89
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6851,7 +6851,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.24
+  time: 1.31
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6874,7 +6874,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.37
+  time: 1.46
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6897,7 +6897,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.37
+  time: 1.46
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6920,7 +6920,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.37
+  time: 1.46
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6943,7 +6943,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.37
+  time: 1.46
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6966,7 +6966,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.37
+  time: 1.46
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -6989,7 +6989,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.39
+  time: 1.47
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -7012,7 +7012,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.42
+  time: 1.49
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -7035,7 +7035,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.42
+  time: 1.49
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -7058,7 +7058,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.42
+  time: 1.49
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -7081,7 +7081,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.42
+  time: 1.49
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -7104,7 +7104,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.42
+  time: 1.49
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -7127,7 +7127,7 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.42
+  time: 1.49
 - configuration: Gecode HR
   data_file: ''
   model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
@@ -7150,6 +7150,6 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.42
+  time: 1.49
 - {configuration: Gecode HR, data_file: '', model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn,
-  problem: liner-sf-repositioning, status: OPTIMAL_SOLUTION, time: 6.1}
+  problem: liner-sf-repositioning, status: OPTIMAL_SOLUTION, time: 6.26}

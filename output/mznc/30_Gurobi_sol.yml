@@ -100,6 +100,6 @@
     - [12, 12, 12, 12, 11, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 10, 0]
     - [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 1.7
+  time: 1.73
 - {configuration: Gurobi, data_file: data/mznc2019/ptv/pax_period_20_1c.dzn, model: data/mznc2019/ptv/pax_model.mzn,
-  problem: ptv, status: OPTIMAL_SOLUTION, time: 1.71}
+  problem: ptv, status: OPTIMAL_SOLUTION, time: 1.74}

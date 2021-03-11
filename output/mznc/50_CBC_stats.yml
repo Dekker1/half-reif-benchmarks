@@ -4,10 +4,10 @@ evaluatedReifiedConstraints: 800
 flatBoolVars: 380
 flatIntConstraints: 1349
 flatIntVars: 1055
-flatTime: 0.298937
+flatTime: 0.310366
 method: maximize
 model: data/mznc2019/kidney-exchange/ccmcp.mzn
 paths: 0
 problem: kidney-exchange
 status: UNKNOWN
-time: 1201.1424329839647
+time: 1201.1438158005476

@@ -1,0 +1,23 @@
+- configuration: SCIP HR
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [37527, 5855, 1449, 1761, 10966, 401167]
+    objective: 750313
+    piPort: 7
+    piWeek: [8, 6, 11, 10, 9, 7]
+    poAct0: 11
+    poAct1: 6
+    poAct2: 3
+    poAct3: 0
+    poAct4: 2
+    poAct5: 2
+    reposType: [1, 1, 1, 1, 1, 1]
+    sos: [0, 0, 0, 0, 0, 0]
+    sosAct: [0, 0, 0, 0, 0, 0]
+    sosActACost: [0, 0, 0, 0, 0, 0]
+    sosActBCost: [0, 0, 0, 0, 0, 0]
+    sosActSavings: [0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 1200.28

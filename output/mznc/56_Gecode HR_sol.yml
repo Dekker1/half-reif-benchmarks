@@ -7,7 +7,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     objective: 300
   status: SATISFIED
-  time: 4.15
+  time: 4.29
 - configuration: Gecode HR
   data_file: data/mznc2019/median-string/p1_15_20-1.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -17,7 +17,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
     objective: 285
   status: SATISFIED
-  time: 4.15
+  time: 4.3
 - configuration: Gecode HR
   data_file: data/mznc2019/median-string/p1_15_20-1.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -27,7 +27,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
     objective: 270
   status: SATISFIED
-  time: 4.16
+  time: 4.3
 - configuration: Gecode HR
   data_file: data/mznc2019/median-string/p1_15_20-1.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -37,7 +37,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1]
     objective: 255
   status: SATISFIED
-  time: 4.179999
+  time: 4.33
 - configuration: Gecode HR
   data_file: data/mznc2019/median-string/p1_15_20-1.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -47,7 +47,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
     objective: 240
   status: SATISFIED
-  time: 4.26
+  time: 4.4
 - configuration: Gecode HR
   data_file: data/mznc2019/median-string/p1_15_20-1.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -57,7 +57,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
     objective: 225
   status: SATISFIED
-  time: 4.61
+  time: 4.76
 - configuration: Gecode HR
   data_file: data/mznc2019/median-string/p1_15_20-1.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -67,7 +67,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
     objective: 210
   status: SATISFIED
-  time: 6.21
+  time: 6.37
 - configuration: Gecode HR
   data_file: data/mznc2019/median-string/p1_15_20-1.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -77,7 +77,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1]
     objective: 195
   status: SATISFIED
-  time: 13.69
+  time: 13.89
 - configuration: Gecode HR
   data_file: data/mznc2019/median-string/p1_15_20-1.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -87,7 +87,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
     objective: 180
   status: SATISFIED
-  time: 50.57
+  time: 51.22
 - configuration: Gecode HR
   data_file: data/mznc2019/median-string/p1_15_20-1.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -97,7 +97,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     objective: 165
   status: SATISFIED
-  time: 236.08
+  time: 238.21
 - configuration: Gecode HR
   data_file: data/mznc2019/median-string/p1_15_20-1.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -107,7 +107,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     objective: 150
   status: SATISFIED
-  time: 1161.04
+  time: 1166.09
 - {configuration: Gecode HR, data_file: data/mznc2019/median-string/p1_15_20-1.dzn,
   model: data/mznc2019/median-string/median_string_dp.mzn, problem: median-string,
   status: SATISFIED}

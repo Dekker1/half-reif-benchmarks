@@ -1,0 +1,17 @@
+configuration: CPLEX
+data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-3.dzn
+evaluatedReifiedConstraints: 5988
+flatIntConstraints: 51392
+flatIntVars: 26032
+flatTime: 8.70763
+method: maximize
+model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
+nSolutions: 1
+nodes: 659
+objective: 6708
+objectiveBound: 6708
+paths: 0
+problem: rcpsp-wet-diverse
+solveTime: 352.0506
+status: OPTIMAL_SOLUTION
+time: 362.8276121597737

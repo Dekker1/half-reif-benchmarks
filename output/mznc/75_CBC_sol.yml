@@ -15,7 +15,7 @@
     wfox: [118, 117, 117, 0]
     wgeese: [213, 35, 35, 0]
   status: SATISFIED
-  time: 2.11
+  time: 2.2
 - {configuration: CBC, data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn,
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn, problem: fox-geese-corn, status: OPTIMAL_SOLUTION,
-  time: 2.11}
+  time: 2.2}

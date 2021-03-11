@@ -51,6 +51,6 @@
       false, false, true, false, false, false, true, true, true, true, true, true,
       true, true, true, false, true, true, true, true, false, false, true, true]
   status: SATISFIED
-  time: 43.41
+  time: 44.0
 - {configuration: Gurobi, data_file: '', model: data/mznc2020/bnn-planner/sysadmin_4_2s.mzn,
-  problem: bnn-planner, status: OPTIMAL_SOLUTION, time: 43.42}
+  problem: bnn-planner, status: OPTIMAL_SOLUTION, time: 44.02}

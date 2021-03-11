@@ -1,0 +1,12 @@
+configuration: CPLEX
+data_file: data/mznc2019/groupsplitter/u7g2pref1.dzn
+evaluatedReifiedConstraints: 28
+flatIntConstraints: 333
+flatIntVars: 1768677
+flatTime: 160.202
+method: maximize
+model: data/mznc2019/groupsplitter/group.mzn
+paths: 0
+problem: groupsplitter
+status: UNKNOWN
+time: 1201.6859704591334

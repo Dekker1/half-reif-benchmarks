@@ -12,6 +12,6 @@
       25, 4, 1, 17, 18, 23, 23, 13, 2, 14, 13, 19, 16, 14, 23, 13, 18, 7, 1, 6, 24,
       17]
   status: SATISFIED
-  time: 90.02
+  time: 87.2
 - {configuration: Gurobi, data_file: data/mznc2019/accap/accap_instance6.dzn, model: data/mznc2019/accap/accap.mzn,
-  problem: accap, status: OPTIMAL_SOLUTION, time: 90.03}
+  problem: accap, status: OPTIMAL_SOLUTION, time: 87.2}

@@ -4,10 +4,10 @@ evaluatedReifiedConstraints: 1004
 flatBoolVars: 16
 flatIntConstraints: 3850
 flatIntVars: 1555
-flatTime: 0.593218
+flatTime: 0.594122
 method: minimize
 model: data/mznc2020/pillars-and-planks/pillars-planks-solution.mzn
 paths: 0
 problem: pillars-and-planks
 status: UNKNOWN
-time: 1201.1231209170073
+time: 1201.1238854676485

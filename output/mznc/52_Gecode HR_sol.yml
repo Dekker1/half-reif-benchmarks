@@ -11,7 +11,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 47]
     objective: 45
   status: SATISFIED
-  time: 1.31
+  time: 1.39
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -25,7 +25,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 47]
     objective: 43
   status: SATISFIED
-  time: 1.31
+  time: 1.4
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -39,7 +39,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 47]
     objective: 42
   status: SATISFIED
-  time: 1.32
+  time: 1.41
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -53,7 +53,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 48]
     objective: 41
   status: SATISFIED
-  time: 1.32
+  time: 1.41
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -67,7 +67,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 47]
     objective: 40
   status: SATISFIED
-  time: 1.32
+  time: 1.41
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -81,7 +81,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 47]
     objective: 39
   status: SATISFIED
-  time: 1.32
+  time: 1.41
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -95,7 +95,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 47]
     objective: 38
   status: SATISFIED
-  time: 1.34
+  time: 1.43
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -109,7 +109,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 47]
     objective: 36
   status: SATISFIED
-  time: 1.35
+  time: 1.44
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -123,7 +123,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 48]
     objective: 35
   status: SATISFIED
-  time: 2.41
+  time: 2.52
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -137,7 +137,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 48]
     objective: 34
   status: SATISFIED
-  time: 11.49
+  time: 11.89
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -151,7 +151,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 48]
     objective: 33
   status: SATISFIED
-  time: 14.03
+  time: 14.52
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -165,7 +165,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 48]
     objective: 32
   status: SATISFIED
-  time: 15.08
+  time: 15.61
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -179,7 +179,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 48]
     objective: 31
   status: SATISFIED
-  time: 15.09
+  time: 15.62
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -193,7 +193,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 48]
     objective: 30
   status: SATISFIED
-  time: 68.26
+  time: 70.72
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -207,7 +207,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 44]
     objective: 29
   status: SATISFIED
-  time: 69.34
+  time: 71.85
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -221,7 +221,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 44]
     objective: 28
   status: SATISFIED
-  time: 71.5
+  time: 74.09
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -235,7 +235,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 44]
     objective: 27
   status: SATISFIED
-  time: 76.54
+  time: 79.31
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -249,7 +249,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 45]
     objective: 26
   status: SATISFIED
-  time: 78.64
+  time: 81.48
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -263,7 +263,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 45]
     objective: 25
   status: SATISFIED
-  time: 88.6
+  time: 91.76
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -277,7 +277,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 36, 44]
     objective: 24
   status: SATISFIED
-  time: 89.69
+  time: 92.88
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -291,7 +291,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 36, 44]
     objective: 23
   status: SATISFIED
-  time: 91.84
+  time: 95.11
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -305,7 +305,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 36, 44]
     objective: 22
   status: SATISFIED
-  time: 96.89
+  time: 100.3
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -319,7 +319,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 36, 50]
     objective: 21
   status: SATISFIED
-  time: 97.95
+  time: 101.4
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -333,7 +333,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 36, 44]
     objective: 20
   status: SATISFIED
-  time: 102.99
+  time: 106.59
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -347,7 +347,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 45]
     objective: 19
   status: SATISFIED
-  time: 109.37
+  time: 113.17
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -361,7 +361,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 38, 37]
     objective: 18
   status: SATISFIED
-  time: 113.37
+  time: 117.29
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -375,7 +375,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 36, 44]
     objective: 17
   status: SATISFIED
-  time: 118.42
+  time: 122.48
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -389,7 +389,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 36, 50]
     objective: 16
   status: SATISFIED
-  time: 119.47
+  time: 123.57
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -403,7 +403,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 36, 44]
     objective: 15
   status: SATISFIED
-  time: 124.51
+  time: 128.78
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -417,7 +417,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 45]
     objective: 14
   status: SATISFIED
-  time: 130.88
+  time: 135.34
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -431,7 +431,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 37, 45]
     objective: 13
   status: SATISFIED
-  time: 140.87
+  time: 145.65
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -445,7 +445,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 38, 46]
     objective: 12
   status: SATISFIED
-  time: 176.26
+  time: 182.28
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -459,7 +459,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 38, 45]
     objective: 11
   status: SATISFIED
-  time: 186.25
+  time: 192.6
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -473,7 +473,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 39, 38]
     objective: 10
   status: SATISFIED
-  time: 222.83
+  time: 230.52
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -487,7 +487,7 @@
       30, 7, 13, 12, 11, 10, 9, 8, 6, 5, 40, 39]
     objective: 9
   status: SATISFIED
-  time: 244.36
+  time: 253.02
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -501,7 +501,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 39, 38]
     objective: 8
   status: SATISFIED
-  time: 280.77
+  time: 291.18
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -515,7 +515,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 39, 38]
     objective: 7
   status: SATISFIED
-  time: 317.34
+  time: 329.35
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -529,7 +529,7 @@
       30, 7, 13, 12, 11, 10, 9, 8, 6, 5, 40, 39]
     objective: 6
   status: SATISFIED
-  time: 338.95
+  time: 351.82
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -543,7 +543,7 @@
       30, 7, 13, 12, 11, 10, 9, 8, 6, 5, 40, 39]
     objective: 5
   status: SATISFIED
-  time: 360.68
+  time: 374.36
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -557,7 +557,7 @@
       30, 7, 13, 12, 11, 10, 9, 8, 6, 5, 40, 39]
     objective: 4
   status: SATISFIED
-  time: 382.42
+  time: 396.85
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -571,7 +571,7 @@
       30, 7, 13, 12, 11, 10, 9, 8, 6, 5, 40, 39]
     objective: 3
   status: SATISFIED
-  time: 404.2
+  time: 419.36
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -585,7 +585,7 @@
       30, 7, 13, 12, 11, 10, 9, 8, 6, 5, 40, 39]
     objective: 2
   status: SATISFIED
-  time: 425.87
+  time: 441.85
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -599,7 +599,7 @@
       30, 7, 13, 12, 11, 10, 9, 8, 6, 5, 40, 39]
     objective: 1
   status: SATISFIED
-  time: 447.47
+  time: 464.43
 - configuration: Gecode HR
   data_file: data/mznc2019/steelmillslab/bench_17_7.dzn
   model: data/mznc2019/steelmillslab/steelmillslab.mzn
@@ -613,7 +613,7 @@
       29, 7, 13, 12, 11, 10, 9, 8, 6, 5, 39, 38]
     objective: 0
   status: SATISFIED
-  time: 484.12
+  time: 501.84
 - {configuration: Gecode HR, data_file: data/mznc2019/steelmillslab/bench_17_7.dzn,
   model: data/mznc2019/steelmillslab/steelmillslab.mzn, problem: steelmillslab, status: OPTIMAL_SOLUTION,
-  time: 484.12}
+  time: 501.84}

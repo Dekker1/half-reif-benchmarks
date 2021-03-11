@@ -1,0 +1,18 @@
+- configuration: CPLEX
+  data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_3_8_5.dzn
+  model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn
+  problem: hoist-benchmark-for-minizinc
+  solution:
+    B: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1,
+      0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+    hoist: [1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 5, 6,
+      5, 6, 7, 6, 5, 7, 8, 7, 7, 8, 8, 8, 6]
+    objective: 400
+    r: [0, 181, 293, 36, 148, 203, 286, 368, 35, 187, 354, 71, 123, 303, 15, 157,
+      269, 324, 7, 89, 156, 308, 78, 195, 247, 27, 139, 281, 393, 48, 131, 213, 280,
+      33, 200, 317, 369]
+  status: SATISFIED
+  time: 1200.19
+- {configuration: CPLEX, data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_3_8_5.dzn,
+  model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn, problem: hoist-benchmark-for-minizinc,
+  status: SATISFIED}

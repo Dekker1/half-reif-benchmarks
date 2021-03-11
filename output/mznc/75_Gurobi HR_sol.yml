@@ -15,7 +15,7 @@
     wfox: [118, 117, 117, 0]
     wgeese: [213, 35, 35, 0]
   status: SATISFIED
-  time: 0.22
+  time: 0.25
 - {configuration: Gurobi HR, data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn,
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn, problem: fox-geese-corn, status: OPTIMAL_SOLUTION,
-  time: 0.23}
+  time: 0.26}

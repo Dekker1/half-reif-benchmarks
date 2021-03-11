@@ -6,11 +6,11 @@ flatBoolConstraints: 40019
 flatBoolVars: 119129
 flatIntConstraints: 130765
 flatIntVars: 40229
-flatTime: 4.23117
+flatTime: 4.20924
 method: minimize
 model: data/mznc2020/cable_tree_wiring/ctw.mzn
 objective: 762303827
 paths: 0
 problem: cable_tree_wiring
 status: SATISFIED
-time: 1201.227621883154
+time: 1201.198499014601

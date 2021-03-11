@@ -1,0 +1,12 @@
+configuration: CPLEX
+data_file: data/mznc2020/cable_tree_wiring/R196.dzn
+evaluatedReifiedConstraints: 24351
+flatIntConstraints: 87917
+flatIntVars: 61303
+flatTime: 15.0467
+method: minimize
+model: data/mznc2020/cable_tree_wiring/ctw.mzn
+paths: 0
+problem: cable_tree_wiring
+status: UNKNOWN
+time: 1201.1974034197628

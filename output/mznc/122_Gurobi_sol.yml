@@ -41,6 +41,6 @@
     succ: [12, 14, 18, 5, 17, 13, 19, 20, 22, 21, 16, 15, 2, 1, 4, 3, 7, 6, 9, 8,
       11, 10, 0]
   status: SATISFIED
-  time: 10.51
+  time: 10.67
 - {configuration: Gurobi, data_file: data/mznc2020/is/YfFfEiuCQo.dzn, model: data/mznc2020/is/model.mzn,
-  problem: is, status: OPTIMAL_SOLUTION, time: 10.52}
+  problem: is, status: OPTIMAL_SOLUTION, time: 10.69}

@@ -148,6 +148,6 @@
       0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0,
       0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 20.71
+  time: 20.5
 - {configuration: CBC, data_file: data/mznc2019/zephyrus/14__6__6__3.dzn, model: data/mznc2019/zephyrus/zephyrus.mzn,
-  problem: zephyrus, status: OPTIMAL_SOLUTION, time: 20.73}
+  problem: zephyrus, status: OPTIMAL_SOLUTION, time: 20.51}

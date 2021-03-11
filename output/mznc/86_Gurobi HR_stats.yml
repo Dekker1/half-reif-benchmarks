@@ -5,11 +5,11 @@ evaluatedHalfReifiedConstraints: 142565
 evaluatedReifiedConstraints: 240906
 flatBoolVars: 1394
 flatIntConstraints: 1287876
-flatIntVars: 1018401
-flatTime: 242.083
+flatIntVars: 1018399
+flatTime: 243.131
 method: minimize
 model: data/mznc2019/code-generator/unison.mzn
 paths: 0
 problem: code-generator
 status: UNKNOWN
-time: 1201.9747258238494
+time: 1201.8164475671947

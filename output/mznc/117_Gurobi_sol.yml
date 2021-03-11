@@ -73,6 +73,6 @@
       - [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     objective: 4040
   status: SATISFIED
-  time: 4.13
+  time: 4.15
 - {configuration: Gurobi, data_file: data/mznc2020/radiation/i8-40.dzn, model: data/mznc2020/radiation/radiation.mzn,
-  problem: radiation, status: OPTIMAL_SOLUTION, time: 4.139999}
+  problem: radiation, status: OPTIMAL_SOLUTION, time: 4.16}

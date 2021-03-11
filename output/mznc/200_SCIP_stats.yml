@@ -1,0 +1,17 @@
+configuration: SCIP
+data_file: ''
+evaluatedReifiedConstraints: 536
+flatIntConstraints: 1067
+flatIntVars: 545
+flatTime: 1.15719
+method: minimize
+model: data/mznc2020/bnn-planner/sysadmin_4_2s.mzn
+nSolutions: 1
+nodes: 2484
+objective: 0
+objectiveBound: 0
+paths: 0
+problem: bnn-planner
+solveTime: 38.8145
+status: OPTIMAL_SOLUTION
+time: 40.243992222473025

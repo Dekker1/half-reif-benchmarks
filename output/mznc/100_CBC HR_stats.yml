@@ -3,10 +3,10 @@ data_file: data/mznc2019/accap/accap_instance8.dzn
 evaluatedHalfReifiedConstraints: 18966
 flatIntConstraints: 33994
 flatIntVars: 19518
-flatTime: 27.0508
+flatTime: 28.1399
 method: minimize
 model: data/mznc2019/accap/accap.mzn
 paths: 0
 problem: accap
 status: UNKNOWN
-time: 1201.4522575531155
+time: 1201.4955632090569

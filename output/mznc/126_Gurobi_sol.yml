@@ -8,6 +8,6 @@
       1, 1, 2, 3, 3, 11, 5, 5, 1, 1, 1, 2, 10, 10, 11, 5, 5, 1, 1, 1, 10, 10, 10,
       11]
   status: SATISFIED
-  time: 96.65
+  time: 100.94
 - {configuration: Gurobi, data_file: data/mznc2020/pentominoes/02.dzn, model: data/mznc2020/pentominoes/pentominoes-int.mzn,
   problem: pentominoes, status: SATISFIED}

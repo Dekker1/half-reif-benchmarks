@@ -1,0 +1,17 @@
+configuration: SCIP
+data_file: data/mznc2019/stack-cuttingstock/d3.dzn
+evaluatedReifiedConstraints: 55
+flatIntConstraints: 325
+flatIntVars: 209
+flatTime: 0.069313
+method: minimize
+model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
+nSolutions: 1
+nodes: 3398
+objective: 16
+objectiveBound: 16
+paths: 0
+problem: stack-cuttingstock
+solveTime: 6.9366
+status: OPTIMAL_SOLUTION
+time: 7.084333656355739

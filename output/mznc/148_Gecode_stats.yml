@@ -5,10 +5,10 @@ flatBoolConstraints: 33000
 flatBoolVars: 79540
 flatIntConstraints: 91241
 flatIntVars: 44813
-flatTime: 3.5943
+flatTime: 3.63912
 method: minimize
 model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
 paths: 0
 problem: skill-allocation
 status: UNKNOWN
-time: 1201.189138866961
+time: 1201.2053273823112

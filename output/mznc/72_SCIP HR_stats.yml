@@ -1,0 +1,20 @@
+configuration: SCIP HR
+data_file: data/mznc2019/fox-geese-corn/fgc_50_50_50_00.dzn
+eliminatedLinearConstraints: 420
+evaluatedHalfReifiedConstraints: 560
+evaluatedReifiedConstraints: 347
+flatIntConstraints: 3723
+flatIntVars: 2024
+flatTime: 0.556926
+method: maximize
+model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+nSolutions: 1
+nodes: 249318
+objective: 711
+objectiveBound: 1350
+openNodes: 73891
+paths: 0
+problem: fox-geese-corn
+solveTime: 1199.4187
+status: SATISFIED
+time: 1200.5562559682876

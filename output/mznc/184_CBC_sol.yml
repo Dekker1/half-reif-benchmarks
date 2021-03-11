@@ -8,6 +8,6 @@
     s: [0, 0, 1, 8, 3, 22, 3, 6, 8, 9, 9, 18, 14, 25, 4, 9, 21, 17, 7, 13, 18, 24,
       29, 26, 28, 36, 26, 33, 37, 36]
   status: SATISFIED
-  time: 1199.47
+  time: 1199.59
 - {configuration: CBC, data_file: data/mznc2020/racp/j30_26_2_1.0.dzn, model: data/mznc2020/racp/racp.mzn,
   problem: racp, status: SATISFIED}

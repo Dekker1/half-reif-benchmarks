@@ -99,6 +99,6 @@
     - [13, 13, 13, 13, 12, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 11, 0]
     - [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 2.51
+  time: 2.53
 - {configuration: CBC HR, data_file: data/mznc2019/ptv/pax_period_20_5a.dzn, model: data/mznc2019/ptv/pax_model.mzn,
-  problem: ptv, status: OPTIMAL_SOLUTION, time: 2.53}
+  problem: ptv, status: OPTIMAL_SOLUTION, time: 2.54}

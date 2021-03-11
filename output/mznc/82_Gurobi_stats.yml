@@ -4,7 +4,7 @@ evaluatedReifiedConstraints: 1105
 flatBoolVars: 48
 flatIntConstraints: 5290
 flatIntVars: 7113
-flatTime: 2.29148
+flatTime: 2.37885
 method: satisfy
 model: data/mznc2019/rotating-workforce/rotating-workforce.mzn
 nSolutions: 0
@@ -13,6 +13,6 @@ objective: 1e+308
 objectiveBound: 1e+100
 paths: 0
 problem: rotating-workforce
-solveTime: 0.7498
+solveTime: 0.7594
 status: UNSATISFIABLE
-time: 3.3651530500501394
+time: 3.5130900237709284

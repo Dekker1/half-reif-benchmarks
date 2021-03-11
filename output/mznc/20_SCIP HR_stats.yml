@@ -1,0 +1,17 @@
+configuration: SCIP HR
+data_file: data/mznc2019/triangular/n23.dzn
+flatIntConstraints: 12651
+flatIntVars: 277
+flatTime: 0.698311
+method: maximize
+model: data/mznc2019/triangular/triangular.mzn
+nSolutions: 1
+nodes: 23272
+objective: 51
+objectiveBound: 137.333333333
+openNodes: 2130
+paths: 0
+problem: triangular
+solveTime: 1199.2755
+status: SATISFIED
+time: 1200.3283229283988

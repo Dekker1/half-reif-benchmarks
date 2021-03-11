@@ -3,8 +3,8 @@ data_file: data/mznc2019/kidney-exchange/3_20_0.30_5.dzn
 failures: 15160637
 flatIntConstraints: 81
 flatIntVars: 100
-flatTime: 0.094241
-initTime: 0.001156
+flatTime: 0.09608
+initTime: 0.001149
 method: maximize
 model: data/mznc2019/kidney-exchange/ccmcp.mzn
 nSolutions: 18
@@ -17,7 +17,7 @@ propagations: 1868477552
 propagators: 80
 restarts: 0
 solutions: 18
-solveTime: 227.304
+solveTime: 228.618
 status: OPTIMAL_SOLUTION
-time: 227.4579798914492
+time: 228.80423884280026
 variables: 100

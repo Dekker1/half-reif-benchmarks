@@ -1,0 +1,11 @@
+configuration: SCIP HR
+data_file: data/mznc2020/pentominoes/05.dzn
+flatIntConstraints: 53159
+flatIntVars: 257876
+flatTime: 37.0625
+method: satisfy
+model: data/mznc2020/pentominoes/pentominoes-int.mzn
+paths: 0
+problem: pentominoes
+status: UNKNOWN
+time: 1201.367719648406

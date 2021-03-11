@@ -3,11 +3,11 @@ data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
 evaluatedReifiedConstraints: 15402
 flatIntConstraints: 55541
 flatIntVars: 56295
-flatTime: 10.3638
+flatTime: 10.5019
 method: minimize
 model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
-objective: 284
+objective: 300
 paths: 0
 problem: minimal-decision-sets
 status: UNKNOWN
-time: 1201.2018125522882
+time: 1201.1621211525053

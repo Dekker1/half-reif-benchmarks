@@ -3,8 +3,8 @@ data_file: data/mznc2020/pentominoes/06.dzn
 failures: 89
 flatIntConstraints: 12
 flatIntVars: 60
-flatTime: 0.128015
-initTime: 0.01599
+flatTime: 0.141695
+initTime: 0.01562
 method: satisfy
 model: data/mznc2020/pentominoes/pentominoes-int.mzn
 nSolutions: 1
@@ -16,7 +16,7 @@ propagations: 1394
 propagators: 12
 restarts: 0
 solutions: 1
-solveTime: 0.029457
+solveTime: 0.029374
 status: SATISFIED
-time: 0.23790562711656094
+time: 0.2868915684521198
 variables: 65

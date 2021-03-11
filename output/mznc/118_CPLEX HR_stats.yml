@@ -1,0 +1,16 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/radiation/i7-21.dzn
+flatIntConstraints: 2152
+flatIntVars: 2115
+flatTime: 0.313539
+method: minimize
+model: data/mznc2020/radiation/radiation.mzn
+nSolutions: 1
+nodes: 38
+objective: 1108
+objectiveBound: 1108
+paths: 0
+problem: radiation
+solveTime: 0.0881
+status: OPTIMAL_SOLUTION
+time: 0.5446844100952148

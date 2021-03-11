@@ -9,7 +9,7 @@
     succ: [15, 12, 1, 8, 7, 24, 10, 23, 18, 5, 21, 13, 2, 17, 3, 22, 14, 9, 19, 16,
       25, 20, 4, 6, 11]
   status: SATISFIED
-  time: 198.93
+  time: 200.34
 - {configuration: Gurobi HR, data_file: data/mznc2019/kidney-exchange/3_25_0.20_3.dzn,
   model: data/mznc2019/kidney-exchange/ccmcp.mzn, problem: kidney-exchange, status: OPTIMAL_SOLUTION,
-  time: 198.94}
+  time: 200.35}

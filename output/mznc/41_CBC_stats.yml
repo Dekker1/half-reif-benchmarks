@@ -4,10 +4,10 @@ evaluatedReifiedConstraints: 1680
 flatBoolVars: 420
 flatIntConstraints: 3976
 flatIntVars: 1482
-flatTime: 0.698453
+flatTime: 0.716557
 method: minimize
 model: data/mznc2019/stochastic-vrp/vrp-s5-v2-c6_vrp-v2-c6_det.mzn
 paths: 0
 problem: stochastic-vrp
 status: UNKNOWN
-time: 1201.131628394127
+time: 1201.1347687263042

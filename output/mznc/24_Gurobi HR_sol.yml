@@ -10,7 +10,7 @@
       1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0,
       1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1]
   status: SATISFIED
-  time: 0.09
+  time: 0.1
 - {configuration: Gurobi HR, data_file: data/mznc2019/multi-knapsack/mknap2-40.dzn,
   model: data/mznc2019/multi-knapsack/mknapsack_global.mzn, problem: multi-knapsack,
-  status: OPTIMAL_SOLUTION, time: 0.1}
+  status: OPTIMAL_SOLUTION, time: 0.11}

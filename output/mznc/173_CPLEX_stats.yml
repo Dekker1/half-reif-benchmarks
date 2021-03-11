@@ -1,0 +1,17 @@
+configuration: CPLEX
+data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_1_2_2.dzn
+evaluatedReifiedConstraints: 468
+flatIntConstraints: 1424
+flatIntVars: 607
+flatTime: 0.310833
+method: minimize
+model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn
+nSolutions: 1
+nodes: 3363
+objective: 221
+objectiveBound: 221
+paths: 0
+problem: hoist-benchmark-for-minizinc
+solveTime: 6.8277
+status: OPTIMAL_SOLUTION
+time: 7.256253384053707

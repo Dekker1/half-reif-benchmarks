@@ -1,0 +1,13 @@
+configuration: CPLEX
+data_file: data/mznc2019/code-generator/mips_gobmk.helpers.dragon_weak.dzn
+evaluatedReifiedConstraints: 157859
+flatBoolVars: 771
+flatIntConstraints: 589005
+flatIntVars: 372720
+flatTime: 102.773
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1201.5161834135652

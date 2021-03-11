@@ -1,0 +1,12 @@
+configuration: CPLEX
+data_file: data/mznc2020/whirlpool/d21.dzn
+evaluatedReifiedConstraints: 2040
+flatIntConstraints: 6635
+flatIntVars: 198192
+flatTime: 14.7747
+method: satisfy
+model: data/mznc2020/whirlpool/whirlpool-x.mzn
+paths: 0
+problem: whirlpool
+status: UNKNOWN
+time: 1201.238311348483

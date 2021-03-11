@@ -27,7 +27,7 @@
     - [4, 4, 1, 1, 1, 4, 4]
     - [1, 1, 3, 3, 3, 3, 4]
   status: SATISFIED
-  time: 60.54
+  time: 60.8
 - {configuration: CBC HR, data_file: data/mznc2019/rotating-workforce/Example1242.dzn,
   model: data/mznc2019/rotating-workforce/rotating-workforce.mzn, problem: rotating-workforce,
   status: SATISFIED}

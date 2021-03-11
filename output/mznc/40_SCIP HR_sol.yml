@@ -1,0 +1,16 @@
+- configuration: SCIP HR
+  data_file: data/mznc2019/lot-sizing/pigment15d.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 0, 0, 103, 113, 111, 102, 110, 0, 150, 161, 101, 0,
+      124]
+    inventory_periods: [0, 1, 6, 3, 2, 4, 6, 2, 0, 3, 9, 9]
+    objective: 1525
+    production_by_order: [0, 0, 0, 10, 12, 11, 7, 3, 5, 6, 8, 4, 1, 2, 9]
+    production_order: [0, 0, 0, 10, 12, 11, 7, 3, 5, 6, 8, 4, 1, 2, 9]
+    production_period: [13, 14, 8, 12, 9, 10, 7, 11, 15, 4, 6, 5]
+  status: SATISFIED
+  time: 1200.05
+- {configuration: SCIP HR, data_file: data/mznc2019/lot-sizing/pigment15d.psp.dzn,
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn, problem: lot-sizing, status: SATISFIED}

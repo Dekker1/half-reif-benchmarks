@@ -4,10 +4,10 @@ evaluatedReifiedConstraints: 1134
 flatBoolVars: 348
 flatIntConstraints: 1849
 flatIntVars: 6146
-flatTime: 0.702925
+flatTime: 0.729908
 method: minimize
 model: data/mznc2020/gbac/gbac.mzn
 paths: 0
 problem: gbac
 status: UNKNOWN
-time: 1201.1792009156197
+time: 1201.1888441834599

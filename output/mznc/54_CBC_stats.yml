@@ -4,10 +4,10 @@ evaluatedReifiedConstraints: 12651
 flatBoolVars: 110
 flatIntConstraints: 7347
 flatIntVars: 20313
-flatTime: 2.91521
+flatTime: 3.01616
 method: minimize
 model: data/mznc2019/steelmillslab/steelmillslab.mzn
 paths: 0
 problem: steelmillslab
 status: UNKNOWN
-time: 1201.1534909252077
+time: 1201.14165125601

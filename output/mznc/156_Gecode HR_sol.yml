@@ -130,7 +130,7 @@
       false, false, true, true, false, true, false, false, true, false, false, false,
       false]
   status: SATISFIED
-  time: 0.47
+  time: 0.52
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/breast-cancer_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -262,7 +262,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true]
   status: SATISFIED
-  time: 0.51
+  time: 0.56
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/breast-cancer_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -392,7 +392,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true]
   status: SATISFIED
-  time: 0.63
+  time: 0.69
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/breast-cancer_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -523,7 +523,7 @@
       false, false, false, false, false, false, false, false, false, false, false,
       false, false, false, false, false, false, false, false, false]
   status: SATISFIED
-  time: 2.089999
+  time: 2.15
 - {configuration: Gecode HR, data_file: data/mznc2020/minimal-decision-sets/breast-cancer_train4.dzn,
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
-  status: OPTIMAL_SOLUTION, time: 26.82}
+  status: OPTIMAL_SOLUTION, time: 26.84}

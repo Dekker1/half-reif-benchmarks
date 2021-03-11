@@ -182,6 +182,6 @@
       false, false, false, false, false, true, false, true, false, true, true, false,
       true, true]
   status: SATISFIED
-  time: 1.29
+  time: 1.37
 - {configuration: Gecode, data_file: '', model: data/mznc2020/bnn-planner/inventory_4_8s.mzn,
-  problem: bnn-planner, status: OPTIMAL_SOLUTION, time: 1.34}
+  problem: bnn-planner, status: OPTIMAL_SOLUTION, time: 1.4}

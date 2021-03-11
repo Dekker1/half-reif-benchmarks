@@ -89,7 +89,7 @@
       false, false, false, false, false, false, false, false, false, false, false,
       false]
   status: SATISFIED
-  time: 0.34
+  time: 0.36
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -181,7 +181,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true]
   status: SATISFIED
-  time: 0.38
+  time: 0.4
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -272,7 +272,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true]
   status: SATISFIED
-  time: 0.81
+  time: 0.84
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -364,7 +364,7 @@
       false, false, false, false, false, false, false, false, false, false, false,
       false]
   status: SATISFIED
-  time: 28.11
+  time: 28.64
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -457,7 +457,7 @@
       false, false, false, false, false, false, false, false, false, false, false,
       false]
   status: SATISFIED
-  time: 433.97
+  time: 442.11
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -550,7 +550,7 @@
       false, false, false, false, false, false, false, false, false, false, false,
       false]
   status: SATISFIED
-  time: 872.03
+  time: 882.56
 - configuration: Gecode HR
   data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -643,7 +643,7 @@
       false, false, false, false, false, false, false, false, false, false, false,
       false]
   status: SATISFIED
-  time: 1172.89
+  time: 1182.87
 - {configuration: Gecode HR, data_file: data/mznc2020/minimal-decision-sets/backache_train4.dzn,
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
-  status: OPTIMAL_SOLUTION, time: 1185.1}
+  status: OPTIMAL_SOLUTION, time: 1195.07}

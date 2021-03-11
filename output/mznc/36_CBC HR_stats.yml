@@ -5,10 +5,10 @@ evaluatedReifiedConstraints: 729
 flatBoolVars: 210
 flatIntConstraints: 1294
 flatIntVars: 4265
-flatTime: 0.457241
+flatTime: 0.453164
 method: minimize
 model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
 paths: 0
 problem: lot-sizing
 status: UNKNOWN
-time: 1201.1427597254515
+time: 1201.1434483323246

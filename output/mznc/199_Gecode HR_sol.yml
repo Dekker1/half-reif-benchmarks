@@ -478,6 +478,6 @@
       false, false, true, false, false, false, false, true, false, true, true, true,
       true, false, true, false, false, false, false, true, false]
   status: SATISFIED
-  time: 6.33
+  time: 6.55
 - {configuration: Gecode HR, data_file: '', model: data/mznc2020/bnn-planner/cellda_y_10s.mzn,
-  problem: bnn-planner, status: OPTIMAL_SOLUTION, time: 95.32}
+  problem: bnn-planner, status: OPTIMAL_SOLUTION, time: 95.22}

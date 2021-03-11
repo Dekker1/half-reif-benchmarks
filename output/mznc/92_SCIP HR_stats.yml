@@ -1,0 +1,21 @@
+configuration: SCIP HR
+data_file: ''
+eliminatedLinearConstraints: 99
+evaluatedHalfReifiedConstraints: 117
+evaluatedReifiedConstraints: 36
+flatBoolVars: 18
+flatIntConstraints: 550
+flatIntVars: 30416
+flatTime: 2.41855
+method: minimize
+model: data/mznc2019/liner-sf-repositioning/tp7_2.mzn
+nSolutions: 0
+nodes: 41005
+objective: 1e+20
+objectiveBound: 0
+openNodes: 1540
+paths: 0
+problem: liner-sf-repositioning
+solveTime: 1197.5543
+status: UNKNOWN
+time: 1201.0291750207543

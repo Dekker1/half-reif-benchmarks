@@ -1,0 +1,13 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/racp/j60_10_6_1.25.dzn
+evaluatedHalfReifiedConstraints: 7276
+evaluatedReifiedConstraints: 16108
+flatIntConstraints: 67541
+flatIntVars: 31503
+flatTime: 11.1779
+method: minimize
+model: data/mznc2020/racp/racp.mzn
+paths: 0
+problem: racp
+status: UNKNOWN
+time: 1201.1921415701509

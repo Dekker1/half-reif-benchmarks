@@ -3,7 +3,7 @@ data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
 evaluatedReifiedConstraints: 131
 flatIntConstraints: 457
 flatIntVars: 284
-flatTime: 0.087899
+flatTime: 0.093873
 method: maximize
 model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
 nSolutions: 1
@@ -13,6 +13,6 @@ objectiveBound: 1962
 openNodes: -1
 paths: 0
 problem: fox-geese-corn
-solveTime: 2.0067
+solveTime: 2.0668
 status: OPTIMAL_SOLUTION
-time: 2.1449367459863424
+time: 2.2425167728215456

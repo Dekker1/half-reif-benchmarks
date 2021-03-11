@@ -1,0 +1,33 @@
+- configuration: SCIP HR
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/tp7_12.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [17298, 291789, 25214, 0, 3087, 33004, 265]
+    objective: 599449
+    piPort: 1
+    piWeek: [7, 2, 4, 5, 3, 1, 6]
+    poAct0: 8
+    poAct1: 0
+    poAct2: 0
+    poAct3: 0
+    poAct4: 0
+    poAct5: 0
+    poAct6: 12
+    reposType: [1, 1, 1, 3, 1, 1, 1]
+    seAct: [0, 0, 0, 9, 0, 0, 0]
+    seAdur: [0, 0, 0, 168, 0, 0, 0]
+    seAfixed: [0, 0, 0, 193115, 0, 0, 0]
+    seBdur: [0, 0, 0, 134, 0, 0, 0]
+    seBfixed: [0, 0, 0, 154974, 0, 0, 0]
+    seDdur: [0, 0, 0, 52, 0, 0, 0]
+    seDfixed: [0, 0, 0, 59419, 0, 0, 0]
+    sos: [0, 0, 0, 0, 0, 0, 0]
+    sosAct: [0, 0, 0, 0, 0, 0, 0]
+    sosActACost: [0, 0, 0, 0, 0, 0, 0]
+    sosActBCost: [0, 0, 0, 0, 0, 0, 0]
+    sosActSavings: [0, 0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 1200.42
+- {configuration: SCIP HR, data_file: '', model: data/mznc2019/liner-sf-repositioning/tp7_12.mzn,
+  problem: liner-sf-repositioning, status: SATISFIED}

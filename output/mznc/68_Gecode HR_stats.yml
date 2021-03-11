@@ -3,8 +3,8 @@ data_file: data/mznc2019/groupsplitter/u9g1pref1.dzn
 failures: 233
 flatIntConstraints: 104
 flatIntVars: 142
-flatTime: 2.15707
-initTime: 4.6213
+flatTime: 2.16273
+initTime: 4.6671
 method: maximize
 model: data/mznc2019/groupsplitter/group.mzn
 nSolutions: 9
@@ -17,7 +17,7 @@ propagations: 20720
 propagators: 101
 restarts: 0
 solutions: 9
-solveTime: 18.2031
+solveTime: 21.6938
 status: OPTIMAL_SOLUTION
-time: 25.937768664211035
+time: 29.52033080905676
 variables: 178

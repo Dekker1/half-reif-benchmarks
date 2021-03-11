@@ -6,8 +6,8 @@ flatBoolConstraints: 38
 flatBoolVars: 57
 flatIntConstraints: 164
 flatIntVars: 97
-flatTime: 0.045546
-initTime: 0.002883
+flatTime: 0.048368
+initTime: 0.003018
 method: minimize
 model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
 nSolutions: 55
@@ -20,7 +20,7 @@ propagations: 2038278271
 propagators: 221
 restarts: 0
 solutions: 55
-solveTime: 698.878
+solveTime: 717.811
 status: OPTIMAL_SOLUTION
-time: 698.9821877870709
+time: 717.9528400599957
 variables: 154

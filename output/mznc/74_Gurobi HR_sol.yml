@@ -24,7 +24,7 @@
     wgeese: [7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1,
       0, 0, 0, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 143.71
+  time: 147.53
 - {configuration: Gurobi HR, data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_13.dzn,
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn, problem: fox-geese-corn, status: OPTIMAL_SOLUTION,
-  time: 143.72}
+  time: 147.54}

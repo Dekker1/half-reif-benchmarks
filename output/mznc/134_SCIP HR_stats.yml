@@ -1,0 +1,19 @@
+configuration: SCIP HR
+data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-05.dzn
+evaluatedReifiedConstraints: 6036
+flatBoolVars: 1600
+flatIntConstraints: 13997
+flatIntVars: 5117
+flatTime: 2.5038
+method: maximize
+model: data/mznc2020/tower_challenge/tower.mzn
+nSolutions: 1
+nodes: 531
+objective: 49
+objectiveBound: 100
+openNodes: 91
+paths: 0
+problem: tower_challenge
+solveTime: 1197.4737
+status: SATISFIED
+time: 1200.6676434259862

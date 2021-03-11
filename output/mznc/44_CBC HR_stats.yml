@@ -4,7 +4,7 @@ evaluatedReifiedConstraints: 480
 flatBoolVars: 96
 flatIntConstraints: 1141
 flatIntVars: 512
-flatTime: 0.243847
+flatTime: 0.256637
 method: minimize
 model: data/mznc2019/stochastic-vrp/vrp-s4-v2-c3_svrp-v2-c3_det.mzn
 nSolutions: 1
@@ -14,6 +14,6 @@ objectiveBound: 117
 openNodes: -1
 paths: 0
 problem: stochastic-vrp
-solveTime: 12.6851
+solveTime: 12.7333
 status: OPTIMAL_SOLUTION
-time: 13.007307255640626
+time: 13.0953762922436

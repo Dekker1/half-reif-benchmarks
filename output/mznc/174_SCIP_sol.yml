@@ -1,0 +1,18 @@
+- configuration: SCIP
+  data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_3_2_5.dzn
+  model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn
+  problem: hoist-benchmark-for-minizinc
+  solution:
+    B: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0,
+      0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+    hoist: [1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1,
+      1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1]
+    objective: 976
+    r: [0, 206, 318, 460, 577, 632, 758, 840, 907, 189, 838, 0, 52, 275, 387, 578,
+      725, 790, 933, 95, 162, 513, 245, 362, 415, 644, 756, 898, 64, 129, 266, 348,
+      415, 104, 504, 621, 676]
+  status: SATISFIED
+  time: 1200.2
+- {configuration: SCIP, data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_3_2_5.dzn,
+  model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn, problem: hoist-benchmark-for-minizinc,
+  status: SATISFIED}

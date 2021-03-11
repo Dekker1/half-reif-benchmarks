@@ -7,8 +7,8 @@ flatBoolConstraints: 1997
 flatBoolVars: 14428
 flatIntConstraints: 22554
 flatIntVars: 10102
-flatTime: 0.949877
-initTime: 0.161165
+flatTime: 1.00788
+initTime: 0.169308
 method: minimize
 model: data/mznc2019/steelmillslab/steelmillslab.mzn
 nSolutions: 19
@@ -21,7 +21,7 @@ propagations: 560065228
 propagators: 24551
 restarts: 0
 solutions: 19
-solveTime: 63.233
+solveTime: 65.0355
 status: OPTIMAL_SOLUTION
-time: 64.63624066673219
+time: 66.55164428055286
 variables: 24530

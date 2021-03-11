@@ -1,0 +1,17 @@
+configuration: SCIP
+data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-3.dzn
+evaluatedReifiedConstraints: 267
+flatIntConstraints: 45818
+flatIntVars: 16024
+flatTime: 7.10697
+method: maximize
+model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
+nSolutions: 1
+nodes: 2905
+objective: 6708
+objectiveBound: 6708
+paths: 0
+problem: rcpsp-wet-diverse
+solveTime: 898.0935
+status: OPTIMAL_SOLUTION
+time: 907.5833848435432

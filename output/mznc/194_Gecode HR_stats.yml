@@ -1,16 +1,16 @@
 configuration: Gecode HR
 data_file: data/mznc2020/code-generator/mips_gcc.real.eiremain.dzn
 eliminatedImplications: 5555
-evaluatedHalfReifiedConstraints: 184974
+evaluatedHalfReifiedConstraints: 184936
 evaluatedReifiedConstraints: 30454
 flatBoolConstraints: 61535
-flatBoolVars: 206985
-flatIntConstraints: 239980
+flatBoolVars: 206947
+flatIntConstraints: 239942
 flatIntVars: 31425
-flatTime: 49.5159
+flatTime: 48.1761
 method: minimize
 model: data/mznc2020/code-generator/unison.mzn
 paths: 0
 problem: code-generator
 status: UNKNOWN
-time: 1201.4536749869585
+time: 1201.3642742075026

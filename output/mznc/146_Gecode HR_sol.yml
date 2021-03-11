@@ -87,7 +87,7 @@
     - [76]
     objective: 2
   status: SATISFIED
-  time: 11.39
+  time: 10.79
 - {configuration: Gecode HR, data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_1m_1.dzn,
   model: data/mznc2020/skill-allocation/skill_allocation_only.mzn, problem: skill-allocation,
-  status: OPTIMAL_SOLUTION, time: 20.24}
+  status: OPTIMAL_SOLUTION, time: 19.77}

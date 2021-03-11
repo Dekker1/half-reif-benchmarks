@@ -3,10 +3,10 @@ data_file: ''
 evaluatedReifiedConstraints: 536
 flatIntConstraints: 1067
 flatIntVars: 545
-flatTime: 1.13581
+flatTime: 1.18142
 method: minimize
 model: data/mznc2020/bnn-planner/sysadmin_4_2s.mzn
 paths: 0
 problem: bnn-planner
 status: UNKNOWN
-time: 1201.1329193394631
+time: 1201.1416429895908

@@ -15,6 +15,6 @@
     - [1, 2, 1, 4, 7, 7, 7, 7, 5, 3]
     - [1, 1, 1, 4, 4, 4, 4, 3, 3, 3]
   status: SATISFIED
-  time: 92.26
+  time: 92.62
 - {configuration: Gurobi, data_file: data/mznc2019/amaze/2012-03-19.dzn, model: data/mznc2019/amaze/amaze3.mzn,
   problem: amaze, status: SATISFIED}

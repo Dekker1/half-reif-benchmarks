@@ -3,10 +3,10 @@ data_file: data/mznc2019/stack-cuttingstock/d5.dzn
 evaluatedReifiedConstraints: 204
 flatIntConstraints: 2286
 flatIntVars: 787
-flatTime: 0.284786
+flatTime: 0.295979
 method: minimize
 model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
 paths: 0
 problem: stack-cuttingstock
 status: UNKNOWN
-time: 1201.1243347730488
+time: 1201.1279730889946

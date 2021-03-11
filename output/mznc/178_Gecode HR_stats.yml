@@ -5,8 +5,8 @@ failures: 3725
 flatBoolVars: 11550
 flatIntConstraints: 24795
 flatIntVars: 12274
-flatTime: 0.77109
-initTime: 0.221485
+flatTime: 0.749353
+initTime: 0.216679
 method: satisfy
 model: data/mznc2020/soccer-computational/ecp.mzn
 nSolutions: 1
@@ -18,7 +18,7 @@ propagations: 16124055
 propagators: 24285
 restarts: 0
 solutions: 1
-solveTime: 3.66579
+solveTime: 3.57051
 status: SATISFIED
-time: 5.092499053105712
+time: 5.003835400566459
 variables: 23848

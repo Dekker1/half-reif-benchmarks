@@ -105,7 +105,7 @@
     - [0]
     objective: 2
   status: SATISFIED
-  time: 187.88
+  time: 187.71
 - {configuration: Gurobi HR, data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_2m_1.dzn,
   model: data/mznc2020/skill-allocation/skill_allocation_only.mzn, problem: skill-allocation,
-  status: OPTIMAL_SOLUTION, time: 187.89}
+  status: OPTIMAL_SOLUTION, time: 187.72}

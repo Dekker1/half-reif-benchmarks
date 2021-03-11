@@ -14,6 +14,6 @@
     production_period: [3, 13, 5, 19, 2, 18, 6, 15, 16, 7, 14, 4, 17, 8, 1, 12, 10,
       9]
   status: SATISFIED
-  time: 1200.74
+  time: 1200.93
 - {configuration: CBC, data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn, model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn,
   problem: lot-sizing, status: SATISFIED}

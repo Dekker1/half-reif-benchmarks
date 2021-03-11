@@ -1,0 +1,19 @@
+configuration: CPLEX HR
+data_file: data/mznc2019/steelmillslab/bench_19_6.dzn
+evaluatedHalfReifiedConstraints: 110
+evaluatedReifiedConstraints: 12541
+flatBoolVars: 110
+flatIntConstraints: 7457
+flatIntVars: 20090
+flatTime: 2.86256
+method: minimize
+model: data/mznc2019/steelmillslab/steelmillslab.mzn
+nSolutions: 1
+nodes: 29016
+objective: 0
+objectiveBound: 0
+paths: 0
+problem: steelmillslab
+solveTime: 1139.3621
+status: OPTIMAL_SOLUTION
+time: 1142.9597993530333

@@ -1,0 +1,18 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/racp/j30_26_2_1.0.dzn
+evaluatedHalfReifiedConstraints: 1387
+evaluatedReifiedConstraints: 1436
+flatIntConstraints: 3360
+flatIntVars: 3530
+flatTime: 0.864688
+method: minimize
+model: data/mznc2020/racp/racp.mzn
+nSolutions: 1
+nodes: 794
+objective: 704
+objectiveBound: 704
+paths: 0
+problem: racp
+solveTime: 3.7941
+status: OPTIMAL_SOLUTION
+time: 4.886352032423019

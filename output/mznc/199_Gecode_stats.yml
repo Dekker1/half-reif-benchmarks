@@ -5,8 +5,8 @@ failures: 16578
 flatBoolVars: 5677
 flatIntConstraints: 15225
 flatIntVars: 5678
-flatTime: 5.22061
-initTime: 0.464602
+flatTime: 5.38725
+initTime: 0.460614
 method: minimize
 model: data/mznc2020/bnn-planner/cellda_y_10s.mzn
 nSolutions: 1
@@ -19,7 +19,7 @@ propagations: 66549757
 propagators: 17810
 restarts: 0
 solutions: 1
-solveTime: 89.7515
+solveTime: 87.9398
 status: OPTIMAL_SOLUTION
-time: 96.2367127481848
+time: 94.65299199335277
 variables: 11355

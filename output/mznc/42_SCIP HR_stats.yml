@@ -1,0 +1,19 @@
+configuration: SCIP HR
+data_file: ''
+evaluatedReifiedConstraints: 1320
+flatBoolVars: 360
+flatIntConstraints: 3151
+flatIntVars: 1080
+flatTime: 0.530642
+method: minimize
+model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
+nSolutions: 1
+nodes: 368781
+objective: 190
+objectiveBound: 47
+openNodes: 141844
+paths: 0
+problem: stochastic-vrp
+solveTime: 1199.4465
+status: SATISFIED
+time: 1200.740950152278

@@ -41,7 +41,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 3.62
+  time: 3.61
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -85,7 +85,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 3.64
+  time: 3.62
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -393,7 +393,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 3.67
+  time: 3.66
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -569,7 +569,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 3.9
+  time: 3.89
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -657,7 +657,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 4.48
+  time: 4.47
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -701,7 +701,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 4.6
+  time: 4.59
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -745,7 +745,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 4.61
+  time: 4.6
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -789,7 +789,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 6.36
+  time: 6.34
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -833,7 +833,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 6.38
+  time: 6.36
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -877,7 +877,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 6.5
+  time: 6.48
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -921,7 +921,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 6.52
+  time: 6.5
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -965,7 +965,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 13.98
+  time: 13.91
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -1009,7 +1009,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 14.11
+  time: 14.04
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -1053,7 +1053,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 14.12
+  time: 14.05
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -1097,7 +1097,7 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 75.21
+  time: 75.03
 - configuration: Gecode HR
   data_file: data/mznc2020/is/YfFfEiuCQo.dzn
   model: data/mznc2020/is/model.mzn
@@ -1141,6 +1141,6 @@
     succ: [12, 14, 18, 5, 16, 13, 7, 15, 17, 20, 11, 19, 2, 1, 4, 3, 22, 6, 9, 8,
       21, 10, 0]
   status: SATISFIED
-  time: 75.23
+  time: 75.04
 - {configuration: Gecode HR, data_file: data/mznc2020/is/YfFfEiuCQo.dzn, model: data/mznc2020/is/model.mzn,
   problem: is, status: SATISFIED}

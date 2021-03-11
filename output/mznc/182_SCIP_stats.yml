@@ -1,0 +1,12 @@
+configuration: SCIP
+data_file: data/mznc2020/racp/j60_9_9_1.25.dzn
+evaluatedReifiedConstraints: 21649
+flatIntConstraints: 70396
+flatIntVars: 29777
+flatTime: 11.2162
+method: minimize
+model: data/mznc2020/racp/racp.mzn
+paths: 0
+problem: racp
+status: UNKNOWN
+time: 1201.2419929876924

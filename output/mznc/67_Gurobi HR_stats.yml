@@ -1,12 +1,17 @@
 configuration: Gurobi HR
 data_file: data/mznc2019/groupsplitter/u7g2pref1.dzn
+error: "14 POSTs [ 0,0,0,0,0,0,0,0,0,0, ], LINEQ [ 24,0,0,0,0,0,0,0,14, ], 14 / 38\
+  \ vars, 14 cliques, 1 / 1 / 1 NSubIntv m/a/m, 0 / 0.857143 / 1 SubIntvSize m/a/m,\
+  \ 14+0(0) clq eq_encoded  ... Academic license - for non-commercial use only - expires\
+  \ 2021-04-18\n  MIPGurobiWrapper runtime error:  Out of memory\nMessage from caller:\
+  \ Failed to optimize MIP.\nGurobi error code: 10001\nTERMINATING.\n  MIPGurobiWrapper\
+  \ runtime error:  Out of memory\nMessage from caller: Failed to optimize MIP."
 evaluatedReifiedConstraints: 28
 flatIntConstraints: 333
 flatIntVars: 1768677
-flatTime: 165.067
+flatTime: 175.086
 method: maximize
 model: data/mznc2019/groupsplitter/group.mzn
 paths: 0
 problem: groupsplitter
-status: UNKNOWN
-time: 1201.6847350876778
+status: ERROR

@@ -3,7 +3,7 @@ data_file: data/mznc2020/soccer-computational/xIGData_28_22_7_4.dzn
 evaluatedReifiedConstraints: 23814
 flatIntConstraints: 51282
 flatIntVars: 28098
-flatTime: 8.57396
+flatTime: 8.89722
 method: satisfy
 model: data/mznc2020/soccer-computational/ecp.mzn
 nSolutions: 1
@@ -13,6 +13,6 @@ objectiveBound: 0
 openNodes: 5
 paths: 0
 problem: soccer-computational
-solveTime: 177.6644
+solveTime: 168.4285
 status: SATISFIED
-time: 188.32376185059547
+time: 179.31221625208855

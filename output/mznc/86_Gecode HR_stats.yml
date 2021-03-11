@@ -1,16 +1,16 @@
 configuration: Gecode HR
 data_file: data/mznc2019/code-generator/mips_mesa.shapes.auxWireBox.dzn
 eliminatedImplications: 3031
-evaluatedHalfReifiedConstraints: 97118
+evaluatedHalfReifiedConstraints: 97109
 evaluatedReifiedConstraints: 14700
 flatBoolConstraints: 34182
-flatBoolVars: 106841
-flatIntConstraints: 125593
+flatBoolVars: 106832
+flatIntConstraints: 125584
 flatIntVars: 16956
-flatTime: 18.8435
+flatTime: 19.0396
 method: minimize
 model: data/mznc2019/code-generator/unison.mzn
 paths: 0
 problem: code-generator
 status: UNKNOWN
-time: 1201.2856841050088
+time: 1201.22210207209

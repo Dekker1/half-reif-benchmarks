@@ -14,7 +14,7 @@
     production_period: [4, 15, 5, 16, 1, 14, 6, 17, 18, 8, 9, 2, 13, 7, 3, 20, 10,
       19]
   status: SATISFIED
-  time: 194.2
+  time: 194.19
 - {configuration: Gurobi HR, data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn,
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn, problem: lot-sizing, status: OPTIMAL_SOLUTION,
-  time: 194.21}
+  time: 194.2}

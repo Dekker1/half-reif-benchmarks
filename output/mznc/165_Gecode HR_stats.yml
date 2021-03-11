@@ -7,8 +7,8 @@ flatBoolConstraints: 16095
 flatBoolVars: 22426
 flatIntConstraints: 24882
 flatIntVars: 12927
-flatTime: 1.93506
-initTime: 0.364724
+flatTime: 1.88709
+initTime: 0.35539
 method: minimize
 model: data/mznc2020/collaborative-construction/macc.mzn
 nSolutions: 1
@@ -17,11 +17,11 @@ objective: 6
 paths: 0
 peakDepth: 2129
 problem: collaborative-construction
-propagations: 114960938
+propagations: 115414538
 propagators: 31531
 restarts: 0
 solutions: 1
-solveTime: 81.8745
+solveTime: 77.3567
 status: OPTIMAL_SOLUTION
-time: 84.84101287461817
+time: 80.31487346440554
 variables: 36876

@@ -2,7 +2,7 @@ configuration: Gurobi
 data_file: data/mznc2020/pentominoes/02.dzn
 flatIntConstraints: 46512
 flatIntVars: 193716
-flatTime: 28.8026
+flatTime: 29.2704
 method: satisfy
 model: data/mznc2020/pentominoes/pentominoes-int.mzn
 nSolutions: 1
@@ -11,6 +11,6 @@ objective: 0
 objectiveBound: 0
 paths: 0
 problem: pentominoes
-solveTime: 65.7641
+solveTime: 69.5249
 status: SATISFIED
-time: 98.83183217421174
+time: 103.21098659560084

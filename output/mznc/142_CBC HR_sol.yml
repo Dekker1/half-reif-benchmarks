@@ -7,6 +7,6 @@
     objective: 24104
     pfc: [13, 16, 1, 5, 8, 9, 12, 10, 11, 14, 15, 2, 6, 7, 17, 18, 4, 3]
   status: SATISFIED
-  time: 780.24
+  time: 784.6
 - {configuration: CBC HR, data_file: data/mznc2020/cable_tree_wiring/A031.dzn, model: data/mznc2020/cable_tree_wiring/ctw.mzn,
-  problem: cable_tree_wiring, status: OPTIMAL_SOLUTION, time: 780.25}
+  problem: cable_tree_wiring, status: OPTIMAL_SOLUTION, time: 784.6}

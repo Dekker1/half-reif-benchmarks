@@ -1,0 +1,16 @@
+configuration: SCIP
+data_file: data/mznc2020/radiation/i7-21.dzn
+flatIntConstraints: 2152
+flatIntVars: 2115
+flatTime: 0.301809
+method: minimize
+model: data/mznc2020/radiation/radiation.mzn
+nSolutions: 1
+nodes: 2
+objective: 1108
+objectiveBound: 1108
+paths: 0
+problem: radiation
+solveTime: 1.1875
+status: OPTIMAL_SOLUTION
+time: 1.6484733503311872

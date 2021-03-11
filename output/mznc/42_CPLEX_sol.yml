@@ -1,0 +1,20 @@
+- configuration: CPLEX
+  data_file: ''
+  model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
+  problem: stochastic-vrp
+  solution:
+    arrivalTime:
+    - [15, 24, 31, 10, 4, 25, 19, 5, 12, 0, 0, 36, 36]
+    - [16, 9, 3, 37, 28, 29, 23, 9, 16, 0, 0, 41, 38]
+    objective: 190
+    predecessor:
+    - [4, 1, 2, 5, 10, 7, 9, 11, 8, 13, 12, 3, 6]
+    - [2, 3, 10, 5, 1, 7, 9, 11, 8, 13, 12, 4, 6]
+    successor:
+    - [2, 3, 12, 1, 4, 13, 6, 9, 7, 5, 8, 11, 10]
+    - [5, 1, 2, 12, 4, 13, 6, 9, 7, 3, 8, 11, 10]
+    vehicle: [1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 1, 2]
+  status: SATISFIED
+  time: 1200.05
+- {configuration: CPLEX, data_file: '', model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn,
+  problem: stochastic-vrp, status: SATISFIED}

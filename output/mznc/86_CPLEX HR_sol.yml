@@ -1,0 +1,2 @@
+- {configuration: CPLEX HR, data_file: data/mznc2019/code-generator/mips_mesa.shapes.auxWireBox.dzn,
+  model: data/mznc2019/code-generator/unison.mzn, problem: code-generator, status: UNKNOWN}

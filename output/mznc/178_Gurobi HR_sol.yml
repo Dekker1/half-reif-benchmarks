@@ -343,7 +343,7 @@
     worstPosition: [3, 22, 17, 17, 22, 19, 9, 20, 9, 19, 17, 9, 17, 1, 6, 17, 6, 6,
       17, 2, 17, 17]
   status: SATISFIED
-  time: 67.99
+  time: 68.15
 - {configuration: Gurobi HR, data_file: data/mznc2020/soccer-computational/xIGData_22_12_22_5.dzn,
   model: data/mznc2020/soccer-computational/ecp.mzn, problem: soccer-computational,
   status: SATISFIED}

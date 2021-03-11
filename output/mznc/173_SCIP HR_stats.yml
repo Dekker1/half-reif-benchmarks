@@ -1,0 +1,18 @@
+configuration: SCIP HR
+data_file: data/mznc2020/hoist-benchmark-for-minizinc/PU_1_2_2.dzn
+eliminatedLinearConstraints: 156
+evaluatedHalfReifiedConstraints: 468
+flatIntConstraints: 752
+flatIntVars: 427
+flatTime: 0.237031
+method: minimize
+model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn
+nSolutions: 1
+nodes: 168087
+objective: 221
+objectiveBound: 221
+paths: 0
+problem: hoist-benchmark-for-minizinc
+solveTime: 121.6852
+status: OPTIMAL_SOLUTION
+time: 122.04500794224441

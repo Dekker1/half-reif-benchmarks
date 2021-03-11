@@ -1,0 +1,16 @@
+configuration: SCIP
+data_file: data/mznc2019/multi-knapsack/mknap2-2.dzn
+flatIntConstraints: 61
+flatIntVars: 91
+flatTime: 0.117397
+method: maximize
+model: data/mznc2019/multi-knapsack/mknapsack_global.mzn
+nSolutions: 1
+nodes: 462
+objective: 8722
+objectiveBound: 8722
+paths: 0
+problem: multi-knapsack
+solveTime: 1.016799
+status: OPTIMAL_SOLUTION
+time: 1.2266652192920446

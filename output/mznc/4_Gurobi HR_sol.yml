@@ -1,2 +1,2 @@
 - {configuration: Gurobi HR, data_file: data/mznc2019/amaze/2012-07-27.dzn, model: data/mznc2019/amaze/amaze3.mzn,
-  problem: amaze, status: UNKNOWN, time: 1200.05}
+  problem: amaze, status: UNKNOWN, time: 1200.06}

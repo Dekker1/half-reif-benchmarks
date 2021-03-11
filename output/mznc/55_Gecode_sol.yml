@@ -11,6 +11,6 @@
       40, 39, 7, 13, 12, 11, 10, 9, 8, 6, 5, 23, 20]
     objective: 70
   status: SATISFIED
-  time: 1.35
+  time: 1.4
 - {configuration: Gecode, data_file: data/mznc2019/steelmillslab/bench_2_19.dzn, model: data/mznc2019/steelmillslab/steelmillslab.mzn,
   problem: steelmillslab, status: SATISFIED}

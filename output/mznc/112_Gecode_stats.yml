@@ -6,8 +6,8 @@ flatBoolConstraints: 190
 flatBoolVars: 1340
 flatIntConstraints: 3749
 flatIntVars: 2428
-flatTime: 0.198295
-initTime: 0.029978
+flatTime: 0.206875
+initTime: 0.030815
 method: maximize
 model: data/mznc2020/stable-goods/stable-goods-solution.mzn
 nSolutions: 13
@@ -16,11 +16,11 @@ objective: 6264
 paths: 0
 peakDepth: 36
 problem: stable-goods
-propagations: 131886011
+propagations: 131865760
 propagators: 2834
 restarts: 0
 solutions: 13
-solveTime: 26.6727
+solveTime: 26.7896
 status: OPTIMAL_SOLUTION
-time: 27.00564900971949
+time: 27.169175181537867
 variables: 3769

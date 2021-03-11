@@ -1,0 +1,20 @@
+configuration: SCIP HR
+data_file: data/mznc2020/sdn-chain/d30n600-5.dzn
+eliminatedLinearConstraints: 1795
+evaluatedHalfReifiedConstraints: 5523
+evaluatedReifiedConstraints: 6271
+flatBoolVars: 1978
+flatIntConstraints: 100743
+flatIntVars: 33376
+flatTime: 19.1773
+method: minimize
+model: data/mznc2020/sdn-chain/model.mzn
+nSolutions: 1
+nodes: 2
+objective: 23
+objectiveBound: 23
+paths: 0
+problem: sdn-chain
+solveTime: 404.5362
+status: OPTIMAL_SOLUTION
+time: 427.27080536447465

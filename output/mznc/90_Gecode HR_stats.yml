@@ -1,17 +1,17 @@
 configuration: Gecode HR
 data_file: data/mznc2019/code-generator/mips_gcc.function.use_return_register.dzn
 eliminatedImplications: 2002
-evaluatedHalfReifiedConstraints: 53855
+evaluatedHalfReifiedConstraints: 53844
 evaluatedReifiedConstraints: 11004
 flatBoolConstraints: 18251
-flatBoolVars: 61629
-flatIntConstraints: 73548
+flatBoolVars: 61618
+flatIntConstraints: 73537
 flatIntVars: 11078
-flatTime: 10.1888
+flatTime: 9.84169
 method: minimize
 model: data/mznc2019/code-generator/unison.mzn
 objective: 11515
 paths: 0
 problem: code-generator
 status: SATISFIED
-time: 1201.1691438145936
+time: 1201.1915852949023

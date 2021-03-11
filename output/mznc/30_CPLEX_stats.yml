@@ -1,0 +1,17 @@
+configuration: CPLEX
+data_file: data/mznc2019/ptv/pax_period_20_1c.dzn
+evaluatedReifiedConstraints: 3547
+flatIntConstraints: 3642
+flatIntVars: 5843
+flatTime: 1.56491
+method: minimize
+model: data/mznc2019/ptv/pax_model.mzn
+nSolutions: 1
+nodes: 6
+objective: 1521
+objectiveBound: 1521
+paths: 0
+problem: ptv
+solveTime: 0.1862
+status: OPTIMAL_SOLUTION
+time: 2.003038939088583

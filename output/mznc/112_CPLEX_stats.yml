@@ -1,0 +1,17 @@
+configuration: CPLEX
+data_file: data/mznc2020/stable-goods/s-d6.dzn
+evaluatedReifiedConstraints: 1089
+flatIntConstraints: 4549
+flatIntVars: 3848
+flatTime: 0.937096
+method: maximize
+model: data/mznc2020/stable-goods/stable-goods-solution.mzn
+nSolutions: 1
+nodes: 2650
+objective: 6264
+objectiveBound: 6264
+paths: 0
+problem: stable-goods
+solveTime: 10.9666
+status: OPTIMAL_SOLUTION
+time: 12.141134180128574

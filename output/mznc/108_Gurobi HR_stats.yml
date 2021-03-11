@@ -5,7 +5,7 @@ evaluatedReifiedConstraints: 684
 flatBoolVars: 195
 flatIntConstraints: 1228
 flatIntVars: 3798
-flatTime: 0.400424
+flatTime: 0.399935
 method: minimize
 model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
 nSolutions: 1
@@ -14,6 +14,6 @@ objective: 1123
 objectiveBound: 1123
 paths: 0
 problem: lot-sizing
-solveTime: 873.757
+solveTime: 878.097
 status: OPTIMAL_SOLUTION
-time: 874.2991231679916
+time: 878.6553404182196

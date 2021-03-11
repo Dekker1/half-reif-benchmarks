@@ -34,7 +34,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 0, 0, -1, 0]
   status: SATISFIED
-  time: 20.96
+  time: 20.67
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -71,7 +71,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 0, 0, -1, 0]
   status: SATISFIED
-  time: 21.12
+  time: 20.82
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -109,7 +109,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 21.39
+  time: 21.07
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -146,7 +146,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 21.48
+  time: 21.15
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -184,7 +184,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 0, 0, 1, 0]
   status: SATISFIED
-  time: 21.65
+  time: 21.31
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -221,7 +221,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 0, 0, 1, 0]
   status: SATISFIED
-  time: 21.81
+  time: 21.46
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -258,7 +258,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 1, 0, 1, 0]
   status: SATISFIED
-  time: 22.03
+  time: 21.66
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -295,7 +295,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 1, 0, 1, 0]
   status: SATISFIED
-  time: 22.21
+  time: 21.83
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -333,7 +333,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 2, 0, 0, 0]
   status: SATISFIED
-  time: 22.44
+  time: 22.05
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -371,7 +371,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 2, 0, 0, 0]
   status: SATISFIED
-  time: 22.51
+  time: 22.11
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -409,7 +409,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 2, 0, 1, 0]
   status: SATISFIED
-  time: 22.56
+  time: 22.16
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -447,7 +447,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 2, 0, 1, 0]
   status: SATISFIED
-  time: 22.69
+  time: 22.27
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -484,7 +484,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 2, 0, 0, 2]
   status: SATISFIED
-  time: 22.74
+  time: 22.32
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -521,7 +521,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 2, 0, 0, 2]
   status: SATISFIED
-  time: 22.86
+  time: 22.43
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -558,7 +558,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 0, 0, 2, 0, 2]
   status: SATISFIED
-  time: 22.96
+  time: 22.53
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -596,7 +596,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 2, 2, 0, 1, 0]
   status: SATISFIED
-  time: 23.14
+  time: 22.7
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -634,7 +634,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 2, 2, 0, 1, 0]
   status: SATISFIED
-  time: 23.27
+  time: 22.82
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -671,7 +671,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 23.36
+  time: 22.92
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -708,7 +708,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 23.43
+  time: 22.99
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -745,7 +745,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 0, -2, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 23.55
+  time: 23.1
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -783,7 +783,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 0]
   status: SATISFIED
-  time: 24.8
+  time: 24.29
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -821,7 +821,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 1, 0]
   status: SATISFIED
-  time: 24.93
+  time: 24.42
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -859,7 +859,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 1, 0]
   status: SATISFIED
-  time: 24.95
+  time: 24.44
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -897,7 +897,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 1, 0]
   status: SATISFIED
-  time: 25.12
+  time: 24.6
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -934,7 +934,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 2]
   status: SATISFIED
-  time: 25.19
+  time: 24.67
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -971,7 +971,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 2]
   status: SATISFIED
-  time: 25.23
+  time: 24.71
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1008,7 +1008,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 2]
   status: SATISFIED
-  time: 25.28
+  time: 24.75
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1045,7 +1045,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 2]
   status: SATISFIED
-  time: 25.56
+  time: 25.01
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1083,7 +1083,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 2, 2, 0, 1, 0]
   status: SATISFIED
-  time: 25.84
+  time: 25.29
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1121,7 +1121,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 2, 2, 0, 1, 0]
   status: SATISFIED
-  time: 25.96
+  time: 25.41
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1159,7 +1159,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 2, 2, 0, 1, 0]
   status: SATISFIED
-  time: 25.97
+  time: 25.42
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1196,7 +1196,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 26.16
+  time: 25.61
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1233,7 +1233,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 26.28
+  time: 25.73
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1270,7 +1270,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 26.29
+  time: 25.74
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1307,7 +1307,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, -2, 0, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 26.42
+  time: 25.87
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1344,7 +1344,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 0, 0, -1, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 28.13
+  time: 27.54
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1381,7 +1381,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 0, 0, -1, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 28.14
+  time: 27.56
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1418,7 +1418,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 0, 0, -1, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 28.26
+  time: 27.67
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1455,7 +1455,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 0, 0, -1, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 28.38
+  time: 27.79
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1493,7 +1493,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 2, 0, 0, 2]
   status: SATISFIED
-  time: 33.38
+  time: 32.509999
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1531,7 +1531,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 2, 0, 0, 2]
   status: SATISFIED
-  time: 33.4
+  time: 32.53
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1569,7 +1569,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 2, 0, 0, 2]
   status: SATISFIED
-  time: 33.58
+  time: 32.7
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1607,7 +1607,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 2, 0, 2]
   status: SATISFIED
-  time: 35.49
+  time: 34.48
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1645,7 +1645,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 1, 0]
   status: SATISFIED
-  time: 36.51
+  time: 35.44
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1683,7 +1683,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 1, 0]
   status: SATISFIED
-  time: 36.52
+  time: 35.45
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1721,7 +1721,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 1, 0]
   status: SATISFIED
-  time: 36.68
+  time: 35.6
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1758,7 +1758,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 37.28
+  time: 36.16
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1796,7 +1796,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 37.48
+  time: 36.36
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1834,7 +1834,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 37.49
+  time: 36.37
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1872,7 +1872,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 37.5
+  time: 36.38
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1910,7 +1910,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, -1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 39.14
+  time: 37.93
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1948,7 +1948,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 0, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 47.88
+  time: 46.31
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -1986,7 +1986,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 0, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 48.49
+  time: 46.89
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2024,7 +2024,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 0, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 48.5
+  time: 46.9
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2063,7 +2063,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 0, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 48.52
+  time: 46.92
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2102,7 +2102,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 0, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 48.53
+  time: 46.94
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2141,7 +2141,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 0, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 50.07
+  time: 48.34
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2179,7 +2179,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 57.36
+  time: 55.07
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2217,7 +2217,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 57.37
+  time: 55.08
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2255,7 +2255,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 57.38
+  time: 55.09
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2293,7 +2293,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 1, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 58.96
+  time: 56.53
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2332,7 +2332,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 67.72
+  time: 64.54
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2371,7 +2371,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 67.73
+  time: 64.55
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2410,7 +2410,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 67.74
+  time: 64.569999
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2449,7 +2449,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, -1, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 69.77
+  time: 66.4
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2488,7 +2488,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 1, 0, 0, 0, 0, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 90.04
+  time: 84.88
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2527,7 +2527,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 98.99
+  time: 93.24
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2566,7 +2566,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 99.01
+  time: 93.25
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2605,7 +2605,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 99.02
+  time: 93.27
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2644,7 +2644,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 99.04
+  time: 93.29
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2683,7 +2683,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 0]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 101.02
+  time: 95.17
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2722,7 +2722,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 1]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 123.18
+  time: 115.99
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2761,7 +2761,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 1]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 123.19
+  time: 116.0
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2800,7 +2800,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 1]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 123.2
+  time: 116.01
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2839,7 +2839,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 1]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 125.13
+  time: 117.82
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2878,7 +2878,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 1, 0, 0, 0, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 143.68
+  time: 135.41
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2917,7 +2917,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 151.54
+  time: 142.97
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2956,7 +2956,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 151.55
+  time: 142.98
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -2995,7 +2995,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 151.57
+  time: 142.99
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3034,7 +3034,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 0, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 153.04
+  time: 144.42
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3073,7 +3073,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 231.86
+  time: 222.15
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3112,7 +3112,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 231.87
+  time: 222.16
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3151,7 +3151,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 233.34
+  time: 223.59
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3190,7 +3190,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 2, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 320.19
+  time: 306.3
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3229,7 +3229,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 2, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 320.2
+  time: 306.31
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3268,7 +3268,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 0, 2, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 321.73
+  time: 307.75
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3307,7 +3307,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 2, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 602.74
+  time: 580.45
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3346,7 +3346,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 2, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 602.75
+  time: 580.46
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3385,7 +3385,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 0, 2, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 604.19
+  time: 581.77
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3423,7 +3423,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 1, 2, 2, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 883.26
+  time: 842.4
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3461,7 +3461,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 1, 2, 2, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 883.27
+  time: 842.42
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3499,7 +3499,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 1, 2, 2, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 884.63
+  time: 843.73
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3538,7 +3538,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 2, 2, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 1019.95
+  time: 973.52
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3577,7 +3577,7 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 2, 2, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 2, 0, 0, 2]
   status: SATISFIED
-  time: 1019.96
+  time: 973.53
 - configuration: Gecode
   data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
   model: data/mznc2019/groupsplitter/group.mzn
@@ -3616,4 +3616,4 @@
     user_weight_map1: [0, 0, 0, 0, 0, -2, 0, -1, -1, 2, 2, 2, 1, 0, 2]
     user_weight_map2: [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2]
   status: SATISFIED
-  time: 1021.37
+  time: 974.88

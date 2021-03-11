@@ -1,0 +1,13 @@
+configuration: CPLEX
+data_file: data/mznc2019/code-generator/mips_mesa.shapes.auxWireBox.dzn
+evaluatedReifiedConstraints: 386178
+flatBoolVars: 1394
+flatIntConstraints: 1423712
+flatIntVars: 1028006
+flatTime: 244.094
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: UNKNOWN
+time: 1202.162785468623

@@ -8,7 +8,7 @@
     s: [0, 0, 0, 4, 3, 25, 3, 4, 6, 9, 9, 17, 6, 12, 5, 8, 20, 17, 13, 14, 18, 24,
       25, 29, 29, 36, 23, 33, 37, 33]
   status: SATISFIED
-  time: 649.5
+  time: 653.14
 - configuration: Gecode
   data_file: data/mznc2020/racp/j30_26_2_1.0.dzn
   model: data/mznc2020/racp/racp.mzn
@@ -19,7 +19,7 @@
     s: [0, 0, 0, 4, 3, 25, 3, 4, 6, 9, 9, 17, 6, 13, 5, 8, 20, 17, 13, 9, 17, 24,
       25, 29, 29, 36, 23, 33, 37, 33]
   status: SATISFIED
-  time: 899.57
+  time: 904.29
 - configuration: Gecode
   data_file: data/mznc2020/racp/j30_26_2_1.0.dzn
   model: data/mznc2020/racp/racp.mzn
@@ -30,7 +30,7 @@
     s: [0, 0, 0, 10, 3, 11, 3, 4, 15, 9, 6, 21, 17, 24, 4, 15, 24, 17, 7, 17, 21,
       24, 29, 26, 26, 36, 24, 33, 37, 34]
   status: SATISFIED
-  time: 1030.079999
+  time: 1035.22
 - configuration: Gecode
   data_file: data/mznc2020/racp/j30_26_2_1.0.dzn
   model: data/mznc2020/racp/racp.mzn
@@ -41,6 +41,6 @@
     s: [0, 0, 0, 4, 3, 24, 3, 4, 9, 9, 13, 17, 15, 15, 6, 9, 21, 17, 5, 9, 18, 24,
       26, 28, 18, 36, 26, 33, 37, 36]
   status: SATISFIED
-  time: 1080.24
+  time: 1085.57
 - {configuration: Gecode, data_file: data/mznc2020/racp/j30_26_2_1.0.dzn, model: data/mznc2020/racp/racp.mzn,
   problem: racp, status: SATISFIED}

@@ -1,2 +1,2 @@
 - {configuration: CBC, data_file: data/mznc2020/cable_tree_wiring/R046.dzn, model: data/mznc2020/cable_tree_wiring/ctw.mzn,
-  problem: cable_tree_wiring, status: UNKNOWN, time: 1186.42}
+  problem: cable_tree_wiring, status: UNKNOWN, time: 1185.98}

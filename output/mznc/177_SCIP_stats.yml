@@ -1,0 +1,12 @@
+configuration: SCIP
+data_file: data/mznc2020/soccer-computational/xIGData_28_23_16_1.dzn
+evaluatedReifiedConstraints: 24300
+flatIntConstraints: 52152
+flatIntVars: 28220
+flatTime: 8.4575
+method: satisfy
+model: data/mznc2020/soccer-computational/ecp.mzn
+paths: 0
+problem: soccer-computational
+status: UNKNOWN
+time: 1201.2226762454957

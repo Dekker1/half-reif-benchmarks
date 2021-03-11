@@ -14,6 +14,6 @@
     remainder: [22, 39, 0, 0, 3, 28, 0, 0, 33, 0, 35, 21, 26, 0, 0, 41, 17, 1, 0,
       20]
   status: SATISFIED
-  time: 166.89
+  time: 488.02
 - {configuration: Gurobi HR, data_file: data/mznc2020/stable-goods/s-d7.dzn, model: data/mznc2020/stable-goods/stable-goods-solution.mzn,
-  problem: stable-goods, status: OPTIMAL_SOLUTION, time: 166.9}
+  problem: stable-goods, status: OPTIMAL_SOLUTION, time: 488.02}

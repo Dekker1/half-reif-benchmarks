@@ -5,8 +5,8 @@ failures: 15
 flatBoolVars: 2119
 flatIntConstraints: 4263
 flatIntVars: 2120
-flatTime: 1.0935
-initTime: 0.105386
+flatTime: 1.15302
+initTime: 0.105124
 method: minimize
 model: data/mznc2020/bnn-planner/inventory_4_8s.mzn
 nSolutions: 1
@@ -19,7 +19,7 @@ propagations: 57373
 propagators: 5863
 restarts: 0
 solutions: 1
-solveTime: 0.065959
+solveTime: 0.064266
 status: OPTIMAL_SOLUTION
-time: 1.5249480344355106
+time: 1.6106392405927181
 variables: 4239

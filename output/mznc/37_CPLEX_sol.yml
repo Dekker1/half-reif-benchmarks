@@ -1,0 +1,18 @@
+- configuration: CPLEX
+  data_file: data/mznc2019/lot-sizing/pigment30b.psp.dzn
+  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn
+  problem: lot-sizing
+  solution:
+    change_cost_for_period: [0, 0, 0, 0, 0, 0, 0, 0, 163, 0, 0, 0, 104, 0, 0, 0, 0,
+      0, 0, 0, 0, 100, 135, 120, 160, 0, 122, 179, 0]
+    inventory_periods: [2, 5, 0, 5, 3, 0, 1, 3, 6, 0, 8]
+    objective: 1413
+    production_by_order: [0, 0, 0, 0, 0, 0, 0, 0, 9, 6, 0, 0, 0, 10, 0, 0, 0, 0, 0,
+      0, 0, 11, 2, 4, 5, 7, 8, 1, 3, 0]
+    production_order: [0, 0, 0, 0, 0, 0, 0, 0, 9, 6, 6, 6, 6, 10, 10, 10, 10, 10,
+      10, 10, 10, 11, 2, 4, 5, 7, 8, 1, 3, 3]
+    production_period: [28, 23, 29, 24, 25, 10, 26, 27, 9, 14, 22]
+  status: SATISFIED
+  time: 1200.06
+- {configuration: CPLEX, data_file: data/mznc2019/lot-sizing/pigment30b.psp.dzn, model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn,
+  problem: lot-sizing, status: SATISFIED}

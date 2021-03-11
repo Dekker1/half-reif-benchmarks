@@ -1,0 +1,11 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/pentominoes/06.dzn
+flatIntConstraints: 57080
+flatIntVars: 281513
+flatTime: 41.2476
+method: satisfy
+model: data/mznc2020/pentominoes/pentominoes-int.mzn
+paths: 0
+problem: pentominoes
+status: UNKNOWN
+time: 1201.2399364616722

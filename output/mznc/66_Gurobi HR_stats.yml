@@ -2,10 +2,10 @@ configuration: Gurobi HR
 data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
 flatIntConstraints: 193
 flatIntVars: 1401825
-flatTime: 145.615
+flatTime: 139.066
 method: maximize
 model: data/mznc2019/groupsplitter/group.mzn
 paths: 0
 problem: groupsplitter
 status: UNKNOWN
-time: 1201.8337296042591
+time: 1202.0893889945

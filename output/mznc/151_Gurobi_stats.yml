@@ -4,7 +4,7 @@ evaluatedReifiedConstraints: 98432
 flatBoolVars: 32640
 flatIntConstraints: 97732
 flatIntVars: 78199
-flatTime: 20.7127
+flatTime: 21.0152
 method: minimize
 model: data/mznc2020/p1f-pjs/p1f-pjs.mzn
 nSolutions: 0
@@ -13,6 +13,6 @@ objective: 1e+308
 objectiveBound: 1e+100
 paths: 0
 problem: p1f-pjs
-solveTime: 1.0003
+solveTime: 1.0237
 status: UNSATISFIABLE
-time: 27.18701197952032
+time: 27.65560607612133

@@ -1,0 +1,13 @@
+- configuration: SCIP
+  data_file: data/mznc2020/racp/j30_26_2_1.0.dzn
+  model: data/mznc2020/racp/racp.mzn
+  problem: racp
+  solution:
+    objective: 704
+    rcap: [21, 24, 20, 20]
+    s: [0, 0, 0, 7, 3, 22, 3, 4, 9, 9, 8, 21, 16, 17, 4, 12, 24, 17, 6, 13, 19, 24,
+      29, 29, 25, 36, 26, 33, 37, 36]
+  status: SATISFIED
+  time: 76.62
+- {configuration: SCIP, data_file: data/mznc2020/racp/j30_26_2_1.0.dzn, model: data/mznc2020/racp/racp.mzn,
+  problem: racp, status: OPTIMAL_SOLUTION, time: 76.65}

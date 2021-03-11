@@ -1,0 +1,20 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/lot-sizing/pigment15c.psp.dzn
+evaluatedHalfReifiedConstraints: 182
+evaluatedReifiedConstraints: 684
+flatBoolVars: 195
+flatIntConstraints: 1245
+flatIntVars: 3818
+flatTime: 0.409751
+method: minimize
+model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
+nSolutions: 1
+nodes: 15100
+objective: 1430
+objectiveBound: 760.513292434
+openNodes: 2583
+paths: 0
+problem: lot-sizing
+solveTime: 1199.5642
+status: SATISFIED
+time: 1200.1259829010814

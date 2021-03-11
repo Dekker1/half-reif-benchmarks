@@ -1,0 +1,12 @@
+configuration: CPLEX
+data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn
+evaluatedReifiedConstraints: 15402
+flatIntConstraints: 55541
+flatIntVars: 56295
+flatTime: 10.4332
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+paths: 0
+problem: minimal-decision-sets
+status: UNKNOWN
+time: 1201.2080546170473

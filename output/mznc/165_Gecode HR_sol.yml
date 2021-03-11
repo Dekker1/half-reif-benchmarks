@@ -364,7 +364,7 @@
       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
       0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 3.1
+  time: 3.03
 - {configuration: Gecode HR, data_file: data/mznc2020/collaborative-construction/46.dzn,
   model: data/mznc2020/collaborative-construction/macc.mzn, problem: collaborative-construction,
-  status: OPTIMAL_SOLUTION, time: 84.47}
+  status: OPTIMAL_SOLUTION, time: 79.92}

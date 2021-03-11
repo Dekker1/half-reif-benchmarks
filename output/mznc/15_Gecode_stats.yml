@@ -5,11 +5,11 @@ flatBoolConstraints: 1176230
 flatBoolVars: 1178426
 flatIntConstraints: 1180128
 flatIntVars: 1177598
-flatTime: 125.088
+flatTime: 120.413
 method: maximize
 model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
 objective: 4015
 paths: 0
 problem: rcpsp-wet-diverse
 status: SATISFIED
-time: 1201.6126823611557
+time: 1201.5797653067857

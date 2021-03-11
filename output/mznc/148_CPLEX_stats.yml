@@ -1,0 +1,17 @@
+configuration: CPLEX
+data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_2m_1.dzn
+evaluatedReifiedConstraints: 47068
+flatIntConstraints: 81421
+flatIntVars: 75198
+flatTime: 15.3481
+method: minimize
+model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
+nSolutions: 1
+nodes: 0
+objective: 2
+objectiveBound: 2
+paths: 0
+problem: skill-allocation
+solveTime: 39.2602
+status: OPTIMAL_SOLUTION
+time: 58.61827440559864

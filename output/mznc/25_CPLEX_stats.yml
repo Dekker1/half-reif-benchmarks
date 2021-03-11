@@ -1,0 +1,16 @@
+configuration: CPLEX
+data_file: data/mznc2019/multi-knapsack/mknap2-10.dzn
+flatIntConstraints: 5
+flatIntVars: 108
+flatTime: 0.048618
+method: maximize
+model: data/mznc2019/multi-knapsack/mknapsack_global.mzn
+nSolutions: 1
+nodes: 0
+objective: 624319
+objectiveBound: 624319
+paths: 0
+problem: multi-knapsack
+solveTime: 0.018
+status: OPTIMAL_SOLUTION
+time: 0.1344418190419674

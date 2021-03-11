@@ -1,0 +1,11 @@
+- configuration: CPLEX HR
+  data_file: data/mznc2020/tower_challenge/tower_070_070_15_070-06.dzn
+  model: data/mznc2020/tower_challenge/tower.mzn
+  problem: tower_challenge
+  solution:
+    objective: 50
+    power: [8, 10, 9, 8, 1, 5, 8, 8, 8, 10, 2, 9, 8, 8, 6]
+  status: SATISFIED
+  time: 1200.17
+- {configuration: CPLEX HR, data_file: data/mznc2020/tower_challenge/tower_070_070_15_070-06.dzn,
+  model: data/mznc2020/tower_challenge/tower.mzn, problem: tower_challenge, status: SATISFIED}

@@ -10,7 +10,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1238
   status: SATISFIED
-  time: 6.12
+  time: 6.21
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -23,7 +23,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1270
   status: SATISFIED
-  time: 6.13
+  time: 6.22
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -36,7 +36,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1281
   status: SATISFIED
-  time: 6.14
+  time: 6.23
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -49,7 +49,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1310
   status: SATISFIED
-  time: 6.15
+  time: 6.24
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -62,7 +62,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1321
   status: SATISFIED
-  time: 6.16
+  time: 6.24
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -75,7 +75,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1333
   status: SATISFIED
-  time: 6.17
+  time: 6.26
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -88,7 +88,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1344
   status: SATISFIED
-  time: 6.18
+  time: 6.27
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -101,7 +101,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1354
   status: SATISFIED
-  time: 6.21
+  time: 6.3
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -114,7 +114,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1365
   status: SATISFIED
-  time: 6.22
+  time: 6.31
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -127,7 +127,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1366
   status: SATISFIED
-  time: 6.24
+  time: 6.33
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -140,7 +140,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1384
   status: SATISFIED
-  time: 6.25
+  time: 6.34
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -153,7 +153,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1387
   status: SATISFIED
-  time: 6.26
+  time: 6.34
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -166,7 +166,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1408
   status: SATISFIED
-  time: 6.28
+  time: 6.37
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -179,7 +179,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1413
   status: SATISFIED
-  time: 6.32
+  time: 6.41
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -192,7 +192,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1420
   status: SATISFIED
-  time: 6.34
+  time: 6.42
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -205,7 +205,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1429
   status: SATISFIED
-  time: 6.39
+  time: 6.47
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -218,7 +218,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1433
   status: SATISFIED
-  time: 6.41
+  time: 6.49
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -231,7 +231,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1434
   status: SATISFIED
-  time: 6.41
+  time: 6.5
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -244,7 +244,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1435
   status: SATISFIED
-  time: 6.47
+  time: 6.56
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -257,7 +257,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1438
   status: SATISFIED
-  time: 6.48
+  time: 6.56
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -270,7 +270,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1446
   status: SATISFIED
-  time: 6.5
+  time: 6.58
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -283,7 +283,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1452
   status: SATISFIED
-  time: 6.62
+  time: 6.71
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -296,7 +296,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1453
   status: SATISFIED
-  time: 6.68
+  time: 6.76
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -309,7 +309,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1459
   status: SATISFIED
-  time: 6.69
+  time: 6.77
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -322,7 +322,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1462
   status: SATISFIED
-  time: 6.71
+  time: 6.79
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -335,7 +335,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1464
   status: SATISFIED
-  time: 6.74
+  time: 6.81
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -348,7 +348,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1472
   status: SATISFIED
-  time: 6.85
+  time: 6.93
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -361,7 +361,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1474
   status: SATISFIED
-  time: 6.88
+  time: 6.95
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -374,7 +374,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1476
   status: SATISFIED
-  time: 6.94
+  time: 7.01
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -387,7 +387,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1486
   status: SATISFIED
-  time: 6.96
+  time: 7.03
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -400,7 +400,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1489
   status: SATISFIED
-  time: 7.04
+  time: 7.11
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -413,7 +413,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1492
   status: SATISFIED
-  time: 7.1
+  time: 7.16
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -426,7 +426,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1493
   status: SATISFIED
-  time: 7.15
+  time: 7.21
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -439,7 +439,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1494
   status: SATISFIED
-  time: 7.16
+  time: 7.22
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -452,7 +452,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1497
   status: SATISFIED
-  time: 7.19
+  time: 7.25
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -465,7 +465,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1504
   status: SATISFIED
-  time: 7.22
+  time: 7.28
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -478,7 +478,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1505
   status: SATISFIED
-  time: 7.35
+  time: 7.4
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -491,7 +491,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1513
   status: SATISFIED
-  time: 7.39
+  time: 7.44
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -504,7 +504,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1520
   status: SATISFIED
-  time: 7.44
+  time: 7.49
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -517,7 +517,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1523
   status: SATISFIED
-  time: 7.58
+  time: 7.62
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -530,7 +530,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1537
   status: SATISFIED
-  time: 7.61
+  time: 7.65
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -543,7 +543,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1538
   status: SATISFIED
-  time: 7.71
+  time: 7.73
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -556,7 +556,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1539
   status: SATISFIED
-  time: 7.89
+  time: 7.91
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -569,7 +569,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1543
   status: SATISFIED
-  time: 7.98
+  time: 7.99
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -595,7 +595,7 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1553
   status: SATISFIED
-  time: 10.51
+  time: 10.29
 - configuration: Gecode
   data_file: data/mznc2019/nside/HARD_200_50.dzn
   model: data/mznc2019/nside/full.mzn
@@ -608,4 +608,4 @@
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
     objective: 1555
   status: SATISFIED
-  time: 10.56
+  time: 10.34

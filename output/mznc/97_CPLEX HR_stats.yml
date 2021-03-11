@@ -1,0 +1,18 @@
+configuration: CPLEX HR
+data_file: data/mznc2019/accap/accap_instance5.dzn
+evaluatedHalfReifiedConstraints: 598
+flatIntConstraints: 1338
+flatIntVars: 656
+flatTime: 0.299176
+method: minimize
+model: data/mznc2019/accap/accap.mzn
+nSolutions: 1
+nodes: 377358
+objective: 103
+objectiveBound: 86
+openNodes: 175753
+paths: 0
+problem: accap
+solveTime: 1199.6745
+status: SATISFIED
+time: 1200.1960822083056

@@ -1,0 +1,19 @@
+configuration: CPLEX HR
+data_file: ''
+evaluatedReifiedConstraints: 1080
+flatBoolVars: 288
+flatIntConstraints: 2571
+flatIntVars: 903
+flatTime: 0.424062
+method: minimize
+model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c8_vrp-v2-c8_det.mzn
+nSolutions: 1
+nodes: 170250
+objective: 176
+objectiveBound: 96.0101759862
+openNodes: 22682
+paths: 0
+problem: stochastic-vrp
+solveTime: 1199.5512
+status: SATISFIED
+time: 1200.1228513661772

@@ -1,0 +1,17 @@
+configuration: SCIP HR
+data_file: ''
+flatIntConstraints: 117
+flatIntVars: 14374
+flatTime: 1.19634
+method: minimize
+model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn
+nSolutions: 1
+nodes: 133821
+objective: 195546
+objectiveBound: 0
+openNodes: 10413
+paths: 0
+problem: liner-sf-repositioning
+solveTime: 1198.7817
+status: SATISFIED
+time: 1201.0520842205733

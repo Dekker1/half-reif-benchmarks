@@ -15,7 +15,7 @@
     wfox: [118, 0, 0, 0]
     wgeese: [213, 0, 0, 0]
   status: SATISFIED
-  time: 0.05
+  time: 0.08
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -33,7 +33,7 @@
     wfox: [118, 0, 0, 0]
     wgeese: [213, 152, 0, 0]
   status: SATISFIED
-  time: 0.06
+  time: 0.08
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -51,7 +51,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 211, 150]
   status: SATISFIED
-  time: 0.11
+  time: 0.14
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -69,7 +69,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 210, 149]
   status: SATISFIED
-  time: 0.11
+  time: 0.14
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -87,7 +87,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 209, 148]
   status: SATISFIED
-  time: 0.12
+  time: 0.14
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -105,7 +105,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 208, 147]
   status: SATISFIED
-  time: 0.12
+  time: 0.15
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -123,7 +123,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 207, 146]
   status: SATISFIED
-  time: 0.12
+  time: 0.15
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -141,7 +141,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 206, 145]
   status: SATISFIED
-  time: 0.13
+  time: 0.15
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -159,7 +159,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 205, 144]
   status: SATISFIED
-  time: 0.13
+  time: 0.16
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -177,7 +177,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 204, 143]
   status: SATISFIED
-  time: 0.13
+  time: 0.16
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -195,7 +195,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 203, 142]
   status: SATISFIED
-  time: 0.13
+  time: 0.16
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -213,7 +213,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 202, 141]
   status: SATISFIED
-  time: 0.14
+  time: 0.16
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -231,7 +231,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 201, 140]
   status: SATISFIED
-  time: 0.14
+  time: 0.16
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -249,7 +249,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 200, 139]
   status: SATISFIED
-  time: 0.14
+  time: 0.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -267,7 +267,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 199, 138]
   status: SATISFIED
-  time: 0.15
+  time: 0.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -285,7 +285,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 198, 137]
   status: SATISFIED
-  time: 0.15
+  time: 0.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -303,7 +303,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 197, 136]
   status: SATISFIED
-  time: 0.15
+  time: 0.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -321,7 +321,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 196, 135]
   status: SATISFIED
-  time: 0.15
+  time: 0.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -339,7 +339,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 195, 134]
   status: SATISFIED
-  time: 0.15
+  time: 0.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -357,7 +357,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 194, 133]
   status: SATISFIED
-  time: 0.15
+  time: 0.18
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -375,7 +375,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 193, 132]
   status: SATISFIED
-  time: 0.15
+  time: 0.18
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -393,7 +393,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 192, 131]
   status: SATISFIED
-  time: 0.15
+  time: 0.18
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -411,7 +411,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 191, 130]
   status: SATISFIED
-  time: 0.15
+  time: 0.18
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -429,7 +429,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 190, 129]
   status: SATISFIED
-  time: 0.15
+  time: 0.18
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -447,7 +447,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 189, 128]
   status: SATISFIED
-  time: 0.15
+  time: 0.18
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -465,7 +465,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 188, 127]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -483,7 +483,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 187, 126]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -501,7 +501,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 186, 125]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -519,7 +519,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 185, 124]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -537,7 +537,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 184, 123]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -555,7 +555,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 183, 123]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -573,7 +573,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 182, 122]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -591,7 +591,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 181, 121]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -609,7 +609,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 180, 120]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -627,7 +627,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 179, 119]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -645,7 +645,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 178, 118]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -663,7 +663,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 177, 117]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -681,7 +681,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 176, 116]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -699,7 +699,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 175, 115]
   status: SATISFIED
-  time: 0.18
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -717,7 +717,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 174, 114]
   status: SATISFIED
-  time: 0.18
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -735,7 +735,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 173, 113]
   status: SATISFIED
-  time: 0.18
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -753,7 +753,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 172, 112]
   status: SATISFIED
-  time: 0.18
+  time: 0.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -771,7 +771,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 171, 111]
   status: SATISFIED
-  time: 0.18
+  time: 0.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -789,7 +789,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 170, 110]
   status: SATISFIED
-  time: 0.18
+  time: 0.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -807,7 +807,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 169, 109]
   status: SATISFIED
-  time: 0.18
+  time: 0.21
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -825,7 +825,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 168, 108]
   status: SATISFIED
-  time: 0.18
+  time: 0.21
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -843,7 +843,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 167, 107]
   status: SATISFIED
-  time: 0.18
+  time: 0.21
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -861,7 +861,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 166, 106]
   status: SATISFIED
-  time: 0.18
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -879,7 +879,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 165, 105]
   status: SATISFIED
-  time: 0.18
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -897,7 +897,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 164, 104]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -915,7 +915,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 163, 103]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -933,7 +933,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 162, 102]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -951,7 +951,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 161, 101]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -969,7 +969,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 160, 100]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -987,7 +987,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 159, 99]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1005,7 +1005,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 158, 98]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1023,7 +1023,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 157, 97]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1041,7 +1041,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 156, 96]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1059,7 +1059,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 155, 95]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1077,7 +1077,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 154, 94]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1095,7 +1095,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 153, 93]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1113,7 +1113,7 @@
     wfox: [118, 0, 118, 0]
     wgeese: [213, 152, 152, 92]
   status: SATISFIED
-  time: 0.19
+  time: 0.22
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1131,7 +1131,7 @@
     wfox: [118, 0, 86, 0]
     wgeese: [213, 152, 182, 90]
   status: SATISFIED
-  time: 0.6
+  time: 0.63
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1149,7 +1149,7 @@
     wfox: [118, 0, 86, 0]
     wgeese: [213, 152, 181, 89]
   status: SATISFIED
-  time: 0.61
+  time: 0.63
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1167,7 +1167,7 @@
     wfox: [118, 0, 85, 0]
     wgeese: [213, 152, 181, 88]
   status: SATISFIED
-  time: 0.62
+  time: 0.65
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1185,7 +1185,7 @@
     wfox: [118, 0, 85, 0]
     wgeese: [213, 152, 180, 87]
   status: SATISFIED
-  time: 0.62
+  time: 0.65
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1203,7 +1203,7 @@
     wfox: [118, 0, 84, 0]
     wgeese: [213, 152, 180, 86]
   status: SATISFIED
-  time: 0.64
+  time: 0.66
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1221,7 +1221,7 @@
     wfox: [118, 0, 84, 0]
     wgeese: [213, 152, 179, 85]
   status: SATISFIED
-  time: 0.64
+  time: 0.67
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1239,7 +1239,7 @@
     wfox: [118, 0, 83, 0]
     wgeese: [213, 152, 179, 84]
   status: SATISFIED
-  time: 0.66
+  time: 0.68
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1257,7 +1257,7 @@
     wfox: [118, 0, 83, 0]
     wgeese: [213, 152, 178, 83]
   status: SATISFIED
-  time: 0.66
+  time: 0.69
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1275,7 +1275,7 @@
     wfox: [118, 0, 82, 0]
     wgeese: [213, 152, 178, 82]
   status: SATISFIED
-  time: 0.67
+  time: 0.7
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1293,7 +1293,7 @@
     wfox: [118, 0, 82, 0]
     wgeese: [213, 152, 177, 81]
   status: SATISFIED
-  time: 0.68
+  time: 0.7
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1311,7 +1311,7 @@
     wfox: [118, 0, 81, 0]
     wgeese: [213, 152, 177, 80]
   status: SATISFIED
-  time: 0.69
+  time: 0.71
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1329,7 +1329,7 @@
     wfox: [118, 0, 81, 0]
     wgeese: [213, 152, 176, 79]
   status: SATISFIED
-  time: 0.69
+  time: 0.72
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1347,7 +1347,7 @@
     wfox: [118, 0, 80, 0]
     wgeese: [213, 152, 176, 78]
   status: SATISFIED
-  time: 0.7
+  time: 0.73
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1365,7 +1365,7 @@
     wfox: [118, 0, 80, 0]
     wgeese: [213, 152, 175, 77]
   status: SATISFIED
-  time: 0.71
+  time: 0.73
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1383,7 +1383,7 @@
     wfox: [118, 0, 79, 0]
     wgeese: [213, 152, 175, 76]
   status: SATISFIED
-  time: 0.72
+  time: 0.75
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1401,7 +1401,7 @@
     wfox: [118, 0, 79, 0]
     wgeese: [213, 152, 174, 75]
   status: SATISFIED
-  time: 0.72
+  time: 0.75
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1419,7 +1419,7 @@
     wfox: [118, 0, 78, 0]
     wgeese: [213, 152, 174, 74]
   status: SATISFIED
-  time: 0.73
+  time: 0.76
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1437,7 +1437,7 @@
     wfox: [118, 0, 78, 0]
     wgeese: [213, 152, 173, 73]
   status: SATISFIED
-  time: 0.74
+  time: 0.76
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1455,7 +1455,7 @@
     wfox: [118, 0, 77, 0]
     wgeese: [213, 152, 173, 72]
   status: SATISFIED
-  time: 0.75
+  time: 0.77
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1473,7 +1473,7 @@
     wfox: [118, 0, 77, 0]
     wgeese: [213, 152, 172, 71]
   status: SATISFIED
-  time: 0.75
+  time: 0.78
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1491,7 +1491,7 @@
     wfox: [118, 0, 76, 0]
     wgeese: [213, 152, 172, 70]
   status: SATISFIED
-  time: 0.76
+  time: 0.79
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1509,7 +1509,7 @@
     wfox: [118, 0, 76, 0]
     wgeese: [213, 152, 171, 69]
   status: SATISFIED
-  time: 0.76
+  time: 0.79
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1527,7 +1527,7 @@
     wfox: [118, 0, 75, 0]
     wgeese: [213, 152, 171, 68]
   status: SATISFIED
-  time: 0.77
+  time: 0.8
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1545,7 +1545,7 @@
     wfox: [118, 0, 75, 0]
     wgeese: [213, 152, 170, 67]
   status: SATISFIED
-  time: 0.77
+  time: 0.8
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1563,7 +1563,7 @@
     wfox: [118, 0, 74, 0]
     wgeese: [213, 152, 170, 66]
   status: SATISFIED
-  time: 0.78
+  time: 0.81
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1581,7 +1581,7 @@
     wfox: [118, 0, 74, 0]
     wgeese: [213, 152, 169, 65]
   status: SATISFIED
-  time: 0.79
+  time: 0.82
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1599,7 +1599,7 @@
     wfox: [118, 0, 73, 0]
     wgeese: [213, 152, 169, 64]
   status: SATISFIED
-  time: 0.8
+  time: 0.83
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1617,7 +1617,7 @@
     wfox: [118, 0, 73, 0]
     wgeese: [213, 152, 168, 63]
   status: SATISFIED
-  time: 0.8
+  time: 0.83
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1635,7 +1635,7 @@
     wfox: [118, 0, 72, 0]
     wgeese: [213, 152, 168, 62]
   status: SATISFIED
-  time: 0.81
+  time: 0.84
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1653,7 +1653,7 @@
     wfox: [118, 0, 72, 0]
     wgeese: [213, 152, 167, 61]
   status: SATISFIED
-  time: 0.81
+  time: 0.84
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1671,7 +1671,7 @@
     wfox: [118, 0, 71, 0]
     wgeese: [213, 152, 167, 60]
   status: SATISFIED
-  time: 0.82
+  time: 0.85
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1689,7 +1689,7 @@
     wfox: [118, 0, 71, 0]
     wgeese: [213, 152, 166, 59]
   status: SATISFIED
-  time: 0.82
+  time: 0.85
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1707,7 +1707,7 @@
     wfox: [118, 0, 70, 0]
     wgeese: [213, 152, 166, 58]
   status: SATISFIED
-  time: 0.83
+  time: 0.86
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1725,7 +1725,7 @@
     wfox: [118, 0, 70, 0]
     wgeese: [213, 152, 165, 57]
   status: SATISFIED
-  time: 0.84
+  time: 0.87
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1743,7 +1743,7 @@
     wfox: [118, 0, 69, 0]
     wgeese: [213, 152, 165, 56]
   status: SATISFIED
-  time: 0.84
+  time: 0.88
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1761,7 +1761,7 @@
     wfox: [118, 0, 69, 0]
     wgeese: [213, 152, 164, 55]
   status: SATISFIED
-  time: 0.85
+  time: 0.88
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1779,7 +1779,7 @@
     wfox: [118, 0, 68, 0]
     wgeese: [213, 152, 164, 54]
   status: SATISFIED
-  time: 0.86
+  time: 0.89
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1797,7 +1797,7 @@
     wfox: [118, 0, 68, 0]
     wgeese: [213, 152, 163, 53]
   status: SATISFIED
-  time: 0.86
+  time: 0.89
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1815,7 +1815,7 @@
     wfox: [118, 0, 67, 0]
     wgeese: [213, 152, 163, 52]
   status: SATISFIED
-  time: 0.87
+  time: 0.9
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1833,7 +1833,7 @@
     wfox: [118, 0, 67, 0]
     wgeese: [213, 152, 162, 51]
   status: SATISFIED
-  time: 0.87
+  time: 0.9
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1851,7 +1851,7 @@
     wfox: [118, 0, 66, 0]
     wgeese: [213, 152, 162, 50]
   status: SATISFIED
-  time: 0.88
+  time: 0.91
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1869,7 +1869,7 @@
     wfox: [118, 0, 66, 0]
     wgeese: [213, 152, 161, 49]
   status: SATISFIED
-  time: 0.88
+  time: 0.91
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1887,7 +1887,7 @@
     wfox: [118, 0, 65, 0]
     wgeese: [213, 152, 161, 48]
   status: SATISFIED
-  time: 0.89
+  time: 0.92
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1905,7 +1905,7 @@
     wfox: [118, 0, 65, 0]
     wgeese: [213, 152, 160, 47]
   status: SATISFIED
-  time: 0.89
+  time: 0.93
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1923,7 +1923,7 @@
     wfox: [118, 0, 64, 0]
     wgeese: [213, 152, 160, 46]
   status: SATISFIED
-  time: 0.9
+  time: 0.93
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1941,7 +1941,7 @@
     wfox: [118, 0, 64, 0]
     wgeese: [213, 152, 159, 45]
   status: SATISFIED
-  time: 0.9
+  time: 0.94
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1959,7 +1959,7 @@
     wfox: [118, 0, 63, 0]
     wgeese: [213, 152, 159, 44]
   status: SATISFIED
-  time: 0.91
+  time: 0.95
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1977,7 +1977,7 @@
     wfox: [118, 0, 63, 0]
     wgeese: [213, 152, 158, 43]
   status: SATISFIED
-  time: 0.91
+  time: 0.95
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -1995,7 +1995,7 @@
     wfox: [118, 0, 62, 0]
     wgeese: [213, 152, 158, 42]
   status: SATISFIED
-  time: 0.92
+  time: 0.96
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2013,7 +2013,7 @@
     wfox: [118, 0, 62, 0]
     wgeese: [213, 152, 157, 41]
   status: SATISFIED
-  time: 0.92
+  time: 0.96
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2031,7 +2031,7 @@
     wfox: [118, 0, 61, 0]
     wgeese: [213, 152, 157, 40]
   status: SATISFIED
-  time: 0.93
+  time: 0.97
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2049,7 +2049,7 @@
     wfox: [118, 0, 61, 0]
     wgeese: [213, 152, 156, 39]
   status: SATISFIED
-  time: 0.94
+  time: 0.97
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2067,7 +2067,7 @@
     wfox: [118, 0, 60, 0]
     wgeese: [213, 152, 156, 38]
   status: SATISFIED
-  time: 0.94
+  time: 0.98
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2085,7 +2085,7 @@
     wfox: [118, 0, 60, 0]
     wgeese: [213, 152, 155, 37]
   status: SATISFIED
-  time: 0.95
+  time: 0.98
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2103,7 +2103,7 @@
     wfox: [118, 0, 59, 0]
     wgeese: [213, 152, 155, 36]
   status: SATISFIED
-  time: 0.95
+  time: 0.99
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2121,7 +2121,7 @@
     wfox: [118, 0, 59, 0]
     wgeese: [213, 152, 154, 35]
   status: SATISFIED
-  time: 0.96
+  time: 0.99
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2139,7 +2139,7 @@
     wfox: [118, 0, 58, 0]
     wgeese: [213, 152, 154, 34]
   status: SATISFIED
-  time: 0.96
+  time: 1.0
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2157,7 +2157,7 @@
     wfox: [118, 0, 58, 0]
     wgeese: [213, 152, 153, 33]
   status: SATISFIED
-  time: 0.97
+  time: 1.0
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2175,7 +2175,7 @@
     wfox: [118, 0, 57, 0]
     wgeese: [213, 152, 153, 32]
   status: SATISFIED
-  time: 0.97
+  time: 1.01
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2193,7 +2193,7 @@
     wfox: [118, 0, 57, 0]
     wgeese: [213, 152, 152, 31]
   status: SATISFIED
-  time: 0.98
+  time: 1.01
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2211,7 +2211,7 @@
     wfox: [118, 0, 56, 0]
     wgeese: [213, 152, 152, 30]
   status: SATISFIED
-  time: 0.98
+  time: 1.02
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2229,7 +2229,7 @@
     wfox: [118, 0, 55, 0]
     wgeese: [213, 152, 152, 29]
   status: SATISFIED
-  time: 0.99
+  time: 1.03
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2247,7 +2247,7 @@
     wfox: [118, 0, 54, 0]
     wgeese: [213, 152, 152, 28]
   status: SATISFIED
-  time: 1.0
+  time: 1.03
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2265,7 +2265,7 @@
     wfox: [118, 0, 53, 0]
     wgeese: [213, 152, 152, 27]
   status: SATISFIED
-  time: 1.0
+  time: 1.04
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2283,7 +2283,7 @@
     wfox: [118, 0, 52, 0]
     wgeese: [213, 152, 152, 26]
   status: SATISFIED
-  time: 1.01
+  time: 1.05
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2301,7 +2301,7 @@
     wfox: [118, 0, 51, 0]
     wgeese: [213, 152, 152, 25]
   status: SATISFIED
-  time: 1.01
+  time: 1.05
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2319,7 +2319,7 @@
     wfox: [118, 0, 50, 0]
     wgeese: [213, 152, 152, 24]
   status: SATISFIED
-  time: 1.02
+  time: 1.06
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2337,7 +2337,7 @@
     wfox: [118, 0, 49, 0]
     wgeese: [213, 152, 152, 23]
   status: SATISFIED
-  time: 1.03
+  time: 1.06
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2355,7 +2355,7 @@
     wfox: [118, 0, 48, 0]
     wgeese: [213, 152, 152, 22]
   status: SATISFIED
-  time: 1.03
+  time: 1.07
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2373,7 +2373,7 @@
     wfox: [118, 0, 47, 0]
     wgeese: [213, 152, 152, 21]
   status: SATISFIED
-  time: 1.04
+  time: 1.08
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2391,7 +2391,7 @@
     wfox: [118, 0, 46, 0]
     wgeese: [213, 152, 152, 20]
   status: SATISFIED
-  time: 1.04
+  time: 1.08
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2409,7 +2409,7 @@
     wfox: [118, 0, 45, 0]
     wgeese: [213, 152, 152, 19]
   status: SATISFIED
-  time: 1.05
+  time: 1.09
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2427,7 +2427,7 @@
     wfox: [118, 0, 44, 0]
     wgeese: [213, 152, 152, 18]
   status: SATISFIED
-  time: 1.05
+  time: 1.09
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2445,7 +2445,7 @@
     wfox: [118, 0, 43, 0]
     wgeese: [213, 152, 152, 17]
   status: SATISFIED
-  time: 1.06
+  time: 1.1
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2463,7 +2463,7 @@
     wfox: [118, 0, 42, 0]
     wgeese: [213, 152, 152, 16]
   status: SATISFIED
-  time: 1.06
+  time: 1.1
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2481,7 +2481,7 @@
     wfox: [118, 0, 41, 0]
     wgeese: [213, 152, 152, 15]
   status: SATISFIED
-  time: 1.07
+  time: 1.11
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2499,7 +2499,7 @@
     wfox: [118, 0, 40, 0]
     wgeese: [213, 152, 152, 14]
   status: SATISFIED
-  time: 1.07
+  time: 1.11
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2517,7 +2517,7 @@
     wfox: [118, 0, 39, 0]
     wgeese: [213, 152, 152, 13]
   status: SATISFIED
-  time: 1.08
+  time: 1.12
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2535,7 +2535,7 @@
     wfox: [118, 0, 38, 0]
     wgeese: [213, 152, 152, 12]
   status: SATISFIED
-  time: 1.08
+  time: 1.12
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2553,7 +2553,7 @@
     wfox: [118, 0, 37, 0]
     wgeese: [213, 152, 152, 11]
   status: SATISFIED
-  time: 1.09
+  time: 1.13
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2571,7 +2571,7 @@
     wfox: [118, 0, 36, 0]
     wgeese: [213, 152, 152, 10]
   status: SATISFIED
-  time: 1.09
+  time: 1.13
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2589,7 +2589,7 @@
     wfox: [118, 0, 35, 0]
     wgeese: [213, 152, 152, 9]
   status: SATISFIED
-  time: 1.09
+  time: 1.13
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2607,7 +2607,7 @@
     wfox: [118, 0, 34, 0]
     wgeese: [213, 152, 152, 8]
   status: SATISFIED
-  time: 1.1
+  time: 1.14
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2625,7 +2625,7 @@
     wfox: [118, 0, 33, 0]
     wgeese: [213, 152, 152, 7]
   status: SATISFIED
-  time: 1.1
+  time: 1.14
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2643,7 +2643,7 @@
     wfox: [118, 0, 32, 0]
     wgeese: [213, 152, 152, 6]
   status: SATISFIED
-  time: 1.11
+  time: 1.15
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2661,7 +2661,7 @@
     wfox: [118, 0, 31, 0]
     wgeese: [213, 152, 152, 5]
   status: SATISFIED
-  time: 1.11
+  time: 1.15
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2679,7 +2679,7 @@
     wfox: [118, 0, 30, 0]
     wgeese: [213, 152, 152, 4]
   status: SATISFIED
-  time: 1.11
+  time: 1.16
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2697,7 +2697,7 @@
     wfox: [118, 0, 29, 0]
     wgeese: [213, 152, 152, 3]
   status: SATISFIED
-  time: 1.12
+  time: 1.16
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2715,7 +2715,7 @@
     wfox: [118, 0, 28, 0]
     wgeese: [213, 152, 152, 2]
   status: SATISFIED
-  time: 1.12
+  time: 1.16
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2733,7 +2733,7 @@
     wfox: [118, 0, 27, 0]
     wgeese: [213, 152, 152, 1]
   status: SATISFIED
-  time: 1.12
+  time: 1.16
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2751,7 +2751,7 @@
     wfox: [118, 0, 26, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.13
+  time: 1.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2769,7 +2769,7 @@
     wfox: [118, 0, 25, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.13
+  time: 1.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2787,7 +2787,7 @@
     wfox: [118, 0, 24, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.13
+  time: 1.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2805,7 +2805,7 @@
     wfox: [118, 0, 23, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.13
+  time: 1.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2823,7 +2823,7 @@
     wfox: [118, 0, 22, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.13
+  time: 1.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2841,7 +2841,7 @@
     wfox: [118, 0, 21, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.13
+  time: 1.17
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2859,7 +2859,7 @@
     wfox: [118, 0, 20, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.14
+  time: 1.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2877,7 +2877,7 @@
     wfox: [118, 0, 19, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.15
+  time: 1.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2895,7 +2895,7 @@
     wfox: [118, 0, 18, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.15
+  time: 1.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2913,7 +2913,7 @@
     wfox: [118, 0, 17, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.15
+  time: 1.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2931,7 +2931,7 @@
     wfox: [118, 0, 16, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.15
+  time: 1.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2949,7 +2949,7 @@
     wfox: [118, 0, 15, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.15
+  time: 1.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2967,7 +2967,7 @@
     wfox: [118, 0, 14, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.15
+  time: 1.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -2985,7 +2985,7 @@
     wfox: [118, 0, 13, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.15
+  time: 1.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3003,7 +3003,7 @@
     wfox: [118, 0, 12, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.15
+  time: 1.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3021,7 +3021,7 @@
     wfox: [118, 0, 11, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.15
+  time: 1.19
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3039,7 +3039,7 @@
     wfox: [118, 0, 10, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3057,7 +3057,7 @@
     wfox: [118, 0, 9, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3075,7 +3075,7 @@
     wfox: [118, 0, 8, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3093,7 +3093,7 @@
     wfox: [118, 0, 7, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3111,7 +3111,7 @@
     wfox: [118, 0, 6, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3129,7 +3129,7 @@
     wfox: [118, 0, 5, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3147,7 +3147,7 @@
     wfox: [118, 0, 4, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3165,7 +3165,7 @@
     wfox: [118, 0, 3, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3183,7 +3183,7 @@
     wfox: [118, 0, 2, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3201,7 +3201,7 @@
     wfox: [118, 0, 1, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3219,7 +3219,7 @@
     wfox: [118, 0, 0, 0]
     wgeese: [213, 152, 152, 0]
   status: SATISFIED
-  time: 1.16
+  time: 1.2
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3237,7 +3237,7 @@
     wfox: [118, 116, 117, 0]
     wgeese: [213, 36, 36, 0]
   status: SATISFIED
-  time: 28.53
+  time: 28.54
 - configuration: Gecode
   data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
@@ -3258,4 +3258,4 @@
   time: 29.0
 - {configuration: Gecode, data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_54.dzn,
   model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn, problem: fox-geese-corn, status: OPTIMAL_SOLUTION,
-  time: 29.17}
+  time: 29.18}

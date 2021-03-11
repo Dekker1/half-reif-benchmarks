@@ -27,7 +27,7 @@
     - [4, 4, 1, 1, 1, 4, 4]
     - [1, 1, 2, 2, 2, 4, 4]
   status: SATISFIED
-  time: 10.07
+  time: 10.13
 - {configuration: Gurobi HR, data_file: data/mznc2019/rotating-workforce/Example1242.dzn,
   model: data/mznc2019/rotating-workforce/rotating-workforce.mzn, problem: rotating-workforce,
   status: SATISFIED}

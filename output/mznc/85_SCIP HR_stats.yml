@@ -1,0 +1,19 @@
+configuration: SCIP HR
+data_file: data/mznc2019/rotating-workforce/Example1337.dzn
+evaluatedHalfReifiedConstraints: 304
+evaluatedReifiedConstraints: 1120
+flatBoolVars: 64
+flatIntConstraints: 6410
+flatIntVars: 8096
+flatTime: 3.37711
+method: satisfy
+model: data/mznc2019/rotating-workforce/rotating-workforce.mzn
+nSolutions: 1
+nodes: 166
+objective: 0
+objectiveBound: 0
+paths: 0
+problem: rotating-workforce
+solveTime: 60.2666
+status: SATISFIED
+time: 64.20935163646936

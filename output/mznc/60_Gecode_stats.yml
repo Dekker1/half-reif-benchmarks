@@ -6,8 +6,8 @@ flatBoolConstraints: 2016
 flatBoolVars: 2056
 flatIntConstraints: 2773
 flatIntVars: 1733
-flatTime: 0.246114
-initTime: 0.023195
+flatTime: 0.257629
+initTime: 0.023093
 method: minimize
 model: data/mznc2019/median-string/median_string_dp.mzn
 nSolutions: 11
@@ -20,7 +20,7 @@ propagations: 626037055
 propagators: 4789
 restarts: 0
 solutions: 11
-solveTime: 39.4728
+solveTime: 39.4534
 status: OPTIMAL_SOLUTION
-time: 39.85052028670907
+time: 39.87850166298449
 variables: 3789

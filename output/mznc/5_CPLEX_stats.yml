@@ -1,0 +1,17 @@
+configuration: CPLEX
+data_file: data/mznc2019/amaze/2012-03-19.dzn
+evaluatedReifiedConstraints: 1538
+flatIntConstraints: 1792
+flatIntVars: 2045
+flatTime: 0.275014
+method: satisfy
+model: data/mznc2019/amaze/amaze3.mzn
+nSolutions: 1
+nodes: 653
+objective: 0
+objectiveBound: 0
+paths: 0
+problem: amaze
+solveTime: 5.2983
+status: SATISFIED
+time: 5.686391836032271

@@ -17,7 +17,7 @@
       32, 29, 24, 57, 68, 76, 5, 7, 11, 69, 1, 88, 19, 18, 25, 43, 48, 72, 99, 97,
       92, 90, 13]
   status: SATISFIED
-  time: 1.41
+  time: 1.49
 - configuration: Gecode
   data_file: data/mznc2020/cable_tree_wiring/R189.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -37,7 +37,7 @@
       32, 29, 24, 57, 68, 76, 5, 7, 11, 69, 1, 88, 19, 18, 25, 43, 48, 72, 99, 97,
       92, 90, 13]
   status: SATISFIED
-  time: 1.42
+  time: 1.5
 - configuration: Gecode
   data_file: data/mznc2020/cable_tree_wiring/R189.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -57,7 +57,7 @@
       32, 29, 24, 57, 68, 76, 5, 7, 11, 69, 1, 88, 19, 18, 25, 43, 48, 71, 99, 97,
       92, 90, 13]
   status: SATISFIED
-  time: 1.43
+  time: 1.51
 - configuration: Gecode
   data_file: data/mznc2020/cable_tree_wiring/R189.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -77,7 +77,7 @@
       32, 29, 24, 57, 68, 74, 5, 7, 11, 69, 1, 88, 19, 18, 25, 43, 48, 72, 99, 97,
       92, 90, 13]
   status: SATISFIED
-  time: 1.44
+  time: 1.52
 - configuration: Gecode
   data_file: data/mznc2020/cable_tree_wiring/R189.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -97,6 +97,6 @@
       32, 29, 24, 57, 68, 74, 5, 7, 11, 69, 1, 88, 19, 18, 25, 43, 48, 71, 99, 97,
       92, 90, 13]
   status: SATISFIED
-  time: 417.63
+  time: 422.77
 - {configuration: Gecode, data_file: data/mznc2020/cable_tree_wiring/R189.dzn, model: data/mznc2020/cable_tree_wiring/ctw.mzn,
   problem: cable_tree_wiring, status: SATISFIED}

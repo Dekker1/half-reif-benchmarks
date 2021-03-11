@@ -6,8 +6,8 @@ flatBoolConstraints: 48
 flatBoolVars: 120
 flatIntConstraints: 158
 flatIntVars: 100
-flatTime: 0.120868
-initTime: 0.00586
+flatTime: 0.125515
+initTime: 0.005862
 method: minimize
 model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn
 nSolutions: 311
@@ -16,11 +16,11 @@ objective: 165922
 paths: 0
 peakDepth: 29
 problem: liner-sf-repositioning
-propagations: 1600629
+propagations: 1600631
 propagators: 218
 restarts: 0
 solutions: 311
-solveTime: 5.96548
+solveTime: 6.10435
 status: OPTIMAL_SOLUTION
-time: 6.160263640806079
+time: 6.335721526294947
 variables: 244

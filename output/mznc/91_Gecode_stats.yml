@@ -3,8 +3,8 @@ data_file: ''
 failures: 1220423
 flatIntConstraints: 37
 flatIntVars: 52
-flatTime: 0.110463
-initTime: 0.003863
+flatTime: 0.117262
+initTime: 0.003946
 method: minimize
 model: data/mznc2019/liner-sf-repositioning/tp7_4.mzn
 nSolutions: 251
@@ -17,7 +17,7 @@ propagations: 102812362
 propagators: 45
 restarts: 0
 solutions: 251
-solveTime: 80.6427
+solveTime: 80.9876
 status: OPTIMAL_SOLUTION
-time: 80.84447992406785
+time: 81.24039377830923
 variables: 60

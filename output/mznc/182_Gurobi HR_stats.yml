@@ -4,11 +4,10 @@ evaluatedHalfReifiedConstraints: 5597
 evaluatedReifiedConstraints: 16052
 flatIntConstraints: 64828
 flatIntVars: 29740
-flatTime: 11.9603
+flatTime: 11.8918
 method: minimize
 model: data/mznc2020/racp/racp.mzn
-objective: 529
 paths: 0
 problem: racp
 status: UNKNOWN
-time: 1201.20092510432
+time: 1201.1995147299021

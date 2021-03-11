@@ -1,0 +1,15 @@
+- configuration: SCIP
+  data_file: data/mznc2019/accap/accap_instance5.dzn
+  model: data/mznc2019/accap/accap.mzn
+  problem: accap
+  solution:
+    D: 40
+    S: [10, 7, 14, 20, 6, 7]
+    objective: 104
+    yCoor: [5, 4, 32, 30, 16, 19, 24, 8, 18, 1, 18, 36, 31, 19, 17, 6, 35, 1, 27,
+      6, 12, 19, 5, 27, 26, 8, 12, 11, 26, 8, 24, 7, 27, 26, 31, 20, 9, 24, 20, 16,
+      19, 6, 20, 4, 1, 25, 1, 11, 24, 15]
+  status: SATISFIED
+  time: 1200.04
+- {configuration: SCIP, data_file: data/mznc2019/accap/accap_instance5.dzn, model: data/mznc2019/accap/accap.mzn,
+  problem: accap, status: SATISFIED}

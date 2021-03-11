@@ -20,6 +20,6 @@
     sosActBCost: [0, 0, 0, 0, 0, 0]
     sosActSavings: [0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 627.32
+  time: 630.71
 - {configuration: Gurobi, data_file: '', model: data/mznc2019/liner-sf-repositioning/fm3_3.mzn,
-  problem: liner-sf-repositioning, status: OPTIMAL_SOLUTION, time: 627.32}
+  problem: liner-sf-repositioning, status: OPTIMAL_SOLUTION, time: 630.71}

@@ -7,7 +7,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 0]
     objective: 44
   status: SATISFIED
-  time: 0.32
+  time: 0.33
 - configuration: Gecode
   data_file: data/mznc2019/median-string/p2_10_8-0.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -17,7 +17,7 @@
     median: [0, 0, 0, 0, 0, 0, 0, 2]
     objective: 38
   status: SATISFIED
-  time: 0.32
+  time: 0.34
 - configuration: Gecode
   data_file: data/mznc2019/median-string/p2_10_8-0.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -27,7 +27,7 @@
     median: [0, 3, 0, 0, 0, 0, 0, 2]
     objective: 37
   status: SATISFIED
-  time: 4.98
+  time: 5.02
 - configuration: Gecode
   data_file: data/mznc2019/median-string/p2_10_8-0.dzn
   model: data/mznc2019/median-string/median_string_dp.mzn
@@ -37,6 +37,6 @@
     median: [1, 0, 0, 0, 0, 0, 0, 2]
     objective: 34
   status: SATISFIED
-  time: 8.08
+  time: 8.13
 - {configuration: Gecode, data_file: data/mznc2019/median-string/p2_10_8-0.dzn, model: data/mznc2019/median-string/median_string_dp.mzn,
-  problem: median-string, status: OPTIMAL_SOLUTION, time: 39.0}
+  problem: median-string, status: OPTIMAL_SOLUTION, time: 39.16}

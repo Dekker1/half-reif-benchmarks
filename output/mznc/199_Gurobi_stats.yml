@@ -3,10 +3,10 @@ data_file: ''
 evaluatedReifiedConstraints: 5160
 flatIntConstraints: 11562
 flatIntVars: 5611
-flatTime: 21.0041
+flatTime: 20.8105
 method: minimize
 model: data/mznc2020/bnn-planner/cellda_y_10s.mzn
 paths: 0
 problem: bnn-planner
 status: UNKNOWN
-time: 1201.2331418152899
+time: 1201.2339504808187

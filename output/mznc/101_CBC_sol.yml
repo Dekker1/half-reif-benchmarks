@@ -1,2 +1,2 @@
 - {configuration: CBC, data_file: data/mznc2020/sdn-chain/d26n600-2.dzn, model: data/mznc2020/sdn-chain/model.mzn,
-  problem: sdn-chain, status: UNKNOWN, time: 1009.61}
+  problem: sdn-chain, status: UNKNOWN, time: 764.5}

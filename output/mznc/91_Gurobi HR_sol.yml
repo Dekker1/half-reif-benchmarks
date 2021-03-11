@@ -17,6 +17,6 @@
     poAct7: 4
     reposType: [1, 1, 1, 1, 1, 1, 1, 1]
   status: SATISFIED
-  time: 1200.16
+  time: 1200.17
 - {configuration: Gurobi HR, data_file: '', model: data/mznc2019/liner-sf-repositioning/tp7_4.mzn,
   problem: liner-sf-repositioning, status: SATISFIED}

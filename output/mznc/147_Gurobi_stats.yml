@@ -3,7 +3,7 @@ data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_3m_3.dzn
 evaluatedReifiedConstraints: 74750
 flatIntConstraints: 251355
 flatIntVars: 160362
-flatTime: 39.5944
+flatTime: 37.1681
 method: minimize
 model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
 nSolutions: 1
@@ -12,6 +12,6 @@ objective: 2
 objectiveBound: 2
 paths: 0
 problem: skill-allocation
-solveTime: 58.0764
+solveTime: 60.1474
 status: OPTIMAL_SOLUTION
-time: 107.54077954217792
+time: 106.99704140610993

@@ -1,0 +1,13 @@
+configuration: CPLEX
+data_file: data/mznc2019/groupsplitter/u9g1pref1.dzn
+error: "MIPCplexWrapper runtime error:  Failed to optimize MIP.  CPLEX Error  1001:\
+  \ Out of memory.\n\nTERMINATING.\n  MIPCplexWrapper runtime error:  Failed to optimize\
+  \ MIP.  CPLEX Error  1001: Out of memory."
+flatIntConstraints: 289
+flatIntVars: 2616249
+flatTime: 256.026
+method: maximize
+model: data/mznc2019/groupsplitter/group.mzn
+paths: 0
+problem: groupsplitter
+status: ERROR

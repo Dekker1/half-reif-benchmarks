@@ -45,6 +45,6 @@
       - [0, 0, 0, 0, 0]
     objective: 338
   status: SATISFIED
-  time: 0.15
+  time: 0.17
 - {configuration: CBC, data_file: data/mznc2020/radiation/i6-9.dzn, model: data/mznc2020/radiation/radiation.mzn,
-  problem: radiation, status: OPTIMAL_SOLUTION, time: 0.16}
+  problem: radiation, status: OPTIMAL_SOLUTION, time: 0.18}

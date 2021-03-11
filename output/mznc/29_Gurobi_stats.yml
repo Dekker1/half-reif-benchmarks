@@ -3,7 +3,7 @@ data_file: data/mznc2019/ptv/pax_period_20_5b.dzn
 evaluatedReifiedConstraints: 1052
 flatIntConstraints: 1156
 flatIntVars: 3254
-flatTime: 1.15251
+flatTime: 1.15716
 method: minimize
 model: data/mznc2019/ptv/pax_model.mzn
 nSolutions: 1
@@ -12,6 +12,6 @@ objective: 2897
 objectiveBound: 2897
 paths: 0
 problem: ptv
-solveTime: 0.0135
+solveTime: 0.0137
 status: OPTIMAL_SOLUTION
-time: 1.3102938421070576
+time: 1.3436412941664457

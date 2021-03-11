@@ -41,6 +41,6 @@
       false, false]
     succ: [9, 12, 10, 13, 5, 14, 8, 11, 2, 1, 4, 3, 7, 6, 0]
   status: SATISFIED
-  time: 968.35
+  time: 982.82
 - {configuration: CBC HR, data_file: data/mznc2020/is/Ws5Q6fhGi5.dzn, model: data/mznc2020/is/model.mzn,
-  problem: is, status: OPTIMAL_SOLUTION, time: 968.37}
+  problem: is, status: OPTIMAL_SOLUTION, time: 982.84}

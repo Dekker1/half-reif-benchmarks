@@ -3,7 +3,7 @@ data_file: ''
 evaluatedReifiedConstraints: 2088
 flatIntConstraints: 3981
 flatIntVars: 2007
-flatTime: 4.15515
+flatTime: 4.40871
 method: minimize
 model: data/mznc2020/bnn-planner/inventory_4_8s.mzn
 nSolutions: 1
@@ -12,6 +12,6 @@ objective: 17
 objectiveBound: 17
 paths: 0
 problem: bnn-planner
-solveTime: 1.885
+solveTime: 1.8448
 status: OPTIMAL_SOLUTION
-time: 6.66325644031167
+time: 6.905407635495067

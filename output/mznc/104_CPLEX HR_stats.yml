@@ -1,0 +1,20 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/sdn-chain/d10n780-1.dzn
+eliminatedLinearConstraints: 2658
+evaluatedHalfReifiedConstraints: 6045
+evaluatedReifiedConstraints: 3411
+flatBoolVars: 1558
+flatIntConstraints: 29462
+flatIntVars: 16014
+flatTime: 5.21024
+method: minimize
+model: data/mznc2020/sdn-chain/model.mzn
+nSolutions: 1
+nodes: 0
+objective: 10
+objectiveBound: 10
+paths: 0
+problem: sdn-chain
+solveTime: 1.8996
+status: OPTIMAL_SOLUTION
+time: 8.245504576712847

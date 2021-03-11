@@ -4,10 +4,10 @@ evaluatedReifiedConstraints: 76050
 flatBoolVars: 25200
 flatIntConstraints: 76391
 flatIntVars: 61079
-flatTime: 15.5881
+flatTime: 16.1261
 method: minimize
 model: data/mznc2020/p1f-pjs/p1f-pjs.mzn
 paths: 0
 problem: p1f-pjs
 status: UNKNOWN
-time: 1201.2082448024303
+time: 1201.1950019523501

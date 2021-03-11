@@ -1,15 +1,2 @@
-- configuration: CBC HR
-  data_file: data/mznc2020/racp/j60_10_6_1.25.dzn
-  model: data/mznc2020/racp/racp.mzn
-  problem: racp
-  solution:
-    objective: 1295
-    rcap: [45, 39, 40, 55]
-    s: [13, 0, 34, 2, 5, 24, 26, 7, 34, 19, 25, 22, 11, 24, 37, 22, 31, 43, 33, 25,
-      34, 55, 10, 38, 32, 49, 44, 43, 43, 50, 43, 35, 45, 57, 48, 36, 48, 57, 56,
-      71, 12, 45, 44, 59, 58, 65, 69, 65, 36, 70, 51, 49, 50, 58, 59, 68, 72, 75,
-      81, 81]
-  status: SATISFIED
-  time: 1123.97
 - {configuration: CBC HR, data_file: data/mznc2020/racp/j60_10_6_1.25.dzn, model: data/mznc2020/racp/racp.mzn,
-  problem: racp, status: SATISFIED}
+  problem: racp, status: UNKNOWN, time: 1165.95}

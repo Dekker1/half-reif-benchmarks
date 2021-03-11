@@ -4,7 +4,7 @@ evaluatedHalfReifiedConstraints: 386
 evaluatedReifiedConstraints: 1092
 flatIntConstraints: 2315
 flatIntVars: 1815
-flatTime: 0.354408
+flatTime: 0.350214
 method: satisfy
 model: data/mznc2019/amaze/amaze3.mzn
 nSolutions: 1
@@ -13,6 +13,6 @@ objective: 0
 objectiveBound: 0
 paths: 0
 problem: amaze
-solveTime: 0.0268
+solveTime: 0.0255
 status: SATISFIED
-time: 0.49571393243968487
+time: 0.5090564414858818

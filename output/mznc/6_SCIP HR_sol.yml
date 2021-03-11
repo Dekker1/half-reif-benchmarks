@@ -1,0 +1,2 @@
+- {configuration: SCIP HR, data_file: data/mznc2019/nside/MEDIUM_1000_100.dzn, model: data/mznc2019/nside/full.mzn,
+  problem: nside, status: UNKNOWN}

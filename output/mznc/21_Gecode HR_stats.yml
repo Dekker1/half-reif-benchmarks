@@ -3,8 +3,8 @@ data_file: data/mznc2019/multi-knapsack/mknap1-5.dzn
 failures: 174678
 flatIntConstraints: 11
 flatIntVars: 45
-flatTime: 0.041826
-initTime: 0.000742
+flatTime: 0.040858
+initTime: 0.000713
 method: maximize
 model: data/mznc2019/multi-knapsack/mknapsack_global.mzn
 nSolutions: 1
@@ -17,7 +17,7 @@ propagations: 3974308
 propagators: 11
 restarts: 0
 solutions: 1
-solveTime: 1.03457
+solveTime: 1.02823
 status: OPTIMAL_SOLUTION
-time: 1.138361506164074
+time: 1.1558449529111385
 variables: 45

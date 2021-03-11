@@ -1,0 +1,20 @@
+configuration: SCIP HR
+data_file: data/mznc2020/minimal-decision-sets/breast-cancer_train4.dzn
+eliminatedLinearConstraints: 916
+evaluatedHalfReifiedConstraints: 1843
+evaluatedReifiedConstraints: 2755
+flatIntConstraints: 20324
+flatIntVars: 17084
+flatTime: 3.82539
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+nSolutions: 1
+nodes: 4901
+objective: 102
+objectiveBound: 75.3333333333
+openNodes: 44
+paths: 0
+problem: minimal-decision-sets
+solveTime: 1196.1578
+status: SATISFIED
+time: 1201.1107963956892

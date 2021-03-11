@@ -1,0 +1,20 @@
+configuration: SCIP HR
+data_file: data/mznc2020/lot-sizing/pigment15b.psp.dzn
+evaluatedHalfReifiedConstraints: 182
+evaluatedReifiedConstraints: 684
+flatBoolVars: 195
+flatIntConstraints: 1228
+flatIntVars: 3798
+flatTime: 0.406222
+method: minimize
+model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
+nSolutions: 1
+nodes: 103271
+objective: 1179
+objectiveBound: 486.666666667
+openNodes: 7828
+paths: 0
+problem: lot-sizing
+solveTime: 1199.5685
+status: SATISFIED
+time: 1200.4606041237712

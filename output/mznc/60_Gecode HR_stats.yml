@@ -8,8 +8,8 @@ flatBoolConstraints: 1008
 flatBoolVars: 1048
 flatIntConstraints: 2773
 flatIntVars: 1733
-flatTime: 0.251711
-initTime: 0.016966
+flatTime: 0.252811
+initTime: 0.017013
 method: minimize
 model: data/mznc2019/median-string/median_string_dp.mzn
 nSolutions: 11
@@ -18,11 +18,11 @@ objective: 36
 paths: 0
 peakDepth: 18
 problem: median-string
-propagations: 473613757
+propagations: 473632244
 propagators: 3781
 restarts: 0
 solutions: 11
-solveTime: 30.9356
+solveTime: 30.9005
 status: OPTIMAL_SOLUTION
-time: 31.30568473227322
+time: 31.303958112373948
 variables: 2781

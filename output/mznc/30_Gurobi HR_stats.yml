@@ -5,7 +5,7 @@ evaluatedHalfReifiedConstraints: 103
 evaluatedReifiedConstraints: 3302
 flatIntConstraints: 3361
 flatIntVars: 5601
-flatTime: 1.54748
+flatTime: 1.54876
 method: minimize
 model: data/mznc2019/ptv/pax_model.mzn
 nSolutions: 1
@@ -14,6 +14,6 @@ objective: 1521
 objectiveBound: 1521
 paths: 0
 problem: ptv
-solveTime: 1.4256
+solveTime: 1.4258
 status: OPTIMAL_SOLUTION
-time: 3.1952571757137775
+time: 3.2296812999993563

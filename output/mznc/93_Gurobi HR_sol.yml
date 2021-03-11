@@ -15,6 +15,6 @@
     poAct5: 0
     reposType: [1, 1, 1, 1, 1, 1]
   status: SATISFIED
-  time: 1200.13
+  time: 1200.12
 - {configuration: Gurobi HR, data_file: '', model: data/mznc2019/liner-sf-repositioning/fm3_0.mzn,
   problem: liner-sf-repositioning, status: SATISFIED}

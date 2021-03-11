@@ -1,0 +1,12 @@
+configuration: SCIP HR
+data_file: data/mznc2019/accap/accap_instance9.dzn
+evaluatedHalfReifiedConstraints: 18818
+flatIntConstraints: 37218
+flatIntVars: 19350
+flatTime: 27.1581
+method: minimize
+model: data/mznc2019/accap/accap.mzn
+paths: 0
+problem: accap
+status: UNKNOWN
+time: 1201.3137225806713

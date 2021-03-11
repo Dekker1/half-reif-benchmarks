@@ -2,7 +2,7 @@ configuration: Gurobi HR
 data_file: data/mznc2019/triangular/n10.dzn
 flatIntConstraints: 496
 flatIntVars: 56
-flatTime: 0.063045
+flatTime: 0.067137
 method: maximize
 model: data/mznc2019/triangular/triangular.mzn
 nSolutions: 1
@@ -11,6 +11,6 @@ objective: 20
 objectiveBound: 20
 paths: 0
 problem: triangular
-solveTime: 7.5645
+solveTime: 7.6124
 status: OPTIMAL_SOLUTION
-time: 7.679209753870964
+time: 7.762745574116707

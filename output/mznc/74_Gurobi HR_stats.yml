@@ -5,7 +5,7 @@ evaluatedHalfReifiedConstraints: 496
 evaluatedReifiedConstraints: 307
 flatIntConstraints: 3220
 flatIntVars: 1783
-flatTime: 0.441864
+flatTime: 0.485865
 method: maximize
 model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
 nSolutions: 1
@@ -14,6 +14,6 @@ objective: 27
 objectiveBound: 27
 paths: 0
 problem: fox-geese-corn
-solveTime: 143.2152
+solveTime: 146.9678
 status: OPTIMAL_SOLUTION
-time: 143.79019941948354
+time: 147.6437448002398

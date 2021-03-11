@@ -2,10 +2,10 @@ configuration: CBC
 data_file: data/mznc2019/groupsplitter/u6g1pref1.dzn
 flatIntConstraints: 193
 flatIntVars: 1401825
-flatTime: 145.248
+flatTime: 145.91
 method: maximize
 model: data/mznc2019/groupsplitter/group.mzn
 paths: 0
 problem: groupsplitter
 status: UNKNOWN
-time: 1201.7796068247408
+time: 1201.8444537315518

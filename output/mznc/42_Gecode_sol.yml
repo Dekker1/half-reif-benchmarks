@@ -15,7 +15,7 @@
     - [2, 3, 4, 5, 8, 12, 6, 9, 7, 1, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 0.06
+  time: 0.08
 - configuration: Gecode
   data_file: ''
   model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
@@ -33,7 +33,7 @@
     - [2, 3, 4, 12, 1, 7, 9, 5, 8, 6, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 0.07
+  time: 0.09
 - configuration: Gecode
   data_file: ''
   model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
@@ -51,7 +51,7 @@
     - [2, 3, 5, 1, 8, 7, 9, 6, 12, 4, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 0.07
+  time: 0.1
 - configuration: Gecode
   data_file: ''
   model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
@@ -69,7 +69,7 @@
     - [2, 3, 5, 1, 8, 12, 6, 9, 7, 4, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 0.08
+  time: 0.1
 - configuration: Gecode
   data_file: ''
   model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
@@ -87,7 +87,7 @@
     - [2, 3, 5, 1, 8, 12, 6, 9, 7, 4, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 15.86
+  time: 15.95
 - configuration: Gecode
   data_file: ''
   model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
@@ -105,7 +105,7 @@
     - [2, 3, 5, 1, 8, 7, 9, 6, 12, 4, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 25.71
+  time: 25.83
 - configuration: Gecode
   data_file: ''
   model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
@@ -123,7 +123,7 @@
     - [2, 3, 5, 1, 8, 12, 6, 9, 7, 4, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 25.71
+  time: 25.84
 - configuration: Gecode
   data_file: ''
   model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
@@ -141,7 +141,7 @@
     - [2, 3, 5, 1, 8, 12, 6, 9, 7, 4, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 114.2
+  time: 114.72
 - configuration: Gecode
   data_file: ''
   model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
@@ -159,7 +159,7 @@
     - [2, 3, 5, 1, 8, 7, 9, 6, 12, 4, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 236.39
+  time: 237.4
 - configuration: Gecode
   data_file: ''
   model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
@@ -177,7 +177,7 @@
     - [2, 3, 5, 1, 8, 12, 6, 9, 7, 4, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 236.4
+  time: 237.4
 - configuration: Gecode
   data_file: ''
   model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn
@@ -195,6 +195,6 @@
     - [2, 3, 5, 1, 8, 12, 6, 9, 7, 4, 13, 11, 10]
     vehicle: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 539.45
+  time: 541.8
 - {configuration: Gecode, data_file: '', model: data/mznc2019/stochastic-vrp/vrp-s2-v2-c9_vrp-v2-c9_det.mzn,
   problem: stochastic-vrp, status: SATISFIED}

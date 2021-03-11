@@ -3,10 +3,10 @@ data_file: data/mznc2020/racp/j60_10_6_1.25.dzn
 evaluatedReifiedConstraints: 23384
 flatIntConstraints: 74785
 flatIntVars: 31543
-flatTime: 11.606
+flatTime: 11.7165
 method: minimize
 model: data/mznc2020/racp/racp.mzn
 paths: 0
 problem: racp
 status: UNKNOWN
-time: 1201.2493250221014
+time: 1201.2386299800128

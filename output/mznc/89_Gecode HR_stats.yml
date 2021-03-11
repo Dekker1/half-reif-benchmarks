@@ -1,17 +1,17 @@
 configuration: Gecode HR
 data_file: data/mznc2019/code-generator/mips_gobmk.helpers.dragon_weak.dzn
 eliminatedImplications: 1532
-evaluatedHalfReifiedConstraints: 42903
+evaluatedHalfReifiedConstraints: 42908
 evaluatedReifiedConstraints: 8414
 flatBoolConstraints: 14192
-flatBoolVars: 48731
-flatIntConstraints: 57498
+flatBoolVars: 48736
+flatIntConstraints: 57503
 flatIntVars: 8227
-flatTime: 6.50696
+flatTime: 6.52619
 method: minimize
 model: data/mznc2019/code-generator/unison.mzn
 objective: 350
 paths: 0
 problem: code-generator
 status: SATISFIED
-time: 1201.1722507495433
+time: 1201.171803187579

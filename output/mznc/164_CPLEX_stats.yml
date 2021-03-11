@@ -1,0 +1,13 @@
+configuration: CPLEX
+data_file: data/mznc2020/collaborative-construction/455.dzn
+evaluatedReifiedConstraints: 26116
+flatBoolVars: 5904
+flatIntConstraints: 113568
+flatIntVars: 45651
+flatTime: 17.5231
+method: minimize
+model: data/mznc2020/collaborative-construction/macc.mzn
+paths: 0
+problem: collaborative-construction
+status: UNKNOWN
+time: 1201.2472679540515

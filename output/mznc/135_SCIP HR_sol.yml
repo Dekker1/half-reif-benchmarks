@@ -1,0 +1,11 @@
+- configuration: SCIP HR
+  data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn
+  model: data/mznc2020/tower_challenge/tower.mzn
+  problem: tower_challenge
+  solution:
+    objective: 33
+    power: [9, 5, 6, 4, 7, 3, 2, 7, 8, 3, 9, 1, 5, 1, 3]
+  status: SATISFIED
+  time: 1200.25
+- {configuration: SCIP HR, data_file: data/mznc2020/tower_challenge/tower_070_070_15_100-04.dzn,
+  model: data/mznc2020/tower_challenge/tower.mzn, problem: tower_challenge, status: SATISFIED}

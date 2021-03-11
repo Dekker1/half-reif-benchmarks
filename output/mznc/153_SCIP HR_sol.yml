@@ -1,0 +1,2 @@
+- {configuration: SCIP HR, data_file: data/mznc2020/p1f-pjs/10.dzn, model: data/mznc2020/p1f-pjs/p1f-pjs.mzn,
+  problem: p1f-pjs, status: UNKNOWN, time: 1200.45}

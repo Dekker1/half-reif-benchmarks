@@ -1,0 +1,16 @@
+configuration: CPLEX
+data_file: data/mznc2019/triangular/n10.dzn
+flatIntConstraints: 496
+flatIntVars: 56
+flatTime: 0.067289
+method: maximize
+model: data/mznc2019/triangular/triangular.mzn
+nSolutions: 1
+nodes: 15921
+objective: 20
+objectiveBound: 20
+paths: 0
+problem: triangular
+solveTime: 5.0786
+status: OPTIMAL_SOLUTION
+time: 5.225457990542054

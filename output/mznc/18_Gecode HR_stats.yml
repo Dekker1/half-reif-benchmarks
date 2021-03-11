@@ -3,8 +3,8 @@ data_file: data/mznc2019/triangular/n10.dzn
 failures: 34536292
 flatIntConstraints: 496
 flatIntVars: 56
-flatTime: 0.047947
-initTime: 0.002754
+flatTime: 0.050225
+initTime: 0.002794
 method: maximize
 model: data/mznc2019/triangular/triangular.mzn
 nSolutions: 4
@@ -17,7 +17,7 @@ propagations: 3076402231
 propagators: 496
 restarts: 0
 solutions: 4
-solveTime: 306.654
+solveTime: 310.783
 status: OPTIMAL_SOLUTION
-time: 306.7657387498766
+time: 310.9539145231247
 variables: 101

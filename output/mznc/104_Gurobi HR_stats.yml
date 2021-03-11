@@ -6,7 +6,7 @@ evaluatedReifiedConstraints: 3411
 flatBoolVars: 1558
 flatIntConstraints: 29462
 flatIntVars: 16014
-flatTime: 5.34703
+flatTime: 5.26896
 method: minimize
 model: data/mznc2020/sdn-chain/model.mzn
 nSolutions: 1
@@ -15,6 +15,6 @@ objective: 10
 objectiveBound: 10
 paths: 0
 problem: sdn-chain
-solveTime: 1.6605
+solveTime: 1.6507
 status: OPTIMAL_SOLUTION
-time: 8.19787696748972
+time: 8.050693796947598

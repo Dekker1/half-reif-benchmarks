@@ -3,7 +3,7 @@ data_file: data/mznc2019/groupsplitter/u9g1pref1.dzn
 error: std::bad_alloc
 flatIntConstraints: 289
 flatIntVars: 2616249
-flatTime: 505.903
+flatTime: 258.72
 method: maximize
 model: data/mznc2019/groupsplitter/group.mzn
 paths: 0

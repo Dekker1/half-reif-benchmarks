@@ -14,7 +14,7 @@
     - [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0]
     - [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 7.99
+  time: 7.98
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -31,7 +31,7 @@
     - [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0]
     - [1, 1, 1, 1, 2, 1, 1, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 8.0
+  time: 7.99
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -48,7 +48,7 @@
     - [0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0]
     - [1, 1, 1, 1, 2, 1, 0, 1, 0, 0, 0, 0]
   status: SATISFIED
-  time: 8.0
+  time: 7.99
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -65,7 +65,7 @@
     - [0, 0, 0, 0, 0, 0, 1, 1, 2, 1, 0, 0]
     - [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0]
   status: SATISFIED
-  time: 8.0
+  time: 7.99
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -82,7 +82,7 @@
     - [0, 0, 0, 0, 0, 1, 0, 1, 2, 1, 0, 0]
     - [1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0]
   status: SATISFIED
-  time: 8.0
+  time: 7.99
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -99,7 +99,7 @@
     - [0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0]
     - [1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0]
   status: SATISFIED
-  time: 8.02
+  time: 8.01
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -116,7 +116,7 @@
     - [0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0]
     - [1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0]
   status: SATISFIED
-  time: 8.02
+  time: 8.01
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -133,7 +133,7 @@
     - [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0]
     - [1, 1, 1, 1, 2, 1, 1, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 10.62
+  time: 10.6
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -150,7 +150,7 @@
     - [0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0]
     - [1, 1, 1, 1, 2, 1, 0, 1, 0, 0, 0, 0]
   status: SATISFIED
-  time: 10.63
+  time: 10.6
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -167,7 +167,7 @@
     - [0, 0, 0, 0, 0, 0, 1, 1, 2, 1, 0, 0]
     - [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0]
   status: SATISFIED
-  time: 10.63
+  time: 10.6
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -184,7 +184,7 @@
     - [0, 0, 0, 0, 0, 1, 0, 1, 2, 1, 0, 0]
     - [1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0]
   status: SATISFIED
-  time: 10.64
+  time: 10.61
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -201,7 +201,7 @@
     - [0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0]
     - [1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0]
   status: SATISFIED
-  time: 10.64
+  time: 10.62
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -218,7 +218,7 @@
     - [0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0]
     - [1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0]
   status: SATISFIED
-  time: 10.65
+  time: 10.63
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -235,7 +235,7 @@
     - [0, 0, 0, 0, 0, 1, 0, 1, 2, 1, 0, 0]
     - [1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0]
   status: SATISFIED
-  time: 13.88
+  time: 13.83
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -252,7 +252,7 @@
     - [0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0]
     - [1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0]
   status: SATISFIED
-  time: 13.89
+  time: 13.84
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -269,7 +269,7 @@
     - [0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0]
     - [1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0]
   status: SATISFIED
-  time: 13.9
+  time: 13.85
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -286,7 +286,7 @@
     - [0, 0, 0, 0, 0, 0, 1, 1, 2, 1, 0, 0]
     - [1, 1, 1, 1, 2, 1, 1, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 23.67
+  time: 23.56
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -303,7 +303,7 @@
     - [0, 0, 0, 0, 0, 0, 1, 1, 2, 1, 0, 0]
     - [2, 1, 1, 2, 2, 1, 0, 0, 0, 0, 0, 0]
   status: SATISFIED
-  time: 23.67
+  time: 23.56
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -320,7 +320,7 @@
     - [0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 0, 0]
     - [1, 1, 1, 1, 2, 1, 0, 0, 1, 0, 0, 0]
   status: SATISFIED
-  time: 23.68
+  time: 23.56
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -337,7 +337,7 @@
     - [0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0]
     - [1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1]
   status: SATISFIED
-  time: 27.61
+  time: 27.47
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -354,7 +354,7 @@
     - [0, 0, 0, 0, 0, 0, 2, 0, 2, 0, 1, 0]
     - [1, 1, 1, 1, 2, 1, 0, 1, 0, 0, 0, 0]
   status: SATISFIED
-  time: 82.22
+  time: 81.77
 - configuration: Gecode HR
   data_file: data/mznc2019/stack-cuttingstock/d7.dzn
   model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn
@@ -371,6 +371,6 @@
     - [0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 1, 0]
     - [2, 1, 1, 1, 1, 0, 0, 0, 2, 0, 0, 0]
   status: SATISFIED
-  time: 145.98
+  time: 145.09
 - {configuration: Gecode HR, data_file: data/mznc2019/stack-cuttingstock/d7.dzn, model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn,
   problem: stack-cuttingstock, status: SATISFIED}

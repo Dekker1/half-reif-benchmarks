@@ -20,7 +20,7 @@ propagations: 114605792
 propagators: 161
 restarts: 0
 solutions: 35
-solveTime: 37.1526
+solveTime: 37.2719
 status: OPTIMAL_SOLUTION
-time: 37.25451050326228
+time: 37.40548411011696
 variables: 112

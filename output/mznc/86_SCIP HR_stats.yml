@@ -1,0 +1,52 @@
+configuration: SCIP HR
+data_file: data/mznc2019/code-generator/mips_mesa.shapes.auxWireBox.dzn
+eliminatedLinearConstraints: 2682
+error: "LinEqGraph: eqn between X_INTRODUCED_8093_ && X_INTRODUCED_33709_ is repeated.\
+  \ \nLinEqGraph: eqn between X_INTRODUCED_33709_ && X_INTRODUCED_8093_ is repeated.\
+  \ \n25622 POSTs [ 9840,0,0,0,0,634,12043,0,0,0, ], LINEQ [ 2326,0,0,0,3838,1850,0,0,1341,\
+  \ ], 6109 / 9079 vars, 3416 cliques, 1 / 6.31206 / 75 NSubIntv m/a/m, 0 / 2.06818\
+  \ / 297 SubIntvSize m/a/m, 2596+491(491) clq eq_encoded 0.111111--9 abs coefs ...\
+  \ \n  WARNING: \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/code-generator/unison.mzn:589.14:\n\
+  \  Variable `r' shadows variable with the same name in line 283.34\n\n  WARNING:\
+  \ \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/code-generator/unison.mzn:773.33:\n\
+  \  Variable `k' shadows variable with the same name in line 768.10\n\n  WARNING:\
+  \ \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/code-generator/unison.mzn:816.55:\n\
+  \  Variable `r' shadows variable with the same name in line 283.34\n\n  WARNING:\
+  \ \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/code-generator/unison.mzn:905.29:\n\
+  \  Variable `p' shadows variable with the same name in line 902.12\n\n  WARNING:\
+  \ \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/code-generator/unison.mzn:907.29:\n\
+  \  Variable `p' shadows variable with the same name in line 902.12\n\n  WARNING:\
+  \ \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/code-generator/unison.mzn:968.18:\n\
+  \  Variable `range' shadows variable with the same name in line 99.27\n\n  WARNING:\
+  \ \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/code-generator/unison.mzn:971.52:\n\
+  \  Variable `j' shadows variable with the same name in line 964.12\n\n  WARNING:\
+  \ \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/code-generator/unison.mzn:970.62:\n\
+  \  Variable `j' shadows variable with the same name in line 964.12\n\n  WARNING:\
+  \ \n  /home/dekker1/half-reif-benchmarks/data/mznc2019/code-generator/unison.mzn:972.54:\n\
+  \  Variable `j' shadows variable with the same name in line 964.12\n[/tmp/SCIPOptSuite/7.0.0/gompi-2020a/scipoptsuite-7.0.0/scip/src/scip/sepastore.c:68]\
+  \ ERROR: Insufficient memory for reallocation of 8032624 bytes.\n[sepastore.c:68]\
+  \ ERROR: No memory in function call\n[sepastore.c:487] ERROR: Error <-1> in function\
+  \ call\n[scip_cut.c:233] ERROR: Error <-1> in function call\n[cons_linear.c:7566]\
+  \ ERROR: Error <-1> in function call\n[cons_linear.c:15825] ERROR: Error <-1> in\
+  \ function call\n[cons.c:2807] ERROR: Error <-1> in function call\n[solve.c:1134]\
+  \ ERROR: Error <-1> in function call\n[solve.c:1237] ERROR: Error <-1> in function\
+  \ call\n[solve.c:1347] ERROR: Error <-1> in function call\n[scip_lp.c:122] ERROR:\
+  \ Error <-1> in function call\n[heur_clique.c:642] ERROR: Error <-1> in function\
+  \ call\n[heur.c:1291] ERROR: Error <-1> in function call\n[solve.c:354] ERROR: Error\
+  \ <-1> in function call\n[solve.c:3822] ERROR: Error <-1> in function call\n[solve.c:4192]\
+  \ ERROR: Error <-1> in function call\n[solve.c:4988] ERROR: Error <-1> in function\
+  \ call\n[scip_solve.c:2650] ERROR: Error <-1> in function call\n[/home/dekker1/half-reif-benchmarks/software/minizinc/solvers/MIP/MIP_scip_wrap.cpp:895]\
+  \ ERROR: Error <-1> in function call\nSCIP Error (-1): insufficient memory error\n\
+  \  MIPScipWrapper runtime error, see output:  \nTERMINATING.\n  MIPScipWrapper runtime\
+  \ error, see output:"
+evaluatedHalfReifiedConstraints: 142565
+evaluatedReifiedConstraints: 240906
+flatBoolVars: 1394
+flatIntConstraints: 1287876
+flatIntVars: 1018399
+flatTime: 247.893
+method: minimize
+model: data/mznc2019/code-generator/unison.mzn
+paths: 0
+problem: code-generator
+status: ERROR

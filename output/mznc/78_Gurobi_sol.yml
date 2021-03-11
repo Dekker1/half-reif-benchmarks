@@ -14,6 +14,6 @@
     - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
     - [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0]
   status: SATISFIED
-  time: 46.7
+  time: 46.98
 - {configuration: Gurobi, data_file: data/mznc2019/stack-cuttingstock/d14.dzn, model: data/mznc2019/stack-cuttingstock/stack-cutstock-cumu.mzn,
-  problem: stack-cuttingstock, status: OPTIMAL_SOLUTION, time: 46.71}
+  problem: stack-cuttingstock, status: OPTIMAL_SOLUTION, time: 46.99}

@@ -24,6 +24,6 @@
     - [3, 5, 10, 9, 6, 4, 2, 1, 8, 7]
     vehicle: [2, 1, 2, 1, 1, 1, 1, 2, 1, 2]
   status: SATISFIED
-  time: 365.75
+  time: 365.46
 - {configuration: Gurobi, data_file: '', model: data/mznc2019/stochastic-vrp/vrp-s5-v2-c6_vrp-v2-c6_det.mzn,
-  problem: stochastic-vrp, status: OPTIMAL_SOLUTION, time: 365.76}
+  problem: stochastic-vrp, status: OPTIMAL_SOLUTION, time: 365.47}

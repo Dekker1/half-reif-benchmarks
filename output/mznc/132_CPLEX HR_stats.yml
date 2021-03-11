@@ -1,0 +1,19 @@
+configuration: CPLEX HR
+data_file: data/mznc2020/tower_challenge/tower_070_070_15_070-06.dzn
+evaluatedReifiedConstraints: 4241
+flatBoolVars: 1120
+flatIntConstraints: 9832
+flatIntVars: 3652
+flatTime: 1.87685
+method: maximize
+model: data/mznc2020/tower_challenge/tower.mzn
+nSolutions: 1
+nodes: 42383
+objective: 50
+objectiveBound: 70
+openNodes: 10969
+paths: 0
+problem: tower_challenge
+solveTime: 1198.0981
+status: SATISFIED
+time: 1200.5055708624423

@@ -398,7 +398,7 @@
       false, true, false, false, false, false, false, false, false, false, false,
       false, false, false, false, false, false, false]
   status: SATISFIED
-  time: 282.03
+  time: 281.84
 - configuration: Gecode
   data_file: data/mznc2019/hrc/exp1-1-5425.dzn
   model: data/mznc2019/hrc/hrc.mzn
@@ -798,6 +798,6 @@
       false, false, true, false, false, false, false, false, false, false, false,
       false, false, false, false, false, false, false, false]
   status: SATISFIED
-  time: 879.78
+  time: 877.05
 - {configuration: Gecode, data_file: data/mznc2019/hrc/exp1-1-5425.dzn, model: data/mznc2019/hrc/hrc.mzn,
   problem: hrc, status: SATISFIED}

@@ -1,0 +1,17 @@
+configuration: CPLEX
+data_file: data/mznc2020/minimal-decision-sets/breast-cancer_train4.dzn
+evaluatedReifiedConstraints: 6430
+flatIntConstraints: 23082
+flatIntVars: 18918
+flatTime: 4.0237
+method: minimize
+model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
+nSolutions: 1
+nodes: 2076
+objective: 102
+objectiveBound: 102
+paths: 0
+problem: minimal-decision-sets
+solveTime: 498.8887
+status: OPTIMAL_SOLUTION
+time: 504.0673917979002

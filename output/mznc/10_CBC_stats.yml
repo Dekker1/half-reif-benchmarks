@@ -3,10 +3,10 @@ data_file: data/mznc2019/nside/EASY_200_50.dzn
 evaluatedReifiedConstraints: 134454
 flatIntConstraints: 520829
 flatIntVars: 239734
-flatTime: 112.843
+flatTime: 110.395
 method: maximize
 model: data/mznc2019/nside/full.mzn
 paths: 0
 problem: nside
 status: UNKNOWN
-time: 1201.4850385710597
+time: 1201.5623501129448

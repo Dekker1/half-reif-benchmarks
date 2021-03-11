@@ -8,7 +8,7 @@
     - [0, 104, 103]
     - [143, 0, 134]
   status: SATISFIED
-  time: 209.82
+  time: 210.33
 - configuration: Gecode HR
   data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-3.dzn
   model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
@@ -19,7 +19,7 @@
     - [0, 104, 103]
     - [143, 0, 129]
   status: SATISFIED
-  time: 209.82
+  time: 210.34
 - configuration: Gecode HR
   data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-3.dzn
   model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
@@ -30,7 +30,7 @@
     - [0, 104, 103]
     - [143, 0, 127]
   status: SATISFIED
-  time: 210.48
+  time: 211.0
 - {configuration: Gecode HR, data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-3.dzn,
   model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn, problem: rcpsp-wet-diverse,
   status: SATISFIED}

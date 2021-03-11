@@ -4,7 +4,7 @@ eliminatedLinearConstraints: 600
 evaluatedHalfReifiedConstraints: 1800
 flatIntConstraints: 2798
 flatIntVars: 1573
-flatTime: 0.65475
+flatTime: 0.657895
 method: minimize
 model: data/mznc2020/hoist-benchmark-for-minizinc/hoist-benchmark.mzn
 nSolutions: 1
@@ -13,6 +13,6 @@ objective: 269
 objectiveBound: 269
 paths: 0
 problem: hoist-benchmark-for-minizinc
-solveTime: 0.9851
+solveTime: 0.9842
 status: OPTIMAL_SOLUTION
-time: 1.8068798892199993
+time: 1.8372387886047363

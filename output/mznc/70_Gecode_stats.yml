@@ -2,11 +2,11 @@ configuration: Gecode
 data_file: data/mznc2019/groupsplitter/u15g5pref0.dzn
 flatIntConstraints: 206
 flatIntVars: 304
-flatTime: 4.0823
+flatTime: 4.083059
 method: maximize
 model: data/mznc2019/groupsplitter/group.mzn
 objective: 254
 paths: 0
 problem: groupsplitter
 status: SATISFIED
-time: 1201.2772610466927
+time: 1201.2446999698877

@@ -29,7 +29,7 @@
       158, 167, 165, 151, 150, 145, 164, 177, 179, 192, 191, 173, 178, 180, 172, 171,
       162, 163, 197, 198]
   status: SATISFIED
-  time: 9.33
+  time: 9.32
 - configuration: Gecode
   data_file: data/mznc2020/cable_tree_wiring/A073.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -93,7 +93,7 @@
       158, 167, 165, 151, 150, 145, 164, 177, 179, 192, 191, 173, 178, 180, 172, 171,
       162, 163, 195, 197]
   status: SATISFIED
-  time: 9.36
+  time: 9.35
 - configuration: Gecode
   data_file: data/mznc2020/cable_tree_wiring/A073.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -125,7 +125,7 @@
       158, 167, 165, 151, 150, 145, 164, 177, 179, 193, 192, 173, 178, 180, 172, 171,
       162, 163, 195, 197]
   status: SATISFIED
-  time: 9.36
+  time: 9.35
 - configuration: Gecode
   data_file: data/mznc2020/cable_tree_wiring/A073.dzn
   model: data/mznc2020/cable_tree_wiring/ctw.mzn
@@ -157,4 +157,4 @@
       158, 167, 165, 151, 150, 145, 164, 177, 179, 194, 193, 173, 178, 180, 172, 171,
       162, 163, 195, 197]
   status: SATISFIED
-  time: 9.36
+  time: 9.35

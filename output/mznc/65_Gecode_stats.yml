@@ -6,8 +6,8 @@ flatBoolConstraints: 634
 flatBoolVars: 2814
 flatIntConstraints: 2158
 flatIntVars: 946
-flatTime: 0.157828
-initTime: 0.026027
+flatTime: 0.154856
+initTime: 0.026134
 method: minimize
 model: data/mznc2019/hrc/hrc.mzn
 nSolutions: 1
@@ -20,7 +20,7 @@ propagations: 661537384
 propagators: 2749
 restarts: 0
 solutions: 1
-solveTime: 220.775
+solveTime: 218.603
 status: OPTIMAL_SOLUTION
-time: 221.05870999768376
+time: 218.94127692468464
 variables: 4958

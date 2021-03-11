@@ -5,7 +5,7 @@ evaluatedReifiedConstraints: 368
 flatBoolVars: 88
 flatIntConstraints: 5574
 flatIntVars: 2806
-flatTime: 0.714028
+flatTime: 0.693272
 method: minimize
 model: data/mznc2019/zephyrus/zephyrus.mzn
 nSolutions: 1
@@ -14,6 +14,6 @@ objective: 780
 objectiveBound: 780
 paths: 0
 problem: zephyrus
-solveTime: 0.3955
+solveTime: 0.3913
 status: OPTIMAL_SOLUTION
-time: 1.3275301530957222
+time: 1.3208416104316711

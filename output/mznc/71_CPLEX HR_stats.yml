@@ -1,0 +1,19 @@
+configuration: CPLEX HR
+data_file: data/mznc2019/fox-geese-corn/foxgeesecorn_60.dzn
+eliminatedLinearConstraints: 228
+evaluatedHalfReifiedConstraints: 304
+evaluatedReifiedConstraints: 187
+flatIntConstraints: 2011
+flatIntVars: 1096
+flatTime: 0.333547
+method: maximize
+model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
+nSolutions: 1
+nodes: 64901
+objective: 25
+objectiveBound: 25
+paths: 0
+problem: fox-geese-corn
+solveTime: 222.6166
+status: OPTIMAL_SOLUTION
+time: 223.0970275681466

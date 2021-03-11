@@ -50,7 +50,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 1]
   status: SATISFIED
-  time: 0.14
+  time: 0.17
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -103,7 +103,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 2, 1]
   status: SATISFIED
-  time: 0.15
+  time: 0.18
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -156,7 +156,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 3, 2, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.18
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -209,7 +209,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 2, 2, 2, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -262,7 +262,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 2, 3, 2, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -315,7 +315,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 1, 2, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -368,7 +368,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 1, 3, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -421,7 +421,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 1, 4, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -474,7 +474,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 2, 2, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -527,7 +527,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 2, 3, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.19
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -580,7 +580,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 2, 4, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.2
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -633,7 +633,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 3, 4, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.2
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -686,7 +686,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 2, 2, 1]
   status: SATISFIED
-  time: 0.16
+  time: 0.2
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -739,7 +739,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 2, 3, 1]
   status: SATISFIED
-  time: 0.17
+  time: 0.2
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -792,7 +792,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 2, 4, 1]
   status: SATISFIED
-  time: 0.17
+  time: 0.2
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -845,7 +845,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 3, 3, 1]
   status: SATISFIED
-  time: 0.17
+  time: 0.2
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -898,7 +898,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 3, 4, 1]
   status: SATISFIED
-  time: 0.17
+  time: 0.2
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -951,7 +951,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 1, 3, 3, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.21
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1004,7 +1004,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 1, 3, 4, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1057,7 +1057,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 2, 2, 3, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1110,7 +1110,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 2, 2, 4, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1163,7 +1163,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 2, 3, 3, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1216,7 +1216,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 2, 3, 4, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1269,7 +1269,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 3, 3, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1322,7 +1322,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 3, 4, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1375,7 +1375,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 4, 3, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1428,7 +1428,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 4, 4, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1481,7 +1481,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 4, 3, 4, 1]
   status: SATISFIED
-  time: 0.2
+  time: 0.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1534,7 +1534,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 2, 2, 1, 2, 2, 2, 3, 3, 3, 1]
   status: SATISFIED
-  time: 0.36
+  time: 0.39
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1587,7 +1587,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 2, 2, 1, 2, 2, 2, 3, 3, 4, 1]
   status: SATISFIED
-  time: 0.37
+  time: 0.41
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1640,7 +1640,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 2, 2, 1, 2, 2, 2, 3, 4, 3, 1]
   status: SATISFIED
-  time: 0.37
+  time: 0.41
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1693,7 +1693,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 2, 2, 1, 2, 2, 2, 3, 4, 4, 1]
   status: SATISFIED
-  time: 0.37
+  time: 0.41
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1746,7 +1746,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 2, 2, 1, 2, 2, 2, 4, 3, 4, 1]
   status: SATISFIED
-  time: 0.37
+  time: 0.41
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1799,7 +1799,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 2, 4, 3, 1]
   status: SATISFIED
-  time: 0.38
+  time: 0.43
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1852,7 +1852,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 2, 4, 4, 1]
   status: SATISFIED
-  time: 0.39
+  time: 0.44
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1905,7 +1905,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 4, 3, 1]
   status: SATISFIED
-  time: 0.4
+  time: 0.44
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -1958,7 +1958,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 4, 4, 1]
   status: SATISFIED
-  time: 0.4
+  time: 0.44
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2011,7 +2011,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 5, 3, 1]
   status: SATISFIED
-  time: 0.4
+  time: 0.44
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2064,7 +2064,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 5, 4, 1]
   status: SATISFIED
-  time: 0.41
+  time: 0.44
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2117,7 +2117,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 0.41
+  time: 0.44
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2170,7 +2170,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 3, 2, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 0.54
+  time: 0.57
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2223,7 +2223,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 1, 3, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 1.0
+  time: 1.05
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2276,7 +2276,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 1, 5, 3, 1]
   status: SATISFIED
-  time: 1.18
+  time: 1.23
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2329,7 +2329,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 1, 5, 4, 1]
   status: SATISFIED
-  time: 1.19
+  time: 1.24
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2382,7 +2382,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 1, 6, 4, 1]
   status: SATISFIED
-  time: 1.2
+  time: 1.25
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2435,7 +2435,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 5, 3, 1]
   status: SATISFIED
-  time: 1.2
+  time: 1.25
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2488,7 +2488,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 5, 4, 1]
   status: SATISFIED
-  time: 1.2
+  time: 1.25
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2541,7 +2541,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 6, 3, 1]
   status: SATISFIED
-  time: 1.2
+  time: 1.25
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2594,7 +2594,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 6, 4, 1]
   status: SATISFIED
-  time: 1.2
+  time: 1.25
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2647,7 +2647,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 3, 5, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 1.23
+  time: 1.28
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2700,7 +2700,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 1, 2, 3, 5, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 14.19
+  time: 14.31
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2753,7 +2753,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 2, 2, 1, 2, 2, 2, 3, 4, 3, 1]
   status: SATISFIED
-  time: 26.8
+  time: 26.93
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2806,7 +2806,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 2, 2, 1, 2, 2, 2, 3, 4, 4, 1]
   status: SATISFIED
-  time: 26.81
+  time: 26.94
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2859,7 +2859,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 2, 2, 1, 2, 2, 2, 4, 3, 4, 1]
   status: SATISFIED
-  time: 26.82
+  time: 26.95
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2912,7 +2912,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 2, 4, 3, 1]
   status: SATISFIED
-  time: 26.84
+  time: 26.96
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -2965,7 +2965,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 2, 4, 4, 1]
   status: SATISFIED
-  time: 26.85
+  time: 26.97
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3018,7 +3018,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 4, 3, 1]
   status: SATISFIED
-  time: 26.85
+  time: 26.98
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3071,7 +3071,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 4, 4, 1]
   status: SATISFIED
-  time: 26.85
+  time: 26.98
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3124,7 +3124,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 5, 3, 1]
   status: SATISFIED
-  time: 26.85
+  time: 26.98
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3177,7 +3177,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 5, 4, 1]
   status: SATISFIED
-  time: 26.85
+  time: 26.98
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3230,7 +3230,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 26.85
+  time: 26.98
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3283,7 +3283,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 1, 3, 2, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 26.98
+  time: 27.1
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3336,7 +3336,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 2, 1, 3, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 27.28
+  time: 27.41
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3389,7 +3389,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 1, 5, 3, 1]
   status: SATISFIED
-  time: 27.46
+  time: 27.58
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3442,7 +3442,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 1, 5, 4, 1]
   status: SATISFIED
-  time: 27.47
+  time: 27.59
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3495,7 +3495,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 1, 6, 4, 1]
   status: SATISFIED
-  time: 27.48
+  time: 27.6
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3548,7 +3548,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 5, 3, 1]
   status: SATISFIED
-  time: 27.48
+  time: 27.61
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3601,7 +3601,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 5, 4, 1]
   status: SATISFIED
-  time: 27.48
+  time: 27.61
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3654,7 +3654,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 6, 3, 1]
   status: SATISFIED
-  time: 27.48
+  time: 27.61
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3707,7 +3707,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 6, 4, 1]
   status: SATISFIED
-  time: 27.48
+  time: 27.61
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3760,7 +3760,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 2, 1, 2, 3, 5, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 27.5
+  time: 27.64
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3813,7 +3813,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 5, 3, 1]
   status: SATISFIED
-  time: 40.57
+  time: 40.71
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3866,7 +3866,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 5, 4, 1]
   status: SATISFIED
-  time: 40.58
+  time: 40.72
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3919,7 +3919,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 6, 3, 1]
   status: SATISFIED
-  time: 40.59
+  time: 40.73
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -3972,7 +3972,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 6, 4, 1]
   status: SATISFIED
-  time: 40.59
+  time: 40.74
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4025,7 +4025,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 4, 2, 1, 2, 3, 5, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 40.61
+  time: 40.75
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4078,7 +4078,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 5, 2, 1, 2, 3, 5, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 53.54
+  time: 53.7
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4131,7 +4131,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 2, 2, 1, 2, 2, 3, 3, 4, 4, 1]
   status: SATISFIED
-  time: 96.75
+  time: 97.02
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4184,7 +4184,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 2, 2, 1, 2, 2, 3, 4, 3, 4, 1]
   status: SATISFIED
-  time: 96.76
+  time: 97.03
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4237,7 +4237,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 2, 2, 1, 2, 2, 4, 4, 3, 5, 1]
   status: SATISFIED
-  time: 96.77
+  time: 97.04
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4290,7 +4290,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 5, 3, 1]
   status: SATISFIED
-  time: 96.78
+  time: 97.05
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4343,7 +4343,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 5, 4, 1]
   status: SATISFIED
-  time: 96.79
+  time: 97.07
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4396,7 +4396,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 4, 6, 4, 1]
   status: SATISFIED
-  time: 96.8
+  time: 97.07
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4449,7 +4449,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 3, 4, 5, 4, 1]
   status: SATISFIED
-  time: 96.8
+  time: 97.07
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4502,7 +4502,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 3, 4, 6, 4, 1]
   status: SATISFIED
-  time: 96.8
+  time: 97.07
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4555,7 +4555,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 96.8
+  time: 97.07
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4608,7 +4608,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 3, 2, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 96.9
+  time: 97.18
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4661,7 +4661,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 2, 1, 3, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 97.17
+  time: 97.44
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4714,7 +4714,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 6, 3, 1]
   status: SATISFIED
-  time: 97.33
+  time: 97.6
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4767,7 +4767,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 6, 4, 1]
   status: SATISFIED
-  time: 97.34
+  time: 97.61
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4820,7 +4820,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 3, 5, 6, 4, 1]
   status: SATISFIED
-  time: 97.35
+  time: 97.62
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4873,7 +4873,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 4, 5, 6, 5, 1]
   status: SATISFIED
-  time: 97.35
+  time: 97.63
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4926,7 +4926,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 5, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 97.38
+  time: 97.65
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -4979,7 +4979,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 6, 3, 1]
   status: SATISFIED
-  time: 108.08
+  time: 108.37
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5032,7 +5032,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 2, 5, 6, 4, 1]
   status: SATISFIED
-  time: 108.09
+  time: 108.38
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5085,7 +5085,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 3, 5, 6, 4, 1]
   status: SATISFIED
-  time: 108.1
+  time: 108.4
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5138,7 +5138,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 4, 5, 6, 5, 1]
   status: SATISFIED
-  time: 108.11
+  time: 108.4
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5191,7 +5191,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 4, 2, 1, 2, 3, 5, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 108.14
+  time: 108.43
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5244,7 +5244,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 5, 2, 1, 2, 3, 5, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 118.68
+  time: 119.0
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5297,7 +5297,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 2, 2, 1, 2, 2, 3, 3, 4, 4, 1]
   status: SATISFIED
-  time: 317.26
+  time: 318.1
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5350,7 +5350,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 2, 2, 1, 2, 2, 3, 4, 3, 4, 1]
   status: SATISFIED
-  time: 317.27
+  time: 318.11
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5403,7 +5403,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 2, 2, 1, 2, 2, 4, 4, 3, 5, 1]
   status: SATISFIED
-  time: 317.28
+  time: 318.13
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5456,7 +5456,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 3, 2, 4, 4, 1]
   status: SATISFIED
-  time: 317.3
+  time: 318.14
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5509,7 +5509,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 3, 4, 4, 4, 1]
   status: SATISFIED
-  time: 317.31
+  time: 318.16
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5562,7 +5562,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 3, 4, 5, 4, 1]
   status: SATISFIED
-  time: 317.31
+  time: 318.16
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5615,7 +5615,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 3, 4, 6, 4, 1]
   status: SATISFIED
-  time: 317.31
+  time: 318.16
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5668,7 +5668,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 317.32
+  time: 318.16
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5721,7 +5721,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 1, 3, 2, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 317.41
+  time: 318.26
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5774,7 +5774,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 2, 1, 3, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 317.69
+  time: 318.53
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5827,7 +5827,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 3, 1, 5, 4, 1]
   status: SATISFIED
-  time: 317.85
+  time: 318.7
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5880,7 +5880,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 3, 1, 6, 4, 1]
   status: SATISFIED
-  time: 317.86
+  time: 318.71
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5933,7 +5933,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 3, 5, 5, 4, 1]
   status: SATISFIED
-  time: 317.87
+  time: 318.72
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -5986,7 +5986,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 3, 5, 6, 4, 1]
   status: SATISFIED
-  time: 317.87
+  time: 318.72
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -6039,7 +6039,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 4, 2, 1, 2, 2, 4, 5, 6, 5, 1]
   status: SATISFIED
-  time: 317.88
+  time: 318.72
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -6092,7 +6092,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 2, 3, 5, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 317.89
+  time: 318.74
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -6145,7 +6145,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 3, 5, 5, 4, 1]
   status: SATISFIED
-  time: 330.24
+  time: 331.11
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -6198,7 +6198,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 3, 5, 6, 4, 1]
   status: SATISFIED
-  time: 330.25
+  time: 331.12
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -6251,7 +6251,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 4, 2, 1, 2, 3, 4, 2, 1, 2, 2, 4, 5, 6, 5, 1]
   status: SATISFIED
-  time: 330.27
+  time: 331.13
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -6304,7 +6304,7 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 4, 2, 1, 2, 3, 5, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 330.28
+  time: 331.16
 - configuration: Gecode
   data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn
   model: data/mznc2020/gbac/gbac.mzn
@@ -6357,6 +6357,6 @@
       1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2,
       1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 5, 2, 1, 2, 3, 5, 2, 1, 2, 2, 4, 4, 6, 5, 1]
   status: SATISFIED
-  time: 342.56
+  time: 343.45
 - {configuration: Gecode, data_file: data/mznc2020/gbac/reduced_UD2-gbac.dzn, model: data/mznc2020/gbac/gbac.mzn,
   problem: gbac, status: SATISFIED}

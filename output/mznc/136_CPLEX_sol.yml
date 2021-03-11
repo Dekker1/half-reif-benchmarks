@@ -1,0 +1,17 @@
+- configuration: CPLEX
+  data_file: data/mznc2020/pillars-and-planks/p-d12.dzn
+  model: data/mznc2020/pillars-and-planks/pillars-planks-solution.mzn
+  problem: pillars-and-planks
+  solution:
+    left: [4, 13, 11, 7, 12, 5]
+    objective: 6
+    right: [8, 15, 2, 10, 9, 1]
+    support: [0, 4, 2, 4, 2, 0, 0, 4, 0, 0, 2, 0, 0, 2, 0, 2]
+    xk: [14, 1, 3, 13, 17, 6]
+    xr: [12, 13, 4, 14, 6, 0, 13, 16, 18, 16, 3, 17, 1, 1, 10, 2]
+    yk: [5, 1, 5, 3, 4, 4]
+    yr: [0, 4, 2, 4, 2, 0, 0, 4, 0, 0, 2, 0, 0, 2, 0, 2]
+  status: SATISFIED
+  time: 1200.07
+- {configuration: CPLEX, data_file: data/mznc2020/pillars-and-planks/p-d12.dzn, model: data/mznc2020/pillars-and-planks/pillars-planks-solution.mzn,
+  problem: pillars-and-planks, status: SATISFIED}

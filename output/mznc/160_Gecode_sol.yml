@@ -160,7 +160,7 @@
       false, true, false, false, false, false, false, true, false, false, true, true,
       false, false, false, false, true, true, true, false]
   status: SATISFIED
-  time: 0.61
+  time: 0.66
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/colic_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -321,7 +321,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true]
   status: SATISFIED
-  time: 0.68
+  time: 0.73
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/colic_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -483,7 +483,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true]
   status: SATISFIED
-  time: 0.69
+  time: 0.73
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/colic_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -645,7 +645,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true]
   status: SATISFIED
-  time: 0.71
+  time: 0.76
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/colic_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -808,7 +808,7 @@
       true, false, true, true, false, false, true, true, true, true, false, false,
       false, true]
   status: SATISFIED
-  time: 1.3
+  time: 1.36
 - configuration: Gecode
   data_file: data/mznc2020/minimal-decision-sets/colic_train4.dzn
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn
@@ -969,7 +969,7 @@
       true, true, true, true, true, true, true, true, true, true, true, true, true,
       true, true, true, true, true, true, true, true, true]
   status: SATISFIED
-  time: 22.87
+  time: 23.07
 - {configuration: Gecode, data_file: data/mznc2020/minimal-decision-sets/colic_train4.dzn,
   model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
-  status: OPTIMAL_SOLUTION, time: 944.57}
+  status: OPTIMAL_SOLUTION, time: 947.1}

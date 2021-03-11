@@ -3,10 +3,10 @@ data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_3m_3.dzn
 evaluatedReifiedConstraints: 74750
 flatIntConstraints: 251355
 flatIntVars: 160362
-flatTime: 38.638
+flatTime: 37.615
 method: minimize
 model: data/mznc2020/skill-allocation/skill_allocation_only.mzn
 paths: 0
 problem: skill-allocation
 status: UNKNOWN
-time: 1201.3677667826414
+time: 1201.363151902333

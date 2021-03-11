@@ -16,6 +16,6 @@
     - [0, 0, 0, 1, 1, 0, 1, 1, 0, 1]
     objective: 20
   status: SATISFIED
-  time: 178.51
+  time: 186.02
 - {configuration: CBC HR, data_file: data/mznc2019/triangular/n10.dzn, model: data/mznc2019/triangular/triangular.mzn,
-  problem: triangular, status: OPTIMAL_SOLUTION, time: 178.52}
+  problem: triangular, status: OPTIMAL_SOLUTION, time: 186.02}

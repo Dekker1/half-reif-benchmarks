@@ -8,8 +8,8 @@ flatBoolConstraints: 24
 flatBoolVars: 83
 flatIntConstraints: 137
 flatIntVars: 79
-flatTime: 0.035254
-initTime: 0.001617
+flatTime: 0.037011
+initTime: 0.001628
 method: maximize
 model: data/mznc2019/fox-geese-corn/foxgeesecorn.mzn
 nSolutions: 181
@@ -22,7 +22,7 @@ propagations: 465202778
 propagators: 159
 restarts: 0
 solutions: 181
-solveTime: 27.9482
+solveTime: 28.099
 status: OPTIMAL_SOLUTION
-time: 28.039120569825172
+time: 28.243742551654577
 variables: 192

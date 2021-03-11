@@ -1,0 +1,20 @@
+configuration: SCIP HR
+data_file: data/mznc2019/hrc/exp1-1-5460.dzn
+eliminatedLinearConstraints: 106
+evaluatedHalfReifiedConstraints: 480
+evaluatedReifiedConstraints: 1096
+flatBoolVars: 224
+flatIntConstraints: 3163
+flatIntVars: 3715
+flatTime: 0.855557
+method: minimize
+model: data/mznc2019/hrc/hrc.mzn
+nSolutions: 1
+nodes: 1
+objective: 9
+objectiveBound: 9
+paths: 0
+problem: hrc
+solveTime: 20.5055
+status: OPTIMAL_SOLUTION
+time: 21.75704573467374

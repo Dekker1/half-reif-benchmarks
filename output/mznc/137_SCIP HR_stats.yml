@@ -1,0 +1,20 @@
+configuration: SCIP HR
+data_file: data/mznc2020/pillars-and-planks/p-d10.dzn
+evaluatedHalfReifiedConstraints: 940
+evaluatedReifiedConstraints: 64
+flatBoolVars: 16
+flatIntConstraints: 2910
+flatIntVars: 1555
+flatTime: 0.519093
+method: minimize
+model: data/mznc2020/pillars-and-planks/pillars-planks-solution.mzn
+nSolutions: 0
+nodes: 304735
+objective: 1e+20
+objectiveBound: 4
+openNodes: 126638
+paths: 0
+problem: pillars-and-planks
+solveTime: 1199.457
+status: UNKNOWN
+time: 1201.0499292109162

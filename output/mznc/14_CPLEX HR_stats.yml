@@ -1,0 +1,13 @@
+configuration: CPLEX HR
+data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-4.dzn
+evaluatedHalfReifiedConstraints: 32
+evaluatedReifiedConstraints: 8126
+flatIntConstraints: 143047
+flatIntVars: 59839
+flatTime: 20.8158
+method: maximize
+model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn
+paths: 0
+problem: rcpsp-wet-diverse
+status: UNKNOWN
+time: 1201.2201887480915

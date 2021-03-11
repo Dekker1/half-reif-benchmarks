@@ -1,0 +1,12 @@
+- configuration: SCIP
+  data_file: data/mznc2020/cable_tree_wiring/A031.dzn
+  model: data/mznc2020/cable_tree_wiring/ctw.mzn
+  problem: cable_tree_wiring
+  solution:
+    cfp: [18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    objective: 24104
+    pfc: [13, 16, 1, 6, 8, 9, 12, 10, 11, 14, 15, 2, 5, 7, 17, 18, 4, 3]
+  status: SATISFIED
+  time: 350.3
+- {configuration: SCIP, data_file: data/mznc2020/cable_tree_wiring/A031.dzn, model: data/mznc2020/cable_tree_wiring/ctw.mzn,
+  problem: cable_tree_wiring, status: OPTIMAL_SOLUTION, time: 350.32}

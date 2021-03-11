@@ -182,6 +182,6 @@
       false, false, false, false, false, true, false, true, false, true, true, false,
       true, true]
   status: SATISFIED
-  time: 6.43
+  time: 6.65
 - {configuration: Gurobi HR, data_file: '', model: data/mznc2020/bnn-planner/inventory_4_8s.mzn,
-  problem: bnn-planner, status: OPTIMAL_SOLUTION, time: 6.44}
+  problem: bnn-planner, status: OPTIMAL_SOLUTION, time: 6.67}

@@ -9,7 +9,7 @@ error: "13568 POSTs [ 0,0,0,0,0,6042,0,0,0,0, ], LINEQ [ 0,0,0,0,0,0,0,0,7523, ]
   \ optimize MIP."
 flatIntConstraints: 537714
 flatIntVars: 3462895
-flatTime: 501.37
+flatTime: 498.936
 method: satisfy
 model: data/mznc2020/pentominoes/pentominoes-int.mzn
 paths: 0

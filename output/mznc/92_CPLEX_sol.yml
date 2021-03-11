@@ -1,0 +1,28 @@
+- configuration: CPLEX
+  data_file: ''
+  model: data/mznc2019/liner-sf-repositioning/tp7_2.mzn
+  problem: liner-sf-repositioning
+  solution:
+    directCost: [14298, 14298, 14298, 1529, 4084, 1529, 33, 231, 231]
+    objective: 258299
+    piPort: 2
+    piWeek: [11, 4, 9, 3, 8, 5, 6, 10, 7]
+    poAct0: 7
+    poAct1: 6
+    poAct2: 6
+    poAct3: 4
+    poAct4: 6
+    poAct5: 4
+    poAct6: 4
+    poAct7: 13
+    poAct8: 11
+    reposType: [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    sos: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+    sosAct: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+    sosActACost: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+    sosActBCost: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+    sosActSavings: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 1200.73
+- {configuration: CPLEX, data_file: '', model: data/mznc2019/liner-sf-repositioning/tp7_2.mzn,
+  problem: liner-sf-repositioning, status: SATISFIED}

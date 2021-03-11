@@ -14,7 +14,7 @@
     production_period: [3, 14, 1, 12, 5, 18, 6, 17, 19, 7, 11, 2, 13, 9, 4, 15, 10,
       8]
   status: SATISFIED
-  time: 0.06
+  time: 0.09
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -31,7 +31,7 @@
     production_period: [4, 14, 1, 12, 5, 18, 6, 17, 19, 7, 11, 2, 13, 9, 3, 15, 10,
       8]
   status: SATISFIED
-  time: 0.07
+  time: 0.1
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -48,7 +48,7 @@
     production_period: [3, 14, 1, 12, 5, 18, 6, 17, 19, 7, 11, 4, 13, 9, 2, 15, 10,
       8]
   status: SATISFIED
-  time: 0.08
+  time: 0.1
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -65,7 +65,7 @@
     production_period: [4, 14, 2, 12, 5, 18, 6, 17, 19, 7, 11, 1, 13, 9, 3, 15, 10,
       8]
   status: SATISFIED
-  time: 0.08
+  time: 0.1
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -82,7 +82,7 @@
     production_period: [3, 14, 4, 12, 5, 18, 6, 17, 19, 7, 11, 1, 13, 9, 2, 15, 10,
       8]
   status: SATISFIED
-  time: 0.08
+  time: 0.1
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -99,7 +99,7 @@
     production_period: [4, 14, 5, 12, 1, 18, 6, 17, 19, 7, 11, 2, 13, 9, 3, 15, 10,
       8]
   status: SATISFIED
-  time: 0.08
+  time: 0.1
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -116,7 +116,7 @@
     production_period: [3, 14, 4, 12, 5, 18, 6, 17, 19, 8, 11, 1, 13, 9, 2, 15, 10,
       7]
   status: SATISFIED
-  time: 0.08
+  time: 0.11
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -133,7 +133,7 @@
     production_period: [4, 14, 5, 12, 1, 18, 6, 17, 19, 8, 11, 2, 13, 9, 3, 15, 10,
       7]
   status: SATISFIED
-  time: 0.1
+  time: 0.12
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -150,7 +150,7 @@
     production_period: [3, 14, 4, 12, 5, 18, 6, 17, 19, 7, 11, 1, 13, 8, 2, 15, 10,
       9]
   status: SATISFIED
-  time: 0.1
+  time: 0.12
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -167,7 +167,7 @@
     production_period: [4, 14, 5, 12, 1, 18, 6, 17, 19, 7, 11, 2, 13, 8, 3, 15, 10,
       9]
   status: SATISFIED
-  time: 0.1
+  time: 0.12
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -184,7 +184,7 @@
     production_period: [4, 14, 5, 12, 1, 18, 6, 17, 19, 8, 11, 2, 13, 7, 3, 15, 9,
       10]
   status: SATISFIED
-  time: 0.11
+  time: 0.13
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -201,7 +201,7 @@
     production_period: [3, 14, 4, 12, 5, 18, 6, 17, 19, 7, 11, 1, 13, 9, 2, 15, 8,
       16]
   status: SATISFIED
-  time: 0.13
+  time: 0.15
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -218,7 +218,7 @@
     production_period: [4, 14, 5, 12, 1, 18, 6, 17, 19, 7, 11, 2, 13, 9, 3, 15, 8,
       16]
   status: SATISFIED
-  time: 0.13
+  time: 0.15
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -235,7 +235,7 @@
     production_period: [4, 14, 5, 12, 1, 18, 6, 17, 19, 7, 11, 2, 13, 9, 3, 16, 8,
       15]
   status: SATISFIED
-  time: 0.19
+  time: 0.21
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -252,7 +252,7 @@
     production_period: [4, 15, 5, 12, 1, 18, 6, 17, 19, 8, 11, 2, 13, 9, 3, 14, 10,
       7]
   status: SATISFIED
-  time: 0.21
+  time: 0.23
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -269,7 +269,7 @@
     production_period: [3, 15, 4, 12, 5, 18, 6, 17, 19, 7, 11, 1, 13, 8, 2, 14, 10,
       9]
   status: SATISFIED
-  time: 0.21
+  time: 0.24
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -286,7 +286,7 @@
     production_period: [4, 15, 5, 12, 1, 18, 6, 17, 19, 7, 11, 2, 13, 8, 3, 14, 10,
       9]
   status: SATISFIED
-  time: 0.22
+  time: 0.24
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -303,7 +303,7 @@
     production_period: [4, 15, 5, 12, 1, 18, 6, 17, 19, 8, 11, 2, 13, 7, 3, 14, 9,
       10]
   status: SATISFIED
-  time: 0.23
+  time: 0.26
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -320,7 +320,7 @@
     production_period: [4, 16, 5, 12, 1, 18, 6, 17, 19, 7, 11, 2, 13, 8, 3, 14, 10,
       9]
   status: SATISFIED
-  time: 0.25
+  time: 0.28
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -337,7 +337,7 @@
     production_period: [4, 16, 5, 12, 1, 18, 6, 17, 19, 8, 11, 2, 13, 7, 3, 14, 9,
       10]
   status: SATISFIED
-  time: 0.27
+  time: 0.29
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -354,7 +354,7 @@
     production_period: [4, 16, 5, 12, 1, 18, 6, 17, 19, 7, 11, 2, 13, 8, 3, 15, 10,
       9]
   status: SATISFIED
-  time: 0.31
+  time: 0.33
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -371,7 +371,7 @@
     production_period: [4, 16, 5, 12, 1, 18, 6, 17, 19, 8, 11, 2, 13, 7, 3, 15, 9,
       10]
   status: SATISFIED
-  time: 0.32
+  time: 0.34
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -388,7 +388,7 @@
     production_period: [4, 16, 5, 12, 1, 18, 6, 17, 19, 7, 11, 2, 13, 9, 3, 15, 8,
       14]
   status: SATISFIED
-  time: 0.4
+  time: 0.43
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -405,7 +405,7 @@
     production_period: [4, 16, 5, 12, 1, 18, 6, 17, 19, 7, 11, 2, 10, 9, 3, 15, 8,
       14]
   status: SATISFIED
-  time: 1.0
+  time: 1.02
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -422,7 +422,7 @@
     production_period: [4, 16, 5, 12, 1, 18, 6, 17, 19, 8, 11, 2, 10, 7, 3, 15, 9,
       14]
   status: SATISFIED
-  time: 1.01
+  time: 1.03
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -439,7 +439,7 @@
     production_period: [4, 16, 5, 12, 1, 18, 6, 17, 19, 8, 11, 2, 9, 7, 3, 15, 10,
       14]
   status: SATISFIED
-  time: 1.02
+  time: 1.04
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -456,7 +456,7 @@
     production_period: [4, 16, 5, 13, 1, 18, 6, 17, 19, 7, 11, 2, 12, 9, 3, 15, 8,
       14]
   status: SATISFIED
-  time: 1.41
+  time: 1.43
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -473,7 +473,7 @@
     production_period: [4, 14, 5, 15, 1, 18, 6, 17, 19, 7, 11, 2, 12, 8, 3, 13, 10,
       9]
   status: SATISFIED
-  time: 1.62
+  time: 1.64
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -490,7 +490,7 @@
     production_period: [4, 14, 5, 15, 1, 18, 6, 17, 19, 8, 11, 2, 12, 7, 3, 13, 9,
       10]
   status: SATISFIED
-  time: 1.63
+  time: 1.66
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -507,7 +507,7 @@
     production_period: [4, 14, 5, 16, 1, 18, 6, 17, 19, 7, 11, 2, 12, 8, 3, 13, 10,
       9]
   status: SATISFIED
-  time: 1.65
+  time: 1.68
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -524,7 +524,7 @@
     production_period: [4, 14, 5, 16, 1, 18, 6, 17, 19, 8, 11, 2, 12, 7, 3, 13, 9,
       10]
   status: SATISFIED
-  time: 1.66
+  time: 1.69
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -541,7 +541,7 @@
     production_period: [4, 15, 5, 16, 1, 18, 6, 17, 19, 7, 11, 2, 12, 8, 3, 13, 10,
       9]
   status: SATISFIED
-  time: 1.75
+  time: 1.77
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -558,7 +558,7 @@
     production_period: [4, 15, 5, 16, 1, 18, 6, 17, 19, 8, 11, 2, 12, 7, 3, 13, 9,
       10]
   status: SATISFIED
-  time: 1.76
+  time: 1.79
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -575,7 +575,7 @@
     production_period: [4, 15, 5, 16, 1, 18, 6, 17, 19, 7, 11, 2, 12, 8, 3, 14, 10,
       9]
   status: SATISFIED
-  time: 1.9
+  time: 1.93
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -592,7 +592,7 @@
     production_period: [4, 15, 5, 16, 1, 18, 6, 17, 19, 8, 11, 2, 12, 7, 3, 14, 9,
       10]
   status: SATISFIED
-  time: 1.92
+  time: 1.94
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -609,7 +609,7 @@
     production_period: [4, 15, 5, 16, 1, 18, 6, 17, 19, 7, 11, 2, 12, 9, 3, 14, 8,
       13]
   status: SATISFIED
-  time: 2.14
+  time: 2.17
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -626,7 +626,7 @@
     production_period: [4, 16, 5, 12, 1, 18, 6, 17, 19, 8, 9, 2, 11, 7, 3, 15, 10,
       14]
   status: SATISFIED
-  time: 8.119999
+  time: 8.15
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -643,7 +643,7 @@
     production_period: [4, 16, 5, 13, 1, 18, 6, 17, 19, 8, 9, 2, 11, 7, 3, 15, 10,
       14]
   status: SATISFIED
-  time: 10.26
+  time: 10.28
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -660,7 +660,7 @@
     production_period: [3, 15, 4, 16, 5, 18, 6, 17, 19, 8, 9, 1, 11, 7, 2, 14, 10,
       13]
   status: SATISFIED
-  time: 10.64
+  time: 10.66
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -677,7 +677,7 @@
     production_period: [4, 15, 5, 16, 1, 18, 6, 17, 19, 8, 9, 2, 11, 7, 3, 14, 10,
       13]
   status: SATISFIED
-  time: 10.64
+  time: 10.67
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -711,7 +711,7 @@
     production_period: [4, 16, 5, 17, 1, 18, 6, 12, 19, 8, 9, 2, 11, 7, 3, 15, 10,
       14]
   status: SATISFIED
-  time: 26.7
+  time: 26.67
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -728,7 +728,7 @@
     production_period: [4, 16, 5, 17, 1, 18, 6, 13, 19, 8, 9, 2, 11, 7, 3, 15, 10,
       14]
   status: SATISFIED
-  time: 28.54
+  time: 28.52
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -745,7 +745,7 @@
     production_period: [4, 16, 5, 17, 1, 18, 6, 13, 19, 8, 9, 2, 12, 7, 3, 15, 10,
       14]
   status: SATISFIED
-  time: 35.13
+  time: 35.08
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -762,7 +762,7 @@
     production_period: [4, 14, 5, 15, 1, 18, 6, 16, 19, 8, 9, 2, 11, 7, 3, 13, 10,
       17]
   status: SATISFIED
-  time: 105.77
+  time: 105.65
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -779,7 +779,7 @@
     production_period: [4, 14, 5, 15, 1, 18, 6, 16, 19, 8, 9, 2, 12, 7, 3, 13, 10,
       17]
   status: SATISFIED
-  time: 107.87
+  time: 107.75
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -796,7 +796,7 @@
     production_period: [4, 17, 5, 18, 1, 12, 6, 14, 19, 8, 9, 2, 11, 7, 3, 16, 10,
       15]
   status: SATISFIED
-  time: 230.96
+  time: 230.9
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -813,7 +813,7 @@
     production_period: [4, 17, 5, 18, 1, 13, 6, 14, 19, 8, 9, 2, 11, 7, 3, 16, 10,
       15]
   status: SATISFIED
-  time: 232.09
+  time: 232.04
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -830,7 +830,7 @@
     production_period: [4, 17, 5, 18, 1, 13, 6, 14, 19, 8, 9, 2, 12, 7, 3, 16, 10,
       15]
   status: SATISFIED
-  time: 238.9
+  time: 238.83
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -847,7 +847,7 @@
     production_period: [4, 15, 5, 16, 1, 11, 6, 17, 19, 8, 9, 2, 12, 7, 3, 14, 10,
       13]
   status: SATISFIED
-  time: 346.72
+  time: 346.79
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -864,7 +864,7 @@
     production_period: [4, 15, 5, 16, 1, 12, 6, 17, 19, 8, 9, 2, 11, 7, 3, 14, 10,
       13]
   status: SATISFIED
-  time: 348.63
+  time: 348.7
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -881,7 +881,7 @@
     production_period: [4, 15, 5, 16, 1, 14, 6, 17, 19, 8, 9, 2, 11, 7, 3, 12, 10,
       13]
   status: SATISFIED
-  time: 349.69
+  time: 349.77
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -898,7 +898,7 @@
     production_period: [4, 15, 5, 16, 1, 12, 6, 17, 19, 8, 9, 2, 13, 7, 3, 14, 10,
       11]
   status: SATISFIED
-  time: 356.55
+  time: 356.66
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -915,7 +915,7 @@
     production_period: [4, 16, 5, 19, 1, 13, 6, 17, 18, 8, 9, 2, 12, 7, 3, 15, 10,
       14]
   status: SATISFIED
-  time: 472.71
+  time: 473.24
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -932,7 +932,7 @@
     production_period: [4, 16, 5, 19, 1, 15, 6, 17, 18, 8, 9, 2, 12, 7, 3, 13, 10,
       14]
   status: SATISFIED
-  time: 472.81
+  time: 473.34
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -949,7 +949,7 @@
     production_period: [4, 16, 5, 19, 1, 13, 6, 17, 18, 8, 9, 2, 14, 7, 3, 15, 10,
       12]
   status: SATISFIED
-  time: 474.49
+  time: 475.03
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -966,7 +966,7 @@
     production_period: [4, 14, 5, 19, 1, 13, 6, 15, 16, 8, 9, 2, 12, 7, 3, 18, 10,
       17]
   status: SATISFIED
-  time: 635.05
+  time: 636.5
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -983,7 +983,7 @@
     production_period: [4, 11, 5, 12, 1, 17, 6, 14, 15, 8, 9, 2, 18, 7, 3, 19, 10,
       16]
   status: SATISFIED
-  time: 826.62
+  time: 834.96
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -1000,7 +1000,7 @@
     production_period: [4, 11, 5, 13, 1, 17, 6, 14, 15, 8, 9, 2, 18, 7, 3, 19, 10,
       16]
   status: SATISFIED
-  time: 827.0
+  time: 835.35
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -1017,7 +1017,7 @@
     production_period: [4, 12, 5, 13, 1, 17, 6, 14, 15, 8, 9, 2, 18, 7, 3, 19, 10,
       16]
   status: SATISFIED
-  time: 829.01
+  time: 837.44
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -1034,7 +1034,7 @@
     production_period: [4, 14, 5, 15, 1, 12, 6, 16, 17, 8, 9, 2, 13, 7, 3, 19, 10,
       18]
   status: SATISFIED
-  time: 911.41
+  time: 922.38
 - configuration: Gecode HR
   data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn
@@ -1051,6 +1051,6 @@
     production_period: [4, 14, 5, 15, 1, 13, 6, 16, 17, 8, 9, 2, 12, 7, 3, 19, 10,
       18]
   status: SATISFIED
-  time: 912.87
+  time: 923.89
 - {configuration: Gecode HR, data_file: data/mznc2020/lot-sizing/pigment20b.psp.dzn,
   model: data/mznc2020/lot-sizing/lot_sizing_cp.mzn, problem: lot-sizing, status: SATISFIED}
