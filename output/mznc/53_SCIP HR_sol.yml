@@ -1,3 +1,0 @@
-- {configuration: SCIP HR, data_file: data/mznc2019/steelmillslab/bench_20_8.dzn,
-  model: data/mznc2019/steelmillslab/steelmillslab.mzn, problem: steelmillslab, status: UNKNOWN,
-  time: 1200.51}

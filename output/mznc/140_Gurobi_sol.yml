@@ -1,2 +1,0 @@
-- {configuration: Gurobi, data_file: data/mznc2020/pillars-and-planks/p-d2.dzn, model: data/mznc2020/pillars-and-planks/pillars-planks-solution.mzn,
-  problem: pillars-and-planks, status: UNKNOWN, time: 1200.05}

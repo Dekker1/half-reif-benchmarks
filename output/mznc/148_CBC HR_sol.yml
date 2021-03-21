@@ -1,3 +1,0 @@
-- {configuration: CBC HR, data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_2m_1.dzn,
-  model: data/mznc2020/skill-allocation/skill_allocation_only.mzn, problem: skill-allocation,
-  status: UNKNOWN, time: 855.87}

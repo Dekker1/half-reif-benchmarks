@@ -1,2 +1,0 @@
-- {configuration: CPLEX, data_file: data/mznc2019/nside/HARD_200_50.dzn, model: data/mznc2019/nside/full.mzn,
-  problem: nside, status: UNKNOWN}

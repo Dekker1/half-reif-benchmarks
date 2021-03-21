@@ -1,3 +1,0 @@
-- {configuration: CBC, data_file: data/mznc2020/minimal-decision-sets/australian_train5.dzn,
-  model: data/mznc2020/minimal-decision-sets/sparse_mds.mzn, problem: minimal-decision-sets,
-  status: UNKNOWN, time: 1165.44}

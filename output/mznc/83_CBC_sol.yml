@@ -1,3 +1,0 @@
-- {configuration: CBC, data_file: data/mznc2019/rotating-workforce/Example1370.dzn,
-  model: data/mznc2019/rotating-workforce/rotating-workforce.mzn, problem: rotating-workforce,
-  status: UNSATISFIABLE, time: 19.6}

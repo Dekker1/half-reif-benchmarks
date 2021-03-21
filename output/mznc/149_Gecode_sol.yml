@@ -1,3 +1,0 @@
-- {configuration: Gecode, data_file: data/mznc2020/skill-allocation/skill_allocation_mzn_2m_3.dzn,
-  model: data/mznc2020/skill-allocation/skill_allocation_only.mzn, problem: skill-allocation,
-  status: UNKNOWN}

@@ -1,3 +1,0 @@
-- {configuration: SCIP, data_file: data/mznc2019/rcpsp-wet-diverse/j30_44_8-wet-diverse-4.dzn,
-  model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn, problem: rcpsp-wet-diverse,
-  status: UNKNOWN}

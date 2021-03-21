@@ -1,2 +1,0 @@
-- {configuration: CBC HR, data_file: data/mznc2019/lot-sizing/pigment20a.psp.dzn,
-  model: data/mznc2019/lot-sizing/lot_sizing_cp.mzn, problem: lot-sizing, status: UNKNOWN}

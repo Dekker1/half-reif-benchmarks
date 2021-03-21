@@ -1,3 +1,0 @@
-- {configuration: CPLEX HR, data_file: data/mznc2019/rotating-workforce/Example1174.dzn,
-  model: data/mznc2019/rotating-workforce/rotating-workforce.mzn, problem: rotating-workforce,
-  status: UNSATISFIABLE, time: 3.14}

@@ -1,2 +1,0 @@
-- {configuration: CPLEX, data_file: data/mznc2020/whirlpool/d21.dzn, model: data/mznc2020/whirlpool/whirlpool-x.mzn,
-  problem: whirlpool, status: UNKNOWN}

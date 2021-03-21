@@ -1,2 +1,0 @@
-- {configuration: SCIP, data_file: data/mznc2019/code-generator/mips_gcc.cfgrtl.update_br_prob_note.dzn,
-  model: data/mznc2019/code-generator/unison.mzn, problem: code-generator, status: UNKNOWN}

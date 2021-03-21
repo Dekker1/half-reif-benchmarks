@@ -1,3 +1,0 @@
-- {configuration: Gecode HR, data_file: data/mznc2019/multi-knapsack/mknap2-10.dzn,
-  model: data/mznc2019/multi-knapsack/mknapsack_global.mzn, problem: multi-knapsack,
-  status: UNKNOWN, time: 1200.01}

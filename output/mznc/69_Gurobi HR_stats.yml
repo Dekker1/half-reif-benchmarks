@@ -1,7 +1,0 @@
-configuration: Gurobi HR
-data_file: data/mznc2019/groupsplitter/u12g2pref1.dzn
-error: "MiniZinc: internal error: out of memory\nterminate called after throwing an\
-  \ instance of 'std::bad_alloc'\n  what():  std::bad_alloc"
-model: data/mznc2019/groupsplitter/group.mzn
-problem: groupsplitter
-status: ERROR

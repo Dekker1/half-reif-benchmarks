@@ -1,2 +1,0 @@
-- {configuration: CPLEX, data_file: data/mznc2020/racp/j60_48_9_1.0.dzn, model: data/mznc2020/racp/racp.mzn,
-  problem: racp, status: UNKNOWN}

@@ -1,3 +1,0 @@
-- {configuration: CBC HR, data_file: data/mznc2020/code-generator/mips_gcc.cfgbuild.control_flow_insn_p.dzn,
-  model: data/mznc2020/code-generator/unison.mzn, problem: code-generator, status: UNSATISFIABLE,
-  time: 88.23}

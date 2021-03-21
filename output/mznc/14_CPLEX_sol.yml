@@ -1,3 +1,0 @@
-- {configuration: CPLEX, data_file: data/mznc2019/rcpsp-wet-diverse/j30_27_5-wet-diverse-4.dzn,
-  model: data/mznc2019/rcpsp-wet-diverse/rcpsp-wet-diverse.mzn, problem: rcpsp-wet-diverse,
-  status: UNKNOWN}

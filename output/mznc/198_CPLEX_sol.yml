@@ -1,2 +1,0 @@
-- {configuration: CPLEX, data_file: '', model: data/mznc2020/bnn-planner/navigation_5x5_10s.mzn,
-  problem: bnn-planner, status: UNKNOWN, time: 1200.43}
