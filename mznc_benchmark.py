@@ -14,13 +14,19 @@ schedule(
             solver=minizinc.Solver.lookup("cbc"),
             other_flags={"no-half-reifications": True, "no-chain-compression": True},
         ),
-        Configuration("CBC HR", solver=minizinc.Solver.lookup("cbc")),
+        Configuration(
+            "CBC HR",
+            solver=minizinc.Solver.lookup("cbc"),
+        ),
         Configuration(
             "CPLEX",
             solver=minizinc.Solver.lookup("cplex"),
             other_flags={"no-half-reifications": True, "no-chain-compression": True},
         ),
-        Configuration("CPLEX HR", solver=minizinc.Solver.lookup("cplex")),
+        Configuration(
+            "CPLEX HR",
+            solver=minizinc.Solver.lookup("cplex"),
+        ),
         Configuration(
             "Gecode",
             solver=minizinc.Solver.lookup("gecode"),
@@ -32,13 +38,19 @@ schedule(
             solver=minizinc.Solver.lookup("gurobi"),
             other_flags={"no-half-reifications": True, "no-chain-compression": True},
         ),
-        Configuration("Gurobi HR", solver=minizinc.Solver.lookup("gurobi")),
+        Configuration(
+            "Gurobi HR",
+            solver=minizinc.Solver.lookup("gurobi"),
+        ),
         Configuration(
             "SCIP",
             solver=minizinc.Solver.lookup("scip"),
             other_flags={"no-half-reifications": True, "no-chain-compression": True},
         ),
-        Configuration("SCIP HR", solver=minizinc.Solver.lookup("scip")),
+        Configuration(
+            "SCIP HR",
+            solver=minizinc.Solver.lookup("scip"),
+        ),
     ],
     memory=16384,
     nodelist=["critical001"],
