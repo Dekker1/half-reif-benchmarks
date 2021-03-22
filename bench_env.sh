@@ -9,7 +9,7 @@ if [ -d venv ]; then
 else
     python3 -m venv venv
     source venv/bin/activate
-    python3 -m pip install git+https://github.com/Dekker1/mzn-bench.git@fix/env_size
+    python3 -m pip install git+https://github.com/MiniZinc/mzn-bench.git
 fi
 
 # Set other environment variables and load cluster modules
