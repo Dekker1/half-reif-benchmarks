@@ -4,5 +4,5 @@
 	branch = feature/imp_globals
 [submodule "software/minizinc"]
 	path = software/minizinc
-	url = git@github.com:Dekker1/libminizinc.git
+	url = git@github.com:MiniZinc/libminizinc.git
 	branch = develop
