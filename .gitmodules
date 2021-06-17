@@ -1,8 +1,0 @@
-[submodule "software/chuffed"]
-	path = software/chuffed
-	url = git@github.com:Dekker1/chuffed.git
-	branch = feature/imp_globals
-[submodule "software/minizinc"]
-	path = software/minizinc
-	url = git@github.com:MiniZinc/libminizinc.git
-	branch = develop
